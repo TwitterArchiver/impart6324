@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1830606205720408064"
+      ],
+      "media_source_tweet_id": [
+        "1830608067815514144"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1830996703085756515",
+    "created_at": "2024-09-03T15:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T16:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830996703085756515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/my3jtphhek",
+          "end": 128,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1830608067815514144/video/1",
+          "media_key": "7_1830606205720408064",
+          "start": 105,
+          "url": "https://t.co/my3jTphHek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830996703085756515",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1613
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830608067815514144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 9月1日，赖清德在接受电视台独家专访时表示，中国想要拿下台湾不是为了领土完整，如果真的为了领土完整，现在俄罗斯是最弱的时候，中国为什么不去收回当年被俄罗斯侵占的领土呢？ https://t.co/my3jTphHek"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 184877,
+        "height": 1080,
+        "media_key": "7_1830606205720408064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1830606205720408064/pu/img/Kb6SFZ16eHLd9kd4.jpg",
+        "public_metrics": {
+          "view_count": 467300
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830606205720408064/pu/vid/avc1/480x270/W3_XDuoTrPZbucmb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830606205720408064/pu/vid/avc1/640x360/UwNiEB_U-spYReW_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830606205720408064/pu/vid/avc1/1280x720/rQMp9ZXwDqhnn13K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1830606205720408064/pu/pl/czH-xuvnDOFzyAWG.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1830606205720408064"
+          ],
+          "media_source_tweet_id": [
+            "1830608067815514144"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830996703085756515",
+        "created_at": "2024-09-03T15:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T16:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830996703085756515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/my3jtphhek",
+              "end": 128,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1830608067815514144/video/1",
+              "media_key": "7_1830606205720408064",
+              "start": 105,
+              "url": "https://t.co/my3jTphHek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830996703085756515",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830608067815514144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 9月1日，赖清德在接受电视台独家专访时表示，中国想要拿下台湾不是为了领土完整，如果真的为了领土完整，现在俄罗斯是最弱的时候，中国为什么不去收回当年被俄罗斯侵占的领土呢？ https://t.co/my3jTphHek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1830606205720408064"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830608067815514144",
+        "created_at": "2024-09-02T14:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T15:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830608067815514144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/my3jtphhek",
+              "end": 108,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1830608067815514144/video/1",
+              "media_key": "7_1830606205720408064",
+              "start": 85,
+              "url": "https://t.co/my3jTphHek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830608067815514144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1301,
+          "impression_count": 1316740,
+          "like_count": 10622,
+          "quote_count": 149,
+          "reply_count": 825,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "9月1日，赖清德在接受电视台独家专访时表示，中国想要拿下台湾不是为了领土完整，如果真的为了领土完整，现在俄罗斯是最弱的时候，中国为什么不去收回当年被俄罗斯侵占的领土呢？ https://t.co/my3jTphHek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我用的华为手机，你们发的什么我看不见，还有，境外势力你别嚣张！！！！！！！",
+        "id": "1597065444136919040",
+        "name": "又携书剑路茫茫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597065546498834432/CE0MAO6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 56,
+          "like_count": 335,
+          "listed_count": 0,
+          "tweet_count": 96
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687142,
+          "following_count": 917,
+          "like_count": 5245,
+          "listed_count": 7682,
+          "tweet_count": 22227
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

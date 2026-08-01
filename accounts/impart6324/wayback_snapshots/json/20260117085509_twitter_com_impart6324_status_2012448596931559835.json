@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012379122140606949",
+    "created_at": "2026-01-17T08:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012448596931559835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012448596931559835",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012379122140606949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 好死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1622,
+        "media_key": "3_2012379119473012736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1oJamaMAA0oLP.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012379122140606949",
+        "created_at": "2026-01-17T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012448596931559835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012448596931559835",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012379122140606949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 好死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012379119473012736"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2012379122140606949",
+        "created_at": "2026-01-17T04:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012379122140606949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65SQGSc67f",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2012379122140606949/photo/1",
+              "media_key": "3_2012379119473012736",
+              "start": 0,
+              "url": "https://t.co/65SQGSc67f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012379122140606949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 49371,
+          "like_count": 2425,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/65SQGSc67f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 324,
+          "like_count": 5988,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 909
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "亲爱的娜塔莎，当弹片穿过我的身体，我想起的是西伯利亚的寒风和你的眼睛。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "HIS HEART",
+        "name": "まりん",
+        "pinned_tweet_id": "2011082512999858275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011846547357777923/79zd_F7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 2283,
+          "like_count": 32852,
+          "listed_count": 4,
+          "media_count": 1205,
+          "tweet_count": 15134
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

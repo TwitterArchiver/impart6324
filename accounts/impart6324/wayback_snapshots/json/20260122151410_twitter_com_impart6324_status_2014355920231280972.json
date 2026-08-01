@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014339455692472349",
+    "created_at": "2026-01-22T15:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014355920231280972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676626940802007040",
+          "start": 0,
+          "username": "cat_redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014355920231280972",
+    "in_reply_to_user_id": "1676626940802007040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014355815457759399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat_redemption 就回一个字？你看今晚不打死你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014339455692472349",
+        "created_at": "2026-01-22T15:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014355920231280972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676626940802007040",
+              "start": 0,
+              "username": "cat_redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014355920231280972",
+        "in_reply_to_user_id": "1676626940802007040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014355815457759399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat_redemption 就回一个字？你看今晚不打死你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676626940802007040",
+        "conversation_id": "2014339455692472349",
+        "created_at": "2026-01-22T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014355815457759399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014355815457759399",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014354429831434666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 嗯，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 334,
+          "like_count": 6475,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1034
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:20:02.000Z",
+        "description": "=あみ   中国人｜病み垢/自撮り垢🙇‍♀️",
+        "id": "1676626940802007040",
+        "name": "aminano_da",
+        "pinned_tweet_id": "2007798909046042673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855274958412226560/1_zCS5Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 660,
+          "like_count": 16187,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 1763
+        },
+        "username": "cat_redemption",
+        "verified": false
+      }
+    ]
+  }
+}

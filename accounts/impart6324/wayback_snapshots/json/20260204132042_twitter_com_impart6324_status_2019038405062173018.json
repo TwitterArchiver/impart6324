@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019034291280449946",
+    "created_at": "2026-02-04T13:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019038405062173018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842096170107338754",
+          "start": 0,
+          "username": "hotjellyfishnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019038405062173018",
+    "in_reply_to_user_id": "1842096170107338754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019034291280449946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotjellyfishnya 老婆主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15133,
+        "height": 1280,
+        "media_key": "13_2019034211676819456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019034211676819456/img/yw5meASt5w3c5wJF.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019034211676819456/vid/avc1/320x568/Hb2ZmcCjkdO_8CP7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019034211676819456/vid/avc1/480x852/5RwD_n35PWVcL5GA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019034211676819456/vid/avc1/720x1280/DNoY_wGW1osFKAl4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019034211676819456/pl/X_9bjoLI3q6EVIyr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019034291280449946",
+        "created_at": "2026-02-04T13:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019038405062173018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842096170107338754",
+              "start": 0,
+              "username": "hotjellyfishnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019038405062173018",
+        "in_reply_to_user_id": "1842096170107338754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019034291280449946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotjellyfishnya 老婆主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019034211676819456"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "2019034291280449946",
+        "created_at": "2026-02-04T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019034291280449946"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "蕾姆"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RDiPuQkQn",
+              "end": 43,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2019034291280449946/video/1",
+              "media_key": "13_2019034211676819456",
+              "start": 20,
+              "url": "https://t.co/8RDiPuQkQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019034291280449946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人 来看我试衣服\n#蕾姆 #cos https://t.co/8RDiPuQkQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 367,
+          "like_count": 7635,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1353
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "珍惜每个喜欢我的人 | 172/47 | 日本留学| 中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "name": "火热的小水母",
+        "pinned_tweet_id": "1978386997711343794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 312,
+          "like_count": 969,
+          "listed_count": 17,
+          "media_count": 123,
+          "tweet_count": 298
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

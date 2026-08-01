@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029276020772421632"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029276030314397820",
+    "created_at": "2026-03-04T19:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T20:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029276030314397820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ChmftXL1vf",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2029276030314397820/photo/1",
+          "media_key": "3_2029276020772421632",
+          "start": 0,
+          "url": "https://t.co/ChmftXL1vf"
+        },
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/dqadopt/status/2028788136126665108",
+          "start": 24,
+          "url": "https://t.co/GkQUyPpwH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029276030314397820",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028788136126665108",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/ChmftXL1vf https://t.co/GkQUyPpwH0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2029276020772421632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClvyhFbwAApxdH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029276020772421632"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029276030314397820",
+        "created_at": "2026-03-04T19:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029276030314397820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChmftXL1vf",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2029276030314397820/photo/1",
+              "media_key": "3_2029276020772421632",
+              "start": 0,
+              "url": "https://t.co/ChmftXL1vf"
+            },
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dqadopt/status/2028788136126665108",
+              "start": 24,
+              "url": "https://t.co/GkQUyPpwH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029276030314397820",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028788136126665108",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ChmftXL1vf https://t.co/GkQUyPpwH0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028788136126665108",
+        "created_at": "2026-03-03T11:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028788136126665108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028788136126665108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 464004,
+          "like_count": 1396,
+          "quote_count": 7,
+          "reply_count": 92,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "刷推特刷到前女友了，她还是那么暴露癖，主页全是她的身体和被操到哭的视频，和炮友，和我一样还是短发t，好恶心啊感觉目眩神迷了，我真的越来越恶心过往的情感了，所以她可能也会刷到我吧，会嘲笑我吗，我依旧爱而不得，依旧痛苦，依旧求生不得求死不能\n想自残了，恨意越来越张扬了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 449,
+          "like_count": 10481,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 173,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

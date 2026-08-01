@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1986252345316155803",
+    "created_at": "2026-01-16T01:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T02:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011980154114097505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945764130981576704",
+          "start": 0,
+          "username": "Dwen0012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011980154114097505",
+    "in_reply_to_user_id": "1945764130981576704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986252345316155803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dwen0012 我20多就出了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_1986252341327417344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CV-xcb0AAQeJ-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1986252345316155803",
+        "created_at": "2026-01-16T01:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T02:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011980154114097505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945764130981576704",
+              "start": 0,
+              "username": "Dwen0012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011980154114097505",
+        "in_reply_to_user_id": "1945764130981576704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986252345316155803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dwen0012 我20多就出了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986252341327417344"
+          ]
+        },
+        "author_id": "1945764130981576704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986252345316155803",
+        "created_at": "2025-11-06T02:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986252345316155803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWXbfkohDm",
+              "end": 33,
+              "expanded_url": "https://x.com/Dwen0012/status/1986252345316155803/photo/1",
+              "media_key": "3_1986252341327417344",
+              "start": 10,
+              "url": "https://t.co/hWXbfkohDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986252345316155803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是 大保底 嗯 https://t.co/hWXbfkohDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 311,
+          "like_count": 5770,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 860
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T08:35:04.000Z",
+        "description": "",
+        "id": "1945764130981576704",
+        "location": "🌑",
+        "name": "nywin",
+        "pinned_tweet_id": "1985251653893914881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010245692485509120/SKvLyAMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 38,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 124
+        },
+        "username": "Dwen0012",
+        "verified": false
+      }
+    ]
+  }
+}

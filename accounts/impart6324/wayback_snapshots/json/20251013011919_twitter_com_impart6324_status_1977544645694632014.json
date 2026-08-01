@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1977233974515974302",
+    "created_at": "2025-10-13T01:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T02:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977544645694632014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1340940894422196225",
+          "start": 0,
+          "username": "Dddgjs05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977544645694632014",
+    "in_reply_to_user_id": "1340940894422196225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977236834523791859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dddgjs05 兄弟太勇敢了我日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1977233974515974302",
+        "created_at": "2025-10-13T01:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T02:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977544645694632014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1340940894422196225",
+              "start": 0,
+              "username": "Dddgjs05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977544645694632014",
+        "in_reply_to_user_id": "1340940894422196225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977236834523791859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dddgjs05 兄弟太勇敢了我日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340940894422196225",
+        "conversation_id": "1977233974515974302",
+        "created_at": "2025-10-12T04:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977236834523791859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977236834523791859",
+        "in_reply_to_user_id": "1340940894422196225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977233974515974302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我提出对事不对人的两个观点：第一，女同个体普遍厌男仇男（普遍≠每个都是，“中国人普遍吃大米”没有否定中国人也有吃面条包子）。第二，女同群体内部厌男仇男是大方向（术语：通过“回音室效应”制造“话语同温层”和“沉默螺旋”，来强化群体内部强烈的排他性身份认同）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "",
+        "id": "1597065444136919040",
+        "location": "m",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 129,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-21T08:43:46.000Z",
+        "description": "不管你信不信，我就是一只巨乖的大喵喵！(๑‾ ꇴ ‾๑)愿意在相互尊重且客观公正的基础上接受不同的观点，Ich lerne deutsche，Dankbar für jede Hilfe！🙏求你去祸害隔壁建行吧🙏🏻",
+        "id": "1340940894422196225",
+        "location": "People's Republic of China",
+        "name": "巨乖喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588455034551164929/5-zCVW71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 120,
+          "like_count": 14544,
+          "listed_count": 5,
+          "media_count": 702,
+          "tweet_count": 12315
+        },
+        "username": "Dddgjs05",
+        "verified": false
+      }
+    ]
+  }
+}

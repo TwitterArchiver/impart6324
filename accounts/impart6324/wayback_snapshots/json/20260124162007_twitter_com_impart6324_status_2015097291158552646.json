@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015097180013600768"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015097291158552646",
+    "created_at": "2026-01-24T16:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015097291158552646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZzVWxRwEJi",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2015097291158552646/video/1",
+          "media_key": "13_2015097180013600768",
+          "start": 9,
+          "url": "https://t.co/ZzVWxRwEJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015097291158552646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来滥交狗圣地了 https://t.co/ZzVWxRwEJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7946,
+        "height": 1280,
+        "media_key": "13_2015097180013600768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015097180013600768/img/j8qhjtl0QyG8ERAS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015097180013600768/vid/avc1/320x690/FGVva_7Lfy4IwLch.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015097180013600768/vid/avc1/480x1036/Y1qz1H2d6xZRKAdX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015097180013600768/vid/avc1/592x1280/z2omLgqwtlm_pxHD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015097180013600768/pl/TONMue8mSxut9Tjc.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015097180013600768"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015097291158552646",
+        "created_at": "2026-01-24T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015097291158552646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzVWxRwEJi",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2015097291158552646/video/1",
+              "media_key": "13_2015097180013600768",
+              "start": 9,
+              "url": "https://t.co/ZzVWxRwEJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015097291158552646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来滥交狗圣地了 https://t.co/ZzVWxRwEJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 337,
+          "like_count": 6591,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1082
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

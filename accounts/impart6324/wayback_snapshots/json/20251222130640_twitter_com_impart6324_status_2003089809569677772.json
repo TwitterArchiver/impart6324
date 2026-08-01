@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003089738543063041"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2003089809569677772",
+    "created_at": "2025-12-22T13:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003089809569677772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oiUCvRLUNM",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2003089809569677772/video/1",
+          "media_key": "13_2003089738543063041",
+          "start": 6,
+          "url": "https://t.co/oiUCvRLUNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003089809569677772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "南京我来了 https://t.co/oiUCvRLUNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6466,
+        "height": 960,
+        "media_key": "13_2003089738543063041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003089738543063041/img/EC3Gk80uvDNfmPEj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003089738543063041/vid/avc1/320x564/k3MSiN1C22VSZoLR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003089738543063041/vid/avc1/480x846/PuhcoWbsGQy-bmkc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003089738543063041/vid/avc1/544x960/wuoPDu0fj-mxZwVQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003089738543063041/pl/h1aZvurtbEWmi6oq.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003089738543063041"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2003089809569677772",
+        "created_at": "2025-12-22T13:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003089809569677772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiUCvRLUNM",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2003089809569677772/video/1",
+              "media_key": "13_2003089738543063041",
+              "start": 6,
+              "url": "https://t.co/oiUCvRLUNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003089809569677772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南京我来了 https://t.co/oiUCvRLUNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 228,
+          "like_count": 3423,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 481
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

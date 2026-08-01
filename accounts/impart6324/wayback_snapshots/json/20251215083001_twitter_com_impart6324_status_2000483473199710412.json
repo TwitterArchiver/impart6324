@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2000483473199710412",
+    "created_at": "2025-12-15T08:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000483473199710412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quitewaterqwq/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/quitewaterqwq/status/2000236482121117935",
+          "start": 4,
+          "url": "https://t.co/ZBHmcphakV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000483473199710412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000236482121117935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃呃 https://t.co/ZBHmcphakV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000236479084425216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JEeuKa8AALot7.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2000483473199710412",
+        "created_at": "2025-12-15T08:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000483473199710412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quitewaterqwq/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/quitewaterqwq/status/2000236482121117935",
+              "start": 4,
+              "url": "https://t.co/ZBHmcphakV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000483473199710412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000236482121117935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃 https://t.co/ZBHmcphakV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000236479084425216"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000236482121117935",
+        "created_at": "2025-12-14T16:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000236482121117935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YuDHlUtjME",
+              "end": 29,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/2000236482121117935/photo/1",
+              "media_key": "3_2000236479084425216",
+              "start": 6,
+              "url": "https://t.co/YuDHlUtjME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000236482121117935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 390987,
+          "like_count": 1327,
+          "quote_count": 17,
+          "reply_count": 98,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我心里难受 https://t.co/YuDHlUtjME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 224,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 479
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "已退推|推荐关注朋友👉@elp15_ @hajixi12356 @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "elp15_"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "wusweet_i"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1947285390538236348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 959,
+          "like_count": 7147,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3896
+        },
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

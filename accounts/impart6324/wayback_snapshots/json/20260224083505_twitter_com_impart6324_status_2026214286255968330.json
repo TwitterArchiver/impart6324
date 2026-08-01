@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026214286255968330",
+    "created_at": "2026-02-24T08:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026214286255968330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Pluviophile’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pJkO…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1pJkOyOrRvBJj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2026214287648362496/Pfp6rnSv?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2026214287648362496/Pfp6rnSv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 男的死了",
+          "unwound_url": "https://twitter.com/i/spaces/1pJkOyOrRvBJj/peek",
+          "url": "https://t.co/vdHdcyr0cB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026214286255968330",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vdHdcyr0cB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026214286255968330",
+        "created_at": "2026-02-24T08:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026214286255968330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pluviophile’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pJkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pJkOyOrRvBJj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2026214287648362496/Pfp6rnSv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026214287648362496/Pfp6rnSv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 男的死了",
+              "unwound_url": "https://twitter.com/i/spaces/1pJkOyOrRvBJj/peek",
+              "url": "https://t.co/vdHdcyr0cB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026214286255968330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vdHdcyr0cB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 414,
+          "like_count": 9018,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

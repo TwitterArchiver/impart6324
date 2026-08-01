@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016145175115145343",
+    "created_at": "2026-01-28T04:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T05:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016370685669773511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997893175164506112",
+          "start": 0,
+          "username": "ak47russ44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016370685669773511",
+    "in_reply_to_user_id": "1997893175164506112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016145175115145343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ak47russ44 我就这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28328,
+        "height": 1280,
+        "media_key": "13_2016145130559025152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016145130559025152/img/dy3p0UrW_FT-aF1f.jpg",
+        "public_metrics": {
+          "view_count": 331091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016145130559025152/vid/avc1/320x568/c26jYFJwJiC12jQn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016145130559025152/vid/avc1/480x852/pzZFch8EG1JLDaqq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016145130559025152/vid/avc1/720x1280/nU4NHmVgTuWHxxn_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016145130559025152/pl/bN99xclZEh6r4pJm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016145175115145343",
+        "created_at": "2026-01-28T04:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016370685669773511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997893175164506112",
+              "start": 0,
+              "username": "ak47russ44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016370685669773511",
+        "in_reply_to_user_id": "1997893175164506112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016145175115145343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak47russ44 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016145130559025152"
+          ]
+        },
+        "author_id": "1997893175164506112",
+        "conversation_id": "2016145175115145343",
+        "created_at": "2026-01-27T13:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016145175115145343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnhILs2rr0",
+              "end": 23,
+              "expanded_url": "https://x.com/ak47russ44/status/2016145175115145343/video/1",
+              "media_key": "13_2016145130559025152",
+              "start": 0,
+              "url": "https://t.co/EnhILs2rr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016145175115145343",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 835,
+          "impression_count": 314668,
+          "like_count": 2999,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EnhILs2rr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 6965,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1216
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T04:57:26.000Z",
+        "description": "President of Russian Basketball Federation, FIBA central board member, motivational speaker,father of four kids.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buff.ly/E1DJqBt",
+                "end": 23,
+                "expanded_url": "https://buff.ly/E1DJqBt",
+                "start": 0,
+                "url": "https://t.co/mq3uhDEKQA"
+              }
+            ]
+          }
+        },
+        "id": "1997893175164506112",
+        "name": "Andrey Kirilenko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001672683604652032/R1eUhW4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 20,
+          "like_count": 5,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/mq3uhDEKQA",
+        "username": "ak47russ44",
+        "verified": false
+      }
+    ]
+  }
+}

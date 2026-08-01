@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999786407678910666",
+    "created_at": "2025-12-13T12:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999814063786950831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999814063786950831",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999797641367142676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 高情商啊 其实是因为头发太长了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999786407678910666",
+        "created_at": "2025-12-13T12:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999814063786950831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999814063786950831",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999797641367142676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 高情商啊 其实是因为头发太长了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958896241158299650",
+        "conversation_id": "1999786407678910666",
+        "created_at": "2025-12-13T11:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999797641367142676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999797641367142676",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999786407678910666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 说明你很漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 226,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 472
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "实体变成了尸体 尸体就有了实体",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "1996403890846322975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996151350724628480/mGdBHirj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 117,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 442
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

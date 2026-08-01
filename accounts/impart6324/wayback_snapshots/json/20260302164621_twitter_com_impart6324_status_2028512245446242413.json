@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028505831143326099",
+    "created_at": "2026-03-02T16:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028512245446242413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028512245446242413",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028511164863508755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 我是🐺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028505831143326099",
+        "created_at": "2026-03-02T16:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028512245446242413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028512245446242413",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028511164863508755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 我是🐺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987868389709422593",
+        "conversation_id": "2028505831143326099",
+        "created_at": "2026-03-02T16:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028511164863508755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028511164863508755",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028505831143326099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 大狗狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 429,
+          "like_count": 10030,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 生理男心理60 ​%男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  | INFP | | 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | 来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "id": "1987868389709422593",
+        "location": "35cm",
+        "name": "人間が好き",
+        "pinned_tweet_id": "2027467659605102966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 80,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 601
+        },
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}

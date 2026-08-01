@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027031179367690394",
+    "created_at": "2026-02-26T14:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027031671699345490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027031671699345490",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027031507626606931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 这尼玛全不是一个发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027031179367690394",
+        "created_at": "2026-02-26T14:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027031671699345490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027031671699345490",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027031507626606931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 这尼玛全不是一个发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "conversation_id": "2027031179367690394",
+        "created_at": "2026-02-26T14:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027031507626606931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027031507626606931",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027031179367690394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 还好我够闲，可以一个一个封锁检举"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 416,
+          "like_count": 9302,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗",
+        "id": "1724557026867781632",
+        "name": "你坐到我尾巴了",
+        "pinned_tweet_id": "2025945356928987257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022118727941308416/8EVYn_tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 216
+        },
+        "username": "Peacock166",
+        "verified": false
+      }
+    ]
+  }
+}

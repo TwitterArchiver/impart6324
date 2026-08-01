@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019069808910758122",
+    "created_at": "2026-02-04T15:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019069808910758122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hudi4935/statu…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/hudi4935/status/2018825647221596669",
+          "start": 138,
+          "url": "https://t.co/0f0ytO7THQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019069808910758122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018825647221596669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个月赚了十万……朋友圈不敢发，只能发这里。我做梦都不敢想的事就这么实实在在地发生了。以前以为突然有钱了会狠狠消费一笔，闭眼入自己想要的东西。但当财富真正来临时我却很理智，没有想象中的大手大脚。当初取“闷声发大财”这个id处于贫困时期，想用个好词讨个好彩头，没想到真的实现了。 https://t.co/0f0ytO7THQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019069808910758122",
+        "created_at": "2026-02-04T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019069808910758122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hudi4935/statu…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/hudi4935/status/2018825647221596669",
+              "start": 138,
+              "url": "https://t.co/0f0ytO7THQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019069808910758122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018825647221596669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个月赚了十万……朋友圈不敢发，只能发这里。我做梦都不敢想的事就这么实实在在地发生了。以前以为突然有钱了会狠狠消费一笔，闭眼入自己想要的东西。但当财富真正来临时我却很理智，没有想象中的大手大脚。当初取“闷声发大财”这个id处于贫困时期，想用个好词讨个好彩头，没想到真的实现了。 https://t.co/0f0ytO7THQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248652509725351936",
+        "conversation_id": "2018825647221596669",
+        "created_at": "2026-02-03T23:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T00:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018825647221596669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018825647221596669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 267114,
+          "like_count": 885,
+          "quote_count": 4,
+          "reply_count": 188,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "两个月赚了十万……朋友圈不敢发，只能发这里。我做梦都不敢想的事就这么实实在在地发生了。以前以为突然有钱了会狠狠消费一笔，闭眼入自己想要的东西。但当财富真正来临时我却很理智，没有想象中的大手大脚。当初取“闷声发大财”这个id处于贫困时期，想用个好词讨个好彩头，没想到真的实现了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 368,
+          "like_count": 7682,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T16:42:26.000Z",
+        "description": "lesbian",
+        "id": "1248652509725351936",
+        "name": "闷声发大财",
+        "pinned_tweet_id": "1695841548490129861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641615838175277056/Fe2ekuWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1070,
+          "like_count": 24905,
+          "listed_count": 4,
+          "media_count": 566,
+          "tweet_count": 6221
+        },
+        "username": "hudi4935",
+        "verified": false
+      }
+    ]
+  }
+}

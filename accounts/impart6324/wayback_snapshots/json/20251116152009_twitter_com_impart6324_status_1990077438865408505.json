@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1990076944419840040",
+    "created_at": "2025-11-16T15:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990077438865408505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828103801867300866",
+          "start": 0,
+          "username": "mylove0255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990077438865408505",
+    "in_reply_to_user_id": "1828103801867300866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990076944419840040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylove0255 我喜欢你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1990076944419840040",
+        "created_at": "2025-11-16T15:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990077438865408505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828103801867300866",
+              "start": 0,
+              "username": "mylove0255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990077438865408505",
+        "in_reply_to_user_id": "1828103801867300866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990076944419840040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylove0255 我喜欢你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828103801867300866",
+        "conversation_id": "1990076944419840040",
+        "created_at": "2025-11-16T15:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990076944419840040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990076944419840040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们喜欢我，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1989711690615939511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 362,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 204
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T16:14:54.000Z",
+        "description": "09 加工廚 互fo 弥补生活上的痛苦只有钱和恋爱",
+        "id": "1828103801867300866",
+        "location": "如果你觉得我是什么就是什么吧",
+        "name": "米梨子",
+        "pinned_tweet_id": "1981774903000133976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983568883752574980/do000XNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 102,
+          "like_count": 1839,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 885
+        },
+        "username": "mylove0255",
+        "verified": false
+      }
+    ]
+  }
+}

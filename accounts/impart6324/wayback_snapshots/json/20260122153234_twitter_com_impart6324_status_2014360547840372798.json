@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013880696104685638",
+    "created_at": "2026-01-22T15:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014360547840372798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899659207407980544",
+          "start": 0,
+          "username": "Just4GayXXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014360547840372798",
+    "in_reply_to_user_id": "1899659207407980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013880696104685638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Just4GayXXX 真几把没素质"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17033,
+        "height": 1718,
+        "media_key": "7_2013880636029681665",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013880636029681665/pu/img/zQ7kFwVTwU2_Ez6s.jpg",
+        "public_metrics": {
+          "view_count": 28734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013880636029681665/pu/vid/avc1/320x508/ptplMinuxT0W_QUv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013880636029681665/pu/vid/avc1/480x762/e6cbb1H0PQqlX8Ow.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013880636029681665/pu/vid/avc1/720x1144/lascwGhO4_EDLw05.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013880636029681665/pu/pl/aKZLbDjflnEbk4Q0.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013880696104685638",
+        "created_at": "2026-01-22T15:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014360547840372798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899659207407980544",
+              "start": 0,
+              "username": "Just4GayXXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014360547840372798",
+        "in_reply_to_user_id": "1899659207407980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013880696104685638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Just4GayXXX 真几把没素质"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013880636029681665"
+          ]
+        },
+        "author_id": "1899659207407980544",
+        "conversation_id": "2013880696104685638",
+        "created_at": "2026-01-21T07:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013880696104685638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMu4dvdsam",
+              "end": 93,
+              "expanded_url": "https://x.com/Just4GayXXX/status/2013880696104685638/video/1",
+              "media_key": "7_2013880636029681665",
+              "start": 70,
+              "url": "https://t.co/vMu4dvdsam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013880696104685638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 29608,
+          "like_count": 821,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "射到爽，射到厕所到处都是精液...\nRuined the toilet, cum is everywhere...what a shot! https://t.co/vMu4dvdsam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 334,
+          "like_count": 6475,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1036
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T03:10:49.000Z",
+        "description": "公务机飞行员✈️，经常出入各大城市。可以玩以下项目：拳交，足交，导尿，马眼棒，刑讯，强摄，控射。",
+        "id": "1899659207407980544",
+        "location": "Central Region, Singapore",
+        "name": "拳能机长",
+        "pinned_tweet_id": "2013792433415299578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014268772811681792/uUH_vOVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21876,
+          "following_count": 10,
+          "like_count": 70,
+          "listed_count": 53,
+          "media_count": 853,
+          "tweet_count": 878
+        },
+        "username": "Just4GayXXX",
+        "verified": false
+      }
+    ]
+  }
+}

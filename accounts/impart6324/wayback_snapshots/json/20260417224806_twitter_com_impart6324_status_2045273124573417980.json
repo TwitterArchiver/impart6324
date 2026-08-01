@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045273115887087616",
+        "3_2045273115887087617",
+        "3_2045273115954180096",
+        "3_2045273115891220480"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2045273124573417980",
+    "created_at": "2026-04-17T22:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045273124573417980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhKptE9VGi",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+          "media_key": "3_2045273115887087616",
+          "start": 0,
+          "url": "https://t.co/rhKptE9VGi"
+        },
+        {
+          "display_url": "pic.x.com/rhKptE9VGi",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+          "media_key": "3_2045273115887087617",
+          "start": 0,
+          "url": "https://t.co/rhKptE9VGi"
+        },
+        {
+          "display_url": "pic.x.com/rhKptE9VGi",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+          "media_key": "3_2045273115954180096",
+          "start": 0,
+          "url": "https://t.co/rhKptE9VGi"
+        },
+        {
+          "display_url": "pic.x.com/rhKptE9VGi",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+          "media_key": "3_2045273115891220480",
+          "start": 0,
+          "url": "https://t.co/rhKptE9VGi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045273124573417980",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/rhKptE9VGi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2045273115887087616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJFEAUbMAAaS0v.jpg",
+        "width": 1179
+      },
+      {
+        "height": 860,
+        "media_key": "3_2045273115887087617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJFEAUbMAEt-ur.jpg",
+        "width": 1041
+      },
+      {
+        "height": 877,
+        "media_key": "3_2045273115954180096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJFEAka8AARCBX.jpg",
+        "width": 1119
+      },
+      {
+        "height": 838,
+        "media_key": "3_2045273115891220480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJFEAVaQAAqs2d.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045273115887087616",
+            "3_2045273115887087617",
+            "3_2045273115954180096",
+            "3_2045273115891220480"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2045273124573417980",
+        "created_at": "2026-04-17T22:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045273124573417980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhKptE9VGi",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+              "media_key": "3_2045273115887087616",
+              "start": 0,
+              "url": "https://t.co/rhKptE9VGi"
+            },
+            {
+              "display_url": "pic.x.com/rhKptE9VGi",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+              "media_key": "3_2045273115887087617",
+              "start": 0,
+              "url": "https://t.co/rhKptE9VGi"
+            },
+            {
+              "display_url": "pic.x.com/rhKptE9VGi",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+              "media_key": "3_2045273115954180096",
+              "start": 0,
+              "url": "https://t.co/rhKptE9VGi"
+            },
+            {
+              "display_url": "pic.x.com/rhKptE9VGi",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2045273124573417980/photo/1",
+              "media_key": "3_2045273115891220480",
+              "start": 0,
+              "url": "https://t.co/rhKptE9VGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045273124573417980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rhKptE9VGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2044693358887727613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1258,
+          "like_count": 11499,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

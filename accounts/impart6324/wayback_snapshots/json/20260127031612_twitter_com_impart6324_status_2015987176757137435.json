@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015726951931994152",
+    "created_at": "2026-01-27T03:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015987176757137435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015987176757137435",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015726951931994152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 我不配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015726951931994152",
+        "created_at": "2026-01-27T03:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015987176757137435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015987176757137435",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015726951931994152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 我不配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800360057135104",
+        "conversation_id": "2015726951931994152",
+        "created_at": "2026-01-26T10:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015726951931994152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015726951931994152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2333,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很想很想很想要正常的恋爱。我觉得我不配。而且我觉得会很累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 346,
+          "like_count": 6791,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1175
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "我说什么就是什么。",
+        "id": "2007800360057135104",
+        "location": "我喜欢美乐蒂",
+        "name": "草莓蛋糕",
+        "pinned_tweet_id": "2012556683944284197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013256970916995073/UnL45odf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 72,
+          "like_count": 1694,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 354
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016888476978073666",
+    "created_at": "2026-01-30T02:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017060235870167163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017060235870167163",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016888476978073666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 已引起民愤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016888476978073666",
+        "created_at": "2026-01-30T02:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017060235870167163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017060235870167163",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016888476978073666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 已引起民愤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2016888476978073666",
+        "created_at": "2026-01-29T14:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016888476978073666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yummyprprpr/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/yummyprprpr/status/2016827721712574844",
+              "start": 63,
+              "url": "https://t.co/BdLU5ZAeVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016888476978073666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016827721712574844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋又知道别人没做好养小动物的准备了🤭现在推特咋连碎碎念都不能发了还要被别人引用阴阳，果然上网还是不能要求其他人的智商都在线啊 https://t.co/BdLU5ZAeVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 350,
+          "like_count": 6999,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1231
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5818,
+          "following_count": 835,
+          "like_count": 18488,
+          "listed_count": 19,
+          "media_count": 978,
+          "tweet_count": 14356
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

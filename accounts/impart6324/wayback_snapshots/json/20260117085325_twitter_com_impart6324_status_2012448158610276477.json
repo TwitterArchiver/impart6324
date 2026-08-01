@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012389674623316124",
+    "created_at": "2026-01-17T08:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012448158610276477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938335923587973120",
+          "start": 0,
+          "username": "inKhJ5dke532638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012448158610276477",
+    "in_reply_to_user_id": "1938335923587973120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012389674623316124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inKhJ5dke532638 这人死全家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012389674623316124",
+        "created_at": "2026-01-17T08:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012448158610276477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938335923587973120",
+              "start": 0,
+              "username": "inKhJ5dke532638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012448158610276477",
+        "in_reply_to_user_id": "1938335923587973120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012389674623316124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inKhJ5dke532638 这人死全家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938335923587973120",
+        "conversation_id": "2012389674623316124",
+        "created_at": "2026-01-17T05:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012389674623316124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012389674623316124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人还是舍不得他的账号啊🌚大网红这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 324,
+          "like_count": 5988,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 909
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有🚪52/88 好友位 过门啥也没有别想了@Austinblue90845",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "Austinblue90845"
+              }
+            ]
+          }
+        },
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "pinned_tweet_id": "1952084171851239880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960430951605133315/cvphLfw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 231,
+          "like_count": 2420,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1864
+        },
+        "username": "inKhJ5dke532638",
+        "verified": false
+      }
+    ]
+  }
+}

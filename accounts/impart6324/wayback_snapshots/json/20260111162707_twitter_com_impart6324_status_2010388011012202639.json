@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010282975162925331",
+    "created_at": "2026-01-11T16:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010388011012202639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008667957866754048",
+          "start": 0,
+          "username": "FABnakanai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010388011012202639",
+    "in_reply_to_user_id": "2008667957866754048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010282975162925331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FABnakanai 靠嫩娘的两个傻逼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010282975162925331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010282975162925331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010282975162925331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010282975162925331",
+        "created_at": "2026-01-11T16:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010388011012202639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008667957866754048",
+              "start": 0,
+              "username": "FABnakanai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010388011012202639",
+        "in_reply_to_user_id": "2008667957866754048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010282975162925331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FABnakanai 靠嫩娘的两个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不看了再见 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 291,
+          "like_count": 5417,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 698
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T22:32:23.000Z",
+        "description": "見つけるな！こんな姿は君にみられたくない",
+        "id": "2008667957866754048",
+        "location": "れいん好き",
+        "name": "反動少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008697079833726976/Szr5tzC1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "FABnakanai",
+        "verified": false
+      }
+    ]
+  }
+}

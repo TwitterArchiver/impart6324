@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002754421126840320"
+      ],
+      "media_source_tweet_id": [
+        "2002906939601400222"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003026194418311598",
+    "created_at": "2025-12-22T08:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T09:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003026194418311598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxmtN1TJp6",
+          "end": 35,
+          "expanded_url": "https://x.com/BI3BXI/status/2002906939601400222/photo/1",
+          "media_key": "3_2002754421126840320",
+          "start": 12,
+          "url": "https://t.co/UxmtN1TJp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003026194418311598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002906939601400222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: https://t.co/UxmtN1TJp6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2002754421126840320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8s2iPObwAAjCkf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002754421126840320"
+          ],
+          "media_source_tweet_id": [
+            "2002906939601400222"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003026194418311598",
+        "created_at": "2025-12-22T08:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003026194418311598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxmtN1TJp6",
+              "end": 35,
+              "expanded_url": "https://x.com/BI3BXI/status/2002906939601400222/photo/1",
+              "media_key": "3_2002754421126840320",
+              "start": 12,
+              "url": "https://t.co/UxmtN1TJp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003026194418311598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002906939601400222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: https://t.co/UxmtN1TJp6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002754421126840320"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002906939601400222",
+        "created_at": "2025-12-22T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002906939601400222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxmtN1TJp6",
+              "end": 23,
+              "expanded_url": "https://x.com/BI3BXI/status/2002906939601400222/photo/1",
+              "media_key": "3_2002754421126840320",
+              "start": 0,
+              "url": "https://t.co/UxmtN1TJp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002906939601400222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10618,
+          "like_count": 296,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UxmtN1TJp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 228,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 475
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "AI/ML在读｜实习律师｜前世 @ryq59｜里垢@TabeWang｜Powered by @tonghua245 @mimilinkeyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 16,
+                "username": "ryq59"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "TabeWang"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "tonghua245"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "mimilinkeyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 2960,
+          "like_count": 28194,
+          "listed_count": 14,
+          "media_count": 871,
+          "tweet_count": 4747
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

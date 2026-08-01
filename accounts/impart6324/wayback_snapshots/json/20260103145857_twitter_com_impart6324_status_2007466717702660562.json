@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007114993397874689"
+      ],
+      "media_source_tweet_id": [
+        "2007115061845016921"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007466717702660562",
+    "created_at": "2026-01-03T14:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007466717702660562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1099082900056739840",
+          "start": 3,
+          "username": "ExtremeBlitz__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bu5O9DP7ew",
+          "end": 43,
+          "expanded_url": "https://x.com/ExtremeBlitz__/status/2007115061845016921/video/1",
+          "media_key": "13_2007114993397874689",
+          "start": 20,
+          "url": "https://t.co/bu5O9DP7ew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007466717702660562",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007115061845016921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ExtremeBlitz__: https://t.co/bu5O9DP7ew"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13066,
+        "height": 1058,
+        "media_key": "13_2007114993397874689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007114993397874689/img/2g3OioYFilxHLchN.jpg",
+        "public_metrics": {
+          "view_count": 281611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/734x720/V8v5nC996zTEdWeL.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/274x270/6tJv7akkbL-VnoP7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/pl/NmKzGxpZ0JJiAC_i.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/1080x1058/6NHJbsflZh2UQiZA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/366x360/Ot71QLkpVqhZ9gWD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007114993397874689"
+          ],
+          "media_source_tweet_id": [
+            "2007115061845016921"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007466717702660562",
+        "created_at": "2026-01-03T14:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007466717702660562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1099082900056739840",
+              "start": 3,
+              "username": "ExtremeBlitz__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bu5O9DP7ew",
+              "end": 43,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/2007115061845016921/video/1",
+              "media_key": "13_2007114993397874689",
+              "start": 20,
+              "url": "https://t.co/bu5O9DP7ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007466717702660562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007115061845016921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ExtremeBlitz__: https://t.co/bu5O9DP7ew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007114993397874689"
+          ]
+        },
+        "author_id": "1099082900056739840",
+        "conversation_id": "2007115061845016921",
+        "created_at": "2026-01-02T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007115061845016921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bu5O9DP7ew",
+              "end": 23,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/2007115061845016921/video/1",
+              "media_key": "13_2007114993397874689",
+              "start": 0,
+              "url": "https://t.co/bu5O9DP7ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007115061845016921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1916,
+          "impression_count": 728055,
+          "like_count": 44295,
+          "quote_count": 622,
+          "reply_count": 122,
+          "retweet_count": 9544
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bu5O9DP7ew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 263,
+          "like_count": 4724,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 709
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T23:05:58.000Z",
+        "description": "real",
+        "id": "1099082900056739840",
+        "name": "duck",
+        "pinned_tweet_id": "1941142720732594562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705880241531502592/7pn9NVaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425902,
+          "following_count": 573,
+          "like_count": 16699,
+          "listed_count": 575,
+          "media_count": 4763,
+          "tweet_count": 8152
+        },
+        "username": "ExtremeBlitz__",
+        "verified": true
+      }
+    ]
+  }
+}

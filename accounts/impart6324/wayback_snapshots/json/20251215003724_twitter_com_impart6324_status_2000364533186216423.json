@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000167763936157696"
+      ],
+      "media_source_tweet_id": [
+        "2000167809364705748"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Newlyweds",
+          "id": "847546008917520384",
+          "name": "Newlyweds"
+        }
+      }
+    ],
+    "conversation_id": "2000364533186216423",
+    "created_at": "2025-12-15T00:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T01:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000364533186216423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXxgrkzsN1",
+          "end": 108,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2000167809364705748/photo/1",
+          "media_key": "3_2000167763936157696",
+          "start": 85,
+          "url": "https://t.co/YXxgrkzsN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000364533186216423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000167809364705748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 12月10日上午，河南省平顶山市鲁山县，一位28岁的高中历史女教师在新婚当天，男方接亲队伍即将抵达之际，从7楼坠落，当场身亡。… https://t.co/YXxgrkzsN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2000167763936157696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IF--SaIAAh_BY.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000167763936157696"
+          ],
+          "media_source_tweet_id": [
+            "2000167809364705748"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2000364533186216423",
+        "created_at": "2025-12-15T00:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000364533186216423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXxgrkzsN1",
+              "end": 108,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000167809364705748/photo/1",
+              "media_key": "3_2000167763936157696",
+              "start": 85,
+              "url": "https://t.co/YXxgrkzsN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000364533186216423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000167809364705748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 12月10日上午，河南省平顶山市鲁山县，一位28岁的高中历史女教师在新婚当天，男方接亲队伍即将抵达之际，从7楼坠落，当场身亡。… https://t.co/YXxgrkzsN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000167763936157696"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "2000167809364705748",
+        "created_at": "2025-12-14T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000167809364705748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXxgrkzsN1",
+              "end": 87,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2000167809364705748/photo/1",
+              "media_key": "3_2000167763936157696",
+              "start": 64,
+              "url": "https://t.co/YXxgrkzsN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000167809364705748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "12月10日上午，河南省平顶山市鲁山县，一位28岁的高中历史女教师在新婚当天，男方接亲队伍即将抵达之际，从7楼坠落，当场身亡。\n据网传其生前朋友圈遗言，她与婚姻之事抗争长达11年（大学四年、工作七年），曾多次激烈争吵、闹腾乃至采取极端方式反抗，但父母以死相逼、亲戚以不孝指责，最终迫使她相亲结婚。她自嘲“自己最大的价值就是结婚”，在妥协完成这一“任务”后，自言“死而无憾”，并嘱托友人择有风有阳光的日子，将骨灰扬散。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 950109,
+          "like_count": 2212,
+          "quote_count": 37,
+          "reply_count": 314,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "12月10日上午，河南省平顶山市鲁山县，一位28岁的高中历史女教师在新婚当天，男方接亲队伍即将抵达之际，从7楼坠落，当场身亡。 https://t.co/YXxgrkzsN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 224,
+          "like_count": 3009,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 474
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159764,
+          "following_count": 986,
+          "like_count": 8458,
+          "listed_count": 8411,
+          "media_count": 38526,
+          "tweet_count": 45429
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006275133753737692",
+    "created_at": "2026-01-04T06:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007703026782601295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826281483675299840",
+          "start": 0,
+          "username": "ci_shang85157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007703026782601295",
+    "in_reply_to_user_id": "1826281483675299840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007662579234288117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci_shang85157 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006275133753737692",
+        "created_at": "2026-01-04T06:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007703026782601295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826281483675299840",
+              "start": 0,
+              "username": "ci_shang85157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007703026782601295",
+        "in_reply_to_user_id": "1826281483675299840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007662579234288117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci_shang85157 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2006275133753737692",
+        "created_at": "2026-01-04T03:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007662579234288117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007662579234288117",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006275133753737692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 这不是说我嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 263,
+          "like_count": 4760,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 712
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOiJs。 ngl匿名问答 想交朋友或者互fo尽管私信我 每个人都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOiJs"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "泉",
+        "pinned_tweet_id": "2006393841994371256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 658,
+          "like_count": 20299,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 7454
+        },
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

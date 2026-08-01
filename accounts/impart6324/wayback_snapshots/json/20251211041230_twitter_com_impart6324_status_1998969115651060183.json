@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998915936338722816"
+      ],
+      "media_source_tweet_id": [
+        "1998915941086929249"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998969115651060183",
+    "created_at": "2025-12-11T04:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998969115651060183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqUJFCmba2",
+          "end": 105,
+          "expanded_url": "https://x.com/Kenntnis22/status/1998915941086929249/photo/1",
+          "media_key": "3_1998915936338722816",
+          "start": 82,
+          "url": "https://t.co/lqUJFCmba2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998969115651060183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998915941086929249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 想一想家庭关系是怎么沦为人间炼狱的？为什么有的家庭关系温馨和睦有爱而有的却一地鸡毛？问题还是出在家长不合格，不要全部赖到子女头上。 https://t.co/lqUJFCmba2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_1998915936338722816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72TdBFWQAAgPH_.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998915936338722816"
+          ],
+          "media_source_tweet_id": [
+            "1998915941086929249"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998969115651060183",
+        "created_at": "2025-12-11T04:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998969115651060183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqUJFCmba2",
+              "end": 105,
+              "expanded_url": "https://x.com/Kenntnis22/status/1998915941086929249/photo/1",
+              "media_key": "3_1998915936338722816",
+              "start": 82,
+              "url": "https://t.co/lqUJFCmba2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998969115651060183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998915941086929249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 想一想家庭关系是怎么沦为人间炼狱的？为什么有的家庭关系温馨和睦有爱而有的却一地鸡毛？问题还是出在家长不合格，不要全部赖到子女头上。 https://t.co/lqUJFCmba2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998915936338722816"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1998915941086929249",
+        "created_at": "2025-12-11T00:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998915941086929249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqUJFCmba2",
+              "end": 89,
+              "expanded_url": "https://x.com/Kenntnis22/status/1998915941086929249/photo/1",
+              "media_key": "3_1998915936338722816",
+              "start": 66,
+              "url": "https://t.co/lqUJFCmba2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998915941086929249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12675,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想一想家庭关系是怎么沦为人间炼狱的？为什么有的家庭关系温馨和睦有爱而有的却一地鸡毛？问题还是出在家长不合格，不要全部赖到子女头上。 https://t.co/lqUJFCmba2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 224,
+          "like_count": 2850,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 490
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1997400407924990284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45096,
+          "following_count": 345,
+          "like_count": 37746,
+          "listed_count": 227,
+          "media_count": 7807,
+          "tweet_count": 11942
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

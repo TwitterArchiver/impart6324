@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992127856881840635",
+    "created_at": "2025-11-22T07:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992127856881840635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992127856881840635",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 我他妈跟这个人同一栋楼就差四层"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992127856881840635",
+        "created_at": "2025-11-22T07:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992127856881840635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992127856881840635",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 我他妈跟这个人同一栋楼就差四层"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 367,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 262
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989200653277941760/Icpvq4OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 98,
+          "like_count": 10311,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 3219
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

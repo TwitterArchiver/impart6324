@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026182071669178490",
+    "created_at": "2026-02-24T07:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026203475223490726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925137374331502592",
+          "start": 0,
+          "username": "lanfeng121388"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026203475223490726",
+    "in_reply_to_user_id": "1925137374331502592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026202937941528586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanfeng121388 ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026182071669178490",
+        "created_at": "2026-02-24T07:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026203475223490726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925137374331502592",
+              "start": 0,
+              "username": "lanfeng121388"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026203475223490726",
+        "in_reply_to_user_id": "1925137374331502592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026202937941528586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanfeng121388 ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925137374331502592",
+        "conversation_id": "2026182071669178490",
+        "created_at": "2026-02-24T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026202937941528586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026202937941528586",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026182071669178490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 一条内裤，正着穿一周，反着穿一周，内外翻过来再正穿一周，反穿一周。穿整整一个月然后寄给他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 414,
+          "like_count": 9004,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-21T10:31:45.000Z",
+        "description": "不玩了",
+        "id": "1925137374331502592",
+        "location": "˘ᗜ˘",
+        "name": "风",
+        "pinned_tweet_id": "1941037638892638653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020130181927809024/qxKqTVZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 212,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 392
+        },
+        "username": "lanfeng121388",
+        "verified": false
+      }
+    ]
+  }
+}

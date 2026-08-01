@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024909831543705797",
+    "created_at": "2026-02-21T10:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025155455740510600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729732433866903552",
+          "start": 0,
+          "username": "Nyx420_"
+        },
+        {
+          "end": 16,
+          "id": "1732356232290222080",
+          "start": 9,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025155455740510600",
+    "in_reply_to_user_id": "1729732433866903552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025149269364408590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyx420_ @8964_Y 操你妈 你懂你妈个逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024909831543705797",
+        "created_at": "2026-02-21T10:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025155455740510600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729732433866903552",
+              "start": 0,
+              "username": "Nyx420_"
+            },
+            {
+              "end": 16,
+              "id": "1732356232290222080",
+              "start": 9,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025155455740510600",
+        "in_reply_to_user_id": "1729732433866903552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025149269364408590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyx420_ @8964_Y 操你妈 你懂你妈个逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729732433866903552",
+        "conversation_id": "2024909831543705797",
+        "created_at": "2026-02-21T10:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025149269364408590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025149269364408590",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024909831543705797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 那不是问题😂不懂的那就滚蛋。光刻机需要无尘室那是精神问题吗☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 401,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-29T05:22:16.000Z",
+        "description": "喜欢唱《晨昏线》\n喜欢突破",
+        "id": "1729732433866903552",
+        "location": "𝐼𝑛 𝑀𝑜𝑚𝑒𝑛𝑡",
+        "name": "𝓥𝓮𝓬𝓽𝓸𝓻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002361220071112704/vGV2j2jy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 10,
+          "like_count": 4625,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 172
+        },
+        "username": "Nyx420_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5918,
+          "following_count": 733,
+          "like_count": 20078,
+          "listed_count": 19,
+          "media_count": 1007,
+          "tweet_count": 14822
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

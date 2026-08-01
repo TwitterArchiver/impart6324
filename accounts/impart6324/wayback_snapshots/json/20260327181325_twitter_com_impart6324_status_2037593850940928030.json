@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037148963858464920",
+    "created_at": "2026-03-27T18:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037593850940928030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2037439799607660544",
+          "start": 0,
+          "username": "Youo2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037593850940928030",
+    "in_reply_to_user_id": "2037439799607660544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037459556515692888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youo2a 可以😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-27T18:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037593850940928030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2037439799607660544",
+              "start": 0,
+              "username": "Youo2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037593850940928030",
+        "in_reply_to_user_id": "2037439799607660544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037459556515692888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youo2a 可以😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037439799607660544",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-27T09:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037459556515692888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037459556515692888",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037148963858464920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 算萝莉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 1319,
+          "like_count": 11432,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T08:02:21.000Z",
+        "description": "🚪52好友位/88🚪聊天➕解锁业务\n女孩子们找我玩😘",
+        "id": "2037439799607660544",
+        "name": "You",
+        "pinned_tweet_id": "2037457335019303367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037440164184956929/qqCW4JoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 6,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "Youo2a",
+        "verified": false
+      }
+    ]
+  }
+}

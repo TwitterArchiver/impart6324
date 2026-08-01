@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024534102897275222",
+    "created_at": "2026-02-19T17:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024540265835577546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024540265835577546",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024534102897275222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024534102897275222",
+        "created_at": "2026-02-19T17:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024540265835577546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024540265835577546",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024534102897275222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995419766954291200",
+        "conversation_id": "2024534102897275222",
+        "created_at": "2026-02-19T17:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024534102897275222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024534102897275222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭公狗不回我消息在干嘛，是不是让你在外面的野爹用鸡巴操，哪几个人排队操你的烂屁眼，是不是还让他们用来灭烟灰了，屁眼是不是让他们给你操的肛门非常大了，都经常拉裤兜里面自己留着当晚餐啊，臭骚逼公狗烂货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 407,
+          "like_count": 8833,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "🚪188 许愿一个只会围着我转的老公",
+        "id": "1995419766954291200",
+        "name": "就叫木子",
+        "pinned_tweet_id": "2003577595187851521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024161190587568128/hzn3Wm8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 44,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 914
+        },
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

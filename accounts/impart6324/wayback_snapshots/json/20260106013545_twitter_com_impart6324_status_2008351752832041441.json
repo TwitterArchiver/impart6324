@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008207912783761918",
+    "created_at": "2026-01-06T01:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008351752832041441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676626940802007040",
+          "start": 0,
+          "username": "cat_redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008351752832041441",
+    "in_reply_to_user_id": "1676626940802007040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008351676181119059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat_redemption 尊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008207912783761918",
+        "created_at": "2026-01-06T01:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008351752832041441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676626940802007040",
+              "start": 0,
+              "username": "cat_redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008351752832041441",
+        "in_reply_to_user_id": "1676626940802007040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008351676181119059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat_redemption 尊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676626940802007040",
+        "conversation_id": "2008207912783761918",
+        "created_at": "2026-01-06T01:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008351676181119059"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "尊嘟",
+              "probability": 0.4451,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008351676181119059",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008351435595841973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 尊嘟假嘟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 276,
+          "like_count": 5234,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 783
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:20:02.000Z",
+        "description": "",
+        "id": "1676626940802007040",
+        "name": "aminano_da",
+        "pinned_tweet_id": "2007798909046042673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855274958412226560/1_zCS5Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 665,
+          "like_count": 15800,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 1704
+        },
+        "username": "cat_redemption",
+        "verified": false
+      }
+    ]
+  }
+}

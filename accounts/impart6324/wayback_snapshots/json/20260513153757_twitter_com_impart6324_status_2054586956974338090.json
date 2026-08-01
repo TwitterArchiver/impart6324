@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2054586175537741907",
+    "created_at": "2026-05-13T15:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054586956974338090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054586956974338090",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054586175537741907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 我妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054586159989456897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINbOhKbAAEdkFp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2054586175537741907",
+        "created_at": "2026-05-13T15:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054586956974338090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054586956974338090",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054586175537741907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054586159989456897"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "2054586175537741907",
+        "created_at": "2026-05-13T15:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054586175537741907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lms6WX3qLe",
+              "end": 23,
+              "expanded_url": "https://x.com/ouoicy77/status/2054586175537741907/photo/1",
+              "media_key": "3_2054586159989456897",
+              "start": 0,
+              "url": "https://t.co/Lms6WX3qLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054586175537741907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lms6WX3qLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 520,
+          "like_count": 11555,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "你破防的样子很可爱",
+        "id": "1543918989390532608",
+        "location": "除了互fo不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28453,
+          "following_count": 93,
+          "like_count": 5066,
+          "listed_count": 108,
+          "media_count": 229,
+          "tweet_count": 1157
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021140859660664908",
+    "created_at": "2026-02-10T11:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021179110811193751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021179110811193751",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021178907672658318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 我好像买那一堆零食花了150够我吃两个月了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021140859660664908",
+        "created_at": "2026-02-10T11:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021179110811193751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021179110811193751",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021178907672658318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 我好像买那一堆零食花了150够我吃两个月了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2021140859660664908",
+        "created_at": "2026-02-10T11:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021178907672658318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021178907672658318",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021177019455664490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 莫名囤了足够我这个月不吃一顿饭的零食\n买了很多小挂件和饮料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 380,
+          "like_count": 7939,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "恣狂情 薄欢谑 谁与砭",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "1968254775562321927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1003,
+          "like_count": 66648,
+          "listed_count": 5,
+          "media_count": 1330,
+          "tweet_count": 30327
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

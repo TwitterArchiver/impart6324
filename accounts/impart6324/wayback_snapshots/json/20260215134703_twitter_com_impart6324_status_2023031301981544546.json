@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023031289268596736",
+        "3_2023031289457344512"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023031301981544546",
+    "created_at": "2026-02-15T13:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023031301981544546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iAy7foEhVv",
+          "end": 31,
+          "expanded_url": "https://x.com/impart6324/status/2023031301981544546/photo/1",
+          "media_key": "3_2023031289268596736",
+          "start": 8,
+          "url": "https://t.co/iAy7foEhVv"
+        },
+        {
+          "display_url": "pic.x.com/iAy7foEhVv",
+          "end": 31,
+          "expanded_url": "https://x.com/impart6324/status/2023031301981544546/photo/1",
+          "media_key": "3_2023031289457344512",
+          "start": 8,
+          "url": "https://t.co/iAy7foEhVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023031301981544546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好心人报销一下 https://t.co/iAy7foEhVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023031289268596736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNAPTZa8AA64py.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2023031289457344512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNAPUGbAAA3n-N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023031289268596736",
+            "3_2023031289457344512"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023031301981544546",
+        "created_at": "2026-02-15T13:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023031301981544546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAy7foEhVv",
+              "end": 31,
+              "expanded_url": "https://x.com/impart6324/status/2023031301981544546/photo/1",
+              "media_key": "3_2023031289268596736",
+              "start": 8,
+              "url": "https://t.co/iAy7foEhVv"
+            },
+            {
+              "display_url": "pic.x.com/iAy7foEhVv",
+              "end": 31,
+              "expanded_url": "https://x.com/impart6324/status/2023031301981544546/photo/1",
+              "media_key": "3_2023031289457344512",
+              "start": 8,
+              "url": "https://t.co/iAy7foEhVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023031301981544546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好心人报销一下 https://t.co/iAy7foEhVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 394,
+          "like_count": 8579,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

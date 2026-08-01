@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022864430091149590",
+    "created_at": "2026-02-16T04:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023252602998374814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689289302507753472",
+          "start": 0,
+          "username": "rou6781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023252602998374814",
+    "in_reply_to_user_id": "1689289302507753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022864430091149590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rou6781 你给你妈杀了拍个遗照就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022864430091149590",
+        "created_at": "2026-02-16T04:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023252602998374814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689289302507753472",
+              "start": 0,
+              "username": "rou6781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023252602998374814",
+        "in_reply_to_user_id": "1689289302507753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022864430091149590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rou6781 你给你妈杀了拍个遗照就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689289302507753472",
+        "conversation_id": "2022864430091149590",
+        "created_at": "2026-02-15T02:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022864430091149590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022864430091149590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14639,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能教教我怎么拍照才有流量啊，难道要拍私房嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 395,
+          "like_count": 8684,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:55:42.000Z",
+        "description": "",
+        "id": "1689289302507753472",
+        "location": "🚪66",
+        "name": "晚安迦娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787836462844841984/Pe9bXNjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200108,
+          "following_count": 60,
+          "like_count": 909,
+          "listed_count": 324,
+          "media_count": 324,
+          "tweet_count": 577
+        },
+        "username": "rou6781",
+        "verified": false
+      }
+    ]
+  }
+}

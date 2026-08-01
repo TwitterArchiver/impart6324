@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996251408312778752"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996251419964563677",
+    "created_at": "2025-12-03T16:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T17:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996251419964563677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGw07rl5yI",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/1996251419964563677/photo/1",
+          "media_key": "3_1996251408312778752",
+          "start": 5,
+          "url": "https://t.co/kGw07rl5yI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996251419964563677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸡吧套子 https://t.co/kGw07rl5yI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1996251408312778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QcFErbQAAP3V8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996251408312778752"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996251419964563677",
+        "created_at": "2025-12-03T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996251419964563677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGw07rl5yI",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/1996251419964563677/photo/1",
+              "media_key": "3_1996251408312778752",
+              "start": 5,
+              "url": "https://t.co/kGw07rl5yI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996251419964563677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡吧套子 https://t.co/kGw07rl5yI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 224,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 390
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

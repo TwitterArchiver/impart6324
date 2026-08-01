@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025514509029490688"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025514514024903134",
+    "created_at": "2026-02-22T10:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025514514024903134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y4hXaFHkAc",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2025514514024903134/photo/1",
+          "media_key": "3_2025514509029490688",
+          "start": 6,
+          "url": "https://t.co/Y4hXaFHkAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025514514024903134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "预告一下😌 https://t.co/Y4hXaFHkAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2025514509029490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwStt4aQAA71j_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025514509029490688"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025514514024903134",
+        "created_at": "2026-02-22T10:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025514514024903134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4hXaFHkAc",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2025514514024903134/photo/1",
+              "media_key": "3_2025514509029490688",
+              "start": 6,
+              "url": "https://t.co/Y4hXaFHkAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025514514024903134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预告一下😌 https://t.co/Y4hXaFHkAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 405,
+          "like_count": 9067,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

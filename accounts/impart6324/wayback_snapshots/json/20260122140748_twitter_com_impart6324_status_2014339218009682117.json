@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014263396632506627",
+    "created_at": "2026-01-22T14:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014339218009682117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014339218009682117",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014263396632506627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 你爹是处男 你妈生你是黑鬼基因突变了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014263396632506627",
+        "created_at": "2026-01-22T14:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014339218009682117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014339218009682117",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014263396632506627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 你爹是处男 你妈生你是黑鬼基因突变了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "conversation_id": "2014263396632506627",
+        "created_at": "2026-01-22T09:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014263396632506627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014263396632506627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16400,
+          "like_count": 225,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "相信一个二十五六岁身边都是美女的男爱豆还是处男何尝不是另外一种英雄主义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 337,
+          "like_count": 6459,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1021
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2008478920052748459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9404,
+          "following_count": 50,
+          "like_count": 4174,
+          "listed_count": 8,
+          "media_count": 127,
+          "tweet_count": 3170
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

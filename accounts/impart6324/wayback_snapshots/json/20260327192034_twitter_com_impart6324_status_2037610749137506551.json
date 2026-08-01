@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037608206894297277",
+    "created_at": "2026-03-27T19:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037610749137506551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027309946623418368",
+          "start": 0,
+          "username": "ruoruotnio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037610749137506551",
+    "in_reply_to_user_id": "2027309946623418368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037608206894297277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruotnio 催吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037608206894297277",
+        "created_at": "2026-03-27T19:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037610749137506551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027309946623418368",
+              "start": 0,
+              "username": "ruoruotnio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037610749137506551",
+        "in_reply_to_user_id": "2027309946623418368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037608206894297277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruotnio 催吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027309946623418368",
+        "conversation_id": "2037608206894297277",
+        "created_at": "2026-03-27T19:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037608206894297277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037608206894297277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我咋能瘦快点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1319,
+          "like_count": 11437,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:10:24.000Z",
+        "description": "11 巨蟹 infp",
+        "id": "2027309946623418368",
+        "name": "兄弟你好香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033884749329268737/F6nPg6tO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "ruoruotnio",
+        "verified": false
+      }
+    ]
+  }
+}

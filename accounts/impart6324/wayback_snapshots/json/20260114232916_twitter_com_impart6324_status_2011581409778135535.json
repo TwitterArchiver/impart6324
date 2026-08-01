@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011581402450743296"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2011581409778135535",
+    "created_at": "2026-01-14T23:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T00:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011581409778135535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvp5v6Hhpo",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2011581409778135535/photo/1",
+          "media_key": "3_2011581402450743296",
+          "start": 6,
+          "url": "https://t.co/bvp5v6Hhpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011581409778135535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清水打边炉 https://t.co/bvp5v6Hhpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011581402450743296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-qSoLHb0AANd16.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011581402450743296"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2011581409778135535",
+        "created_at": "2026-01-14T23:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T00:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011581409778135535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvp5v6Hhpo",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2011581409778135535/photo/1",
+              "media_key": "3_2011581402450743296",
+              "start": 6,
+              "url": "https://t.co/bvp5v6Hhpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011581409778135535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清水打边炉 https://t.co/bvp5v6Hhpo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 304,
+          "like_count": 5627,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 815
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

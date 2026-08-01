@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012273735835758863",
+    "created_at": "2026-01-17T01:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T02:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012329214406795498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004498413543645185",
+          "start": 0,
+          "username": "8137177Lamp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012329214406795498",
+    "in_reply_to_user_id": "2004498413543645185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012282735591833635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8137177Lamp 可以坤美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012273735835758863",
+        "created_at": "2026-01-17T01:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T02:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012329214406795498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004498413543645185",
+              "start": 0,
+              "username": "8137177Lamp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012329214406795498",
+        "in_reply_to_user_id": "2004498413543645185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012282735591833635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8137177Lamp 可以坤美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004498413543645185",
+        "conversation_id": "2012273735835758863",
+        "created_at": "2026-01-16T21:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012282735591833635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012282735591833635",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012273735835758863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 我现在学美术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 324,
+          "like_count": 5883,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 887
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T10:24:06.000Z",
+        "description": "无恶意",
+        "id": "2004498413543645185",
+        "location": "Hong Kong",
+        "name": "lamp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499966006550528/yW5c6OC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "8137177Lamp",
+        "verified": false
+      }
+    ]
+  }
+}

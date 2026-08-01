@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013547554412048393",
+    "created_at": "2026-01-20T09:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T10:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013549431287632059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013549431287632059",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013547554412048393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许是之前的我配不上这么好的感情 我已经遭遇了太多事 遇到了太多的不同的人了 我只希望我后面能好一点 我已经在很努力很努力的让自己变好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013547554412048393",
+        "created_at": "2026-01-20T09:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013549431287632059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013549431287632059",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013547554412048393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许是之前的我配不上这么好的感情 我已经遭遇了太多事 遇到了太多的不同的人了 我只希望我后面能好一点 我已经在很努力很努力的让自己变好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013547554412048393",
+        "created_at": "2026-01-20T09:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013547554412048393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013547554412048393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天打德州的赌注是大冒险我和ab都打给了c  到后面a让我打电话给这个女生 让她在我和我的b之间选一个谈恋爱 后面补了一嘴可以两个都不选 这个女生选了b 再到后面a 又问我近期想谈恋爱的人是谁 我说了好多次没有 到最后说是打电话的女生 唉 我觉得自己还是不够厉害 好希望自己能成为厉害的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 335,
+          "like_count": 6365,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1000
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

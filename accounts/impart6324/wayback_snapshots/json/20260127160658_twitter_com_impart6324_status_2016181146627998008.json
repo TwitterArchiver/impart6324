@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015943403591053312"
+      ],
+      "media_source_tweet_id": [
+        "2015943413183524956"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016181146627998008",
+    "created_at": "2026-01-27T16:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016181146627998008"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "EdgarSuit",
+          "probability": 0.4653,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "19632441",
+          "start": 3,
+          "username": "some1else77"
+        },
+        {
+          "end": 31,
+          "id": "1786938591441997824",
+          "start": 17,
+          "username": "MmisterNobody"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8QBnjCsnn",
+          "end": 81,
+          "expanded_url": "https://x.com/some1else77/status/2015943413183524956/photo/1",
+          "media_key": "3_2015943403591053312",
+          "start": 58,
+          "url": "https://t.co/n8QBnjCsnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016181146627998008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015943413183524956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @some1else77: @MmisterNobody His EdgarSuit is slipping https://t.co/n8QBnjCsnn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_2015943403591053312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oR2DpWMAAgfyt.png",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015943403591053312"
+          ],
+          "media_source_tweet_id": [
+            "2015943413183524956"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016181146627998008",
+        "created_at": "2026-01-27T16:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016181146627998008"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "EdgarSuit",
+              "probability": 0.4653,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "19632441",
+              "start": 3,
+              "username": "some1else77"
+            },
+            {
+              "end": 31,
+              "id": "1786938591441997824",
+              "start": 17,
+              "username": "MmisterNobody"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8QBnjCsnn",
+              "end": 81,
+              "expanded_url": "https://x.com/some1else77/status/2015943413183524956/photo/1",
+              "media_key": "3_2015943403591053312",
+              "start": 58,
+              "url": "https://t.co/n8QBnjCsnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016181146627998008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015943413183524956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @some1else77: @MmisterNobody His EdgarSuit is slipping https://t.co/n8QBnjCsnn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015943403591053312"
+          ]
+        },
+        "author_id": "19632441",
+        "conversation_id": "2015912563754639702",
+        "created_at": "2026-01-27T00:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015943413183524956"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "EdgarSuit",
+              "probability": 0.4833,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786938591441997824",
+              "start": 0,
+              "username": "MmisterNobody"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8QBnjCsnn",
+              "end": 64,
+              "expanded_url": "https://x.com/some1else77/status/2015943413183524956/photo/1",
+              "media_key": "3_2015943403591053312",
+              "start": 41,
+              "url": "https://t.co/n8QBnjCsnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015943413183524956",
+        "in_reply_to_user_id": "1786938591441997824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26074,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015912563754639702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MmisterNobody His EdgarSuit is slipping https://t.co/n8QBnjCsnn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 348,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1212
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-28T02:50:32.000Z",
+        "description": "You remember your kids or your Senator telling you \"SOMEONE ELSE DID IT!!!\"? Yeah. That's me. SHITposting for funzies. \n\n#ESCAPEDILLINOIS\n(No DMs)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 121,
+                "tag": "ESCAPEDILLINOIS"
+              }
+            ]
+          }
+        },
+        "id": "19632441",
+        "location": "Parts unknown. ",
+        "name": "Someone Else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895838785314717696/zoS2WHU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 4259,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 865,
+          "tweet_count": 5548
+        },
+        "username": "some1else77",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T01:59:00.000Z",
+        "description": "Archive of thoughts and chaos.",
+        "id": "1786938591441997824",
+        "location": "Earth",
+        "name": "Mr. Nobody",
+        "pinned_tweet_id": "2015912563754639702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786944506039762944/Qleni_ON_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165074,
+          "following_count": 6698,
+          "like_count": 791,
+          "listed_count": 175,
+          "media_count": 13074,
+          "tweet_count": 19411
+        },
+        "username": "MmisterNobody",
+        "verified": true
+      }
+    ]
+  }
+}

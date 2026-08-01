@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012322942345162810",
+    "created_at": "2026-01-17T02:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012355772559368374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896792115088330752",
+          "start": 0,
+          "username": "sakakibara_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012355772559368374",
+    "in_reply_to_user_id": "1896792115088330752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012322942345162810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakakibara_w 好崩溃啊我需要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012322942345162810",
+        "created_at": "2026-01-17T02:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012355772559368374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896792115088330752",
+              "start": 0,
+              "username": "sakakibara_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012355772559368374",
+        "in_reply_to_user_id": "1896792115088330752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012322942345162810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakakibara_w 好崩溃啊我需要钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896792115088330752",
+        "conversation_id": "2012322942345162810",
+        "created_at": "2026-01-17T00:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012322942345162810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012322942345162810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃啊我需要钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 324,
+          "like_count": 5920,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 894
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T05:17:48.000Z",
+        "description": "🚪188 520",
+        "id": "1896792115088330752",
+        "name": "即刻刎颈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011749731006115840/0gzJi2pK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 13,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "sakakibara_w",
+        "verified": false
+      }
+    ]
+  }
+}

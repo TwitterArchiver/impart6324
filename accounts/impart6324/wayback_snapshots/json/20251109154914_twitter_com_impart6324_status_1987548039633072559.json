@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987356495751626752",
+        "3_1987356503129411584",
+        "3_1987356512830816256"
+      ],
+      "media_source_tweet_id": [
+        "1987356516496617615",
+        "1987356516496617615",
+        "1987356516496617615"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1987548039633072559",
+    "created_at": "2025-11-09T15:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987548039633072559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479510124079185921",
+          "start": 3,
+          "username": "LCA176232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/weNBfD7wNh",
+          "end": 53,
+          "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+          "media_key": "3_1987356495751626752",
+          "start": 30,
+          "url": "https://t.co/weNBfD7wNh"
+        },
+        {
+          "display_url": "pic.x.com/weNBfD7wNh",
+          "end": 53,
+          "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+          "media_key": "3_1987356503129411584",
+          "start": 30,
+          "url": "https://t.co/weNBfD7wNh"
+        },
+        {
+          "display_url": "pic.x.com/weNBfD7wNh",
+          "end": 53,
+          "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+          "media_key": "3_1987356512830816256",
+          "start": 30,
+          "url": "https://t.co/weNBfD7wNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987548039633072559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987356516496617615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LCA176232: “我真的求别太媚男这个世界” https://t.co/weNBfD7wNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1987356495751626752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SCNBNXQAA6Nzs.jpg",
+        "width": 720
+      },
+      {
+        "height": 920,
+        "media_key": "3_1987356503129411584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SCNcsXUAAjcK7.jpg",
+        "width": 720
+      },
+      {
+        "height": 906,
+        "media_key": "3_1987356512830816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SCOA1XAAAwi8I.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987356495751626752",
+            "3_1987356503129411584",
+            "3_1987356512830816256"
+          ],
+          "media_source_tweet_id": [
+            "1987356516496617615",
+            "1987356516496617615",
+            "1987356516496617615"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1987548039633072559",
+        "created_at": "2025-11-09T15:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987548039633072559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479510124079185921",
+              "start": 3,
+              "username": "LCA176232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 53,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356495751626752",
+              "start": 30,
+              "url": "https://t.co/weNBfD7wNh"
+            },
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 53,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356503129411584",
+              "start": 30,
+              "url": "https://t.co/weNBfD7wNh"
+            },
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 53,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356512830816256",
+              "start": 30,
+              "url": "https://t.co/weNBfD7wNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987548039633072559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987356516496617615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LCA176232: “我真的求别太媚男这个世界” https://t.co/weNBfD7wNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987356495751626752",
+            "3_1987356503129411584",
+            "3_1987356512830816256"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1987356516496617615",
+        "created_at": "2025-11-09T03:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987356516496617615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 38,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356495751626752",
+              "start": 15,
+              "url": "https://t.co/weNBfD7wNh"
+            },
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 38,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356503129411584",
+              "start": 15,
+              "url": "https://t.co/weNBfD7wNh"
+            },
+            {
+              "display_url": "pic.x.com/weNBfD7wNh",
+              "end": 38,
+              "expanded_url": "https://x.com/LCA176232/status/1987356516496617615/photo/1",
+              "media_key": "3_1987356512830816256",
+              "start": 15,
+              "url": "https://t.co/weNBfD7wNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987356516496617615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 303707,
+          "like_count": 1847,
+          "quote_count": 20,
+          "reply_count": 107,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "“我真的求别太媚男这个世界” https://t.co/weNBfD7wNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 317,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 209
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1985612462985744585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43909,
+          "following_count": 906,
+          "like_count": 98881,
+          "listed_count": 122,
+          "media_count": 11815,
+          "tweet_count": 15464
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

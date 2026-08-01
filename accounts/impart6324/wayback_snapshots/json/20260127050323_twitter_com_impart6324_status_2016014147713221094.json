@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015655833506578857",
+    "created_at": "2026-01-27T05:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016014147713221094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016014147713221094",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015655833506578857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 你忙死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2015655823347781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kMSrwXkAA_YDp.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015655833506578857",
+        "created_at": "2026-01-27T05:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016014147713221094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016014147713221094",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015655833506578857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 你忙死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015655823347781632"
+          ]
+        },
+        "author_id": "1945894406244208640",
+        "conversation_id": "2015655833506578857",
+        "created_at": "2026-01-26T05:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T06:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015655833506578857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65qf3jpdWe",
+              "end": 23,
+              "expanded_url": "https://x.com/daimengniu8964/status/2015655833506578857/photo/1",
+              "media_key": "3_2015655823347781632",
+              "start": 0,
+              "url": "https://t.co/65qf3jpdWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015655833506578857",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5820,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/65qf3jpdWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 346,
+          "like_count": 6862,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1184
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2008478920052748459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9750,
+          "following_count": 48,
+          "like_count": 4286,
+          "listed_count": 8,
+          "media_count": 131,
+          "tweet_count": 3227
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012273735835758863",
+    "created_at": "2026-01-16T21:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T22:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012273735835758863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012273735835758863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想让人给我画动漫风自画像唉从来没人给我认真画 我也想一直当微信头像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012273735835758863",
+        "created_at": "2026-01-16T21:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012273735835758863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012273735835758863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想让人给我画动漫风自画像唉从来没人给我认真画 我也想一直当微信头像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 323,
+          "like_count": 5869,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 885
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017193921726537921",
+    "created_at": "2026-01-30T11:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017196924479136242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925137374331502592",
+          "start": 0,
+          "username": "lanfeng121388"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017196924479136242",
+    "in_reply_to_user_id": "1925137374331502592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017196863456444916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanfeng121388 ✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017193921726537921",
+        "created_at": "2026-01-30T11:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017196924479136242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925137374331502592",
+              "start": 0,
+              "username": "lanfeng121388"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017196924479136242",
+        "in_reply_to_user_id": "1925137374331502592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017196863456444916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanfeng121388 ✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925137374331502592",
+        "conversation_id": "2017193921726537921",
+        "created_at": "2026-01-30T11:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017196863456444916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017196863456444916",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017193921726537921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 怎么如此萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 358,
+          "like_count": 7175,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1253
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T10:31:45.000Z",
+        "description": "不玩了",
+        "id": "1925137374331502592",
+        "location": "˘ᗜ˘",
+        "name": "风",
+        "pinned_tweet_id": "1941037638892638653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014613465638567936/RxO7TIoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 159,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 315
+        },
+        "username": "lanfeng121388",
+        "verified": false
+      }
+    ]
+  }
+}

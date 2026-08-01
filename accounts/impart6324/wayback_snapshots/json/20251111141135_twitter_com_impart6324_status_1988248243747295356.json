@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1988215532932526462",
+    "created_at": "2025-11-11T14:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T15:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988248243747295356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908697686917996547",
+          "start": 0,
+          "username": "wwwouo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988248243747295356",
+    "in_reply_to_user_id": "1908697686917996547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988215532932526462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwouo_ 给我爆点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1988215532932526462",
+        "created_at": "2025-11-11T14:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988248243747295356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908697686917996547",
+              "start": 0,
+              "username": "wwwouo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988248243747295356",
+        "in_reply_to_user_id": "1908697686917996547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988215532932526462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwouo_ 给我爆点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908697686917996547",
+        "conversation_id": "1988215532932526462",
+        "created_at": "2025-11-11T12:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T13:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988215532932526462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988215532932526462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前总叫男人给我爆金币，拿钱拿多了我就会发现我这个人的欲望是永远填不满的，给了我这么多我还会想要更多，但是对方和我臆想中的结果不一样我就会崩溃，所以我干脆不和任何人有金钱上的联系，只是纯粹的将心比心，纯绿打法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 341,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 260
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的人类，社畜，我想发什么就发什么，不要骂我，欢迎和我交朋友",
+        "id": "1908697686917996547",
+        "name": "我操，",
+        "pinned_tweet_id": "1965807422003634597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965801618093244416/3CnOe8QP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 243,
+          "like_count": 2633,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 2587
+        },
+        "username": "wwwouo_",
+        "verified": false
+      }
+    ]
+  }
+}

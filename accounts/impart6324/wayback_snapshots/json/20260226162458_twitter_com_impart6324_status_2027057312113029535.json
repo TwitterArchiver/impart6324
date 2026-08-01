@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027057312113029535",
+    "created_at": "2026-02-26T16:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027057312113029535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mygoodbrother1…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/mygoodbrother1/status/2027054008104628252",
+          "start": 7,
+          "url": "https://t.co/nYPbUHfsRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027057312113029535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027054008104628252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的是真恶心 https://t.co/nYPbUHfsRJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027057312113029535",
+        "created_at": "2026-02-26T16:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027057312113029535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mygoodbrother1…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mygoodbrother1/status/2027054008104628252",
+              "start": 7,
+              "url": "https://t.co/nYPbUHfsRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027057312113029535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027054008104628252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的是真恶心 https://t.co/nYPbUHfsRJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505124286507495426",
+        "conversation_id": "2027054008104628252",
+        "created_at": "2026-02-26T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027054008104628252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027054008104628252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我就是那种女生哭了会去安慰她逼送到眼前也会狠狠推开的好男人呀，要是大伙都充满爱一些这个社会会不会充满善良😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 415,
+          "like_count": 9319,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T10:09:40.000Z",
+        "description": "亲爱的你好",
+        "id": "1505124286507495426",
+        "name": "赫天原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022303798409265152/ktmPvN7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Mygoodbrother1",
+        "verified": false
+      }
+    ]
+  }
+}

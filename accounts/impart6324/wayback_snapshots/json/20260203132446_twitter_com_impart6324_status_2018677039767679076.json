@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018653092364030313",
+    "created_at": "2026-02-03T13:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018677039767679076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916074220108582912",
+          "start": 0,
+          "username": "GlyndaMcdo97923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018677039767679076",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018653092364030313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlyndaMcdo97923 真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018653092364030313",
+        "created_at": "2026-02-03T13:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018677039767679076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "GlyndaMcdo97923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018677039767679076",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018653092364030313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlyndaMcdo97923 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916074220108582912",
+        "conversation_id": "2018653092364030313",
+        "created_at": "2026-02-03T11:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018653092364030313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018653092364030313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何捐款截图发我可以免🚪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 379,
+          "like_count": 7485,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1266
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです! /清水推",
+        "id": "1916074220108582912",
+        "location": "✡️52/128/288/520/1314",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "2008386570475176118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014402252774244353/VGWIbiX1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 60,
+          "like_count": 936,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 967
+        },
+        "username": "GlyndaMcdo97923",
+        "verified": false
+      }
+    ]
+  }
+}

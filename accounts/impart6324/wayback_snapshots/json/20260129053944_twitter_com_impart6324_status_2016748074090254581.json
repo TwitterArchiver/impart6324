@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016748066376994816"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016748074090254581",
+    "created_at": "2026-01-29T05:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016748074090254581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9IUrxrpTV",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2016748074090254581/photo/1",
+          "media_key": "3_2016748066376994816",
+          "start": 9,
+          "url": "https://t.co/n9IUrxrpTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016748074090254581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "倒霉的给我气笑了 https://t.co/n9IUrxrpTV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2016748066376994816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ztrmHbUAAlety.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016748066376994816"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016748074090254581",
+        "created_at": "2026-01-29T05:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016748074090254581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9IUrxrpTV",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2016748074090254581/photo/1",
+              "media_key": "3_2016748066376994816",
+              "start": 9,
+              "url": "https://t.co/n9IUrxrpTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016748074090254581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倒霉的给我气笑了 https://t.co/n9IUrxrpTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 7049,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1239
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

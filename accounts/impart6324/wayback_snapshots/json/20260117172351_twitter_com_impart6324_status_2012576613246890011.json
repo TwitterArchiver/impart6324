@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012494406117703761",
+    "created_at": "2026-01-17T17:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T18:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012576613246890011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012576613246890011",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012576170718671007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 媳妇儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012494406117703761",
+        "created_at": "2026-01-17T17:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012576613246890011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012576613246890011",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012576170718671007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 媳妇儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958896241158299650",
+        "conversation_id": "2012494406117703761",
+        "created_at": "2026-01-17T17:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012576170718671007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012576170718671007",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012494406117703761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 325,
+          "like_count": 6026,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 934
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2010588685348335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 328,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2791
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

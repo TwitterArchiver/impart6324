@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994191523509092352"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1994191534267240799",
+    "created_at": "2025-11-27T23:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T00:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994191534267240799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XABhBQWnm3",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/1994191534267240799/photo/1",
+          "media_key": "3_1994191523509092352",
+          "start": 5,
+          "url": "https://t.co/XABhBQWnm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994191534267240799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈杀我 https://t.co/XABhBQWnm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994191523509092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zKn_zawAAHIS-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994191523509092352"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1994191534267240799",
+        "created_at": "2025-11-27T23:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994191534267240799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XABhBQWnm3",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/1994191534267240799/photo/1",
+              "media_key": "3_1994191523509092352",
+              "start": 5,
+              "url": "https://t.co/XABhBQWnm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994191534267240799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈杀我 https://t.co/XABhBQWnm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 376,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 326
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

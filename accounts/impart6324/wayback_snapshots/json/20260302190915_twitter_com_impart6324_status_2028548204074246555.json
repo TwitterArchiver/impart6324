@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028548198592303104"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028519854408614065",
+    "created_at": "2026-03-02T19:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028548204074246555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggC4PtdZCR",
+          "end": 31,
+          "expanded_url": "https://x.com/impart6324/status/2028548204074246555/photo/1",
+          "media_key": "3_2028548198592303104",
+          "start": 8,
+          "url": "https://t.co/ggC4PtdZCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028548204074246555",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028519854408614065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想来玩的可以进 https://t.co/ggC4PtdZCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2028548198592303104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbZ1sLaUAAfJus.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028548198592303104"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028519854408614065",
+        "created_at": "2026-03-02T19:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028548204074246555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggC4PtdZCR",
+              "end": 31,
+              "expanded_url": "https://x.com/impart6324/status/2028548204074246555/photo/1",
+              "media_key": "3_2028548198592303104",
+              "start": 8,
+              "url": "https://t.co/ggC4PtdZCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028548204074246555",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028519854408614065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想来玩的可以进 https://t.co/ggC4PtdZCR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028519854408614065",
+        "created_at": "2026-03-02T17:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028519854408614065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pluviophile’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1aKbd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1aKbdbEeLYRJX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028519855717277696/dwIVTso1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028519855717277696/dwIVTso1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 讨论社群第二个访谈人员",
+              "unwound_url": "https://twitter.com/i/spaces/1aKbdbEeLYRJX/peek",
+              "url": "https://t.co/2R3WkkBKQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028519854408614065",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 420,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2R3WkkBKQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 437,
+          "like_count": 10077,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

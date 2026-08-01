@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993157735916224829",
+    "created_at": "2025-11-25T15:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993338059434385448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993338059434385448",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993337946704097694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 你要打吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993157735916224829",
+        "created_at": "2025-11-25T15:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993338059434385448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993338059434385448",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993337946704097694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 你要打吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562858237657231361",
+        "conversation_id": "1993157735916224829",
+        "created_at": "2025-11-25T15:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993337946704097694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993337946704097694",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993337474471674279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 光是咨询当然没用 主要是为了打官司吧 不打官司意义就不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 380,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 297
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 152,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

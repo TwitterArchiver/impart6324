@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999686232939614208"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999686332227158210",
+    "created_at": "2025-12-13T03:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T04:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999686332227158210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XFRfFX1LVa",
+          "end": 43,
+          "expanded_url": "https://x.com/impart6324/status/1999686332227158210/video/1",
+          "media_key": "13_1999686232939614208",
+          "start": 20,
+          "url": "https://t.co/XFRfFX1LVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999686332227158210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀念当前区小子了 你们猜一下哪个是我😌 https://t.co/XFRfFX1LVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13400,
+        "height": 592,
+        "media_key": "13_1999686232939614208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999686232939614208/img/eV7CCNjFB1OlNicq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999686232939614208/vid/avc1/582x270/NzqWutHAn64eRdNN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999686232939614208/vid/avc1/778x360/UuFkoXjhAC8J3W_q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999686232939614208/vid/avc1/1280x592/ds4JuspcZ35I6OJh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999686232939614208/pl/9pcUO7q7um82Q60j.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999686232939614208"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999686332227158210",
+        "created_at": "2025-12-13T03:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999686332227158210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFRfFX1LVa",
+              "end": 43,
+              "expanded_url": "https://x.com/impart6324/status/1999686332227158210/video/1",
+              "media_key": "13_1999686232939614208",
+              "start": 20,
+              "url": "https://t.co/XFRfFX1LVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999686332227158210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念当前区小子了 你们猜一下哪个是我😌 https://t.co/XFRfFX1LVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 226,
+          "like_count": 2992,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 467
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2036083729874186457",
+    "created_at": "2026-03-24T10:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036384690937217505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256757256214818818",
+          "start": 0,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036384690937217505",
+    "in_reply_to_user_id": "1256757256214818818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036175334496768446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuimuRena 我来惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2036083729874186457",
+        "created_at": "2026-03-24T10:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036384690937217505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036384690937217505",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036175334496768446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena 我来惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256757256214818818",
+        "conversation_id": "2036083729874186457",
+        "created_at": "2026-03-23T20:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036175334496768446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036175334496768446",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036083729874186457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 老公求互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 538,
+          "like_count": 11319,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "💬CN JP EN 💊ADHD&双相情感障碍 🎲葛葉の夢女💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "OD"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "リスカ"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "病み垢"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZ9Uf"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 336,
+          "like_count": 887,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/EZHEMbZ9Uf",
+        "username": "GuimuRena",
+        "verified": false
+      }
+    ]
+  }
+}

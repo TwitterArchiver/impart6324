@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2003188339239977434",
+    "created_at": "2025-12-23T11:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003421575983563234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975634673087967232",
+          "start": 0,
+          "username": "a2918367401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003421575983563234",
+    "in_reply_to_user_id": "1975634673087967232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003188339239977434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2918367401 哈哈哈哈我有个猴子撸管的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2003188339239977434",
+        "created_at": "2025-12-23T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003421575983563234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975634673087967232",
+              "start": 0,
+              "username": "a2918367401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003421575983563234",
+        "in_reply_to_user_id": "1975634673087967232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003188339239977434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2918367401 哈哈哈哈我有个猴子撸管的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975634673087967232",
+        "conversation_id": "2003188339239977434",
+        "created_at": "2025-12-22T19:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003188339239977434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KLGJ8888/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/KLGJ8888/status/2002070399199346973",
+              "start": 15,
+              "url": "https://t.co/bRMXGbqZA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003188339239977434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002070399199346973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁有这些表情包发给我私信领米 https://t.co/bRMXGbqZA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 235,
+          "like_count": 3537,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 511
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T18:50:01.000Z",
+        "description": "",
+        "id": "1975634673087967232",
+        "name": "柯柯柯柯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975634737319583753/G3UFrMhu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 283,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "a2918367401",
+        "verified": false
+      }
+    ]
+  }
+}

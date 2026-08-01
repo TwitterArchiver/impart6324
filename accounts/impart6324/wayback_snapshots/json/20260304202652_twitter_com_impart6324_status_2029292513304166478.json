@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029292513304166478",
+    "created_at": "2026-03-04T20:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T21:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029292513304166478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2029173003981074884",
+          "start": 17,
+          "url": "https://t.co/ycOdFwuj3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029292513304166478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029173003981074884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这傻逼河北人太傻逼了 比我更傻逼 https://t.co/ycOdFwuj3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 264022,
+        "height": 368,
+        "media_key": "13_2029172109344464896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029172109344464896/img/4PY4tPiAZD2OHKY4.jpg",
+        "public_metrics": {
+          "view_count": 261687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029172109344464896/vid/avc1/468x270/Cc_8VdZFb56u-MCn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029172109344464896/vid/avc1/640x368/iMXeyO3P1V9cGS9W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029172109344464896/pl/B4-oaVbJ1UH4IklO.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029292513304166478",
+        "created_at": "2026-03-04T20:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029292513304166478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2029173003981074884",
+              "start": 17,
+              "url": "https://t.co/ycOdFwuj3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029292513304166478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029173003981074884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼河北人太傻逼了 比我更傻逼 https://t.co/ycOdFwuj3L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029172109344464896"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2029173003981074884",
+        "created_at": "2026-03-04T12:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029173003981074884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TnTl9n5u9d",
+              "end": 94,
+              "expanded_url": "https://x.com/wangjupaian/status/2029173003981074884/video/1",
+              "media_key": "13_2029172109344464896",
+              "start": 71,
+              "url": "https://t.co/TnTl9n5u9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029173003981074884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 331043,
+          "like_count": 1082,
+          "quote_count": 12,
+          "reply_count": 111,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "近日\n15岁初中生连线大冰\n该初中生“局里局气”到令人咂舌：\n“我生活在基层，基层的物质生活是无法满足我的。”\n“我的意识形态是比较高的。” https://t.co/TnTl9n5u9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 446,
+          "like_count": 10514,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2029105998212808749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119035,
+          "following_count": 236,
+          "like_count": 113,
+          "listed_count": 333,
+          "media_count": 4180,
+          "tweet_count": 4658
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

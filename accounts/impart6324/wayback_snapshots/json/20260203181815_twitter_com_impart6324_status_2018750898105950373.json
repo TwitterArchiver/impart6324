@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018750898105950373",
+    "created_at": "2026-02-03T18:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018750898105950373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luyaoyaoy/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/luyaoyaoy/status/2018750451060285854",
+          "start": 141,
+          "url": "https://t.co/aNgCcYBYXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018750898105950373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018750451060285854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁妈妈妈妈 https://t.co/aNgCcYBYXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018750438552866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQK0_wbkAApwTb.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018750898105950373",
+        "created_at": "2026-02-03T18:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018750898105950373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luyaoyaoy/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/luyaoyaoy/status/2018750451060285854",
+              "start": 141,
+              "url": "https://t.co/aNgCcYBYXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018750898105950373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018750451060285854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁妈妈妈妈 https://t.co/aNgCcYBYXA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018750438552866816"
+          ]
+        },
+        "author_id": "1893610201124872192",
+        "conversation_id": "2018750451060285854",
+        "created_at": "2026-02-03T18:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018750451060285854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzUH5spuRD",
+              "end": 23,
+              "expanded_url": "https://x.com/luyaoyaoy/status/2018750451060285854/photo/1",
+              "media_key": "3_2018750438552866816",
+              "start": 0,
+              "url": "https://t.co/IzUH5spuRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018750451060285854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IzUH5spuRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 366,
+          "like_count": 7525,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T10:34:12.000Z",
+        "description": "👾👾=鹿药💗💗💗💀💀💀💀不互。🎵：luyao0796/🍠：Luyao079696。除此之外均不是本人账号。qq和vx均不会加人除了线下好友。随便发的号@Zzzmzmmmm（小号？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "Zzzmzmmmm"
+              }
+            ]
+          }
+        },
+        "id": "1893610201124872192",
+        "location": "China",
+        "name": "lu yao",
+        "pinned_tweet_id": "1960436697067614610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961848226275086336/S0k8Nwy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7904,
+          "following_count": 49,
+          "like_count": 1307,
+          "listed_count": 21,
+          "media_count": 168,
+          "tweet_count": 622
+        },
+        "username": "luyaoyaoy",
+        "verified": false
+      }
+    ]
+  }
+}

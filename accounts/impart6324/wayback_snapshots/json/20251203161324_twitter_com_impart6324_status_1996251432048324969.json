@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996251424519573505"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996251432048324969",
+    "created_at": "2025-12-03T16:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T17:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996251432048324969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ijy3780Gdo",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/1996251432048324969/photo/1",
+          "media_key": "3_1996251424519573505",
+          "start": 15,
+          "url": "https://t.co/Ijy3780Gdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996251432048324969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你为了日逼真是啥事都能做出来 https://t.co/Ijy3780Gdo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_1996251424519573505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QcGBDbUAEz_61.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996251424519573505"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996251432048324969",
+        "created_at": "2025-12-03T16:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996251432048324969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ijy3780Gdo",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/1996251432048324969/photo/1",
+              "media_key": "3_1996251424519573505",
+              "start": 15,
+              "url": "https://t.co/Ijy3780Gdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996251432048324969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你为了日逼真是啥事都能做出来 https://t.co/Ijy3780Gdo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 224,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 390
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

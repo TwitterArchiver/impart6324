@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026838321671127159",
+    "created_at": "2026-02-26T01:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026838321671127159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wengenguyi4/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/wengenguyi4/status/2026615596448923696",
+          "start": 14,
+          "url": "https://t.co/WrMSxfEk58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026838321671127159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026615596448923696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呦我去了哪个傻逼投上去的 https://t.co/WrMSxfEk58"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2026615593651290112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_8JRvaQAA7zU4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026838321671127159",
+        "created_at": "2026-02-26T01:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026838321671127159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wengenguyi4/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/wengenguyi4/status/2026615596448923696",
+              "start": 14,
+              "url": "https://t.co/WrMSxfEk58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026838321671127159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026615596448923696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦我去了哪个傻逼投上去的 https://t.co/WrMSxfEk58"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026615593651290112"
+          ]
+        },
+        "author_id": "1811398941969367040",
+        "conversation_id": "2026615596448923696",
+        "created_at": "2026-02-25T11:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026615596448923696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrsZifoiTg",
+              "end": 35,
+              "expanded_url": "https://x.com/wengenguyi4/status/2026615596448923696/photo/1",
+              "media_key": "3_2026615593651290112",
+              "start": 12,
+              "url": "https://t.co/VrsZifoiTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026615596448923696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1443,
+          "impression_count": 1671778,
+          "like_count": 4696,
+          "quote_count": 7,
+          "reply_count": 443,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "这下是你闺蜜真社死了（ https://t.co/VrsZifoiTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 416,
+          "like_count": 9228,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T13:55:43.000Z",
+        "description": "马应龙，我操你妈！",
+        "id": "1811398941969367040",
+        "name": "文亘古遗🐒四代目（马应龙猎妈版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984949945951252480/kkqw3kBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35217,
+          "following_count": 852,
+          "like_count": 29487,
+          "listed_count": 98,
+          "media_count": 1363,
+          "tweet_count": 7633
+        },
+        "username": "wengenguyi4",
+        "verified": false
+      }
+    ]
+  }
+}

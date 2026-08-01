@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004912588254322908",
+    "created_at": "2025-12-27T13:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T14:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004912588254322908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baichuan202505…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/baichuan202505/status/2004229118859280442",
+          "start": 7,
+          "url": "https://t.co/VnzPOFr7hd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004912588254322908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004229118859280442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好似喵好似喵 https://t.co/VnzPOFr7hd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004912588254322908",
+        "created_at": "2025-12-27T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004912588254322908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baichuan202505…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/baichuan202505/status/2004229118859280442",
+              "start": 7,
+              "url": "https://t.co/VnzPOFr7hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004912588254322908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004229118859280442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好似喵好似喵 https://t.co/VnzPOFr7hd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927618351733657600",
+        "conversation_id": "2004229118859280442",
+        "created_at": "2025-12-25T16:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004229118859280442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1811690667720212480",
+              "start": 11,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004229118859280442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 95411,
+          "like_count": 134,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告，经确认，李君豪\n@y0zarashi\n于2025.12.25.下午四点左右被110从住处带走，目前情况不妙\n账号将面临无限期停更\n我将怀念他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 241,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 533
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "1996209973081375189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 2618,
+          "like_count": 218,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 557
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

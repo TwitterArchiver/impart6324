@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1861438778545782906",
+    "created_at": "2024-11-27T04:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T05:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861635638338167273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1472586039344599043",
+          "start": 0,
+          "username": "liangziyueqian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861635638338167273",
+    "in_reply_to_user_id": "1472586039344599043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861438778545782906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangziyueqian1 卧槽尼玛币 我就在长沙 我怎么一点都不知道？现在图片和视频一样没有就敢瞎几把发了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1861438778545782906",
+        "created_at": "2024-11-27T04:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861635638338167273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1472586039344599043",
+              "start": 0,
+              "username": "liangziyueqian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861635638338167273",
+        "in_reply_to_user_id": "1472586039344599043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861438778545782906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangziyueqian1 卧槽尼玛币 我就在长沙 我怎么一点都不知道？现在图片和视频一样没有就敢瞎几把发了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472586039344599043",
+        "conversation_id": "1861438778545782906",
+        "created_at": "2024-11-26T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861438778545782906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861438778545782906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 85968,
+          "like_count": 298,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "墙内网友再爆料：今天湖南长沙爆发大规模游行示威！全国各大平台全面封杀消息！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我用的华为手机，你们发的什么我看不见，还有，境外势力你别嚣张！！！！！！！",
+        "id": "1597065444136919040",
+        "name": "又携书剑路茫茫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597065546498834432/CE0MAO6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 57,
+          "like_count": 350,
+          "listed_count": 0,
+          "tweet_count": 100
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T15:16:45.000Z",
+        "description": "洛克《政府论》(下)：人民的福利是最高的法律。\n\n亚当.斯密《国富论》：每个人都在为他所能支配的资本不断地寻找着最有利的用途。他在心里所考虑的当然是自己的利益，而不是社会的利益，但是他为自己考虑的结果，自然或者说必然会引导他选出对社会最有利的用途。",
+        "id": "1472586039344599043",
+        "name": "量子跃迁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472588172227874817/TTCR8OoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100493,
+          "following_count": 595,
+          "like_count": 72,
+          "listed_count": 383,
+          "tweet_count": 12442
+        },
+        "username": "liangziyueqian1",
+        "verified": false
+      }
+    ]
+  }
+}

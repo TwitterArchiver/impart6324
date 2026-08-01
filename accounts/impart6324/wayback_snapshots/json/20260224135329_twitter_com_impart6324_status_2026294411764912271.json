@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026203348857454783",
+    "created_at": "2026-02-24T13:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026294411764912271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618206767506137091",
+          "start": 0,
+          "username": "zhoxn14039196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026294411764912271",
+    "in_reply_to_user_id": "1618206767506137091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026292988402692460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoxn14039196 笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026203348857454783",
+        "created_at": "2026-02-24T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026294411764912271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618206767506137091",
+              "start": 0,
+              "username": "zhoxn14039196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026294411764912271",
+        "in_reply_to_user_id": "1618206767506137091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026292988402692460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoxn14039196 笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618206767506137091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "2026203348857454783",
+        "created_at": "2026-02-24T13:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026292988402692460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026292988402692460",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026203348857454783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 tinder好玩吗，为什么我不开会员不能私信也不能看到信息，只能左滑右滑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9081,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T11:19:32.000Z",
+        "description": "",
+        "id": "1618206767506137091",
+        "name": "辛子",
+        "pinned_tweet_id": "1994839982377406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963195151201042432/Dmxh3J13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 528,
+          "like_count": 3554,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3300
+        },
+        "username": "zhoxn14039196",
+        "verified": false
+      }
+    ]
+  }
+}

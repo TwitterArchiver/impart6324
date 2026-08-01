@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005622044562719121",
+    "created_at": "2025-12-29T12:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005622044562719121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641968587102621696",
+          "start": 3,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 31,
+          "id": "1373509657868660740",
+          "start": 15,
+          "username": "alldoorsoneroom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005622044562719121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005469644174594363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0voki33Me: @alldoorsoneroom 你妈死了傻逼你全家人螺旋升天我给你和方时赫屁眼里边塞火箭给你爽飞带你上月球好不好又他妈让我们粉丝内斗你全家都死光了你个贱畜最好只是在炒作最后五个人会一起回归操你妈去死吧臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005622044562719121",
+        "created_at": "2025-12-29T12:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005622044562719121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641968587102621696",
+              "start": 3,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 31,
+              "id": "1373509657868660740",
+              "start": 15,
+              "username": "alldoorsoneroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005622044562719121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005469644174594363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0voki33Me: @alldoorsoneroom 你妈死了傻逼你全家人螺旋升天我给你和方时赫屁眼里边塞火箭给你爽飞带你上月球好不好又他妈让我们粉丝内斗你全家都死光了你个贱畜最好只是在炒作最后五个人会一起回归操你妈去死吧臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2005467364121534656",
+        "created_at": "2025-12-29T02:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005469644174594363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1373509657868660740",
+              "start": 0,
+              "username": "alldoorsoneroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005469644174594363",
+        "in_reply_to_user_id": "1373509657868660740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005467364121534656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alldoorsoneroom 你妈死了傻逼你全家人螺旋升天我给你和方时赫屁眼里边塞火箭给你爽飞带你上月球好不好又他妈让我们粉丝内斗你全家都死光了你个贱畜最好只是在炒作最后五个人会一起回归操你妈去死吧臭傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 255,
+          "like_count": 4094,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 603
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事///骂我默认全家死光",
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 631,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1151
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T05:40:10.000Z",
+        "description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/js1CtxSY38I",
+                "end": 63,
+                "expanded_url": "https://youtu.be/js1CtxSY38I",
+                "start": 40,
+                "url": "https://t.co/UyuE2A6KSA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ador.world",
+                "end": 23,
+                "expanded_url": "http://ador.world",
+                "start": 0,
+                "url": "https://t.co/Y17aJsmF2p"
+              }
+            ]
+          }
+        },
+        "id": "1373509657868660740",
+        "name": "ADOR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933086541154533376/ABsl7zyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161543,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 641,
+          "media_count": 68,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/Y17aJsmF2p",
+        "username": "alldoorsoneroom",
+        "verified": true
+      }
+    ]
+  }
+}

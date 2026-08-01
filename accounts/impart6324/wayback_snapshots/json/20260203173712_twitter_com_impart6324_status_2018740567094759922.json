@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018740567094759922",
+    "created_at": "2026-02-03T17:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018740567094759922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/catuuxu/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/catuuxu/status/2018653356571725892",
+          "start": 10,
+          "url": "https://t.co/oTNaa5mpCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018740567094759922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018653356571725892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "聊起粉牛牛就美了😋 https://t.co/oTNaa5mpCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_2018653350431211520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAOyhuUawAAVtY7.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018740567094759922",
+        "created_at": "2026-02-03T17:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018740567094759922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catuuxu/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/catuuxu/status/2018653356571725892",
+              "start": 10,
+              "url": "https://t.co/oTNaa5mpCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018740567094759922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018653356571725892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "聊起粉牛牛就美了😋 https://t.co/oTNaa5mpCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018653350431211520"
+          ]
+        },
+        "author_id": "2001536364685463552",
+        "conversation_id": "2018653356571725892",
+        "created_at": "2026-02-03T11:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018653356571725892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfVt9NakB1",
+              "end": 33,
+              "expanded_url": "https://x.com/catuuxu/status/2018653356571725892/photo/1",
+              "media_key": "3_2018653350431211520",
+              "start": 10,
+              "url": "https://t.co/wfVt9NakB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018653356571725892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2881,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "聊起粉牛牛就美了😋 https://t.co/wfVt9NakB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 366,
+          "like_count": 7518,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T06:14:00.000Z",
+        "description": "小学生TvT l 私信只回🚪互关 l 碎碎念/小号@UwUwU0U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "UwUwU0U"
+              }
+            ]
+          }
+        },
+        "id": "2001536364685463552",
+        "location": "距离你3.6公里",
+        "name": "小咬",
+        "pinned_tweet_id": "2005524058415440351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001537879441575939/WB2pai3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 15,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 375
+        },
+        "username": "catuuxu",
+        "verified": false
+      }
+    ]
+  }
+}

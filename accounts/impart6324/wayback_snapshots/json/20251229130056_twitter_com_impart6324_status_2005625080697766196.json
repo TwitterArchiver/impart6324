@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005623073408774381",
+    "created_at": "2025-12-29T13:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005625080697766196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345207",
+          "start": 0,
+          "username": "intanssafitri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005625080697766196",
+    "in_reply_to_user_id": "1657345207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005625026939330803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intanssafitri 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005623073408774381",
+        "created_at": "2025-12-29T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005625080697766196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345207",
+              "start": 0,
+              "username": "intanssafitri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005625080697766196",
+        "in_reply_to_user_id": "1657345207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005625026939330803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intanssafitri 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657345207",
+        "conversation_id": "2005623073408774381",
+        "created_at": "2025-12-29T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005625026939330803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005625026939330803",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005623073408774381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 能适应就留，不舒服就走，自己好好的比什么都重要，祝你复学顺利。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 255,
+          "like_count": 4118,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 609
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-09T09:10:23.000Z",
+        "description": "(－＂－怒)",
+        "id": "1657345207",
+        "name": "Gardenia_33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004401189350526978/pQPklOLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 325
+        },
+        "username": "intanssafitri",
+        "verified": false
+      }
+    ]
+  }
+}

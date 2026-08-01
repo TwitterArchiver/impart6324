@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2044188596274409568",
+    "created_at": "2026-04-14T22:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T23:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044188723303305491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044188723303305491",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044188596274409568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 呃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044188589521551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5qsQxWwAAyqLo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2044188596274409568",
+        "created_at": "2026-04-14T22:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044188723303305491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044188723303305491",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044188596274409568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 呃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044188589521551360"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2044188596274409568",
+        "created_at": "2026-04-14T22:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044188596274409568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6iPlh4bA2",
+              "end": 30,
+              "expanded_url": "https://x.com/NagiExpress/status/2044188596274409568/photo/1",
+              "media_key": "3_2044188589521551360",
+              "start": 7,
+              "url": "https://t.co/P6iPlh4bA2"
+            },
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/impart6324/status/2044184287050903807",
+              "start": 31,
+              "url": "https://t.co/xkvjt4shlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044188596274409568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044184287050903807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的兄弟有的 https://t.co/P6iPlh4bA2 https://t.co/xkvjt4shlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2043699847929467070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1262,
+          "like_count": 11343,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "import Madrid \nimport Paris \nimport Brussels \nm = Madrid()\n\nm.get_cuisine(\"Peruvian\")\nm.get_cuisine(\"Venezuelan\")\nm.get_cuisine(\"Mexican\")",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2042981252068683824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038314504044335104/MN_aoLzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5312,
+          "following_count": 2286,
+          "like_count": 26247,
+          "listed_count": 8,
+          "media_count": 2273,
+          "tweet_count": 22252
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

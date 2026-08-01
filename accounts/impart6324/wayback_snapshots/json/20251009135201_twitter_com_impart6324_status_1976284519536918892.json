@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975907734043369472"
+      ],
+      "media_source_tweet_id": [
+        "1975907735976947963"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1976284519536918892",
+    "created_at": "2025-10-09T13:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976284519536918892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881766065900077056",
+          "start": 3,
+          "username": "Xin369556"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Srx09BC2Vu",
+          "end": 38,
+          "expanded_url": "https://x.com/Xin369556/status/1975907735976947963/photo/1",
+          "media_key": "3_1975907734043369472",
+          "start": 15,
+          "url": "https://t.co/Srx09BC2Vu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976284519536918892",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975907735976947963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xin369556: https://t.co/Srx09BC2Vu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_1975907734043369472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vVnYSaIAA32ox.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975907734043369472"
+          ],
+          "media_source_tweet_id": [
+            "1975907735976947963"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1976284519536918892",
+        "created_at": "2025-10-09T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976284519536918892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881766065900077056",
+              "start": 3,
+              "username": "Xin369556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Srx09BC2Vu",
+              "end": 38,
+              "expanded_url": "https://x.com/Xin369556/status/1975907735976947963/photo/1",
+              "media_key": "3_1975907734043369472",
+              "start": 15,
+              "url": "https://t.co/Srx09BC2Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976284519536918892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975907735976947963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xin369556: https://t.co/Srx09BC2Vu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975907734043369472"
+          ]
+        },
+        "author_id": "1881766065900077056",
+        "conversation_id": "1975907735976947963",
+        "created_at": "2025-10-08T12:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975907735976947963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Srx09BC2Vu",
+              "end": 23,
+              "expanded_url": "https://x.com/Xin369556/status/1975907735976947963/photo/1",
+              "media_key": "3_1975907734043369472",
+              "start": 0,
+              "url": "https://t.co/Srx09BC2Vu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975907735976947963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 394459,
+          "like_count": 3234,
+          "quote_count": 25,
+          "reply_count": 105,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Srx09BC2Vu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不敢再相信任何人了 我可以相信你吗 我是一只小狗",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "小y",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 306,
+          "like_count": 36644,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 5538
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

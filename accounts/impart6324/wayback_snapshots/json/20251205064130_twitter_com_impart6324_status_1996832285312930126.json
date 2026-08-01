@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996832285312930126",
+    "created_at": "2025-12-05T06:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T07:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996832285312930126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/impart6324/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/impart6324/status/1996831329917476998",
+          "start": 23,
+          "url": "https://t.co/GDxG585V7a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996832285312930126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996831329917476998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你一辈子都是男的 想当mtf先把自己吊割了吧 https://t.co/GDxG585V7a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996831316575481856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YrgLTbcAAY86w.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996831316487426053",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YrgK-b0AUx4iG.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996832285312930126",
+        "created_at": "2025-12-05T06:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996832285312930126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/impart6324/status/1996831329917476998",
+              "start": 23,
+              "url": "https://t.co/GDxG585V7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996832285312930126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996831329917476998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你一辈子都是男的 想当mtf先把自己吊割了吧 https://t.co/GDxG585V7a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996831316575481856",
+            "3_1996831316487426053"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996831329917476998",
+        "created_at": "2025-12-05T06:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996831329917476998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1994842683790290945",
+              "start": 35,
+              "username": "Zzn122002N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LqdD5mTvc4",
+              "end": 70,
+              "expanded_url": "https://x.com/impart6324/status/1996831329917476998/photo/1",
+              "media_key": "3_1996831316575481856",
+              "start": 47,
+              "url": "https://t.co/LqdD5mTvc4"
+            },
+            {
+              "display_url": "pic.x.com/LqdD5mTvc4",
+              "end": 70,
+              "expanded_url": "https://x.com/impart6324/status/1996831329917476998/photo/1",
+              "media_key": "3_1996831316487426053",
+              "start": 47,
+              "url": "https://t.co/LqdD5mTvc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996831329917476998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "长得丑 逼话多 你长这样还想圈地雷女钱？你能加到一个地雷女全家都烧高香@Zzn122002N https://t.co/LqdD5mTvc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 223,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 464
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

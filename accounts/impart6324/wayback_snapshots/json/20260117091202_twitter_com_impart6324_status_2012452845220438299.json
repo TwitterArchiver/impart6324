@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012369203345719298",
+    "created_at": "2026-01-17T09:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012452845220438299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672856505048264706",
+          "start": 0,
+          "username": "xplq1985411"
+        },
+        {
+          "end": 19,
+          "id": "1829057040750391297",
+          "start": 13,
+          "username": "ucxcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012452845220438299",
+    "in_reply_to_user_id": "1672856505048264706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012373475709600253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xplq1985411 @ucxcv 贱的我想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012369203345719298",
+        "created_at": "2026-01-17T09:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012452845220438299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672856505048264706",
+              "start": 0,
+              "username": "xplq1985411"
+            },
+            {
+              "end": 19,
+              "id": "1829057040750391297",
+              "start": 13,
+              "username": "ucxcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012452845220438299",
+        "in_reply_to_user_id": "1672856505048264706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012373475709600253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xplq1985411 @ucxcv 贱的我想笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672856505048264706",
+        "conversation_id": "2012369203345719298",
+        "created_at": "2026-01-17T03:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012373475709600253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1829057040750391297",
+              "start": 0,
+              "username": "ucxcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012373475709600253",
+        "in_reply_to_user_id": "1829057040750391297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012372804000510359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ucxcv 因为我父母养着我呀🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 324,
+          "like_count": 6004,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 915
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T06:37:35.000Z",
+        "description": "@plq1985411的分身，大号扔在打复活赛中，寻找失散的朋友ing。预备避难所@dplq1985411。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "plq1985411"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "dplq1985411"
+              }
+            ]
+          }
+        },
+        "id": "1672856505048264706",
+        "location": "青岛",
+        "name": "pradge-official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860157901337427971/QXTssgJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 2413,
+          "like_count": 19093,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 2716
+        },
+        "username": "xplq1985411",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T07:22:44.000Z",
+        "description": "多看点书再评价这个世界和我",
+        "id": "1829057040750391297",
+        "location": "🚪300/888/1314",
+        "name": "不",
+        "pinned_tweet_id": "2009654625448890690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993732199984844804/vZe5QSuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28847,
+          "following_count": 15,
+          "like_count": 1620,
+          "listed_count": 62,
+          "media_count": 48,
+          "tweet_count": 177
+        },
+        "username": "ucxcv",
+        "verified": false
+      }
+    ]
+  }
+}

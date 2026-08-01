@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015388895081562616",
+    "created_at": "2026-01-25T12:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015406699625250946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842096170107338754",
+          "start": 0,
+          "username": "hotjellyfishnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015406699625250946",
+    "in_reply_to_user_id": "1842096170107338754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015388895081562616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotjellyfishnya 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015388856011665408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gZfI7bMAALTU2.jpg",
+        "width": 1501
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015388895081562616",
+        "created_at": "2026-01-25T12:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015406699625250946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842096170107338754",
+              "start": 0,
+              "username": "hotjellyfishnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015406699625250946",
+        "in_reply_to_user_id": "1842096170107338754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015388895081562616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotjellyfishnya 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015388856011665408"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "2015388895081562616",
+        "created_at": "2026-01-25T11:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015388895081562616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "majoh",
+              "probability": 0.4825,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1TfioU22w",
+              "end": 29,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2015388895081562616/photo/1",
+              "media_key": "3_2015388856011665408",
+              "start": 6,
+              "url": "https://t.co/d1TfioU22w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015388895081562616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "majoh https://t.co/d1TfioU22w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 341,
+          "like_count": 6646,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1110
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "珍惜每个喜欢我的人 | 172/47 | 日本留学| 中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "name": "火热的小水母",
+        "pinned_tweet_id": "1978386997711343794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 247,
+          "like_count": 857,
+          "listed_count": 16,
+          "media_count": 109,
+          "tweet_count": 256
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

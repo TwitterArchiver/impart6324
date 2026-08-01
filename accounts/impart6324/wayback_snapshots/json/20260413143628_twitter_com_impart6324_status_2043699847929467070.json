@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043699809715191808"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2043699847929467070",
+    "created_at": "2026-04-13T14:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043699847929467070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVyYlIB9TM",
+          "end": 25,
+          "expanded_url": "https://x.com/impart6324/status/2043699847929467070/photo/1",
+          "media_key": "3_2043699809715191808",
+          "start": 2,
+          "url": "https://t.co/RVyYlIB9TM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043699847929467070",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😣 https://t.co/RVyYlIB9TM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043699809715191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyuJiGbgAANP_V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043699809715191808"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2043699847929467070",
+        "created_at": "2026-04-13T14:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043699847929467070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVyYlIB9TM",
+              "end": 25,
+              "expanded_url": "https://x.com/impart6324/status/2043699847929467070/photo/1",
+              "media_key": "3_2043699809715191808",
+              "start": 2,
+              "url": "https://t.co/RVyYlIB9TM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043699847929467070",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😣 https://t.co/RVyYlIB9TM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2037954810453152213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1257,
+          "like_count": 11189,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

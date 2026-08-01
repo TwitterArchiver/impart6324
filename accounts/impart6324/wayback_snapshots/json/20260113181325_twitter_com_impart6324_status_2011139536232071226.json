@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010767521046245760",
+    "created_at": "2026-01-13T18:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T19:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011139536232071226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "18174355",
+          "start": 0,
+          "username": "xiaoshuai0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011139536232071226",
+    "in_reply_to_user_id": "18174355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010767521046245760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshuai0102 问问这人有没有买过猪吊疯狂捅过自己的贱逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2010767514058571777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-euZolbQAEKB38.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010767521046245760",
+        "created_at": "2026-01-13T18:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011139536232071226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "18174355",
+              "start": 0,
+              "username": "xiaoshuai0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011139536232071226",
+        "in_reply_to_user_id": "18174355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010767521046245760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshuai0102 问问这人有没有买过猪吊疯狂捅过自己的贱逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010767514058571777"
+          ]
+        },
+        "author_id": "18174355",
+        "conversation_id": "2010767521046245760",
+        "created_at": "2026-01-12T17:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010767521046245760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAt7Vsamwu",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoshuai0102/status/2010767521046245760/photo/1",
+              "media_key": "3_2010767514058571777",
+              "start": 11,
+              "url": "https://t.co/mAt7Vsamwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010767521046245760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 768064,
+          "like_count": 283,
+          "quote_count": 18,
+          "reply_count": 215,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈 有人买吗？ https://t.co/mAt7Vsamwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 我有精神病 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 305,
+          "like_count": 5531,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 788
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-16T22:10:50.000Z",
+        "description": "来和我一起碎碎念！",
+        "id": "18174355",
+        "name": "小帅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916083116118017/_2_LN1My_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62941,
+          "following_count": 80,
+          "like_count": 84,
+          "listed_count": 57,
+          "media_count": 281,
+          "tweet_count": 398
+        },
+        "username": "xiaoshuai0102",
+        "verified": true
+      }
+    ]
+  }
+}

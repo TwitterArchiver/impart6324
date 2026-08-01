@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013090964009566208"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012873956211233069",
+    "created_at": "2026-01-19T03:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013090974436892677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1563725505538707456",
+          "start": 0,
+          "username": "JTKZDLS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQ1kF3ivoq",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2013090974436892677/photo/1",
+          "media_key": "3_2013090964009566208",
+          "start": 9,
+          "url": "https://t.co/NQ1kF3ivoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013090974436892677",
+    "in_reply_to_user_id": "1563725505538707456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012873956211233069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JTKZDLS https://t.co/NQ1kF3ivoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013090964009566208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_vkOJWwAAwRtf.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013090964009566208"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012873956211233069",
+        "created_at": "2026-01-19T03:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013090974436892677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1563725505538707456",
+              "start": 0,
+              "username": "JTKZDLS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQ1kF3ivoq",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2013090974436892677/photo/1",
+              "media_key": "3_2013090964009566208",
+              "start": 9,
+              "url": "https://t.co/NQ1kF3ivoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013090974436892677",
+        "in_reply_to_user_id": "1563725505538707456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012873956211233069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JTKZDLS https://t.co/NQ1kF3ivoq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563725505538707456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2012873956211233069",
+        "created_at": "2026-01-18T13:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012873956211233069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012873956211233069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1723,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么2026年才听到nujabes 求推荐类似jazz hiphop的专/单曲/音乐人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 329,
+          "like_count": 6218,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 963
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T03:10:04.000Z",
+        "description": "祝你天天开心\nBe water, my friends.\n喜欢我的摄影作品可以给我打钱（我是乞丐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoooyeee",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoooyeee",
+                "start": 0,
+                "url": "https://t.co/HTxiZXVzy2"
+              }
+            ]
+          }
+        },
+        "id": "1563725505538707456",
+        "name": "瑪格南圖片社的粵語殘片",
+        "pinned_tweet_id": "1868124935782387976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712440721914179584/pZw_X99Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 433,
+          "like_count": 16369,
+          "listed_count": 2,
+          "media_count": 1809,
+          "tweet_count": 6840
+        },
+        "url": "https://t.co/HTxiZXVzy2",
+        "username": "JTKZDLS",
+        "verified": false
+      }
+    ]
+  }
+}

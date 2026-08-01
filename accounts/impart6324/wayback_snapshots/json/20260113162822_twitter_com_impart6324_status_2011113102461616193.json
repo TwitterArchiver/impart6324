@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008853588790177919",
+    "created_at": "2026-01-13T16:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011113102461616193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830958225422008320",
+          "start": 0,
+          "username": "castlegbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011113102461616193",
+    "in_reply_to_user_id": "1830958225422008320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008853588790177919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@castlegbqr 有没有吸毒家族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008853588790177919",
+        "created_at": "2026-01-13T16:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011113102461616193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830958225422008320",
+              "start": 0,
+              "username": "castlegbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011113102461616193",
+        "in_reply_to_user_id": "1830958225422008320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008853588790177919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@castlegbqr 有没有吸毒家族"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2008853587628331008"
+          ]
+        },
+        "author_id": "1830958225422008320",
+        "conversation_id": "2008853588790177919",
+        "created_at": "2026-01-07T10:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008853588790177919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008853588790177919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1773,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你来自哪个家族？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 我有精神病 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 305,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 782
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T13:17:46.000Z",
+        "description": "",
+        "id": "1830958225422008320",
+        "location": "太平洋合众国",
+        "name": "高堡奇人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010155650266095616/hqcuOBE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 444,
+          "like_count": 13298,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 2301
+        },
+        "username": "castlegbqr",
+        "verified": true
+      }
+    ]
+  }
+}

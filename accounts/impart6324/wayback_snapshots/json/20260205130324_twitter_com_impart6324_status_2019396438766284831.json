@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019396438766284831",
+    "created_at": "2026-02-05T13:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019396438766284831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/benjaminda9134…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/benjaminda91346/status/2019027051274183152",
+          "start": 4,
+          "url": "https://t.co/wAabHsSou7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019396438766284831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019027051274183152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吵架 https://t.co/wAabHsSou7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33498,
+        "height": 1166,
+        "media_key": "13_1749042044994306048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1749042044994306048/img/cqyl_sgLlFNDwdGJ.jpg",
+        "public_metrics": {
+          "view_count": 14235728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1749042044994306048/vid/avc1/320x446/jGrfGSLYO0lGOCYY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1749042044994306048/vid/avc1/480x670/kjlCn2uADGcd5a_I.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1749042044994306048/vid/avc1/720x1006/A_3sJEZRWJDQFHe8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1749042044994306048/pl/daOPjf3kWtTrIi0a.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019396438766284831",
+        "created_at": "2026-02-05T13:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019396438766284831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/benjaminda9134…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/benjaminda91346/status/2019027051274183152",
+              "start": 4,
+              "url": "https://t.co/wAabHsSou7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019396438766284831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019027051274183152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吵架 https://t.co/wAabHsSou7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1749042044994306048"
+          ],
+          "media_source_tweet_id": [
+            "1749042172001960093"
+          ]
+        },
+        "author_id": "1853907073819664384",
+        "conversation_id": "2019027051274183152",
+        "created_at": "2026-02-04T12:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019027051274183152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "池袋",
+              "probability": 0.9023,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQlIgnbPUv",
+              "end": 36,
+              "expanded_url": "https://x.com/inoyu_c5/status/1749042172001960093/video/1",
+              "media_key": "13_1749042044994306048",
+              "start": 13,
+              "url": "https://t.co/LQlIgnbPUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019027051274183152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2490,
+          "impression_count": 2296968,
+          "like_count": 23459,
+          "quote_count": 628,
+          "reply_count": 384,
+          "retweet_count": 2154
+        },
+        "reply_settings": "everyone",
+        "text": "池袋で喧嘩してる人いた\n https://t.co/LQlIgnbPUv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 370,
+          "like_count": 7774,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T21:08:00.000Z",
+        "description": "ブルバ100 / 表で出せない投稿はこちら👉@RoseBle06954450",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "RoseBle06954450"
+              }
+            ]
+          }
+        },
+        "id": "1853907073819664384",
+        "name": "話題の面白ツイ図鑑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968923473834848256/RLZ2cNhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46972,
+          "following_count": 182,
+          "like_count": 4245,
+          "listed_count": 63,
+          "media_count": 849,
+          "tweet_count": 3290
+        },
+        "username": "BenjaminDa91346",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989656428731404708",
+    "created_at": "2025-11-15T13:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989691097623208344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916128320103890944",
+          "start": 0,
+          "username": "Angeldust_g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989691097623208344",
+    "in_reply_to_user_id": "1916128320103890944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989656428731404708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angeldust_g 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1989656423937253376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yt-dXaoAAVhVo.jpg",
+        "width": 1178
+      },
+      {
+        "height": 758,
+        "media_key": "3_1989656423941447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yt-dYaoAA6NZh.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989656428731404708",
+        "created_at": "2025-11-15T13:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989691097623208344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916128320103890944",
+              "start": 0,
+              "username": "Angeldust_g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989691097623208344",
+        "in_reply_to_user_id": "1916128320103890944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989656428731404708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angeldust_g 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989656423937253376",
+            "3_1989656423941447680"
+          ]
+        },
+        "author_id": "1916128320103890944",
+        "conversation_id": "1989656428731404708",
+        "created_at": "2025-11-15T11:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989656428731404708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IIGzfg838c",
+              "end": 42,
+              "expanded_url": "https://x.com/Angeldust_g/status/1989656428731404708/photo/1",
+              "media_key": "3_1989656423937253376",
+              "start": 19,
+              "url": "https://t.co/IIGzfg838c"
+            },
+            {
+              "display_url": "pic.x.com/IIGzfg838c",
+              "end": 42,
+              "expanded_url": "https://x.com/Angeldust_g/status/1989656428731404708/photo/1",
+              "media_key": "3_1989656423941447680",
+              "start": 19,
+              "url": "https://t.co/IIGzfg838c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989656428731404708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我比较想知道这是干什么 也骗不到钱啊 https://t.co/IIGzfg838c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 355,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 175
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵｜#odtwt｜#shtwt 丨提问箱https://t.co/0uipWc5v1I",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "odtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "shtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/angeldust_g",
+                "end": 54,
+                "expanded_url": "https://ngl.link/angeldust_g",
+                "start": 31,
+                "url": "https://t.co/0uipWc5v1I"
+              }
+            ]
+          }
+        },
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "pinned_tweet_id": "1980996131749572618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984254924574908416/c-FzOLn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 407,
+          "like_count": 2994,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1906
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      }
+    ]
+  }
+}

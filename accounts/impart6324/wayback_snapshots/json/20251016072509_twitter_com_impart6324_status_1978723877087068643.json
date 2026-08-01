@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1965326576423501919",
+    "created_at": "2025-10-16T07:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978723877087068643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963605397509738499",
+          "start": 0,
+          "username": "death_n_reborn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978723877087068643",
+    "in_reply_to_user_id": "1963605397509738499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965326576423501919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@death_n_reborn 好像在视频号刷到过你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_1965326566470336512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y-GXYaQAARnZ-.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965326566478802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y-GXabcAAzoQs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1965326576423501919",
+        "created_at": "2025-10-16T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978723877087068643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963605397509738499",
+              "start": 0,
+              "username": "death_n_reborn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978723877087068643",
+        "in_reply_to_user_id": "1963605397509738499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965326576423501919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@death_n_reborn 好像在视频号刷到过你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965326566470336512",
+            "3_1965326566478802944"
+          ]
+        },
+        "author_id": "1963605397509738499",
+        "conversation_id": "1965326576423501919",
+        "created_at": "2025-09-09T08:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965326576423501919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "パパ活"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "一日女友"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "糖爹"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "女高中生"
+            },
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "找金主"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "缺钱"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "门槛"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "包养"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOfFYFG37C",
+              "end": 135,
+              "expanded_url": "https://x.com/death_n_reborn/status/1965326576423501919/photo/1",
+              "media_key": "3_1965326566470336512",
+              "start": 112,
+              "url": "https://t.co/YOfFYFG37C"
+            },
+            {
+              "display_url": "pic.x.com/YOfFYFG37C",
+              "end": 135,
+              "expanded_url": "https://x.com/death_n_reborn/status/1965326576423501919/photo/1",
+              "media_key": "3_1965326566478802944",
+              "start": 112,
+              "url": "https://t.co/YOfFYFG37C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965326576423501919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13804,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "hi你們好\n包養我好不好呀 我會很聽話的\n互fo互轉歡迎 喜歡對我好的小寶貝\n#爸爸活 #パパ活 #一日女友 #糖爹 #金主爸爸 #女高中生 #ATM打钱奴 #门槛妹 #门槛哥 #找金主 #缺钱 #门槛 #妈妈活 \n#包养 https://t.co/YOfFYFG37C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "来看点黄",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 192,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:09:51.000Z",
+        "description": "只有一個我 隨便吧 一切都是｜歡迎女孩子直fo直轉 看見就回｜夢想是人類毀滅｜坐標15 問題10｜不閒聊",
+        "id": "1963605397509738499",
+        "location": "天国",
+        "name": "最偉大的死亡（互转互fo",
+        "pinned_tweet_id": "1965326576423501919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965314743960481792/C9tCUC8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 26,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 198
+        },
+        "username": "death_n_reborn",
+        "verified": false
+      }
+    ]
+  }
+}

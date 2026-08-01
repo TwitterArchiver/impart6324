@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015386528609161666",
+    "created_at": "2026-01-25T12:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015409146338927005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926810561536208897",
+          "start": 0,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015409146338927005",
+    "in_reply_to_user_id": "1926810561536208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015386528609161666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Owso6y_ 猫脑过载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015386528609161666",
+        "created_at": "2026-01-25T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015409146338927005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015409146338927005",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015386528609161666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 猫脑过载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926810561536208897",
+        "conversation_id": "2015386528609161666",
+        "created_at": "2026-01-25T11:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015386528609161666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015386528609161666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了第一关运输电力至协议共振塔就把我难住了，搜了教程才过的，猫脑过载"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 342,
+          "like_count": 6652,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1116
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8623,
+          "following_count": 5,
+          "like_count": 1075,
+          "listed_count": 14,
+          "media_count": 46,
+          "tweet_count": 125
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

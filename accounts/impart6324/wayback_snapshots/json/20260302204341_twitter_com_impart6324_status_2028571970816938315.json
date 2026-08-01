@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028571955935535104"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028571970816938315",
+    "created_at": "2026-03-02T20:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T21:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028571970816938315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29YTZ6u3O0",
+          "end": 44,
+          "expanded_url": "https://x.com/impart6324/status/2028571970816938315/photo/1",
+          "media_key": "3_2028571955935535104",
+          "start": 21,
+          "url": "https://t.co/29YTZ6u3O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028571970816938315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想进社群微信群的直接加我吧 备注下推特名 https://t.co/29YTZ6u3O0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2028571955935535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbvcjLbYAAMkkJ.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028571955935535104"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028571970816938315",
+        "created_at": "2026-03-02T20:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T21:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028571970816938315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29YTZ6u3O0",
+              "end": 44,
+              "expanded_url": "https://x.com/impart6324/status/2028571970816938315/photo/1",
+              "media_key": "3_2028571955935535104",
+              "start": 21,
+              "url": "https://t.co/29YTZ6u3O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028571970816938315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想进社群微信群的直接加我吧 备注下推特名 https://t.co/29YTZ6u3O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 439,
+          "like_count": 10087,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

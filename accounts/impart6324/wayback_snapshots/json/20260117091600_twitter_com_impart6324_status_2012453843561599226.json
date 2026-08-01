@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012328086654857519",
+    "created_at": "2026-01-17T09:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012453843561599226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2730290977",
+          "start": 0,
+          "username": "nasser99607840"
+        },
+        {
+          "end": 27,
+          "id": "1036222014212648961",
+          "start": 16,
+          "username": "SssXxx____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012453843561599226",
+    "in_reply_to_user_id": "2730290977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012390551178342755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nasser99607840 @SssXxx____ 傻逼鸡你全家被货车碾死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2012390540961050624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1yiO9W8AAE2MS.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012328086654857519",
+        "created_at": "2026-01-17T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012453843561599226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2730290977",
+              "start": 0,
+              "username": "nasser99607840"
+            },
+            {
+              "end": 27,
+              "id": "1036222014212648961",
+              "start": 16,
+              "username": "SssXxx____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012453843561599226",
+        "in_reply_to_user_id": "2730290977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012390551178342755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nasser99607840 @SssXxx____ 傻逼鸡你全家被货车碾死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012390540961050624"
+          ]
+        },
+        "author_id": "2730290977",
+        "conversation_id": "2012328086654857519",
+        "created_at": "2026-01-17T05:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012390551178342755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1036222014212648961",
+              "start": 0,
+              "username": "SssXxx____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5vJZqZMPI",
+              "end": 35,
+              "expanded_url": "https://x.com/nasser99607840/status/2012390551178342755/photo/1",
+              "media_key": "3_2012390540961050624",
+              "start": 12,
+              "url": "https://t.co/Z5vJZqZMPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012390551178342755",
+        "in_reply_to_user_id": "1036222014212648961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4442,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012328086654857519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SssXxx____ https://t.co/Z5vJZqZMPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 324,
+          "like_count": 6009,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 917
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-13T20:33:13.000Z",
+        "description": "05新人 飞机：https://t.co/ibRkfUHem1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tietie228",
+                "end": 31,
+                "expanded_url": "https://t.me/tietie228",
+                "start": 8,
+                "url": "https://t.co/ibRkfUHem1"
+              }
+            ]
+          }
+        },
+        "id": "2730290977",
+        "location": "芜湖",
+        "name": "芜湖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960921907483545600/LbcW1Cdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 47,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 92
+        },
+        "username": "nasser99607840",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-02T11:59:15.000Z",
+        "description": "请忠于自己的欲望｜",
+        "id": "1036222014212648961",
+        "name": "青云",
+        "pinned_tweet_id": "1955128049755881668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241201566893215745/7fgz3XH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14816,
+          "following_count": 44,
+          "like_count": 1050,
+          "listed_count": 28,
+          "media_count": 149,
+          "tweet_count": 173
+        },
+        "username": "SssXxx____",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021556484430278656"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2021556493578097079",
+    "created_at": "2026-02-11T12:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021556493578097079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VyFBZqIHXB",
+          "end": 30,
+          "expanded_url": "https://x.com/impart6324/status/2021556493578097079/photo/1",
+          "media_key": "3_2021556484430278656",
+          "start": 7,
+          "url": "https://t.co/VyFBZqIHXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021556493578097079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感冒了吃个药 https://t.co/VyFBZqIHXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2021556484430278656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4C6XPasAABT_d.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021556484430278656"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021556493578097079",
+        "created_at": "2026-02-11T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021556493578097079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyFBZqIHXB",
+              "end": 30,
+              "expanded_url": "https://x.com/impart6324/status/2021556493578097079/photo/1",
+              "media_key": "3_2021556484430278656",
+              "start": 7,
+              "url": "https://t.co/VyFBZqIHXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021556493578097079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感冒了吃个药 https://t.co/VyFBZqIHXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 391,
+          "like_count": 8049,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012367504883019973",
+    "created_at": "2026-01-18T19:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012975277547114692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674778382834503681",
+          "start": 0,
+          "username": "love82258"
+        },
+        {
+          "end": 18,
+          "id": "1517358875284062213",
+          "start": 11,
+          "username": "opyuor"
+        },
+        {
+          "end": 28,
+          "id": "1405912481130717187",
+          "start": 19,
+          "username": "sktwober"
+        },
+        {
+          "end": 38,
+          "id": "1437679665653686279",
+          "start": 29,
+          "username": "sktworel"
+        },
+        {
+          "end": 49,
+          "id": "1463035825214476288",
+          "start": 39,
+          "username": "sktwolris"
+        },
+        {
+          "end": 59,
+          "id": "1381001119174946818",
+          "start": 50,
+          "username": "sktwobba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012975277547114692",
+    "in_reply_to_user_id": "1674778382834503681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012367504883019973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love82258 @opyuor @sktwober @sktworel @sktwolris @sktwobba 好恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012367488541941761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1dkaAWYAE1Xny.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012367504883019973",
+        "created_at": "2026-01-18T19:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012975277547114692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674778382834503681",
+              "start": 0,
+              "username": "love82258"
+            },
+            {
+              "end": 18,
+              "id": "1517358875284062213",
+              "start": 11,
+              "username": "opyuor"
+            },
+            {
+              "end": 28,
+              "id": "1405912481130717187",
+              "start": 19,
+              "username": "sktwober"
+            },
+            {
+              "end": 38,
+              "id": "1437679665653686279",
+              "start": 29,
+              "username": "sktworel"
+            },
+            {
+              "end": 49,
+              "id": "1463035825214476288",
+              "start": 39,
+              "username": "sktwolris"
+            },
+            {
+              "end": 59,
+              "id": "1381001119174946818",
+              "start": 50,
+              "username": "sktwobba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012975277547114692",
+        "in_reply_to_user_id": "1674778382834503681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012367504883019973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love82258 @opyuor @sktwober @sktworel @sktwolris @sktwobba 好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012367488541941761"
+          ]
+        },
+        "author_id": "1674778382834503681",
+        "conversation_id": "2012367504883019973",
+        "created_at": "2026-01-17T03:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012367504883019973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1405912481130717187",
+              "start": 49,
+              "username": "sktwober"
+            },
+            {
+              "end": 69,
+              "id": "1437679665653686279",
+              "start": 60,
+              "username": "sktworel"
+            },
+            {
+              "end": 80,
+              "id": "1463035825214476288",
+              "start": 70,
+              "username": "sktwolris"
+            },
+            {
+              "end": 90,
+              "id": "1381001119174946818",
+              "start": 81,
+              "username": "sktwobba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooq1zOQwWh",
+              "end": 114,
+              "expanded_url": "https://x.com/love82258/status/2012367504883019973/photo/1",
+              "media_key": "3_2012367488541941761",
+              "start": 91,
+              "url": "https://t.co/ooq1zOQwWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012367504883019973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 209506,
+          "like_count": 3394,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "天气更冷了 我们吃槟榔 吃小学牌槟榔吧                             \n@sktwober \n@sktworel\n@sktwolris\n@sktwobba https://t.co/ooq1zOQwWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 327,
+          "like_count": 6177,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 952
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T13:54:36.000Z",
+        "description": "搞钱吃饭 仅此一个号其他盗图高仿请勿相信 | 电报福利群🚪99r 线上11不用入门 私信我给钱170 10分钟加qq就可以开始结束后也不留好友位 目前只有足够的精力打理这些 裙好看不贵线上满意又省心 已过布尔玛 @ToBulma 小新的日常@xyberdolls等大博主认证 可放心投喂 关评论的都是推广！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 106,
+                "username": "ToBulma"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xyberdolls"
+              }
+            ]
+          }
+        },
+        "id": "1674778382834503681",
+        "location": "可以看我关注里面有回关的都是过了的大博主认证可放心投喂啦",
+        "name": "熊酱(已验证)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765557318903877632/mBaAOEC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211971,
+          "following_count": 31,
+          "like_count": 685,
+          "listed_count": 572,
+          "media_count": 110,
+          "tweet_count": 829
+        },
+        "username": "love82258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T04:26:04.000Z",
+        "description": "🚪288/358私人号/区别是有无脸照 /358是日常号（推荐）/288的是福利号/入门发送支付宝口令和你的微信就可以/520过门解锁一切业务/富哥专属🚪1314/非口令私信拉黑/小号@chekiuop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "chekiuop"
+              }
+            ]
+          }
+        },
+        "id": "1517358875284062213",
+        "location": "只回口令",
+        "name": "笨蛋小狗",
+        "pinned_tweet_id": "1974748537398464724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965626018351202304/q-dDzj_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84332,
+          "following_count": 11,
+          "like_count": 1,
+          "listed_count": 201,
+          "media_count": 20,
+          "tweet_count": 79
+        },
+        "username": "opyuor",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T15:37:20.000Z",
+        "description": "小葵c圈甜蜜@ex_13kanaoto｜全网最高质量@APR333｜靠谱C圈甜蜜约会@sansuicos5|COS圈靠谱就找➡️@PHYTO_ES｜宝藏经纪小闻@xiaowen7758｜兔糖质量最好cos @tutang88十年教兽只做靠谱娱乐@HFJR887｜七喜全球娱乐@qixiyule8888｜——天天开心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "APR333"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "sansuicos5"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "PHYTO_ES"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "xiaowen7758"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "tutang88"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "username": "HFJR887"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "qixiyule8888"
+              }
+            ]
+          }
+        },
+        "id": "1405912481130717187",
+        "name": "流川枫学长",
+        "pinned_tweet_id": "2008947841734254808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923465710027911168/rRCRSyi9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 417579,
+          "following_count": 22,
+          "like_count": 51,
+          "listed_count": 782,
+          "media_count": 0,
+          "tweet_count": 2183
+        },
+        "username": "sktwober",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T07:28:48.000Z",
+        "description": "🍬兔糖线下质量最好cos @tutang88小葵c圈甜蜜线下@ex_13kanaoto线下服务质量第一@linlinqiangcos全网高质量外围包养@KRiuY1舒馨🌍高端私人定制@ShX2468顶尖外围金牌c圈@mnk03cos优质cos找@niancos1三岁@sansuicos5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "tutang88"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "linlinqiangcos"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "KRiuY1"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "ShX2468"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "mnk03cos"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "niancos1"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "sansuicos5"
+              }
+            ]
+          }
+        },
+        "id": "1437679665653686279",
+        "location": "⬇️帅哥小姐姐聊天交友群",
+        "name": "纯情大叔",
+        "pinned_tweet_id": "1982449740861378792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811059985226551299/YHCWEcGg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 532403,
+          "following_count": 416,
+          "like_count": 707,
+          "listed_count": 1119,
+          "media_count": 0,
+          "tweet_count": 9146
+        },
+        "username": "sktworel",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T06:45:11.000Z",
+        "description": "小葵c圈甜蜜@ex_13kanaoto｜全网最高质量@APR333｜靠谱C圈甜蜜约会@sansuicos5|COS圈靠谱就找@PHYTO_ES｜宝藏经纪小闻@xiaowen7758｜兔糖质量最好cos @tutang88｜十年教兽只做靠谱娱乐@HFJR887｜七喜全球娱乐@qixiyule8888｜——天道酬勤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "APR333"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "sansuicos5"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "PHYTO_ES"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xiaowen7758"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "tutang88"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "HFJR887"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "qixiyule8888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/ddfOyT…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/ddfOyTgAgoI1NjU9",
+                "start": 0,
+                "url": "https://t.co/YdVJrTdxqa"
+              }
+            ]
+          }
+        },
+        "id": "1463035825214476288",
+        "location": "聊天群👉",
+        "name": "小妹の日常",
+        "pinned_tweet_id": "2008947995291865480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811022024804061187/I-dQkyW7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 329718,
+          "following_count": 848,
+          "like_count": 41,
+          "listed_count": 1103,
+          "media_count": 0,
+          "tweet_count": 11674
+        },
+        "url": "https://t.co/YdVJrTdxqa",
+        "username": "sktwolris",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-04-10T21:48:34.000Z",
+        "description": "小葵c圈甜蜜@ex_13kanaoto｜全网最高质量@APR333｜靠谱C圈甜蜜约会@sansuicos5|COS圈靠谱就找@PHYTO_ES｜宝藏经纪小闻@xiaowen7758｜兔糖质量最好cos @tutang88｜十年教兽只做靠谱娱乐@HFJR887｜七喜全球娱乐@qixiyule8888｜——可可爱爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "ex_13kanaoto"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "APR333"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "sansuicos5"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "PHYTO_ES"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xiaowen7758"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "tutang88"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "HFJR887"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "qixiyule8888"
+              }
+            ]
+          }
+        },
+        "id": "1381001119174946818",
+        "name": "小猪日常",
+        "pinned_tweet_id": "2008949850629656691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007712911352045568/cB-j_EZB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 325893,
+          "following_count": 21,
+          "like_count": 27,
+          "listed_count": 759,
+          "media_count": 2,
+          "tweet_count": 546
+        },
+        "username": "sktwobba",
+        "verified": true
+      }
+    ]
+  }
+}

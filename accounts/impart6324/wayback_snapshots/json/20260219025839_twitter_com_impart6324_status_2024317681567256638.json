@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024317681567256638",
+    "created_at": "2026-02-19T02:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024317681567256638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newagekami/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/newagekami/status/2024315956668039435",
+          "start": 7,
+          "url": "https://t.co/mqfYgujQC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024317681567256638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024315956668039435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点赞喵谢谢喵 https://t.co/mqfYgujQC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024315946916335617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfQoOEbUAE6HEi.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024315946912141315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfQoODbUAMoLRm.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024317681567256638",
+        "created_at": "2026-02-19T02:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024317681567256638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newagekami/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/newagekami/status/2024315956668039435",
+              "start": 7,
+              "url": "https://t.co/mqfYgujQC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024317681567256638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024315956668039435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点赞喵谢谢喵 https://t.co/mqfYgujQC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024315946916335617",
+            "3_2024315946912141315"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2024315956668039435",
+        "created_at": "2026-02-19T02:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024315956668039435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "門檻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oU9UyGJLKR",
+              "end": 40,
+              "expanded_url": "https://x.com/Newagekami/status/2024315956668039435/photo/1",
+              "media_key": "3_2024315946916335617",
+              "start": 17,
+              "url": "https://t.co/oU9UyGJLKR"
+            },
+            {
+              "display_url": "pic.x.com/oU9UyGJLKR",
+              "end": 40,
+              "expanded_url": "https://x.com/Newagekami/status/2024315956668039435/photo/1",
+              "media_key": "3_2024315946912141315",
+              "start": 17,
+              "url": "https://t.co/oU9UyGJLKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024315956668039435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "還有兩張嗚噗噗噗 #男娘 #門檻 https://t.co/oU9UyGJLKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 406,
+          "like_count": 8872,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 145,
+          "like_count": 1289,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 112
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

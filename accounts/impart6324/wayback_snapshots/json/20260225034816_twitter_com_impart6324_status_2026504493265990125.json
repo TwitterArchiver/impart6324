@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026305083961700779",
+    "created_at": "2026-02-25T03:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026504493265990125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "941664131932811264",
+          "start": 0,
+          "username": "inuwanchan3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026504493265990125",
+    "in_reply_to_user_id": "941664131932811264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026305083961700779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inuwanchan3_ 操你妈，吓死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2026305077087252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hu1ZbMAAJgbz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026305077066207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hu1UaEAAHtle.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026305077066231809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hu1UacAEUgel.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1309,
+        "media_key": "3_2026305077041152000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hu1ObwAATpTy.jpg",
+        "width": 1309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026305083961700779",
+        "created_at": "2026-02-25T03:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026504493265990125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "941664131932811264",
+              "start": 0,
+              "username": "inuwanchan3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026504493265990125",
+        "in_reply_to_user_id": "941664131932811264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026305083961700779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inuwanchan3_ 操你妈，吓死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026305077087252480",
+            "3_2026305077066207232",
+            "3_2026305077066231809",
+            "3_2026305077041152000"
+          ]
+        },
+        "author_id": "941664131932811264",
+        "conversation_id": "2026305083961700779",
+        "created_at": "2026-02-24T14:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026305083961700779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOnxCSYnOb",
+              "end": 32,
+              "expanded_url": "https://x.com/inuwanchan3_/status/2026305083961700779/photo/1",
+              "media_key": "3_2026305077087252480",
+              "start": 9,
+              "url": "https://t.co/pOnxCSYnOb"
+            },
+            {
+              "display_url": "pic.x.com/pOnxCSYnOb",
+              "end": 32,
+              "expanded_url": "https://x.com/inuwanchan3_/status/2026305083961700779/photo/1",
+              "media_key": "3_2026305077066207232",
+              "start": 9,
+              "url": "https://t.co/pOnxCSYnOb"
+            },
+            {
+              "display_url": "pic.x.com/pOnxCSYnOb",
+              "end": 32,
+              "expanded_url": "https://x.com/inuwanchan3_/status/2026305083961700779/photo/1",
+              "media_key": "3_2026305077066231809",
+              "start": 9,
+              "url": "https://t.co/pOnxCSYnOb"
+            },
+            {
+              "display_url": "pic.x.com/pOnxCSYnOb",
+              "end": 32,
+              "expanded_url": "https://x.com/inuwanchan3_/status/2026305083961700779/photo/1",
+              "media_key": "3_2026305077041152000",
+              "start": 9,
+              "url": "https://t.co/pOnxCSYnOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026305083961700779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 418873,
+          "like_count": 4178,
+          "quote_count": 46,
+          "reply_count": 17,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "黒髪お揃いだね🖤 https://t.co/pOnxCSYnOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 418,
+          "like_count": 9172,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-15T13:39:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/inuwanchan3?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/inuwanchan3?igsh=MTJ1N2hyZWx0Z2prZQ==",
+                "start": 0,
+                "url": "https://t.co/CCbutSHWQZ"
+              }
+            ]
+          }
+        },
+        "id": "941664131932811264",
+        "name": "すぴねこ📿🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019414082022162432/aTUmfcgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7006,
+          "following_count": 124,
+          "like_count": 4657,
+          "listed_count": 43,
+          "media_count": 32,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/CCbutSHWQZ",
+        "username": "inuwanchan3_",
+        "verified": false
+      }
+    ]
+  }
+}

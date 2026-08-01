@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858427733963051008"
+      ],
+      "media_source_tweet_id": [
+        "1858498642807857592"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1858930337344053753",
+    "created_at": "2024-11-19T17:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T18:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858930337344053753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669250248265302020",
+          "start": 3,
+          "username": "xu96175836"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hilkv9iKhX",
+          "end": 86,
+          "expanded_url": "https://x.com/xu96175836/status/1858498642807857592/video/1",
+          "media_key": "7_1858427733963051008",
+          "start": 63,
+          "url": "https://t.co/Hilkv9iKhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858930337344053753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858498642807857592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu96175836: 中国人怎么样才能被人看得起？袁腾飞说了大实话 。\n認識透澈。\n袁老师这么好的老师居然被封杀。 https://t.co/Hilkv9iKhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139946,
+        "height": 720,
+        "media_key": "7_1858427733963051008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858427733963051008/pu/img/9oPj3_SjiMkb09cO.jpg",
+        "public_metrics": {
+          "view_count": 116170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858427733963051008/pu/vid/avc1/320x422/pMplQ5tntaEDMdIQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858427733963051008/pu/vid/avc1/480x634/LOVm56vem0aAJmRq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858427733963051008/pu/vid/avc1/544x720/mma_50QAsF16KQX_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858427733963051008/pu/pl/MgOe0W1JlgOmkp84.m3u8?tag=12&v=576"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858427733963051008"
+          ],
+          "media_source_tweet_id": [
+            "1858498642807857592"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1858930337344053753",
+        "created_at": "2024-11-19T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858930337344053753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669250248265302020",
+              "start": 3,
+              "username": "xu96175836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hilkv9iKhX",
+              "end": 86,
+              "expanded_url": "https://x.com/xu96175836/status/1858498642807857592/video/1",
+              "media_key": "7_1858427733963051008",
+              "start": 63,
+              "url": "https://t.co/Hilkv9iKhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858930337344053753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858498642807857592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu96175836: 中国人怎么样才能被人看得起？袁腾飞说了大实话 。\n認識透澈。\n袁老师这么好的老师居然被封杀。 https://t.co/Hilkv9iKhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858427733963051008"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "1858498642807857592",
+        "created_at": "2024-11-18T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858498642807857592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hilkv9iKhX",
+              "end": 70,
+              "expanded_url": "https://x.com/xu96175836/status/1858498642807857592/video/1",
+              "media_key": "7_1858427733963051008",
+              "start": 47,
+              "url": "https://t.co/Hilkv9iKhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858498642807857592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 242821,
+          "like_count": 1786,
+          "quote_count": 13,
+          "reply_count": 59,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "中国人怎么样才能被人看得起？袁腾飞说了大实话 。\n認識透澈。\n袁老师这么好的老师居然被封杀。 https://t.co/Hilkv9iKhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我用的华为手机，你们发的什么我看不见，还有，境外势力你别嚣张！！！！！！！",
+        "id": "1597065444136919040",
+        "name": "又携书剑路茫茫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597065546498834432/CE0MAO6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 56,
+          "like_count": 349,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70529,
+          "following_count": 1500,
+          "like_count": 5399,
+          "listed_count": 226,
+          "tweet_count": 6812
+        },
+        "username": "xu96175836",
+        "verified": false
+      }
+    ]
+  }
+}

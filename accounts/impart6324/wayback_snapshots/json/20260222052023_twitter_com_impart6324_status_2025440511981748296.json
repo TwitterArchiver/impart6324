@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025439977468035508",
+    "created_at": "2026-02-22T05:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025440511981748296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008667957866754048",
+          "start": 0,
+          "username": "FABnakanai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025440511981748296",
+    "in_reply_to_user_id": "2008667957866754048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025439977468035508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FABnakanai ハニー、ほっぺにチューしたいよ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2025439968940969984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvO66aa0AAzDgA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025439977468035508",
+        "created_at": "2026-02-22T05:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025440511981748296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008667957866754048",
+              "start": 0,
+              "username": "FABnakanai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025440511981748296",
+        "in_reply_to_user_id": "2008667957866754048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025439977468035508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FABnakanai ハニー、ほっぺにチューしたいよ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025439968940969984"
+          ]
+        },
+        "author_id": "2008667957866754048",
+        "conversation_id": "2025439977468035508",
+        "created_at": "2026-02-22T05:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025439977468035508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dxeo9d7sKb",
+              "end": 34,
+              "expanded_url": "https://x.com/FABnakanai/status/2025439977468035508/photo/1",
+              "media_key": "3_2025439968940969984",
+              "start": 11,
+              "url": "https://t.co/Dxeo9d7sKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025439977468035508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青少年，我们都是孩子 https://t.co/Dxeo9d7sKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 404,
+          "like_count": 8949,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T22:32:23.000Z",
+        "description": "見つけるな！こんな姿は君にみられたくない",
+        "id": "2008667957866754048",
+        "location": "一生地雷❤︎",
+        "name": "反動少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008697079833726976/Szr5tzC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "username": "FABnakanai",
+        "verified": false
+      }
+    ]
+  }
+}

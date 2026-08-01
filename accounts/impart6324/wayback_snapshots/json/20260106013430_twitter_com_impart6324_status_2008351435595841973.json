@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008207912783761918",
+    "created_at": "2026-01-06T01:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008351435595841973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676626940802007040",
+          "start": 0,
+          "username": "cat_redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008351435595841973",
+    "in_reply_to_user_id": "1676626940802007040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008207912783761918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat_redemption 简介艾特我就有流量了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008207912783761918",
+        "created_at": "2026-01-06T01:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008351435595841973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676626940802007040",
+              "start": 0,
+              "username": "cat_redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008351435595841973",
+        "in_reply_to_user_id": "1676626940802007040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008207912783761918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat_redemption 简介艾特我就有流量了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676626940802007040",
+        "conversation_id": "2008207912783761918",
+        "created_at": "2026-01-05T16:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008207912783761918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008207912783761918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk死全家了我流量呢😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 276,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 781
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:20:02.000Z",
+        "description": "",
+        "id": "1676626940802007040",
+        "name": "aminano_da",
+        "pinned_tweet_id": "2007798909046042673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855274958412226560/1_zCS5Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 666,
+          "like_count": 15802,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 1703
+        },
+        "username": "cat_redemption",
+        "verified": false
+      }
+    ]
+  }
+}

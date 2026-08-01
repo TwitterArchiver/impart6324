@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031375651878613006"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2031375658702745820",
+    "created_at": "2026-03-10T14:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031375658702745820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z25Vgqo98L",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2031375658702745820/photo/1",
+          "media_key": "3_2031375651878613006",
+          "start": 5,
+          "url": "https://t.co/Z25Vgqo98L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031375658702745820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/Z25Vgqo98L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2031375651878613006",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDlZIeaMA48l9Q.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031375651878613006"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031375658702745820",
+        "created_at": "2026-03-10T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031375658702745820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z25Vgqo98L",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2031375658702745820/photo/1",
+              "media_key": "3_2031375651878613006",
+              "start": 5,
+              "url": "https://t.co/Z25Vgqo98L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031375658702745820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/Z25Vgqo98L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 454,
+          "like_count": 10794,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

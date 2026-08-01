@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007789814871949312"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2007789842265223189",
+    "created_at": "2026-01-04T12:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T13:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007789842265223189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LkOaDYHBly",
+          "end": 33,
+          "expanded_url": "https://x.com/impart6324/status/2007789842265223189/photo/1",
+          "media_key": "3_2007789814871949312",
+          "start": 10,
+          "url": "https://t.co/LkOaDYHBly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007789842265223189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃俄罗斯24号军粮 https://t.co/LkOaDYHBly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2007789814871949312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90aMusXAAASpZF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007789814871949312"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007789842265223189",
+        "created_at": "2026-01-04T12:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007789842265223189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkOaDYHBly",
+              "end": 33,
+              "expanded_url": "https://x.com/impart6324/status/2007789842265223189/photo/1",
+              "media_key": "3_2007789814871949312",
+              "start": 10,
+              "url": "https://t.co/LkOaDYHBly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007789842265223189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃俄罗斯24号军粮 https://t.co/LkOaDYHBly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 268,
+          "like_count": 4806,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 716
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

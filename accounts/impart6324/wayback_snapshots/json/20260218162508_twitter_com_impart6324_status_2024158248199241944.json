@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024128668487057641",
+    "created_at": "2026-02-18T16:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024158248199241944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        },
+        {
+          "end": 26,
+          "id": "1505914145182568461",
+          "start": 17,
+          "username": "mgqaqNan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024158248199241944",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024128668487057641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 @mgqaqNan 像男的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024128654662623233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcmSYDa4AE5o5n.jpg",
+        "width": 922
+      },
+      {
+        "height": 1046,
+        "media_key": "3_2024128660312379392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcmStGbUAA1Zec.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024128668487057641",
+        "created_at": "2026-02-18T16:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024158248199241944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            },
+            {
+              "end": 26,
+              "id": "1505914145182568461",
+              "start": 17,
+              "username": "mgqaqNan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024158248199241944",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024128668487057641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 @mgqaqNan 像男的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024128654662623233",
+            "3_2024128660312379392"
+          ]
+        },
+        "author_id": "1711065980959698944",
+        "conversation_id": "2024128668487057641",
+        "created_at": "2026-02-18T14:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024128668487057641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1505914145182568461",
+              "start": 46,
+              "username": "mgqaqNan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cojn8vmiF",
+              "end": 79,
+              "expanded_url": "https://x.com/gngcichfny25600/status/2024128668487057641/photo/1",
+              "media_key": "3_2024128654662623233",
+              "start": 56,
+              "url": "https://t.co/8cojn8vmiF"
+            },
+            {
+              "display_url": "pic.x.com/8cojn8vmiF",
+              "end": 79,
+              "expanded_url": "https://x.com/gngcichfny25600/status/2024128668487057641/photo/1",
+              "media_key": "3_2024128660312379392",
+              "start": 56,
+              "url": "https://t.co/8cojn8vmiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024128668487057641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了，给门姐发个这个也会被block，以前已经给了钱的，我一个星期发一次消息她就看我不爽了。@mgqaqNan https://t.co/8cojn8vmiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 404,
+          "like_count": 8833,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2021488589130113455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1425,
+          "like_count": 8036,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 2066
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T14:28:16.000Z",
+        "description": "待领养的小母狗 🚪88/218/388/520 脾气好好说话 求投喂 支持举牌ID/报时/打视频等验证.. 喜欢爽快哥哥 #可线下 #萝莉 #白虎 #母狗 已过丑哥认证 #四川 #成都",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "可线下"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "萝莉"
+              },
+              {
+                "end": 73,
+                "start": 70,
+                "tag": "白虎"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "母狗"
+              },
+              {
+                "end": 88,
+                "start": 85,
+                "tag": "四川"
+              },
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "成都"
+              }
+            ]
+          }
+        },
+        "id": "1505914145182568461",
+        "location": "上午睡觉基本不在线",
+        "name": "nan 囡囡！",
+        "pinned_tweet_id": "2015528899296264447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014757951341273089/gOO2e7mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 2,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 549
+        },
+        "username": "mgqaqNan",
+        "verified": false
+      }
+    ]
+  }
+}

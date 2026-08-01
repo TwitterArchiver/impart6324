@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010729395976393207",
+    "created_at": "2026-01-12T15:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010731506512359744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943677617103929344",
+          "start": 0,
+          "username": "Nacluv6114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010731506512359744",
+    "in_reply_to_user_id": "1943677617103929344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010730102884299222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacluv6114 我一直都有很多烦心事🙂‍↕️ 我记得幼儿园我爸妈工作很忙 所以我每周隔一天就得是别人送我回家我觉得很烦 小学的时候有很多人注意到我我觉得很烦 初中我又觉得自己太矮了 高中我觉得县城的人很傻逼认知低想逃离环境 我每天都在为人际关系发愁 现在我也对未来保持担忧😓"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010730102884299222].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010730102884299222",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010730102884299222"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T15:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010731506512359744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943677617103929344",
+              "start": 0,
+              "username": "Nacluv6114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010731506512359744",
+        "in_reply_to_user_id": "1943677617103929344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010730102884299222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacluv6114 我一直都有很多烦心事🙂‍↕️ 我记得幼儿园我爸妈工作很忙 所以我每周隔一天就得是别人送我回家我觉得很烦 小学的时候有很多人注意到我我觉得很烦 初中我又觉得自己太矮了 高中我觉得县城的人很傻逼认知低想逃离环境 我每天都在为人际关系发愁 现在我也对未来保持担忧😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 299,
+          "like_count": 5469,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 748
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "所有结局都不是我想要的",
+        "id": "1943677617103929344",
+        "name": "nacl",
+        "pinned_tweet_id": "2003136962451124481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008256677863362560/_RXhAM-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 192,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 554
+        },
+        "username": "Nacluv6114",
+        "verified": false
+      }
+    ]
+  }
+}

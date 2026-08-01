@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004816625686745515",
+    "created_at": "2025-12-27T15:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T16:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004933337123881064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1454067209181925377",
+          "start": 0,
+          "username": "xunzhaochunu1"
+        },
+        {
+          "end": 26,
+          "id": "1908098383740628992",
+          "start": 15,
+          "username": "nayouduo88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004933337123881064",
+    "in_reply_to_user_id": "1454067209181925377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004933138343186838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunzhaochunu1 @nayouduo88 这样翻译是对的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004816625686745515",
+        "created_at": "2025-12-27T15:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004933337123881064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1454067209181925377",
+              "start": 0,
+              "username": "xunzhaochunu1"
+            },
+            {
+              "end": 26,
+              "id": "1908098383740628992",
+              "start": 15,
+              "username": "nayouduo88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004933337123881064",
+        "in_reply_to_user_id": "1454067209181925377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004933138343186838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunzhaochunu1 @nayouduo88 这样翻译是对的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454067209181925377",
+        "conversation_id": "2004816625686745515",
+        "created_at": "2025-12-27T15:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004933138343186838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908098383740628992",
+              "start": 0,
+              "username": "nayouduo88"
+            },
+            {
+              "end": 23,
+              "id": "1597065444136919040",
+              "start": 12,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004933138343186838",
+        "in_reply_to_user_id": "1908098383740628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004890942533439904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nayouduo88 @impart6324 这个翻译太坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 241,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 529
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T12:47:14.000Z",
+        "description": "",
+        "id": "1454067209181925377",
+        "name": "俕个笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559814167078481920/9T5v0LEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 1278,
+          "like_count": 8643,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 2240
+        },
+        "username": "xunzhaochunu1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T10:04:53.000Z",
+        "description": "我输了",
+        "id": "1908098383740628992",
+        "name": "けんすい",
+        "pinned_tweet_id": "1945519408497012950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983964373250142211/9sjaHUx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 189
+        },
+        "username": "nayouduo88",
+        "verified": false
+      }
+    ]
+  }
+}

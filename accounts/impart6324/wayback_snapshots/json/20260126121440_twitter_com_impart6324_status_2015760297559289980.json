@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015758506956370030",
+    "created_at": "2026-01-26T12:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015760297559289980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887083833616699393",
+          "start": 0,
+          "username": "4hukzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015760297559289980",
+    "in_reply_to_user_id": "1887083833616699393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015758506956370030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4hukzj 来上海吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015758506956370030",
+        "created_at": "2026-01-26T12:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015760297559289980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887083833616699393",
+              "start": 0,
+              "username": "4hukzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015760297559289980",
+        "in_reply_to_user_id": "1887083833616699393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015758506956370030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4hukzj 来上海吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887083833616699393",
+        "conversation_id": "2015758506956370030",
+        "created_at": "2026-01-26T12:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015758506956370030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015758506956370030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想逃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 345,
+          "like_count": 6697,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1145
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T10:20:36.000Z",
+        "description": "🚪99/199/299/520/1314",
+        "id": "1887083833616699393",
+        "name": "唉我有点想哭",
+        "pinned_tweet_id": "2015617201391222997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015746299937636352/Zi6w2A6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "4hukzj",
+        "verified": false
+      }
+    ]
+  }
+}

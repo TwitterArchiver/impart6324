@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005659133228503041"
+      ],
+      "media_source_tweet_id": [
+        "2005659208096645144"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005660607249539559",
+    "created_at": "2025-12-29T15:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T16:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005660607249539559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002819291087777792",
+          "start": 3,
+          "username": "Yamikawaiiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nS3VopENJm",
+          "end": 76,
+          "expanded_url": "https://x.com/Yamikawaiiiiii/status/2005659208096645144/video/1",
+          "media_key": "13_2005659133228503041",
+          "start": 53,
+          "url": "https://t.co/nS3VopENJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005660607249539559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005659208096645144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamikawaiiiiii: 抖音两天三十万人看过三千人骂过的视频，你们真的不点开看看吗🚼🚼🚼 https://t.co/nS3VopENJm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005660607249539559].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005660607249539559",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005660607249539559"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_2005659133228503041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005659133228503041/img/GJewUUwRahypVNjs.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005659133228503041/vid/avc1/320x568/Mk25cbcrd-dkoD6J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005659133228503041/vid/avc1/480x852/f_gyS9KpUqH73yOm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005659133228503041/vid/avc1/720x1280/W2Ad4U07yFI-Tgn6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005659133228503041/pl/PEtYNz3mD3BRl-CG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005659133228503041"
+          ]
+        },
+        "author_id": "2002819291087777792",
+        "conversation_id": "2005659208096645144",
+        "created_at": "2025-12-29T15:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005659208096645144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nS3VopENJm",
+              "end": 56,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2005659208096645144/video/1",
+              "media_key": "13_2005659133228503041",
+              "start": 33,
+              "url": "https://t.co/nS3VopENJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005659208096645144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抖音两天三十万人看过三千人骂过的视频，你们真的不点开看看吗🚼🚼🚼 https://t.co/nS3VopENJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 259,
+          "like_count": 4210,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 619
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我很善良不要背刺我求你了 ｜地雷｜餐卷｜AntiChrist｜Satanist｜yamikawaii｜不幸福的中国人｜呪的日常｜谢谢你来看我｜我没有钱｜来找我说话｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003584124922044416/mqDhVGbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

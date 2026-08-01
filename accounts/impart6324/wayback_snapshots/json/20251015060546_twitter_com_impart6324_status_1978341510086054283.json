@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1978340894798438907",
+    "created_at": "2025-10-15T06:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T07:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978341510086054283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850192675238182912",
+          "start": 0,
+          "username": "apex5211314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978341510086054283",
+    "in_reply_to_user_id": "1850192675238182912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978340894798438907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apex5211314 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1978340894798438907",
+        "created_at": "2025-10-15T06:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978341510086054283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850192675238182912",
+              "start": 0,
+              "username": "apex5211314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978341510086054283",
+        "in_reply_to_user_id": "1850192675238182912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978340894798438907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apex5211314 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850192675238182912",
+        "conversation_id": "1978340894798438907",
+        "created_at": "2025-10-15T06:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978340894798438907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/impart6324/status/1977773769709273281",
+              "start": 13,
+              "url": "https://t.co/gHs6FSk2FT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978340894798438907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977773769709273281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢1和2但是我是肥猪 https://t.co/gHs6FSk2FT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 167,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T15:08:12.000Z",
+        "description": "注意看⚠问题带口令！坐标15r！视频认证30r（不露脸！不然基本不回\n私信多发几遍 推特会吞\n许愿一个真心爱我的金主爸爸 我会提供情绪价值也会准备小礼物的 \n288咨询线下  全国可✈️\n可验证 语音免费 出原味\n门槛无上限 2888 3344也可以 福利体验感的话钱越多越好哦\n爱你们",
+        "id": "1850192675238182912",
+        "name": "甜茶sweet🍧",
+        "pinned_tweet_id": "1964665989272076481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883494346634481664/udCaGzVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 108,
+          "like_count": 51,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 753
+        },
+        "username": "apex5211314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021246486911336448"
+      ],
+      "media_source_tweet_id": [
+        "2021246539625050272"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021520369082122372",
+    "created_at": "2026-02-11T09:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021520369082122372"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Outlast Yumeshippers",
+          "probability": 0.6364,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1503247002682933250",
+          "start": 3,
+          "username": "preworkyank"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/256FRmlYKX",
+          "end": 61,
+          "expanded_url": "https://x.com/preworkyank/status/2021246539625050272/video/1",
+          "media_key": "13_2021246486911336448",
+          "start": 38,
+          "url": "https://t.co/256FRmlYKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021520369082122372",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1069
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021246539625050272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @preworkyank: Outlast Yumeshippers https://t.co/256FRmlYKX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7130,
+        "height": 1024,
+        "media_key": "13_2021246486911336448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021246486911336448/img/IY3i3U3aSYVqjuQD.jpg",
+        "public_metrics": {
+          "view_count": 62286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021246486911336448/vid/avc1/320x568/lm9loct9ONWmqGuv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021246486911336448/vid/avc1/480x852/p126AzlFyZIPbJ9c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021246486911336448/vid/avc1/576x1024/es91YMdAFWDvF_Le.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021246486911336448/pl/55eAuBkVYp-rjzzW.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021246486911336448"
+          ],
+          "media_source_tweet_id": [
+            "2021246539625050272"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021520369082122372",
+        "created_at": "2026-02-11T09:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021520369082122372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Outlast Yumeshippers",
+              "probability": 0.6364,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1503247002682933250",
+              "start": 3,
+              "username": "preworkyank"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/256FRmlYKX",
+              "end": 61,
+              "expanded_url": "https://x.com/preworkyank/status/2021246539625050272/video/1",
+              "media_key": "13_2021246486911336448",
+              "start": 38,
+              "url": "https://t.co/256FRmlYKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021520369082122372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1069
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021246539625050272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @preworkyank: Outlast Yumeshippers https://t.co/256FRmlYKX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021246486911336448"
+          ]
+        },
+        "author_id": "1503247002682933250",
+        "conversation_id": "2021246539625050272",
+        "created_at": "2026-02-10T15:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021246539625050272"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Outlast",
+              "probability": 0.6371,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Yumeshippers",
+              "probability": 0.4488,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/256FRmlYKX",
+              "end": 44,
+              "expanded_url": "https://x.com/preworkyank/status/2021246539625050272/video/1",
+              "media_key": "13_2021246486911336448",
+              "start": 21,
+              "url": "https://t.co/256FRmlYKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021246539625050272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 967,
+          "impression_count": 144008,
+          "like_count": 9611,
+          "quote_count": 58,
+          "reply_count": 46,
+          "retweet_count": 1069
+        },
+        "reply_settings": "everyone",
+        "text": "Outlast Yumeshippers https://t.co/256FRmlYKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 390,
+          "like_count": 8030,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T05:49:58.000Z",
+        "description": "I’m on some shit that ain’t even out the ass yet || priv: @preworkray || #1 snitchcoyle fan #4life",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "4life"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "preworkray"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rayboifarti.straw.page",
+                "end": 23,
+                "expanded_url": "https://rayboifarti.straw.page",
+                "start": 0,
+                "url": "https://t.co/0u9aNECdr3"
+              }
+            ]
+          }
+        },
+        "id": "1503247002682933250",
+        "location": "he him",
+        "name": "Rayboi Farti",
+        "pinned_tweet_id": "2008579802408906853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001435210710183936/IE5SZW4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6671,
+          "following_count": 632,
+          "like_count": 55299,
+          "listed_count": 31,
+          "media_count": 3345,
+          "tweet_count": 11650
+        },
+        "url": "https://t.co/0u9aNECdr3",
+        "username": "preworkyank",
+        "verified": false
+      }
+    ]
+  }
+}

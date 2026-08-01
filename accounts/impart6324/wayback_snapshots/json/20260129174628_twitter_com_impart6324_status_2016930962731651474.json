@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016902703302267174",
+    "created_at": "2026-01-29T17:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016930962731651474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "xiaoyv_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016930962731651474",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016929495266247001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyv_zero 傻逼一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-29T17:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016930962731651474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "xiaoyv_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016930962731651474",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016929495266247001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyv_zero 傻逼一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-29T17:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016929495266247001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016929495266247001",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016902703302267174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 看他到处骂人，又骂我朋友，又骂我互关😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 349,
+          "like_count": 7151,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1227
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//生理男（伪娘）//要互关或者加好友请私信我//月亮计划 车万 主播女孩 十二神器 还有一些老ip//喜欢小唐和老唐 鸿潞 糖糖 古明地恋之类的角//od//cos//碎碎念//自伤//我有心理疾病请谅解//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2015820565563732006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012970743043178498/YWOliqro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 541,
+          "like_count": 6284,
+          "listed_count": 6,
+          "media_count": 275,
+          "tweet_count": 3350
+        },
+        "username": "xiaoyv_zero",
+        "verified": false
+      }
+    ]
+  }
+}

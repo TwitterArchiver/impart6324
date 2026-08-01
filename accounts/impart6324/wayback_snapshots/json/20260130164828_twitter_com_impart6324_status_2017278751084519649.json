@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017278733762043904"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017278751084519649",
+    "created_at": "2026-01-30T16:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017278751084519649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/54uwHxmnxJ",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2017278751084519649/photo/1",
+          "media_key": "3_2017278733762043904",
+          "start": 0,
+          "url": "https://t.co/54uwHxmnxJ"
+        },
+        {
+          "display_url": "x.com/heya8964/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/heya8964/status/2017198478149984613",
+          "start": 24,
+          "url": "https://t.co/NiEdE2sRdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017278751084519649",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017198478149984613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/54uwHxmnxJ https://t.co/NiEdE2sRdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2017278733762043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7QUgLWIAAJkbx.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017278733762043904"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017278751084519649",
+        "created_at": "2026-01-30T16:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017278751084519649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54uwHxmnxJ",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2017278751084519649/photo/1",
+              "media_key": "3_2017278733762043904",
+              "start": 0,
+              "url": "https://t.co/54uwHxmnxJ"
+            },
+            {
+              "display_url": "x.com/heya8964/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/heya8964/status/2017198478149984613",
+              "start": 24,
+              "url": "https://t.co/NiEdE2sRdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017278751084519649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017198478149984613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/54uwHxmnxJ https://t.co/NiEdE2sRdZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999312958019829760",
+        "conversation_id": "2017198478149984613",
+        "created_at": "2026-01-30T11:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017198478149984613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fakeeco_077/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/fakeeco_077/status/2016932535888949295",
+              "start": 39,
+              "url": "https://t.co/Bb3cfjmp5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017198478149984613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016932535888949295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收钱鸡大战免费鸡，这群鸡能不能赶紧和粉红看黄男结婚生三胎去，别上网出来闹笑话 https://t.co/Bb3cfjmp5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 369,
+          "like_count": 7313,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1276
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T02:58:57.000Z",
+        "description": "馒头烤焦了",
+        "id": "1999312958019829760",
+        "name": "烤馒头de馒头芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016460102501584896/oDUnKwnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 91,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 649
+        },
+        "username": "heya8964",
+        "verified": false
+      }
+    ]
+  }
+}

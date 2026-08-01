@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007095128838783293",
+    "created_at": "2026-01-02T14:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007095128838783293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmslwcnm8964/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nmslwcnm8964/status/2003184779391566178",
+          "start": 5,
+          "url": "https://t.co/215J0gR1wA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007095128838783293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003184779391566178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注一下 https://t.co/215J0gR1wA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2003184768641609728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8y97wpbMAAItFz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003184768549289989",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8y97wTagAU_i14.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007095128838783293",
+        "created_at": "2026-01-02T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007095128838783293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmslwcnm8964/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nmslwcnm8964/status/2003184779391566178",
+              "start": 5,
+              "url": "https://t.co/215J0gR1wA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007095128838783293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003184779391566178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注一下 https://t.co/215J0gR1wA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003184768641609728",
+            "3_2003184768549289989"
+          ]
+        },
+        "author_id": "1975733018028609536",
+        "conversation_id": "2003184779391566178",
+        "created_at": "2025-12-22T19:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003184779391566178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKdfKdBDY5",
+              "end": 111,
+              "expanded_url": "https://x.com/nmslsbwcnm99/status/2003184779391566178/photo/1",
+              "media_key": "3_2003184768641609728",
+              "start": 88,
+              "url": "https://t.co/CKdfKdBDY5"
+            },
+            {
+              "display_url": "pic.x.com/CKdfKdBDY5",
+              "end": 111,
+              "expanded_url": "https://x.com/nmslsbwcnm99/status/2003184779391566178/photo/1",
+              "media_key": "3_2003184768549289989",
+              "start": 88,
+              "url": "https://t.co/CKdfKdBDY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003184779391566178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3685,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🔝=芝芝 160/80\n转生数不清第几次...没钱挂壁所以继续营业\n不过门验证30 喜欢我请给我钱\n换微信了之前不小心删了的门哥可以找我加回来\n女孩子互fo互转欢迎^•𖥦•^ https://t.co/CKdfKdBDY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 261,
+          "like_count": 4562,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 689
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T01:20:40.000Z",
+        "description": "闺蜜@Yamikawaiiiiii  私信只回口令除非你是日本国籍要和我结婚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Yamikawaiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1975733018028609536",
+        "name": "哈基芝",
+        "pinned_tweet_id": "2003184779391566178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002088439630700544/NQnV1hE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 20,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 180
+        },
+        "username": "nmslwcnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

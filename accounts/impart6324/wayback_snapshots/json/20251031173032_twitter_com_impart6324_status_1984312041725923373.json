@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984311895265067008",
+        "3_1984311895298629632",
+        "3_1984311895256653824",
+        "3_1984311895285993473"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984312041725923373",
+    "created_at": "2025-10-31T17:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984312041725923373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H0mBaHRn2o",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+          "media_key": "3_1984311895265067008",
+          "start": 0,
+          "url": "https://t.co/H0mBaHRn2o"
+        },
+        {
+          "display_url": "pic.x.com/H0mBaHRn2o",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+          "media_key": "3_1984311895298629632",
+          "start": 0,
+          "url": "https://t.co/H0mBaHRn2o"
+        },
+        {
+          "display_url": "pic.x.com/H0mBaHRn2o",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+          "media_key": "3_1984311895256653824",
+          "start": 0,
+          "url": "https://t.co/H0mBaHRn2o"
+        },
+        {
+          "display_url": "pic.x.com/H0mBaHRn2o",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+          "media_key": "3_1984311895285993473",
+          "start": 0,
+          "url": "https://t.co/H0mBaHRn2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984312041725923373",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/H0mBaHRn2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984311895265067008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mxJ8jbQAARgBd.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1984311895298629632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mxJ8rbYAAWO7h.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1984311895256653824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mxJ8ha4AAFXSZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984311895285993473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mxJ8oakAEpx2P.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984311895265067008",
+            "3_1984311895298629632",
+            "3_1984311895256653824",
+            "3_1984311895285993473"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984312041725923373",
+        "created_at": "2025-10-31T17:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984312041725923373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0mBaHRn2o",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+              "media_key": "3_1984311895265067008",
+              "start": 0,
+              "url": "https://t.co/H0mBaHRn2o"
+            },
+            {
+              "display_url": "pic.x.com/H0mBaHRn2o",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+              "media_key": "3_1984311895298629632",
+              "start": 0,
+              "url": "https://t.co/H0mBaHRn2o"
+            },
+            {
+              "display_url": "pic.x.com/H0mBaHRn2o",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+              "media_key": "3_1984311895256653824",
+              "start": 0,
+              "url": "https://t.co/H0mBaHRn2o"
+            },
+            {
+              "display_url": "pic.x.com/H0mBaHRn2o",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1984312041725923373/photo/1",
+              "media_key": "3_1984311895285993473",
+              "start": 0,
+              "url": "https://t.co/H0mBaHRn2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984312041725923373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H0mBaHRn2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 273,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 168
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

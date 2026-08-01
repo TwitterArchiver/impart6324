@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017848172970971641",
+    "created_at": "2026-02-03T03:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018530768117785039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844032699885076481",
+          "start": 0,
+          "username": "b_ertha83004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018530768117785039",
+    "in_reply_to_user_id": "1844032699885076481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017848172970971641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b_ertha83004 你妈死了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017848162002817025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADWNlraUAED-LK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017848162200047616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADWNmab0AADrnI.jpg",
+        "width": 821
+      },
+      {
+        "height": 1846,
+        "media_key": "3_2017848162002841600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADWNlrasAATGGk.jpg",
+        "width": 847
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017848162015449093",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADWNlubEAUVmSj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017848172970971641",
+        "created_at": "2026-02-03T03:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018530768117785039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844032699885076481",
+              "start": 0,
+              "username": "b_ertha83004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018530768117785039",
+        "in_reply_to_user_id": "1844032699885076481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017848172970971641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b_ertha83004 你妈死了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017848162002817025",
+            "3_2017848162200047616",
+            "3_2017848162002841600",
+            "3_2017848162015449093"
+          ]
+        },
+        "author_id": "1844032699885076481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017848172970971641",
+        "created_at": "2026-02-01T06:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017848172970971641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "小狗日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWU7ieVduq",
+              "end": 58,
+              "expanded_url": "https://x.com/b_ertha83004/status/2017848172970971641/photo/1",
+              "media_key": "3_2017848162002817025",
+              "start": 35,
+              "url": "https://t.co/VWU7ieVduq"
+            },
+            {
+              "display_url": "pic.x.com/VWU7ieVduq",
+              "end": 58,
+              "expanded_url": "https://x.com/b_ertha83004/status/2017848172970971641/photo/1",
+              "media_key": "3_2017848162200047616",
+              "start": 35,
+              "url": "https://t.co/VWU7ieVduq"
+            },
+            {
+              "display_url": "pic.x.com/VWU7ieVduq",
+              "end": 58,
+              "expanded_url": "https://x.com/b_ertha83004/status/2017848172970971641/photo/1",
+              "media_key": "3_2017848162002841600",
+              "start": 35,
+              "url": "https://t.co/VWU7ieVduq"
+            },
+            {
+              "display_url": "pic.x.com/VWU7ieVduq",
+              "end": 58,
+              "expanded_url": "https://x.com/b_ertha83004/status/2017848172970971641/photo/1",
+              "media_key": "3_2017848162015449093",
+              "start": 35,
+              "url": "https://t.co/VWU7ieVduq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017848172970971641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 610,
+          "impression_count": 1643039,
+          "like_count": 3302,
+          "quote_count": 75,
+          "reply_count": 386,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "#小狗日记\n找到了让🍒更好吃的方法~  \n就是一个满满到空空的过程😄 https://t.co/VWU7ieVduq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 379,
+          "like_count": 7422,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1246
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T15:10:46.000Z",
+        "description": "૮ ⦁ ˕ ⦁ ა「汪汪汪~」是小🐶电台🐾",
+        "id": "1844032699885076481",
+        "name": "ertha B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014252721721999360/TJjCNMs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5246,
+          "following_count": 6,
+          "like_count": 40,
+          "listed_count": 11,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "b_ertha83004",
+        "verified": false
+      }
+    ]
+  }
+}

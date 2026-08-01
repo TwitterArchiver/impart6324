@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002021094451224577",
+        "3_2002021094866448385"
+      ],
+      "media_source_tweet_id": [
+        "2002021125250027872",
+        "2002021125250027872"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2002030749634183257",
+    "created_at": "2025-12-19T14:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002030749634183257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385979996439814157",
+          "start": 3,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jMIa6Z3j9y",
+          "end": 110,
+          "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+          "media_key": "3_2002021094451224577",
+          "start": 87,
+          "url": "https://t.co/jMIa6Z3j9y"
+        },
+        {
+          "display_url": "pic.x.com/jMIa6Z3j9y",
+          "end": 110,
+          "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+          "media_key": "3_2002021094866448385",
+          "start": 87,
+          "url": "https://t.co/jMIa6Z3j9y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002030749634183257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002021125250027872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5OL5OdJlYuZ62Wo: 厦门人要是看到了p2的帽子请联系我好吗。我今天的活动区域在磐基中心还有联发华美空间那一片和地铁站，要是看到了帽子请一定要联系我😭😭 https://t.co/jMIa6Z3j9y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2002021094451224577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iblAeaoAE3KBQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002021094866448385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iblCBacAEApwy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002021094451224577",
+            "3_2002021094866448385"
+          ],
+          "media_source_tweet_id": [
+            "2002021125250027872",
+            "2002021125250027872"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002030749634183257",
+        "created_at": "2025-12-19T14:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002030749634183257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385979996439814157",
+              "start": 3,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMIa6Z3j9y",
+              "end": 110,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+              "media_key": "3_2002021094451224577",
+              "start": 87,
+              "url": "https://t.co/jMIa6Z3j9y"
+            },
+            {
+              "display_url": "pic.x.com/jMIa6Z3j9y",
+              "end": 110,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+              "media_key": "3_2002021094866448385",
+              "start": 87,
+              "url": "https://t.co/jMIa6Z3j9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002030749634183257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002021125250027872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5OL5OdJlYuZ62Wo: 厦门人要是看到了p2的帽子请联系我好吗。我今天的活动区域在磐基中心还有联发华美空间那一片和地铁站，要是看到了帽子请一定要联系我😭😭 https://t.co/jMIa6Z3j9y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002021094451224577",
+            "3_2002021094866448385"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002021125250027872",
+        "created_at": "2025-12-19T14:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002021125250027872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMIa6Z3j9y",
+              "end": 89,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+              "media_key": "3_2002021094451224577",
+              "start": 66,
+              "url": "https://t.co/jMIa6Z3j9y"
+            },
+            {
+              "display_url": "pic.x.com/jMIa6Z3j9y",
+              "end": 89,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/2002021125250027872/photo/1",
+              "media_key": "3_2002021094866448385",
+              "start": 66,
+              "url": "https://t.co/jMIa6Z3j9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002021125250027872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "厦门人要是看到了p2的帽子请联系我好吗。我今天的活动区域在磐基中心还有联发华美空间那一片和地铁站，要是看到了帽子请一定要联系我😭😭 https://t.co/jMIa6Z3j9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 229,
+          "like_count": 3159,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 513
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "备用号@Owso6y_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Owso6y_"
+              }
+            ]
+          }
+        },
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1963505067027566827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56408,
+          "following_count": 10,
+          "like_count": 14482,
+          "listed_count": 155,
+          "media_count": 1346,
+          "tweet_count": 6302
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

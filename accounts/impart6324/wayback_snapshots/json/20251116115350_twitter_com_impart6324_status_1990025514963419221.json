@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990018345744338944",
+        "3_1990018345723437057"
+      ],
+      "media_source_tweet_id": [
+        "1990018400928870578",
+        "1990018400928870578"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1990025514963419221",
+    "created_at": "2025-11-16T11:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990025514963419221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908697686917996547",
+          "start": 3,
+          "username": "wOcCcaO_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MlLVxEk1Dm",
+          "end": 42,
+          "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+          "media_key": "3_1990018345744338944",
+          "start": 19,
+          "url": "https://t.co/MlLVxEk1Dm"
+        },
+        {
+          "display_url": "pic.x.com/MlLVxEk1Dm",
+          "end": 42,
+          "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+          "media_key": "3_1990018345723437057",
+          "start": 19,
+          "url": "https://t.co/MlLVxEk1Dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990025514963419221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990018400928870578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wOcCcaO_: 双重人格 https://t.co/MlLVxEk1Dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990018345744338944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G533JFKaEAAtf6o.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990018345723437057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G533JFFbIAEMq7w.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990018345744338944",
+            "3_1990018345723437057"
+          ],
+          "media_source_tweet_id": [
+            "1990018400928870578",
+            "1990018400928870578"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1990025514963419221",
+        "created_at": "2025-11-16T11:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990025514963419221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908697686917996547",
+              "start": 3,
+              "username": "wOcCcaO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlLVxEk1Dm",
+              "end": 42,
+              "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+              "media_key": "3_1990018345744338944",
+              "start": 19,
+              "url": "https://t.co/MlLVxEk1Dm"
+            },
+            {
+              "display_url": "pic.x.com/MlLVxEk1Dm",
+              "end": 42,
+              "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+              "media_key": "3_1990018345723437057",
+              "start": 19,
+              "url": "https://t.co/MlLVxEk1Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990025514963419221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990018400928870578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wOcCcaO_: 双重人格 https://t.co/MlLVxEk1Dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990018345744338944",
+            "3_1990018345723437057"
+          ]
+        },
+        "author_id": "1908697686917996547",
+        "conversation_id": "1990018400928870578",
+        "created_at": "2025-11-16T11:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990018400928870578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlLVxEk1Dm",
+              "end": 28,
+              "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+              "media_key": "3_1990018345744338944",
+              "start": 5,
+              "url": "https://t.co/MlLVxEk1Dm"
+            },
+            {
+              "display_url": "pic.x.com/MlLVxEk1Dm",
+              "end": 28,
+              "expanded_url": "https://x.com/wOcCcaO_/status/1990018400928870578/photo/1",
+              "media_key": "3_1990018345723437057",
+              "start": 5,
+              "url": "https://t.co/MlLVxEk1Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990018400928870578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "双重人格 https://t.co/MlLVxEk1Dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1989711690615939511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 357,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 198
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的人类，社畜，我想发什么就发什么，不要骂我，欢迎和我交朋友",
+        "id": "1908697686917996547",
+        "name": "我操，",
+        "pinned_tweet_id": "1965807422003634597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965801618093244416/3CnOe8QP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 245,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2720
+        },
+        "username": "wOcCcaO_",
+        "verified": false
+      }
+    ]
+  }
+}

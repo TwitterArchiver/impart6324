@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983129443209228289"
+      ],
+      "media_source_tweet_id": [
+        "1983129448875774045"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1983146655265481156",
+    "created_at": "2025-10-28T12:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T13:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983146655265481156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699421377520951296",
+          "start": 3,
+          "username": "Maorou_K8M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iUev1Hikgl",
+          "end": 107,
+          "expanded_url": "https://x.com/Maorou_K8M/status/1983129448875774045/photo/1",
+          "media_key": "3_1983129443209228289",
+          "start": 84,
+          "url": "https://t.co/iUev1Hikgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983146655265481156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983129448875774045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maorou_K8M: 举报➕转发 成功后 抽评论区两个998门槛和一个100块钱口令红包（或者直接发口令红包在推 你们去抢也可以 到时候定时间？ 你们觉得呢 https://t.co/iUev1Hikgl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983146655265481156].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983146655265481156",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983146655265481156"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983129443209228289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4V9uLYasAEWgpZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983129443209228289"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1983129448875774045",
+        "created_at": "2025-10-28T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983129448875774045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUev1Hikgl",
+              "end": 91,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1983129448875774045/photo/1",
+              "media_key": "3_1983129443209228289",
+              "start": 68,
+              "url": "https://t.co/iUev1Hikgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983129448875774045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5142,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "举报➕转发 成功后 抽评论区两个998门槛和一个100块钱口令红包（或者直接发口令红包在推 你们去抢也可以 到时候定时间？ 你们觉得呢 https://t.co/iUev1Hikgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 261,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 143
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins/b站 （推特所有账号请看背景图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240259,
+          "following_count": 41,
+          "like_count": 456,
+          "listed_count": 625,
+          "media_count": 374,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

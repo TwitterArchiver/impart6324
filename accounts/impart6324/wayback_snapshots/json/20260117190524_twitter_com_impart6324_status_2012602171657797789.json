@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012588286359884165",
+    "created_at": "2026-01-17T19:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T20:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012602171657797789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621176565752295430",
+          "start": 0,
+          "username": "mkeiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012602171657797789",
+    "in_reply_to_user_id": "1621176565752295430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012588286359884165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkeiio 需要社交了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012588286359884165",
+        "created_at": "2026-01-17T19:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012602171657797789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621176565752295430",
+              "start": 0,
+              "username": "mkeiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012602171657797789",
+        "in_reply_to_user_id": "1621176565752295430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012588286359884165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkeiio 需要社交了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621176565752295430",
+        "conversation_id": "2012588286359884165",
+        "created_at": "2026-01-17T18:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012588286359884165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012588286359884165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前就特别喜欢出门 天天出门 我现在一点都不喜欢出门 出门了也不知道干嘛 出门也让我觉得无聊 可能是感觉什么都没意思 我也不清楚 也有可能什么都干过了 我都感受不到什么东西 外面的人也让我觉得无聊 大家都像野兽一样的交配着 玩着国王朋友游戏  社交之类的也很没意思 网络社交也是没意思的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2012548406443495796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 325,
+          "like_count": 6044,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 944
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T16:00:03.000Z",
+        "description": "",
+        "id": "1621176565752295430",
+        "location": "🚪100/520只回口令",
+        "name": "纯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007232289475047429/aoil-8ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8458,
+          "following_count": 87,
+          "like_count": 4837,
+          "listed_count": 29,
+          "media_count": 97,
+          "tweet_count": 5461
+        },
+        "username": "mkeiio",
+        "verified": false
+      }
+    ]
+  }
+}

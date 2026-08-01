@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      }
+    ],
+    "conversation_id": "2006145544012394670",
+    "created_at": "2025-12-30T23:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T00:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006145544012394670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1557986650466164739",
+          "start": 3,
+          "username": "Arashi_100224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006145544012394670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990693948528996711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arashi_100224: 哈喽我是Arashi！可以叫我小岚\n被家里赶出来没钱交房租所以下海了！\n我需要钱治精神病(╯﹏╰）求你们过我门…\n🚪88 好友位朋友圈开放  188 聊天会积极回复！随机掉落日常  288 可约线下（纯绿半绿非绿  520 色色视频 131…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006145544012394670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006145544012394670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006145544012394670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990693922008420352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bdky3XUAARSXf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990693922000035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bdky1XYAAYmIW.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990693922008420352",
+            "3_1990693922000035840"
+          ]
+        },
+        "author_id": "1557986650466164739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          }
+        ],
+        "conversation_id": "1990693948528996711",
+        "created_at": "2025-11-18T08:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990693948528996711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JCWzGDyYWJ",
+              "end": 186,
+              "expanded_url": "https://x.com/Arashi_100224/status/1990693948528996711/photo/1",
+              "media_key": "3_1990693922008420352",
+              "start": 163,
+              "url": "https://t.co/JCWzGDyYWJ"
+            },
+            {
+              "display_url": "pic.x.com/JCWzGDyYWJ",
+              "end": 186,
+              "expanded_url": "https://x.com/Arashi_100224/status/1990693948528996711/photo/1",
+              "media_key": "3_1990693922000035840",
+              "start": 163,
+              "url": "https://t.co/JCWzGDyYWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990693948528996711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17160,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽我是Arashi！可以叫我小岚\n被家里赶出来没钱交房租所以下海了！\n我需要钱治精神病(╯﹏╰）求你们过我门…\n🚪88 好友位朋友圈开放  188 聊天会积极回复！随机掉落日常  288 可约线下（纯绿半绿非绿  520 色色视频 1314你就是我最爱的老公！上不封顶  非绿包夜1800\n#爸爸活 \n🎁转发抽三个188！ https://t.co/JCWzGDyYWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 259,
+          "like_count": 4394,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 656
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T07:05:50.000Z",
+        "description": "最低🚪88 私信只回zfb口令/双相1型 asd/血腥黄色违法避雷/互fo欢迎 LGBTQ友好 🏳️‍⚧️友好/真心话碎碎念/讨厌我或者喜欢我就给我打钱",
+        "id": "1557986650466164739",
+        "location": "精神病院",
+        "name": "Arashi",
+        "pinned_tweet_id": "1990693948528996711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972748884284989441/iqs-XMnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 427,
+          "like_count": 1020,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 718
+        },
+        "username": "Arashi_100224",
+        "verified": false
+      }
+    ]
+  }
+}

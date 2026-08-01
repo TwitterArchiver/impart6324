@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001998535001297108",
+    "created_at": "2025-12-19T12:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001998535001297108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 89,
+          "id": "1659548960938409984",
+          "start": 81,
+          "username": "Lqlnlp7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/impart6324/sta…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/impart6324/status/2001998250539458640",
+          "start": 90,
+          "url": "https://t.co/9SY5PHW9lU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001998535001297108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001998250539458640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈逼道理你自己不明白是吗 给你说过多少遍了 非得往我身上你贴你咋这么贱呢 畜生玩意操你妈逼的 你这种人就活该被搞 老子没把你的事全说出来就已经是做好人好事行吗 @Lqlnlp7 https://t.co/9SY5PHW9lU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001998175075516416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iGu7JbQAABjOy.jpg",
+        "width": 748
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001998175071240192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iGu7IaAAA0ASv.jpg",
+        "width": 858
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001998175092285441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8iGu7NbIAE2iXi.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001998535001297108",
+        "created_at": "2025-12-19T12:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001998535001297108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1659548960938409984",
+              "start": 81,
+              "username": "Lqlnlp7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/impart6324/status/2001998250539458640",
+              "start": 90,
+              "url": "https://t.co/9SY5PHW9lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001998535001297108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001998250539458640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈逼道理你自己不明白是吗 给你说过多少遍了 非得往我身上你贴你咋这么贱呢 畜生玩意操你妈逼的 你这种人就活该被搞 老子没把你的事全说出来就已经是做好人好事行吗 @Lqlnlp7 https://t.co/9SY5PHW9lU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001998175075516416",
+            "3_2001998175071240192",
+            "3_2001998175092285441"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001998250539458640",
+        "created_at": "2025-12-19T12:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001998250539458640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "1659548960938409984",
+              "start": 143,
+              "username": "Lqlnlp7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pd3x02T35K",
+              "end": 175,
+              "expanded_url": "https://x.com/impart6324/status/2001998250539458640/photo/1",
+              "media_key": "3_2001998175075516416",
+              "start": 152,
+              "url": "https://t.co/pd3x02T35K"
+            },
+            {
+              "display_url": "pic.x.com/pd3x02T35K",
+              "end": 175,
+              "expanded_url": "https://x.com/impart6324/status/2001998250539458640/photo/1",
+              "media_key": "3_2001998175071240192",
+              "start": 152,
+              "url": "https://t.co/pd3x02T35K"
+            },
+            {
+              "display_url": "pic.x.com/pd3x02T35K",
+              "end": 175,
+              "expanded_url": "https://x.com/impart6324/status/2001998250539458640/photo/1",
+              "media_key": "3_2001998175092285441",
+              "start": 152,
+              "url": "https://t.co/pd3x02T35K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001998250539458640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈逼你自己都说出来理由了 问问问没完了？本来互关的时候就有事情 你个傻逼玩意所有平台都骚扰一个遍咋这么恶心呢 要不是有人请我看演出进群看到你咱俩这辈子都没有一点关系行吗 你隔这犯内耗讨好型人格别他妈恶心我 再骚扰老子1.1拿刀砍死你个傻逼 给你自己说的话打印成图贴满整个echo  @Lqlnlp7 https://t.co/pd3x02T35K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 230,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 515
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "you luv me or hate me",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "pinned_tweet_id": "1995777169713446956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943905864500252672/kUIi_98E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 295,
+          "like_count": 9269,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3041
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      }
+    ]
+  }
+}

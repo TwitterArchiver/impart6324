@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015156129802916210",
+    "created_at": "2026-01-24T21:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T22:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015172945518498122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877758854156763136",
+          "start": 0,
+          "username": "BaalHaded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015172945518498122",
+    "in_reply_to_user_id": "1877758854156763136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015172852417470572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaalHaded 耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015156129802916210",
+        "created_at": "2026-01-24T21:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015172945518498122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877758854156763136",
+              "start": 0,
+              "username": "BaalHaded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015172945518498122",
+        "in_reply_to_user_id": "1877758854156763136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015172852417470572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaalHaded 耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877758854156763136",
+        "conversation_id": "2015156129802916210",
+        "created_at": "2026-01-24T21:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015172852417470572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015172852417470572",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015172401244614711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 活着。🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 337,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1087
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T16:46:18.000Z",
+        "description": "留意甜言蜜语与夜路小径。",
+        "id": "1877758854156763136",
+        "location": "Dreamlands",
+        "name": "臧否",
+        "pinned_tweet_id": "2009933425596391569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877804624071028736/rXsqD2ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 946,
+          "like_count": 19313,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3287
+        },
+        "username": "BaalHaded",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027659577316229120"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027659586447282536",
+    "created_at": "2026-02-28T08:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027659586447282536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xCPSrsr4gG",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2027659586447282536/photo/1",
+          "media_key": "3_2027659577316229120",
+          "start": 5,
+          "url": "https://t.co/xCPSrsr4gG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027659586447282536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干大事中 https://t.co/xCPSrsr4gG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027659577316229120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOxpH9aQAAMRFf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027659577316229120"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027659586447282536",
+        "created_at": "2026-02-28T08:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027659586447282536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCPSrsr4gG",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2027659586447282536/photo/1",
+              "media_key": "3_2027659577316229120",
+              "start": 5,
+              "url": "https://t.co/xCPSrsr4gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027659586447282536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干大事中 https://t.co/xCPSrsr4gG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 424,
+          "like_count": 9579,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

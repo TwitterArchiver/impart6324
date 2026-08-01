@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2043925532534804838",
+    "created_at": "2026-04-14T05:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043925875658502499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027466115493072896",
+          "start": 0,
+          "username": "MisakaMizumi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043925875658502499",
+    "in_reply_to_user_id": "2027466115493072896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043925532534804838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaMizumi2 你赢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "16_2043925510875688962",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HF17bEcasAImhPu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HF17bEcasAImhPu.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2043925532534804838",
+        "created_at": "2026-04-14T05:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043925875658502499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027466115493072896",
+              "start": 0,
+              "username": "MisakaMizumi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043925875658502499",
+        "in_reply_to_user_id": "2027466115493072896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043925532534804838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaMizumi2 你赢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043925510875688962"
+          ]
+        },
+        "author_id": "2027466115493072896",
+        "conversation_id": "2043925532534804838",
+        "created_at": "2026-04-14T05:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043925532534804838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwzauUCZfs",
+              "end": 35,
+              "expanded_url": "https://x.com/MisakaMizumi2/status/2043925532534804838/photo/1",
+              "media_key": "16_2043925510875688962",
+              "start": 12,
+              "url": "https://t.co/GwzauUCZfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043925532534804838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的14歲還有三天結束 https://t.co/GwzauUCZfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2043699847929467070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 1263,
+          "like_count": 11266,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T19:30:25.000Z",
+        "description": "Hallo 御坂水見(Misaka Mizumi)です 🇯🇵🇹🇼 老术批 东方众 DDLC 魔禁 音骂 and a lot 日本語、漢語、英語 煙鬼 重庆 きくお老粉 性别为sevenstar🚬 生产日期2011.4.17",
+        "id": "2027466115493072896",
+        "location": "インターネット",
+        "name": "御坂水見",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043017410358480896/N4xmhVkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 110,
+          "like_count": 2706,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 427
+        },
+        "username": "MisakaMizumi2",
+        "verified": false
+      }
+    ]
+  }
+}

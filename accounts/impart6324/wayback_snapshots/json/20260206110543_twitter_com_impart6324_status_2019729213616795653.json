@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019729206486368256"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019704825399947270",
+    "created_at": "2026-02-06T11:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019729213616795653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1228350726981574656",
+          "start": 0,
+          "username": "baibaishuishui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Wk0aySUpb",
+          "end": 39,
+          "expanded_url": "https://x.com/impart6324/status/2019729213616795653/photo/1",
+          "media_key": "3_2019729206486368256",
+          "start": 16,
+          "url": "https://t.co/3Wk0aySUpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019729213616795653",
+    "in_reply_to_user_id": "1228350726981574656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019704825399947270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibaishuishui https://t.co/3Wk0aySUpb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019729206486368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeFAycaAAAz3wf.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019704821373399040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdu1Y0a8AAs-eR.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019729206486368256"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019704825399947270",
+        "created_at": "2026-02-06T11:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019729213616795653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1228350726981574656",
+              "start": 0,
+              "username": "baibaishuishui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Wk0aySUpb",
+              "end": 39,
+              "expanded_url": "https://x.com/impart6324/status/2019729213616795653/photo/1",
+              "media_key": "3_2019729206486368256",
+              "start": 16,
+              "url": "https://t.co/3Wk0aySUpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019729213616795653",
+        "in_reply_to_user_id": "1228350726981574656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019704825399947270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibaishuishui https://t.co/3Wk0aySUpb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019704821373399040"
+          ]
+        },
+        "author_id": "1228350726981574656",
+        "conversation_id": "2019704825399947270",
+        "created_at": "2026-02-06T09:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019704825399947270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vb1DhANxMr",
+              "end": 58,
+              "expanded_url": "https://x.com/baibaishuishui/status/2019704825399947270/photo/1",
+              "media_key": "3_2019704821373399040",
+              "start": 35,
+              "url": "https://t.co/Vb1DhANxMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019704825399947270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1222,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这原po纯沙比😹依旧阴暗扭曲压抑左派男高中生，我上学最避之不及的群体 https://t.co/Vb1DhANxMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 370,
+          "like_count": 7769,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "每个今天，都是我能爱你的最后一天。小号@iamlinquan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "iamlinquan"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "pinned_tweet_id": "2009160961228460341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999347434498170880/utw-FjM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1033,
+          "like_count": 26277,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 9807
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

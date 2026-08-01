@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993337790604755306",
+    "created_at": "2025-11-25T15:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993337790604755306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931634000453345280",
+          "start": 3,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993337790604755306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993175995172765827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ll97515: 爸爸，你继续在工地划手腕子，吃小药片，孩子在家一点都不热，不累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993337790604755306",
+        "created_at": "2025-11-25T15:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993337790604755306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931634000453345280",
+              "start": 3,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993337790604755306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993175995172765827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ll97515: 爸爸，你继续在工地划手腕子，吃小药片，孩子在家一点都不热，不累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931634000453345280",
+        "conversation_id": "1993175995172765827",
+        "created_at": "2025-11-25T04:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993175995172765827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993175995172765827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23656,
+          "like_count": 259,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸，你继续在工地划手腕子，吃小药片，孩子在家一点都不热，不累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 380,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 298
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 有对象 恶臭男滚(ФωФ) 不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "pinned_tweet_id": "1992840979100074059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 519,
+          "like_count": 2006,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 616
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

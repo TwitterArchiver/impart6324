@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1990298103698862562",
+    "created_at": "2025-11-17T09:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990345728020172926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990345728020172926",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990298103698862562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 想当民子的狗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_1990298094404337665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G571kmIbgAEaFDJ.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1990298103698862562",
+        "created_at": "2025-11-17T09:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990345728020172926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990345728020172926",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990298103698862562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 想当民子的狗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990298094404337665"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1990298103698862562",
+        "created_at": "2025-11-17T05:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990298103698862562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOX7DFlm7t",
+              "end": 23,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1990298103698862562/photo/1",
+              "media_key": "3_1990298094404337665",
+              "start": 0,
+              "url": "https://t.co/YOX7DFlm7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990298103698862562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 12524,
+          "like_count": 1106,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YOX7DFlm7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1989711690615939511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 364,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 206
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245442,
+          "following_count": 42,
+          "like_count": 470,
+          "listed_count": 655,
+          "media_count": 391,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

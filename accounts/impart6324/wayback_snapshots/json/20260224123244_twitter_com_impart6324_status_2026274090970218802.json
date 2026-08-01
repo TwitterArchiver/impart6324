@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026267540708872307",
+    "created_at": "2026-02-24T12:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026274090970218802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008667957866754048",
+          "start": 0,
+          "username": "FABnakanai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026274090970218802",
+    "in_reply_to_user_id": "2008667957866754048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026267540708872307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FABnakanai 私の方がもっと可愛い？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2026267533670756354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6_lhRaMAIW1hc.jpg",
+        "width": 558
+      },
+      {
+        "height": 395,
+        "media_key": "3_2026267533658279936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6_lhOb0AAXkZa.jpg",
+        "width": 476
+      },
+      {
+        "height": 941,
+        "media_key": "3_2026267533679198208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6_lhTbAAA0OON.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026267540708872307",
+        "created_at": "2026-02-24T12:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026274090970218802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008667957866754048",
+              "start": 0,
+              "username": "FABnakanai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026274090970218802",
+        "in_reply_to_user_id": "2008667957866754048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026267540708872307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FABnakanai 私の方がもっと可愛い？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026267533670756354",
+            "3_2026267533658279936",
+            "3_2026267533679198208"
+          ]
+        },
+        "author_id": "2008667957866754048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026267540708872307",
+        "created_at": "2026-02-24T12:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026267540708872307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJnTIbWDOn",
+              "end": 34,
+              "expanded_url": "https://x.com/FABnakanai/status/2026267540708872307/photo/1",
+              "media_key": "3_2026267533670756354",
+              "start": 11,
+              "url": "https://t.co/VJnTIbWDOn"
+            },
+            {
+              "display_url": "pic.x.com/VJnTIbWDOn",
+              "end": 34,
+              "expanded_url": "https://x.com/FABnakanai/status/2026267540708872307/photo/1",
+              "media_key": "3_2026267533658279936",
+              "start": 11,
+              "url": "https://t.co/VJnTIbWDOn"
+            },
+            {
+              "display_url": "pic.x.com/VJnTIbWDOn",
+              "end": 34,
+              "expanded_url": "https://x.com/FABnakanai/status/2026267540708872307/photo/1",
+              "media_key": "3_2026267533679198208",
+              "start": 11,
+              "url": "https://t.co/VJnTIbWDOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026267540708872307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死ぬほど可愛い😭🫳🫳 https://t.co/VJnTIbWDOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9062,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T22:32:23.000Z",
+        "description": "見つけるな！こんな姿は君にみられたくない",
+        "id": "2008667957866754048",
+        "location": "一生地雷❤︎",
+        "name": "反動少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008697079833726976/Szr5tzC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "username": "FABnakanai",
+        "verified": false
+      }
+    ]
+  }
+}

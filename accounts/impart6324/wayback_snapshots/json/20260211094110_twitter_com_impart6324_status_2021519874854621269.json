@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021519874854621269",
+    "created_at": "2026-02-11T09:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021519874854621269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021519874854621269",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 操你妈逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021519874854621269",
+        "created_at": "2026-02-11T09:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021519874854621269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021519874854621269",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 操你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 390,
+          "like_count": 8019,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "前身邪恶/善良立希希 立希漂亮漂亮！\n大阪傻福傻福😡",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "吃内捧大阪",
+        "pinned_tweet_id": "2011639544190550373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011499782754504704/f7C5LRkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 448,
+          "like_count": 2434,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 3775
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

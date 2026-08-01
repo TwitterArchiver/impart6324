@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026308274526539891",
+    "created_at": "2026-02-25T04:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026512050764362169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927470880973598722",
+          "start": 0,
+          "username": "gorilla_rape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026512050764362169",
+    "in_reply_to_user_id": "1927470880973598722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026308274526539891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gorilla_rape 我每天"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5456,
+        "height": 1024,
+        "media_key": "13_2026308243430023168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026308243430023168/img/Azh8wwCxiT9iVfCT.jpg",
+        "public_metrics": {
+          "view_count": 574415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026308243430023168/vid/avc1/320x568/WqCLl8DN_ExkTT4X.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026308243430023168/vid/avc1/480x852/NFi4QBlQULWNmtD5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026308243430023168/vid/avc1/576x1024/sRYU2mst_vM3S0Qn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026308243430023168/pl/BDF8ubrRNpo2o7sl.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026308274526539891",
+        "created_at": "2026-02-25T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026512050764362169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927470880973598722",
+              "start": 0,
+              "username": "gorilla_rape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026512050764362169",
+        "in_reply_to_user_id": "1927470880973598722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026308274526539891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gorilla_rape 我每天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026308243430023168"
+          ]
+        },
+        "author_id": "1927470880973598722",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "829003678765821984",
+              "name": "Hockey"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284174028442230785",
+              "name": "Winter Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2026308274526539891",
+        "created_at": "2026-02-24T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026308274526539891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwwNSMwdEB",
+              "end": 23,
+              "expanded_url": "https://x.com/gorilla_rape/status/2026308274526539891/video/1",
+              "media_key": "13_2026308243430023168",
+              "start": 0,
+              "url": "https://t.co/zwwNSMwdEB"
+            },
+            {
+              "display_url": "x.com/jordynbtw/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jordynbtw/status/2026015354711884176",
+              "start": 24,
+              "url": "https://t.co/Y1B0LYYCE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026308274526539891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6463,
+          "impression_count": 3889987,
+          "like_count": 12811,
+          "quote_count": 271,
+          "reply_count": 398,
+          "retweet_count": 828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026015354711884176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zwwNSMwdEB https://t.co/Y1B0LYYCE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 418,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-27T21:04:11.000Z",
+        "description": "",
+        "id": "1927470880973598722",
+        "name": "wyatt",
+        "pinned_tweet_id": "2026039379739709441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018415396970188800/XL0TTfi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15952,
+          "following_count": 990,
+          "like_count": 2200,
+          "listed_count": 57,
+          "media_count": 1878,
+          "tweet_count": 19379
+        },
+        "username": "gorilla_rape",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024506446596169728",
+        "3_2024506446604533761",
+        "3_2024506446604533760",
+        "3_2024506446575276032"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024506500388180021",
+    "created_at": "2026-02-19T15:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024506500388180021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKWmMo7lZY",
+          "end": 53,
+          "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+          "media_key": "3_2024506446596169728",
+          "start": 30,
+          "url": "https://t.co/DKWmMo7lZY"
+        },
+        {
+          "display_url": "pic.x.com/DKWmMo7lZY",
+          "end": 53,
+          "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+          "media_key": "3_2024506446604533761",
+          "start": 30,
+          "url": "https://t.co/DKWmMo7lZY"
+        },
+        {
+          "display_url": "pic.x.com/DKWmMo7lZY",
+          "end": 53,
+          "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+          "media_key": "3_2024506446604533760",
+          "start": 30,
+          "url": "https://t.co/DKWmMo7lZY"
+        },
+        {
+          "display_url": "pic.x.com/DKWmMo7lZY",
+          "end": 53,
+          "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+          "media_key": "3_2024506446575276032",
+          "start": 30,
+          "url": "https://t.co/DKWmMo7lZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024506500388180021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难绷  14岁山东县城女就欧洲社会现状和欧洲现居民高谈阔论 https://t.co/DKWmMo7lZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024506446596169728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh94wraYAAH6sV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024506446604533761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh94wtaAAEHrHj.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024506446604533760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh94wtaAAA68kE.jpg",
+        "width": 946
+      },
+      {
+        "height": 642,
+        "media_key": "3_2024506446575276032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh94wmbkAAjLsJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024506446596169728",
+            "3_2024506446604533761",
+            "3_2024506446604533760",
+            "3_2024506446575276032"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024506500388180021",
+        "created_at": "2026-02-19T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024506500388180021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKWmMo7lZY",
+              "end": 53,
+              "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+              "media_key": "3_2024506446596169728",
+              "start": 30,
+              "url": "https://t.co/DKWmMo7lZY"
+            },
+            {
+              "display_url": "pic.x.com/DKWmMo7lZY",
+              "end": 53,
+              "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+              "media_key": "3_2024506446604533761",
+              "start": 30,
+              "url": "https://t.co/DKWmMo7lZY"
+            },
+            {
+              "display_url": "pic.x.com/DKWmMo7lZY",
+              "end": 53,
+              "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+              "media_key": "3_2024506446604533760",
+              "start": 30,
+              "url": "https://t.co/DKWmMo7lZY"
+            },
+            {
+              "display_url": "pic.x.com/DKWmMo7lZY",
+              "end": 53,
+              "expanded_url": "https://x.com/impart6324/status/2024506500388180021/photo/1",
+              "media_key": "3_2024506446575276032",
+              "start": 30,
+              "url": "https://t.co/DKWmMo7lZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024506500388180021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷  14岁山东县城女就欧洲社会现状和欧洲现居民高谈阔论 https://t.co/DKWmMo7lZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 406,
+          "like_count": 8819,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

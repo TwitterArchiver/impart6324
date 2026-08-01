@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006658313082253593",
+    "created_at": "2026-01-01T20:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T21:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006824080549503240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997342324565929984",
+          "start": 0,
+          "username": "xiown283472"
+        },
+        {
+          "end": 20,
+          "id": "1997988414331961344",
+          "start": 13,
+          "username": "liyxyw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006824080549503240",
+    "in_reply_to_user_id": "1997342324565929984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006821512255590653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiown283472 @liyxyw 没人让你免费操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006658313082253593",
+        "created_at": "2026-01-01T20:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006824080549503240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997342324565929984",
+              "start": 0,
+              "username": "xiown283472"
+            },
+            {
+              "end": 20,
+              "id": "1997988414331961344",
+              "start": 13,
+              "username": "liyxyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006824080549503240",
+        "in_reply_to_user_id": "1997342324565929984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006821512255590653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiown283472 @liyxyw 没人让你免费操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997342324565929984",
+        "conversation_id": "2006658313082253593",
+        "created_at": "2026-01-01T20:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T21:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006821512255590653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1997988414331961344",
+              "start": 0,
+              "username": "liyxyw"
+            },
+            {
+              "end": 19,
+              "id": "1597065444136919040",
+              "start": 8,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006821512255590653",
+        "in_reply_to_user_id": "1997988414331961344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006820077908439440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyxyw @impart6324 宝贝可以加好友嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 262,
+          "like_count": 4530,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 685
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T16:28:25.000Z",
+        "description": "",
+        "id": "1997342324565929984",
+        "name": "小皖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997342435178123264/XQ25cosZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "xiown283472",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:17:19.000Z",
+        "description": "只争朝夕 活在当下.",
+        "id": "1997988414331961344",
+        "location": "距离 100M",
+        "name": "妍熙酱.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997989108938096640/YbbL5MAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 14,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 616
+        },
+        "username": "liyxyw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1986730083521081533",
+    "created_at": "2025-11-08T01:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T02:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986976922249945116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986976922249945116",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986730083521081533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 抽下我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_1986730076025823232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JIel4aoAAihiV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1986730083521081533",
+        "created_at": "2025-11-08T01:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986976922249945116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986976922249945116",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986730083521081533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 抽下我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986730076025823232"
+          ]
+        },
+        "author_id": "1966173444414095360",
+        "conversation_id": "1986730083521081533",
+        "created_at": "2025-11-07T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986730083521081533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PD1LxE95w",
+              "end": 92,
+              "expanded_url": "https://x.com/Tinaaaa9444/status/1986730083521081533/photo/1",
+              "media_key": "3_1986730076025823232",
+              "start": 69,
+              "url": "https://t.co/2PD1LxE95w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986730083521081533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46586,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 121,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo啦 玩推也快两个月了很感谢大家的喜欢也在这里认识了好多好朋友 今天刚好是立冬 简单应景地抽三杯奶茶 点赞评论参与⌯ᕑᗢᓫ⌯ಣ https://t.co/2PD1LxE95w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 296,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 196
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976685847413243905/wDVc8xIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 92,
+          "like_count": 8719,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2522
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

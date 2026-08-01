@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987677713650581504",
+        "3_1987677732227133440"
+      ],
+      "media_source_tweet_id": [
+        "1987677989161865723",
+        "1987677989161865723"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1988052529956200860",
+    "created_at": "2025-11-11T01:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T02:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988052529956200860"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "恭喜天津",
+          "probability": 0.3942,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7M8VR5rrCC",
+          "end": 44,
+          "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+          "media_key": "3_1987677713650581504",
+          "start": 21,
+          "url": "https://t.co/7M8VR5rrCC"
+        },
+        {
+          "display_url": "pic.x.com/7M8VR5rrCC",
+          "end": 44,
+          "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+          "media_key": "3_1987677732227133440",
+          "start": 21,
+          "url": "https://t.co/7M8VR5rrCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988052529956200860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987677989161865723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 恭喜天津的兄弟 https://t.co/7M8VR5rrCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1987677713650581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WmWXIagAAXtyn.jpg",
+        "width": 2302
+      },
+      {
+        "height": 862,
+        "media_key": "3_1987677732227133440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WmXcVaMAAx3eS.png",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987677713650581504",
+            "3_1987677732227133440"
+          ],
+          "media_source_tweet_id": [
+            "1987677989161865723",
+            "1987677989161865723"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1988052529956200860",
+        "created_at": "2025-11-11T01:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988052529956200860"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "恭喜天津",
+              "probability": 0.3942,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7M8VR5rrCC",
+              "end": 44,
+              "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+              "media_key": "3_1987677713650581504",
+              "start": 21,
+              "url": "https://t.co/7M8VR5rrCC"
+            },
+            {
+              "display_url": "pic.x.com/7M8VR5rrCC",
+              "end": 44,
+              "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+              "media_key": "3_1987677732227133440",
+              "start": 21,
+              "url": "https://t.co/7M8VR5rrCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988052529956200860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987677989161865723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 恭喜天津的兄弟 https://t.co/7M8VR5rrCC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987677713650581504",
+            "3_1987677732227133440"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1987677989161865723",
+        "created_at": "2025-11-10T00:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987677989161865723"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "恭喜天津",
+              "probability": 0.4357,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7M8VR5rrCC",
+              "end": 31,
+              "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+              "media_key": "3_1987677713650581504",
+              "start": 8,
+              "url": "https://t.co/7M8VR5rrCC"
+            },
+            {
+              "display_url": "pic.x.com/7M8VR5rrCC",
+              "end": 31,
+              "expanded_url": "https://x.com/igeekbb/status/1987677989161865723/photo/1",
+              "media_key": "3_1987677732227133440",
+              "start": 8,
+              "url": "https://t.co/7M8VR5rrCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987677989161865723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 168730,
+          "like_count": 760,
+          "quote_count": 26,
+          "reply_count": 120,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜天津的兄弟 https://t.co/7M8VR5rrCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 337,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 234
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58431,
+          "following_count": 1,
+          "like_count": 7938,
+          "listed_count": 228,
+          "media_count": 5686,
+          "tweet_count": 8552
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

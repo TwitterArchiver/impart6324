@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2019402429327110150",
+        "3_2019402433684992010"
+      ],
+      "media_source_tweet_id": [
+        "2019402460306260039",
+        "2019402460306260039"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019692641924137362",
+    "created_at": "2026-02-06T08:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019692641924137362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1814968084538826753",
+          "start": 3,
+          "username": "aiyuqiu4ev10883"
+        },
+        {
+          "end": 32,
+          "id": "1597065444136919040",
+          "start": 21,
+          "username": "impart6324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbYJJoczf0",
+          "end": 89,
+          "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+          "media_key": "7_2019402429327110150",
+          "start": 66,
+          "url": "https://t.co/dbYJJoczf0"
+        },
+        {
+          "display_url": "pic.x.com/dbYJJoczf0",
+          "end": 89,
+          "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+          "media_key": "3_2019402433684992010",
+          "start": 66,
+          "url": "https://t.co/dbYJJoczf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019692641924137362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019402460306260039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiyuqiu4ev10883: @impart6324 这条也够被ban了你们在21世纪遇到最厉害的推特语言艺术家没落了 https://t.co/dbYJJoczf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5800,
+        "height": 960,
+        "media_key": "7_2019402429327110150",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019402429327110150/pu/img/zmtP20znnYLKCZpV.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019402429327110150/pu/vid/avc1/320x564/TW7SFxSv_Iwglw5k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019402429327110150/pu/vid/avc1/480x846/_EInmNNQqwcRYytZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019402429327110150/pu/vid/avc1/544x960/tGGhZae5xTObwejF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019402429327110150/pu/pl/JHmfZwGKJ4wGR2X7.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019402433684992010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZb0G5acAo19HY.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019402429327110150",
+            "3_2019402433684992010"
+          ],
+          "media_source_tweet_id": [
+            "2019402460306260039",
+            "2019402460306260039"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019692641924137362",
+        "created_at": "2026-02-06T08:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019692641924137362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1814968084538826753",
+              "start": 3,
+              "username": "aiyuqiu4ev10883"
+            },
+            {
+              "end": 32,
+              "id": "1597065444136919040",
+              "start": 21,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbYJJoczf0",
+              "end": 89,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+              "media_key": "7_2019402429327110150",
+              "start": 66,
+              "url": "https://t.co/dbYJJoczf0"
+            },
+            {
+              "display_url": "pic.x.com/dbYJJoczf0",
+              "end": 89,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+              "media_key": "3_2019402433684992010",
+              "start": 66,
+              "url": "https://t.co/dbYJJoczf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019692641924137362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019402460306260039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiyuqiu4ev10883: @impart6324 这条也够被ban了你们在21世纪遇到最厉害的推特语言艺术家没落了 https://t.co/dbYJJoczf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019402429327110150",
+            "3_2019402433684992010"
+          ]
+        },
+        "author_id": "1814968084538826753",
+        "conversation_id": "2019402460306260039",
+        "created_at": "2026-02-05T13:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019402460306260039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbYJJoczf0",
+              "end": 68,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+              "media_key": "7_2019402429327110150",
+              "start": 45,
+              "url": "https://t.co/dbYJJoczf0"
+            },
+            {
+              "display_url": "pic.x.com/dbYJJoczf0",
+              "end": 68,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2019402460306260039/video/1",
+              "media_key": "3_2019402433684992010",
+              "start": 45,
+              "url": "https://t.co/dbYJJoczf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019402460306260039",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@impart6324 这条也够被ban了你们在21世纪遇到最厉害的推特语言艺术家没落了 https://t.co/dbYJJoczf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 370,
+          "like_count": 7762,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "前身邪恶/善良立希希 立希漂亮漂亮！\n大阪傻福傻福😡",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "吃内捧大阪",
+        "pinned_tweet_id": "2011639544190550373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011499782754504704/f7C5LRkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 446,
+          "like_count": 2401,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 3728
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

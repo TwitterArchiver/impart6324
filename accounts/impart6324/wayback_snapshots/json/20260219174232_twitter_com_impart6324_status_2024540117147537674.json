@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024480919365833140",
+    "created_at": "2026-02-19T17:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024540117147537674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995419766954291200",
+          "start": 0,
+          "username": "dinuanmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024540117147537674",
+    "in_reply_to_user_id": "1995419766954291200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024480919365833140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinuanmei wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024480919365833140",
+        "created_at": "2026-02-19T17:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024540117147537674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024540117147537674",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024480919365833140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995419766954291200",
+        "conversation_id": "2024480919365833140",
+        "created_at": "2026-02-19T13:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024480919365833140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024480919365833140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生就是被男人毁了，用裸照威胁我下跪的北京男，纠缠两年不愿意见我的天津192，网恋一个月不给他破处就拉黑我的第一个主，让我当小三还让我给他花钱的云南矮穷矬，还有抛弃我的福建人，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 407,
+          "like_count": 8833,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "🚪188 许愿一个只会围着我转的老公",
+        "id": "1995419766954291200",
+        "name": "就叫木子",
+        "pinned_tweet_id": "2003577595187851521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024161190587568128/hzn3Wm8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 45,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 914
+        },
+        "username": "dinuanmei",
+        "verified": false
+      }
+    ]
+  }
+}

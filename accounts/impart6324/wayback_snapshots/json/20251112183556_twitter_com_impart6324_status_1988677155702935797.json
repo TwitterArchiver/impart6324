@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988677137868750848"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1988677155702935797",
+    "created_at": "2025-11-12T18:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T19:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988677155702935797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "v.douyin.com/nPBHoQRl6pA/",
+          "end": 78,
+          "expanded_url": "https://v.douyin.com/nPBHoQRl6pA/",
+          "start": 55,
+          "url": "https://t.co/nUfEl7NfJg"
+        },
+        {
+          "display_url": "pic.x.com/1dLXiKUChH",
+          "end": 121,
+          "expanded_url": "https://x.com/impart6324/status/1988677155702935797/photo/1",
+          "media_key": "3_1988677137868750848",
+          "start": 98,
+          "url": "https://t.co/1dLXiKUChH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988677155702935797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "0.02 复制打开抖音，看看【沛雨の不胜传说的作品】【IPN】5分，《极端群体全明星大乱斗》评测：猜猜... https://t.co/nUfEl7NfJg 04/14 m@q.re usR:/ https://t.co/1dLXiKUChH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_1988677137868750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kzUgebgAAf9pT.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988677137868750848"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1988677155702935797",
+        "created_at": "2025-11-12T18:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988677155702935797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/nPBHoQRl6pA/",
+              "end": 78,
+              "expanded_url": "https://v.douyin.com/nPBHoQRl6pA/",
+              "start": 55,
+              "url": "https://t.co/nUfEl7NfJg"
+            },
+            {
+              "display_url": "pic.x.com/1dLXiKUChH",
+              "end": 121,
+              "expanded_url": "https://x.com/impart6324/status/1988677155702935797/photo/1",
+              "media_key": "3_1988677137868750848",
+              "start": 98,
+              "url": "https://t.co/1dLXiKUChH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988677155702935797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0.02 复制打开抖音，看看【沛雨の不胜传说的作品】【IPN】5分，《极端群体全明星大乱斗》评测：猜猜... https://t.co/nUfEl7NfJg 04/14 m@q.re usR:/ https://t.co/1dLXiKUChH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 343,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 266
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

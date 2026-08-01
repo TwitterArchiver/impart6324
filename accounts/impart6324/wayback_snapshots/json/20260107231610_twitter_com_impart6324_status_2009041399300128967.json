@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005109818575716528",
+    "created_at": "2026-01-07T23:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009041399300128967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669349689320427523",
+          "start": 0,
+          "username": "killmydad_Jelly"
+        },
+        {
+          "end": 32,
+          "id": "1686671929540042752",
+          "start": 17,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009041399300128967",
+    "in_reply_to_user_id": "1669349689320427523",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009041289959129199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killmydad_Jelly @Rinko_Boquette ✌️👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005109818575716528",
+        "created_at": "2026-01-07T23:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009041399300128967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669349689320427523",
+              "start": 0,
+              "username": "killmydad_Jelly"
+            },
+            {
+              "end": 32,
+              "id": "1686671929540042752",
+              "start": 17,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009041399300128967",
+        "in_reply_to_user_id": "1669349689320427523",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009041289959129199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killmydad_Jelly @Rinko_Boquette ✌️👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669349689320427523",
+        "conversation_id": "2005109818575716528",
+        "created_at": "2026-01-07T23:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009041289959129199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 27,
+              "id": "1686671929540042752",
+              "start": 12,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009041289959129199",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005240460697285060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @Rinko_Boquette 我操我觉得这个好好喝酸酸甜甜的解腻又清爽 主要是巨他妈便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 289,
+          "like_count": 5430,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 693
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T14:24:12.000Z",
+        "description": "我是码粒纳 不是星露谷｜ENTJ🦋 ｜小号@Marina_killary （私信除🚪or女生 其他概不回复💤💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Marina_killary"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "魔法上网.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xn--fhqp46ewvmqn0a.com/#/register?code=ls4QqSfW",
+                "start": 0,
+                "url": "https://t.co/zOVmc5dZAK"
+              }
+            ]
+          }
+        },
+        "id": "1669349689320427523",
+        "location": "👇推荐我自己使用的寿司云VPN加速器 高速稳定强推",
+        "name": "玩星露谷走火入魔决定放弃学业回村 务农在地里挖出飞机杯误以为是肉灵芝泡水连喝五天中毒身亡的霹靂碼粒納",
+        "pinned_tweet_id": "1990478309113933877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676666634159931392/PrdBQmrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17173,
+          "following_count": 382,
+          "like_count": 17372,
+          "listed_count": 39,
+          "media_count": 880,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/zOVmc5dZAK",
+        "username": "killmydad_Jelly",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "普通面包师/desu.life device荣誉客服/20+k击杀华森/Apex单排多赛季大师/臭点小球的                 只爱做点自己喜欢的事儿，以及是一个喜欢自我内耗的烂好人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "北京市黄天南网络科技有限公司",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "1997230939123102049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007089251998138368/56zFcuXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 101,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 684,
+          "tweet_count": 3000
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}

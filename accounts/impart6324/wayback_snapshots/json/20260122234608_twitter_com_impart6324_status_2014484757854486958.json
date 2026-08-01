@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013993753879429304",
+    "created_at": "2026-01-22T23:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T00:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014484757854486958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879198299493916672",
+          "start": 0,
+          "username": "NhOS1OmPmG48586"
+        },
+        {
+          "end": 26,
+          "id": "1449719997060706305",
+          "start": 17,
+          "username": "Nb666Cai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014484757854486958",
+    "in_reply_to_user_id": "1879198299493916672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014357597126815771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NhOS1OmPmG48586 @Nb666Cai 哈哈哈哈傻逼玩意帮着鸡说话的来了？偷看你爹主页还挺有意思的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013993753879429304",
+        "created_at": "2026-01-22T23:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T00:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014484757854486958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879198299493916672",
+              "start": 0,
+              "username": "NhOS1OmPmG48586"
+            },
+            {
+              "end": 26,
+              "id": "1449719997060706305",
+              "start": 17,
+              "username": "Nb666Cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014484757854486958",
+        "in_reply_to_user_id": "1879198299493916672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014357597126815771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NhOS1OmPmG48586 @Nb666Cai 哈哈哈哈傻逼玩意帮着鸡说话的来了？偷看你爹主页还挺有意思的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879198299493916672",
+        "conversation_id": "2013993753879429304",
+        "created_at": "2026-01-22T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014357597126815771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 21,
+              "id": "1449719997060706305",
+              "start": 12,
+              "username": "Nb666Cai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014357597126815771",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014340591828803764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @Nb666Cai 别人发又碍着你了，你得多缺爱还要多认一个爹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 333,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1039
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T16:06:15.000Z",
+        "description": "好羡慕纯爱啊",
+        "id": "1879198299493916672",
+        "location": "M87星云",
+        "name": "方源大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014012445421953027/DWoOmUCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "NhOS1OmPmG48586",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T12:52:43.000Z",
+        "description": "小弟@cai_OuO 不约不线下 自用vpn:https://t.co/HWmep2nqTh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "cai_OuO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vip.sulink.life/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://vip.sulink.life/#/register?code=0p5g87zx",
+                "start": 23,
+                "url": "https://t.co/HWmep2nqTh"
+              }
+            ]
+          }
+        },
+        "id": "1449719997060706305",
+        "location": "🚪128私人v 解锁朋友圈日常 可以陪聊陪玩",
+        "name": "萌嘟",
+        "pinned_tweet_id": "2001156753225080843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945349316472832/79jWY-YA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30731,
+          "following_count": 117,
+          "like_count": 1071,
+          "listed_count": 79,
+          "media_count": 102,
+          "tweet_count": 2125
+        },
+        "username": "Nb666Cai",
+        "verified": false
+      }
+    ]
+  }
+}

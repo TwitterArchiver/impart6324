@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008866364774367301",
+    "created_at": "2026-01-07T13:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008887572517597209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943677617103929344",
+          "start": 0,
+          "username": "Nacluv6114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008887572517597209",
+    "in_reply_to_user_id": "1943677617103929344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008866364774367301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacluv6114 哈哈哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008866364774367301].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008866364774367301",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008866364774367301"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008866364774367301",
+        "created_at": "2026-01-07T13:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008887572517597209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943677617103929344",
+              "start": 0,
+              "username": "Nacluv6114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008887572517597209",
+        "in_reply_to_user_id": "1943677617103929344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008866364774367301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacluv6114 哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2008679764173922528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 288,
+          "like_count": 5410,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 683
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "所有结局都不是我想要的",
+        "id": "1943677617103929344",
+        "name": "nacl",
+        "pinned_tweet_id": "2003136962451124481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008256677863362560/_RXhAM-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 181,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 522
+        },
+        "username": "Nacluv6114",
+        "verified": false
+      }
+    ]
+  }
+}

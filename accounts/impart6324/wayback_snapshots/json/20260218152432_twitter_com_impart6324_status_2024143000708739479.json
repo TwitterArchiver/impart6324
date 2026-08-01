@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024095801312755840",
+    "created_at": "2026-02-18T15:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024143000708739479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008667957866754048",
+          "start": 0,
+          "username": "FABnakanai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024143000708739479",
+    "in_reply_to_user_id": "2008667957866754048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024142249865650409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FABnakanai 死なないで、愛してる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024095801312755840",
+        "created_at": "2026-02-18T15:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024143000708739479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008667957866754048",
+              "start": 0,
+              "username": "FABnakanai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024143000708739479",
+        "in_reply_to_user_id": "2008667957866754048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024142249865650409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FABnakanai 死なないで、愛してる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008667957866754048",
+        "conversation_id": "2024095801312755840",
+        "created_at": "2026-02-18T15:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024142249865650409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024142249865650409",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024142033930146122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 为什么要这样对我？我对你还不好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 404,
+          "like_count": 8815,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T22:32:23.000Z",
+        "description": "見つけるな！こんな姿は君にみられたくない",
+        "id": "2008667957866754048",
+        "location": "一生地雷❤︎",
+        "name": "反動少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008697079833726976/Szr5tzC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "username": "FABnakanai",
+        "verified": false
+      }
+    ]
+  }
+}

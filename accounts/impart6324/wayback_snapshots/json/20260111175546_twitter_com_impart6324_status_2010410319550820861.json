@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010361696125354036",
+    "created_at": "2026-01-11T17:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010410319550820861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2262723812",
+          "start": 0,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010410319550820861",
+    "in_reply_to_user_id": "2262723812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 786,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010361696125354036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abskoop 全他妈穷逼吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2010361682384875520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Y9THybcAA5GsS.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010361696125354036",
+        "created_at": "2026-01-11T17:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010410319550820861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010410319550820861",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010361696125354036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop 全他妈穷逼吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010361682384875520"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2010361696125354036",
+        "created_at": "2026-01-11T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010361696125354036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z39E21g7NF",
+              "end": 28,
+              "expanded_url": "https://x.com/abskoop/status/2010361696125354036/photo/1",
+              "media_key": "3_2010361682384875520",
+              "start": 5,
+              "url": "https://t.co/Z39E21g7NF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010361696125354036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 316720,
+          "like_count": 182,
+          "quote_count": 6,
+          "reply_count": 177,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "？怎么看 https://t.co/Z39E21g7NF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不常看 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 291,
+          "like_count": 5430,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 706
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737817,
+          "following_count": 1201,
+          "like_count": 26098,
+          "listed_count": 2652,
+          "media_count": 23210,
+          "tweet_count": 59826
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

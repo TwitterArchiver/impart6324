@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037148963858464920",
+    "created_at": "2026-03-27T08:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037446922345038307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895451383324934144",
+          "start": 0,
+          "username": "8KutDUHuhX65018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037446922345038307",
+    "in_reply_to_user_id": "1895451383324934144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037343787098497216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8KutDUHuhX65018 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-27T08:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037446922345038307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895451383324934144",
+              "start": 0,
+              "username": "8KutDUHuhX65018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037446922345038307",
+        "in_reply_to_user_id": "1895451383324934144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037343787098497216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8KutDUHuhX65018 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895451383324934144",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-27T01:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037343787098497216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037343787098497216",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037148963858464920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 你好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1293,
+          "like_count": 11436,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T12:30:13.000Z",
+        "description": "一个呆萌的小女孩",
+        "id": "1895451383324934144",
+        "name": "Naive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037344125910204416/tNc_DEM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 24,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "username": "8KutDUHuhX65018",
+        "verified": false
+      }
+    ]
+  }
+}

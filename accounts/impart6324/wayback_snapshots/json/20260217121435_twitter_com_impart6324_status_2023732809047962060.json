@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2023445841344950300",
+    "created_at": "2026-02-17T12:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023732809047962060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015770770576678912",
+          "start": 0,
+          "username": "Tuantuan_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023732809047962060",
+    "in_reply_to_user_id": "2015770770576678912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023732162340520208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuantuan_ovo 可以可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023732149623681025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW9qvrbcAENAVV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2023445841344950300",
+        "created_at": "2026-02-17T12:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023732809047962060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015770770576678912",
+              "start": 0,
+              "username": "Tuantuan_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023732809047962060",
+        "in_reply_to_user_id": "2015770770576678912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023732162340520208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuantuan_ovo 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023732149623681025"
+          ]
+        },
+        "author_id": "2015770770576678912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023445841344950300",
+        "created_at": "2026-02-17T12:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023732162340520208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmiQV3huEE",
+              "end": 38,
+              "expanded_url": "https://x.com/Tuantuan_ovo/status/2023732162340520208/photo/1",
+              "media_key": "3_2023732149623681025",
+              "start": 15,
+              "url": "https://t.co/bmiQV3huEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023732162340520208",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023445841344950300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 爽吃 https://t.co/bmiQV3huEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 395,
+          "like_count": 8742,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 有🚪28.8",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "pinned_tweet_id": "2022731439016710194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 120
+        },
+        "username": "Tuantuan_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

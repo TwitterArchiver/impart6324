@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016902703302267174",
+    "created_at": "2026-01-30T13:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017231349233623087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830775691375218688",
+          "start": 0,
+          "username": "YunoQiu56649"
+        },
+        {
+          "end": 27,
+          "id": "1898674271335133184",
+          "start": 14,
+          "username": "Lai101132Lai"
+        },
+        {
+          "end": 43,
+          "id": "1846949850652319744",
+          "start": 28,
+          "username": "Samimveryhappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017231349233623087",
+    "in_reply_to_user_id": "1830775691375218688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017225526990233736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunoQiu56649 @Lai101132Lai @Samimveryhappy 这人死妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-30T13:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017231349233623087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830775691375218688",
+              "start": 0,
+              "username": "YunoQiu56649"
+            },
+            {
+              "end": 27,
+              "id": "1898674271335133184",
+              "start": 14,
+              "username": "Lai101132Lai"
+            },
+            {
+              "end": 43,
+              "id": "1846949850652319744",
+              "start": 28,
+              "username": "Samimveryhappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017231349233623087",
+        "in_reply_to_user_id": "1830775691375218688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017225526990233736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunoQiu56649 @Lai101132Lai @Samimveryhappy 这人死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830775691375218688",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-30T13:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017225526990233736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1898674271335133184",
+              "start": 0,
+              "username": "Lai101132Lai"
+            },
+            {
+              "end": 29,
+              "id": "1846949850652319744",
+              "start": 14,
+              "username": "Samimveryhappy"
+            },
+            {
+              "end": 41,
+              "id": "1597065444136919040",
+              "start": 30,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017225526990233736",
+        "in_reply_to_user_id": "1898674271335133184",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017216720503439785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lai101132Lai @Samimveryhappy @impart6324 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 364,
+          "like_count": 7262,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1267
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说 我道歉🥹｜随心记录日常(随机负能量 慎入)💤｜看我的帖不喜勿喷，喷我也要发😋｜小@luo_240110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "luo_240110"
+              }
+            ]
+          }
+        },
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2008910689658966299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 510,
+          "like_count": 2105,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 5674
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T09:56:48.000Z",
+        "description": "07，一个高中生M，但已经变态到比大多大叔还要变态了，想给黑心女S磕头舔鞋，闻她们穿了三天的臭袜臭鞋，被女生粗口爆骂就会发情，没救了。。。",
+        "id": "1898674271335133184",
+        "name": "喜欢给粗口妈妈磕头舔鞋",
+        "pinned_tweet_id": "2016878186148028789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016875980326129666/neL3vCR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 183,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 165
+        },
+        "username": "Lai101132Lai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:28.000Z",
+        "description": "我是男的不是女的。搞黄男男同去死。我来这里是看文案的。",
+        "id": "1846949850652319744",
+        "location": "Los Angeles, CA",
+        "name": "医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883755373674283008/L1Cp4ZwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 243,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 826
+        },
+        "username": "Samimveryhappy",
+        "verified": false
+      }
+    ]
+  }
+}

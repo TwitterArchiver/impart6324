@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987717268961472513"
+      ],
+      "media_source_tweet_id": [
+        "1987717323114131885"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988108675006042385",
+    "created_at": "2025-11-11T04:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988108675006042385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513865531027300358",
+          "start": 3,
+          "username": "DistressDark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6YRTkdLoJ5",
+          "end": 41,
+          "expanded_url": "https://x.com/DistressDark/status/1987717323114131885/video/1",
+          "media_key": "13_1987717268961472513",
+          "start": 18,
+          "url": "https://t.co/6YRTkdLoJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988108675006042385",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5064
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987717323114131885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DistressDark: https://t.co/6YRTkdLoJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5208,
+        "height": 1024,
+        "media_key": "13_1987717268961472513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987717268961472513/img/LcPbJiJfnlcM0Bj3.jpg",
+        "public_metrics": {
+          "view_count": 386369
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987717268961472513/vid/avc1/320x568/iXJeGM6I-BLUjOI9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987717268961472513/vid/avc1/480x852/DP8dSyGi-Uc04XEr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987717268961472513/vid/avc1/576x1024/Y_ENcRUxA1Q7zEkY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987717268961472513/pl/-6FYv7Lm7s8pG1tk.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987717268961472513"
+          ],
+          "media_source_tweet_id": [
+            "1987717323114131885"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988108675006042385",
+        "created_at": "2025-11-11T04:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988108675006042385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513865531027300358",
+              "start": 3,
+              "username": "DistressDark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YRTkdLoJ5",
+              "end": 41,
+              "expanded_url": "https://x.com/DistressDark/status/1987717323114131885/video/1",
+              "media_key": "13_1987717268961472513",
+              "start": 18,
+              "url": "https://t.co/6YRTkdLoJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988108675006042385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5064
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987717323114131885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DistressDark: https://t.co/6YRTkdLoJ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987717268961472513"
+          ]
+        },
+        "author_id": "1513865531027300358",
+        "conversation_id": "1987717323114131885",
+        "created_at": "2025-11-10T03:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987717323114131885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YRTkdLoJ5",
+              "end": 23,
+              "expanded_url": "https://x.com/DistressDark/status/1987717323114131885/video/1",
+              "media_key": "13_1987717268961472513",
+              "start": 0,
+              "url": "https://t.co/6YRTkdLoJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987717323114131885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7085,
+          "impression_count": 759409,
+          "like_count": 58597,
+          "quote_count": 206,
+          "reply_count": 151,
+          "retweet_count": 5064
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6YRTkdLoJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 341,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 253
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T13:04:21.000Z",
+        "description": "Somewhat crazy or unhinged posts/memes. Will post other random memes too.",
+        "id": "1513865531027300358",
+        "location": "America ",
+        "name": "Unhinged",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933405170202808320/Jfa4R-k__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80416,
+          "following_count": 91,
+          "like_count": 50,
+          "listed_count": 119,
+          "media_count": 1260,
+          "tweet_count": 1307
+        },
+        "username": "DistressDark",
+        "verified": true
+      }
+    ]
+  }
+}

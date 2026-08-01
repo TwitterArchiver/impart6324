@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024520495081923029",
+    "created_at": "2026-02-19T16:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024521911901069404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        },
+        {
+          "end": 28,
+          "id": "1417794719229169665",
+          "start": 17,
+          "username": "Newagekami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024521911901069404",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024521665129144704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 @Newagekami 👽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024520495081923029",
+        "created_at": "2026-02-19T16:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024521911901069404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            },
+            {
+              "end": 28,
+              "id": "1417794719229169665",
+              "start": 17,
+              "username": "Newagekami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024521911901069404",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024521665129144704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 @Newagekami 👽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987868389709422593",
+        "conversation_id": "2024520495081923029",
+        "created_at": "2026-02-19T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024521665129144704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 23,
+              "id": "1417794719229169665",
+              "start": 12,
+              "username": "Newagekami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024521665129144704",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520495081923029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @Newagekami 就喜欢你们这些一看就正能量满满的人啊。🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 406,
+          "like_count": 8822,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 顺男 | 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語 | 211生物学在读中 | INFP | | 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | 来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "id": "1987868389709422593",
+        "location": "天空",
+        "name": "人間が好き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 72,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 338
+        },
+        "username": "ruki52621534059",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 154,
+          "like_count": 1295,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 116
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

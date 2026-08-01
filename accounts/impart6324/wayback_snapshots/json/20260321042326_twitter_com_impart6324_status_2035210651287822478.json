@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2035198943039299778",
+    "created_at": "2026-03-21T04:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035210651287822478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505124286507495426",
+          "start": 0,
+          "username": "Mygoodbrother1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035210651287822478",
+    "in_reply_to_user_id": "1505124286507495426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035198943039299778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mygoodbrother1 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2035198943039299778",
+        "created_at": "2026-03-21T04:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035210651287822478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505124286507495426",
+              "start": 0,
+              "username": "Mygoodbrother1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035210651287822478",
+        "in_reply_to_user_id": "1505124286507495426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035198943039299778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mygoodbrother1 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505124286507495426",
+        "conversation_id": "2035198943039299778",
+        "created_at": "2026-03-21T03:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035198943039299778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035198943039299778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道蝴蝶效应吗？因为把撸管的纸扔到地上，当时家里是开鞋厂的我妈以为我爸出轨小工(认为清理的纸),然后大吵一架,闹特别厉害。最后我妈一生气就把厂子关了,也不让我爸做。後來重新做结果失败了,家里因此从富变穷。如果给我一次机会我一定要勇敢说出来是我。其实我以前一直不相信蝴蝶效应,这次真的是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 459,
+          "like_count": 11270,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T10:09:40.000Z",
+        "description": "亲爱的你好",
+        "id": "1505124286507495426",
+        "name": "赫天原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022303798409265152/ktmPvN7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "Mygoodbrother1",
+        "verified": false
+      }
+    ]
+  }
+}

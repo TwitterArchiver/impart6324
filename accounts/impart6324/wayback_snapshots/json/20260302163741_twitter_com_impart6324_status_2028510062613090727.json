@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028508305203892266",
+    "created_at": "2026-03-02T16:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028510062613090727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019768460449128448",
+          "start": 0,
+          "username": "Karen_owQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028510062613090727",
+    "in_reply_to_user_id": "2019768460449128448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028508305203892266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karen_owQ 最舔狗的除草剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028508305203892266",
+        "created_at": "2026-03-02T16:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028510062613090727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019768460449128448",
+              "start": 0,
+              "username": "Karen_owQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028510062613090727",
+        "in_reply_to_user_id": "2019768460449128448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028508305203892266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karen_owQ 最舔狗的除草剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019768460449128448",
+        "conversation_id": "2028508305203892266",
+        "created_at": "2026-03-02T16:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028508305203892266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028508305203892266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他今天终于愿意和我说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 429,
+          "like_count": 10019,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T13:41:53.000Z",
+        "description": "记录我的垃圾生活 闲着没事干可以找我聊天",
+        "id": "2019768460449128448",
+        "location": "🚪8 无福利纯圈一杯芋圆葡萄",
+        "name": "这逼世界为什么那么坏",
+        "pinned_tweet_id": "2027435570587439311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028385849864540160/_MIUFM9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 4,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 100
+        },
+        "username": "Karen_owQ",
+        "verified": false
+      }
+    ]
+  }
+}

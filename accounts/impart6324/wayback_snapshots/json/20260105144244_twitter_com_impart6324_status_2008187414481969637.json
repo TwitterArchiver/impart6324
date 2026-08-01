@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008187396664315904"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008187414481969637",
+    "created_at": "2026-01-05T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008187414481969637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o99X9aZtMn",
+          "end": 27,
+          "expanded_url": "https://x.com/impart6324/status/2008187414481969637/photo/1",
+          "media_key": "3_2008187396664315904",
+          "start": 4,
+          "url": "https://t.co/o99X9aZtMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008187414481969637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无奈 https://t.co/o99X9aZtMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2008187396664315904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96DzCSX0AAr1Rw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008187396664315904"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008187414481969637",
+        "created_at": "2026-01-05T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008187414481969637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o99X9aZtMn",
+              "end": 27,
+              "expanded_url": "https://x.com/impart6324/status/2008187414481969637/photo/1",
+              "media_key": "3_2008187396664315904",
+              "start": 4,
+              "url": "https://t.co/o99X9aZtMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008187414481969637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无奈 https://t.co/o99X9aZtMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 272,
+          "like_count": 4989,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 748
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

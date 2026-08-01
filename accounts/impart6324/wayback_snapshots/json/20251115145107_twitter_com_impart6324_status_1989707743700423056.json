@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989659093037191648",
+    "created_at": "2025-11-15T14:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989707743700423056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648258447832666113",
+          "start": 0,
+          "username": "xingkang1203"
+        },
+        {
+          "end": 30,
+          "id": "1289504272506392576",
+          "start": 14,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989707743700423056",
+    "in_reply_to_user_id": "1648258447832666113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989698666308030737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingkang1203 @BabysnakeViolet 她有性病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989659093037191648",
+        "created_at": "2025-11-15T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989707743700423056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648258447832666113",
+              "start": 0,
+              "username": "xingkang1203"
+            },
+            {
+              "end": 30,
+              "id": "1289504272506392576",
+              "start": 14,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989707743700423056",
+        "in_reply_to_user_id": "1648258447832666113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989698666308030737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingkang1203 @BabysnakeViolet 她有性病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648258447832666113",
+        "conversation_id": "1989659093037191648",
+        "created_at": "2025-11-15T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989698666308030737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 28,
+              "id": "1597065444136919040",
+              "start": 17,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989698666308030737",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989671578125336812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @impart6324 给我操一下，认真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 355,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 178
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T09:33:50.000Z",
+        "description": "爱星爷、爱生活、爱梦想",
+        "id": "1648258447832666113",
+        "name": "哈基米🌟Nobody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749050535284711426/nyCFLCKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 90,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 151
+        },
+        "username": "xingkang1203",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥语音验证20，如果裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 276,
+          "like_count": 1312,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1125
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

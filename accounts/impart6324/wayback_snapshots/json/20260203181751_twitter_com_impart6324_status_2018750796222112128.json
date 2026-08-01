@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018748316167905406",
+    "created_at": "2026-02-03T18:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018750796222112128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018750796222112128",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018748316167905406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018748316167905406",
+        "created_at": "2026-02-03T18:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018750796222112128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018750796222112128",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018748316167905406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2018748316167905406",
+        "created_at": "2026-02-03T18:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018748316167905406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018748316167905406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢一个人我就跟神经病一样去翻他的所有社交账号一直在视奸视奸需要知道所有有关系的异性，我感觉我占有欲好强好烦呀😡然后我看到了我就觉得很难受能不能别和其他人有关系？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 366,
+          "like_count": 7525,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜只过信任的人：@llll3lll313｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "llll3lll313"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "QY_art7"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5833,
+          "following_count": 844,
+          "like_count": 18774,
+          "listed_count": 19,
+          "media_count": 990,
+          "tweet_count": 14462
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012518541220577403",
+    "created_at": "2026-01-18T09:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012819031716245893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557986650466164739",
+          "start": 0,
+          "username": "Arashi_100224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012819031716245893",
+    "in_reply_to_user_id": "1557986650466164739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012818945573871745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arashi_100224 呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012518541220577403",
+        "created_at": "2026-01-18T09:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012819031716245893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557986650466164739",
+              "start": 0,
+              "username": "Arashi_100224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012819031716245893",
+        "in_reply_to_user_id": "1557986650466164739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012818945573871745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arashi_100224 呵呵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557986650466164739",
+        "conversation_id": "2012518541220577403",
+        "created_at": "2026-01-18T09:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012818945573871745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012818945573871745",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012737546816479469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2012548406443495796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 326,
+          "like_count": 6118,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 960
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T07:05:50.000Z",
+        "description": "最低🚪88 私信只回zfb口令/双相1型 asd/血腥黄色违法避雷/互fo欢迎 LGBTQ友好 🏳️‍⚧️友好/真心话碎碎念/讨厌我或者喜欢我就给我打钱",
+        "id": "1557986650466164739",
+        "location": "精神病院",
+        "name": "Arashi",
+        "pinned_tweet_id": "1990693948528996711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008531952551555074/Q7cRFOWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 441,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 782
+        },
+        "username": "Arashi_100224",
+        "verified": false
+      }
+    ]
+  }
+}

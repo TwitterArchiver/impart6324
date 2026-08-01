@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2034949462649704553",
+    "created_at": "2026-03-20T13:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034988260779565277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "BaiandErika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034988260779565277",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034949462649704553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiandErika8964 嗯切你赢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034949448187666432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2XvdMaYAA464b.jpg",
+        "width": 1192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2034949462649704553",
+        "created_at": "2026-03-20T13:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034988260779565277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "BaiandErika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034988260779565277",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034949462649704553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiandErika8964 嗯切你赢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034949448187666432"
+          ]
+        },
+        "author_id": "1910085836420558848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034949462649704553",
+        "created_at": "2026-03-20T11:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034949462649704553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTN3w9n6R2",
+              "end": 38,
+              "expanded_url": "https://x.com/BaiandErika8964/status/2034949462649704553/photo/1",
+              "media_key": "3_2034949448187666432",
+              "start": 15,
+              "url": "https://t.co/fTN3w9n6R2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034949462649704553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明明还是个小宝宝就要工作了 https://t.co/fTN3w9n6R2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 460,
+          "like_count": 11269,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "location": "爱：13.1",
+        "name": "诅咒是纯白色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011694325986643968/2Lj2OZgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 552,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1998
+        },
+        "username": "BaiandErika8964",
+        "verified": false
+      }
+    ]
+  }
+}

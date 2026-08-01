@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2002410166164054510",
+    "created_at": "2025-12-20T16:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002410166164054510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002189765458944000",
+          "start": 3,
+          "username": "kuiokawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002410166164054510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002230105809019349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuiokawaii: 推友们好这是呪的置顶儿！\n精神病小女孩需要小钱钱来生活..\n以前是黄推 无数次转生以后决定现在努力做自己 这里分享日常和心里话 \n我没有跑 🌍被封了只能看信息不能发 迷路的宝贝请带着微信号私信我\n线下年后接 门哥们回家我在等你 萌妹子我们互fo互…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002410166164054510].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002410166164054510",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002410166164054510"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002230041766137856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lZnV4WEAAsqK4.jpg",
+        "width": 1619
+      },
+      {
+        "duration_ms": 5266,
+        "height": 1280,
+        "media_key": "13_2002230041778782208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002230041778782208/img/EWU7G7CwsJdpbTv0.jpg",
+        "public_metrics": {
+          "view_count": 343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230041778782208/vid/avc1/320x568/9vmnC4YvWbqa_qu0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230041778782208/vid/avc1/480x852/WdCbsjnOjhq-ha2-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230041778782208/vid/avc1/720x1280/H83y_0xxMjR_j1Dx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002230041778782208/pl/jnn-x5O4jJSNntS2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002230041766137856",
+            "13_2002230041778782208"
+          ]
+        },
+        "author_id": "2002189765458944000",
+        "conversation_id": "2002230105809019349",
+        "created_at": "2025-12-20T04:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002230105809019349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "地雷系"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "我需要钱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DicpOFnn6T",
+              "end": 174,
+              "expanded_url": "https://x.com/kuiokawaii/status/2002230105809019349/video/1",
+              "media_key": "3_2002230041766137856",
+              "start": 151,
+              "url": "https://t.co/DicpOFnn6T"
+            },
+            {
+              "display_url": "pic.x.com/DicpOFnn6T",
+              "end": 174,
+              "expanded_url": "https://x.com/kuiokawaii/status/2002230105809019349/video/1",
+              "media_key": "13_2002230041778782208",
+              "start": 151,
+              "url": "https://t.co/DicpOFnn6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002230105809019349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2966,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推友们好这是呪的置顶儿！\n精神病小女孩需要小钱钱来生活..\n以前是黄推 无数次转生以后决定现在努力做自己 这里分享日常和心里话 \n我没有跑 🌍被封了只能看信息不能发 迷路的宝贝请带着微信号私信我\n线下年后接 门哥们回家我在等你 萌妹子我们互fo互转好吗🚼🚼🚼\n#门槛妹 #地雷系 #爸爸活 #我需要钱 https://t.co/DicpOFnn6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 230,
+          "like_count": 3209,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 479
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T01:31:58.000Z",
+        "description": "重生归来的呪势必拿回属于她的一切儿  还是那个家暴霸凌强奸以后变成精神病被父母放弃 前前世黄推 嗑药割手手的小女孩 我需要💰支持我的生活 爱你们儿🦄💟💟💟",
+        "id": "2002189765458944000",
+        "name": "Kuioo",
+        "pinned_tweet_id": "2002230105809019349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002190345048633344/Qv_4QR5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "kuiokawaii",
+        "verified": false
+      }
+    ]
+  }
+}

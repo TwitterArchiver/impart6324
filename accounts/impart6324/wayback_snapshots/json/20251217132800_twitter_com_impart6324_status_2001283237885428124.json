@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001273519183925410",
+    "created_at": "2025-12-17T13:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001283237885428124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001283237885428124",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001273519183925410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii 我马上就把你推下去ok？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4500,
+        "height": 1280,
+        "media_key": "13_2001273460727898112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001273460727898112/img/dxQnZCZNk7d5WR-s.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001273460727898112/vid/avc1/320x568/zvvGSp9NJLwUig3U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001273460727898112/vid/avc1/480x852/QVX-JbN2LLfEBXrS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001273460727898112/vid/avc1/720x1280/UotaSt0BHbGgD4NL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001273460727898112/pl/5Wk9_mXg81hvEdsi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001273519183925410",
+        "created_at": "2025-12-17T13:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001283237885428124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001283237885428124",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001273519183925410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii 我马上就把你推下去ok？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001273460727898112"
+          ]
+        },
+        "author_id": "1989441591262810116",
+        "conversation_id": "2001273519183925410",
+        "created_at": "2025-12-17T12:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001273519183925410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsj7yzb7t0",
+              "end": 49,
+              "expanded_url": "https://x.com/eggykawaii/status/2001273519183925410/video/1",
+              "media_key": "13_2001273460727898112",
+              "start": 26,
+              "url": "https://t.co/wsj7yzb7t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001273519183925410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天绝对要出门拍照 散步到一个很好看的天台我踩点了 https://t.co/wsj7yzb7t0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 226,
+          "like_count": 3048,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 490
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 不想面对过去的自己开启了转生…没有看屌的义务 可以找我说话 家暴霸凌强奸被逼崩溃割手嗑药的小女孩 喜欢漂亮衣服香味的东西和狗 爱我请给钱🐥🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "2000677996504686954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000101591756734464/o5_ING9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 294,
+          "like_count": 570,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      }
+    ]
+  }
+}

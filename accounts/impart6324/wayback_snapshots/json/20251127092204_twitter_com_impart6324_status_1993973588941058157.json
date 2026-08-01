@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993973588941058157",
+    "created_at": "2025-11-27T09:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993973588941058157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993973588941058157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在圣诞节想和你依偎在被窝里用有线耳机看小鬼当家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993973588941058157",
+        "created_at": "2025-11-27T09:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993973588941058157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993973588941058157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在圣诞节想和你依偎在被窝里用有线耳机看小鬼当家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 374,
+          "like_count": 1656,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 315
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

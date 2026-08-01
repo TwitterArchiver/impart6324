@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015756880111608180",
+    "created_at": "2026-01-26T12:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015771111313834033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1905852947512410112",
+          "start": 0,
+          "username": "i790q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015771111313834033",
+    "in_reply_to_user_id": "1905852947512410112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015770890466914692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i790q 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015756880111608180",
+        "created_at": "2026-01-26T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015771111313834033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1905852947512410112",
+              "start": 0,
+              "username": "i790q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015771111313834033",
+        "in_reply_to_user_id": "1905852947512410112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015770890466914692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i790q 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905852947512410112",
+        "conversation_id": "2015756880111608180",
+        "created_at": "2026-01-26T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015770890466914692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015770890466914692",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015756880111608180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 ？os：礼貌拿图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 345,
+          "like_count": 6705,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1151
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:22:18.000Z",
+        "description": "私信只会口令 男的52仅好友位",
+        "id": "1905852947512410112",
+        "name": "小芝芝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010012713477607424/EWfHLzYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 38,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 481
+        },
+        "username": "i790q",
+        "verified": false
+      }
+    ]
+  }
+}

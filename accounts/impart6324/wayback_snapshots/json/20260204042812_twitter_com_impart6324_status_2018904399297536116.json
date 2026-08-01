@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018266242520621470",
+    "created_at": "2026-02-04T04:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018904399297536116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984338308865146890",
+          "start": 0,
+          "username": "yy44_x4586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018904399297536116",
+    "in_reply_to_user_id": "1984338308865146890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018266242520621470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy44_x4586 因为你没关人机信息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018266236254355456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJSctobAAAwwaS.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018266236510171136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJSculacAAjsVQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018266236510187520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJSculasAAq3RP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018266242520621470",
+        "created_at": "2026-02-04T04:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018904399297536116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984338308865146890",
+              "start": 0,
+              "username": "yy44_x4586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018904399297536116",
+        "in_reply_to_user_id": "1984338308865146890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018266242520621470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy44_x4586 因为你没关人机信息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018266236254355456",
+            "3_2018266236510171136",
+            "3_2018266236510187520"
+          ]
+        },
+        "author_id": "1984338308865146890",
+        "conversation_id": "2018266242520621470",
+        "created_at": "2026-02-02T10:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018266242520621470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QA9wIZqnI",
+              "end": 33,
+              "expanded_url": "https://x.com/yy44_x4586/status/2018266242520621470/photo/1",
+              "media_key": "3_2018266236254355456",
+              "start": 10,
+              "url": "https://t.co/5QA9wIZqnI"
+            },
+            {
+              "display_url": "pic.x.com/5QA9wIZqnI",
+              "end": 33,
+              "expanded_url": "https://x.com/yy44_x4586/status/2018266242520621470/photo/1",
+              "media_key": "3_2018266236510171136",
+              "start": 10,
+              "url": "https://t.co/5QA9wIZqnI"
+            },
+            {
+              "display_url": "pic.x.com/5QA9wIZqnI",
+              "end": 33,
+              "expanded_url": "https://x.com/yy44_x4586/status/2018266242520621470/photo/1",
+              "media_key": "3_2018266236510187520",
+              "start": 10,
+              "url": "https://t.co/5QA9wIZqnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018266242520621470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我提问箱怎么有人机 https://t.co/5QA9wIZqnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 366,
+          "like_count": 7545,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T19:15:10.000Z",
+        "description": "只会无病呻吟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xy425687",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xy425687",
+                "start": 0,
+                "url": "https://t.co/ItKQZGRaoO"
+              }
+            ]
+          }
+        },
+        "id": "1984338308865146890",
+        "name": "废柴少年家里蹲",
+        "pinned_tweet_id": "2014798114142748755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984374146487500803/zhFipDN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/ItKQZGRaoO",
+        "username": "yy44_x4586",
+        "verified": false
+      }
+    ]
+  }
+}

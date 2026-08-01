@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027693814438367591",
+    "created_at": "2026-02-28T13:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027738288514376147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995076111328509952",
+          "start": 0,
+          "username": "o_Ouser123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027738288514376147",
+    "in_reply_to_user_id": "1995076111328509952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027737900859986019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o_Ouser123 疯狂漂了一共4次头 牛不牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027693814438367591",
+        "created_at": "2026-02-28T13:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027738288514376147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995076111328509952",
+              "start": 0,
+              "username": "o_Ouser123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027738288514376147",
+        "in_reply_to_user_id": "1995076111328509952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027737900859986019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o_Ouser123 疯狂漂了一共4次头 牛不牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995076111328509952",
+        "conversation_id": "2027693814438367591",
+        "created_at": "2026-02-28T13:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027737900859986019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027737900859986019",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027693814438367591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 你咋变成白毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 427,
+          "like_count": 9650,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T10:23:16.000Z",
+        "description": "只回应好听话和钱｜超低精力有时候不想回评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/user123ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/user123ovo",
+                "start": 0,
+                "url": "https://t.co/nxkujmpTYc"
+              }
+            ]
+          }
+        },
+        "id": "1995076111328509952",
+        "location": "答应我会幸福",
+        "name": "我有被爱妄想症",
+        "pinned_tweet_id": "2012418617401548963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002942137712640/osx2RvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 158,
+          "like_count": 7640,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/nxkujmpTYc",
+        "username": "o_Ouser123",
+        "verified": false
+      }
+    ]
+  }
+}

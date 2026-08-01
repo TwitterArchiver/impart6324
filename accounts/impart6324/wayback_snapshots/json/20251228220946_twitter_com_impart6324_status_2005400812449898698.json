@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005400800097435648",
+        "3_2005400800084787200"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005400812449898698",
+    "created_at": "2025-12-28T22:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T23:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005400812449898698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8deVssF7y",
+          "end": 47,
+          "expanded_url": "https://x.com/impart6324/status/2005400812449898698/photo/1",
+          "media_key": "3_2005400800097435648",
+          "start": 24,
+          "url": "https://t.co/z8deVssF7y"
+        },
+        {
+          "display_url": "pic.x.com/z8deVssF7y",
+          "end": 47,
+          "expanded_url": "https://x.com/impart6324/status/2005400812449898698/photo/1",
+          "media_key": "3_2005400800084787200",
+          "start": 24,
+          "url": "https://t.co/z8deVssF7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005400812449898698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为啥我是得精神病自己从家里跑出来父母不管不顾😓 https://t.co/z8deVssF7y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005400800097435648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9SdZxIXgAAPduU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005400800084787200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9SdZxFWgAANdnk.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005400800097435648",
+            "3_2005400800084787200"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005400812449898698",
+        "created_at": "2025-12-28T22:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T23:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005400812449898698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8deVssF7y",
+              "end": 47,
+              "expanded_url": "https://x.com/impart6324/status/2005400812449898698/photo/1",
+              "media_key": "3_2005400800097435648",
+              "start": 24,
+              "url": "https://t.co/z8deVssF7y"
+            },
+            {
+              "display_url": "pic.x.com/z8deVssF7y",
+              "end": 47,
+              "expanded_url": "https://x.com/impart6324/status/2005400812449898698/photo/1",
+              "media_key": "3_2005400800084787200",
+              "start": 24,
+              "url": "https://t.co/z8deVssF7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005400812449898698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我是得精神病自己从家里跑出来父母不管不顾😓 https://t.co/z8deVssF7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 250,
+          "like_count": 3958,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 592
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

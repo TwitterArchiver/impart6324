@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1981710617720565899",
+    "created_at": "2025-10-27T10:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982760302904324317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782820752389206021",
+          "start": 0,
+          "username": "AtoNannichi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982760302904324317",
+    "in_reply_to_user_id": "1782820752389206021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981710617720565899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AtoNannichi7 你妈死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_1981710610657128448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BzTQPXMAAX3e1.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1981710617720565899",
+        "created_at": "2025-10-27T10:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982760302904324317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782820752389206021",
+              "start": 0,
+              "username": "AtoNannichi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982760302904324317",
+        "in_reply_to_user_id": "1782820752389206021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981710617720565899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AtoNannichi7 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981710610657128448"
+          ]
+        },
+        "author_id": "1782820752389206021",
+        "conversation_id": "1981710617720565899",
+        "created_at": "2025-10-24T13:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981710617720565899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tn1wQaRBx0",
+              "end": 23,
+              "expanded_url": "https://x.com/AtoNannichi7/status/1981710617720565899/photo/1",
+              "media_key": "3_1981710610657128448",
+              "start": 0,
+              "url": "https://t.co/Tn1wQaRBx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981710617720565899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tn1wQaRBx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 256,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 128
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T17:16:13.000Z",
+        "description": "嘘をつけ永遠のさよならのかわりに",
+        "id": "1782820752389206021",
+        "name": "天人五衰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982081619428040704/pcY-zPqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 119,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 236
+        },
+        "username": "AtoNannichi7",
+        "verified": false
+      }
+    ]
+  }
+}

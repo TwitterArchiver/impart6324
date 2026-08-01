@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012449133593043354",
+    "created_at": "2026-01-17T09:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012453894337831350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809146797572685824",
+          "start": 0,
+          "username": "ohyeahcoffee4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012453894337831350",
+    "in_reply_to_user_id": "1809146797572685824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012453731997208864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohyeahcoffee4 晚餐吃什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012449133593043354",
+        "created_at": "2026-01-17T09:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012453894337831350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809146797572685824",
+              "start": 0,
+              "username": "ohyeahcoffee4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012453894337831350",
+        "in_reply_to_user_id": "1809146797572685824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012453731997208864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohyeahcoffee4 晚餐吃什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809146797572685824",
+        "conversation_id": "2012449133593043354",
+        "created_at": "2026-01-17T09:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012453731997208864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012453731997208864",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012451787060760731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 偷偷說，其實還好，然後現在要吃晚餐了🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 324,
+          "like_count": 6012,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 918
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T08:46:38.000Z",
+        "description": "豆漿續命 啤酒過活  🔞的不要來",
+        "id": "1809146797572685824",
+        "location": "苦難發源地",
+        "name": "taco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005486620385083393/GDQrrRun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 386
+        },
+        "username": "ohyeahcoffee4",
+        "verified": false
+      }
+    ]
+  }
+}

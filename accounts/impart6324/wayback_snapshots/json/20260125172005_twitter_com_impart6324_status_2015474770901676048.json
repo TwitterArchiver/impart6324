@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015474770901676048",
+    "created_at": "2026-01-25T17:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015474770901676048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015474770901676048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直觉得在推特发东西被截图到抖音推特这事挺正常的 根本不知道骂的点在哪里 你如果说泄露隐私之类的 这不都是社交平台吗泄露在哪了 你被发抖音发微博还得再截图回来 搞得你敢直接把有流量的帖子删了一样😓 天天你妈逼扯什么墙内墙外 用个几把梯子给你牛的 装你妈逼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015474770901676048",
+        "created_at": "2026-01-25T17:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015474770901676048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015474770901676048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得在推特发东西被截图到抖音推特这事挺正常的 根本不知道骂的点在哪里 你如果说泄露隐私之类的 这不都是社交平台吗泄露在哪了 你被发抖音发微博还得再截图回来 搞得你敢直接把有流量的帖子删了一样😓 天天你妈逼扯什么墙内墙外 用个几把梯子给你牛的 装你妈逼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 343,
+          "like_count": 6677,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1136
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

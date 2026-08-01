@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006241829876887740",
+    "created_at": "2025-12-31T05:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006241829876887740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamikawaiiiiii…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2006240222162640968",
+          "start": 12,
+          "url": "https://t.co/RtKsytc9Bv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006241829876887740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006240222162640968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想死 我被抛弃两次了 https://t.co/RtKsytc9Bv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006241829876887740",
+        "created_at": "2025-12-31T05:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006241829876887740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamikawaiiiiii…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2006240222162640968",
+              "start": 12,
+              "url": "https://t.co/RtKsytc9Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006241829876887740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006240222162640968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想死 我被抛弃两次了 https://t.co/RtKsytc9Bv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002819291087777792",
+        "conversation_id": "2006240222162640968",
+        "created_at": "2025-12-31T05:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006240222162640968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006240222162640968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来去上海面基 结果磕大了在家晕倒了 票也退了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 260,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 665
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我的小星星是💟💟💟@nmslwcnm8964  只想和漂亮的和真心的人玩儿 谁和我真心换真心？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "nmslwcnm8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006123149180776448/t3Xwa79T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 96,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

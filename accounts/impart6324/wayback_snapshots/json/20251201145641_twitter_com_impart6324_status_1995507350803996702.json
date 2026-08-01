@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995507330713358336",
+        "3_1995507330704945152"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1995507350803996702",
+    "created_at": "2025-12-01T14:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995507350803996702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1988913182828818433",
+          "start": 6,
+          "username": "raccoon0918"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KwYSHAWAo",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/1995507350803996702/photo/1",
+          "media_key": "3_1995507330713358336",
+          "start": 19,
+          "url": "https://t.co/1KwYSHAWAo"
+        },
+        {
+          "display_url": "pic.x.com/1KwYSHAWAo",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/1995507350803996702/photo/1",
+          "media_key": "3_1995507330704945152",
+          "start": 19,
+          "url": "https://t.co/1KwYSHAWAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995507350803996702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "倡导男女平等@raccoon0918 https://t.co/1KwYSHAWAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1995507330713358336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7F3WDnbkAA9f2U.jpg",
+        "width": 620
+      },
+      {
+        "height": 875,
+        "media_key": "3_1995507330704945152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7F3WDlbMAAk8wy.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995507330713358336",
+            "3_1995507330704945152"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1995507350803996702",
+        "created_at": "2025-12-01T14:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995507350803996702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1988913182828818433",
+              "start": 6,
+              "username": "raccoon0918"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KwYSHAWAo",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/1995507350803996702/photo/1",
+              "media_key": "3_1995507330713358336",
+              "start": 19,
+              "url": "https://t.co/1KwYSHAWAo"
+            },
+            {
+              "display_url": "pic.x.com/1KwYSHAWAo",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/1995507350803996702/photo/1",
+              "media_key": "3_1995507330704945152",
+              "start": 19,
+              "url": "https://t.co/1KwYSHAWAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995507350803996702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倡导男女平等@raccoon0918 https://t.co/1KwYSHAWAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 313,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 366
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T10:13:56.000Z",
+        "description": "病み垢 08 フォロバ100% 🚺 jp/en/cn 出会い厨／エロ垢NG 砂糖/251→@dakongmao1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "dakongmao1"
+              }
+            ]
+          }
+        },
+        "id": "1988913182828818433",
+        "location": "無言フォロー失礼します",
+        "name": "ゆめ_rain",
+        "pinned_tweet_id": "1990511082969166023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988914160093069312/yjzpCM7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 247,
+          "like_count": 1447,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 164
+        },
+        "username": "raccoon0918",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006476976412852224",
+        "3_2006476976408739840"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006476991722348693",
+    "created_at": "2025-12-31T21:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006476991722348693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3h4E8nGXbZ",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2006476991722348693/photo/1",
+          "media_key": "3_2006476976412852224",
+          "start": 5,
+          "url": "https://t.co/3h4E8nGXbZ"
+        },
+        {
+          "display_url": "pic.x.com/3h4E8nGXbZ",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2006476991722348693/photo/1",
+          "media_key": "3_2006476976408739840",
+          "start": 5,
+          "url": "https://t.co/3h4E8nGXbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006476991722348693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我妈妈 https://t.co/3h4E8nGXbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006476976412852224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hwLeUWgAA5-eP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006476976408739840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hwLeTXwAADZRH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006476976412852224",
+            "3_2006476976408739840"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006476991722348693",
+        "created_at": "2025-12-31T21:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006476991722348693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3h4E8nGXbZ",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2006476991722348693/photo/1",
+              "media_key": "3_2006476976412852224",
+              "start": 5,
+              "url": "https://t.co/3h4E8nGXbZ"
+            },
+            {
+              "display_url": "pic.x.com/3h4E8nGXbZ",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2006476991722348693/photo/1",
+              "media_key": "3_2006476976408739840",
+              "start": 5,
+              "url": "https://t.co/3h4E8nGXbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006476991722348693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我妈妈 https://t.co/3h4E8nGXbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 260,
+          "like_count": 4444,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 672
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

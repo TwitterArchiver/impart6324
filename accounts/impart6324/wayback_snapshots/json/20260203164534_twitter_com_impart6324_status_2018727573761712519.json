@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018727555155832833",
+        "3_2018727555147444230"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018727573761712519",
+    "created_at": "2026-02-03T16:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018727573761712519"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "真假美",
+          "probability": 0.5234,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ImUK0M4rT",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2018727573761712519/photo/1",
+          "media_key": "3_2018727555155832833",
+          "start": 6,
+          "url": "https://t.co/5ImUK0M4rT"
+        },
+        {
+          "display_url": "pic.x.com/5ImUK0M4rT",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2018727573761712519/photo/1",
+          "media_key": "3_2018727555147444230",
+          "start": 6,
+          "url": "https://t.co/5ImUK0M4rT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018727573761712519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真假美猴王 https://t.co/5ImUK0M4rT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018727555155832833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP2BAdbMAECn8E.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018727555147444230",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP2BAbbMAYXQGe.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018727555155832833",
+            "3_2018727555147444230"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018727573761712519",
+        "created_at": "2026-02-03T16:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018727573761712519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "真假美",
+              "probability": 0.5234,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ImUK0M4rT",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2018727573761712519/photo/1",
+              "media_key": "3_2018727555155832833",
+              "start": 6,
+              "url": "https://t.co/5ImUK0M4rT"
+            },
+            {
+              "display_url": "pic.x.com/5ImUK0M4rT",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2018727573761712519/photo/1",
+              "media_key": "3_2018727555147444230",
+              "start": 6,
+              "url": "https://t.co/5ImUK0M4rT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018727573761712519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真假美猴王 https://t.co/5ImUK0M4rT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 366,
+          "like_count": 7507,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

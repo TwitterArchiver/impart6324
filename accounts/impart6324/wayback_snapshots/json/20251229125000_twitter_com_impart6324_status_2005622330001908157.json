@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005622330001908157",
+    "created_at": "2025-12-29T12:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005622330001908157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2005609065498784250",
+          "start": 6,
+          "url": "https://t.co/BxSZsxwD2R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005622330001908157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005609065498784250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太他妈坏了 https://t.co/BxSZsxwD2R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005622330001908157",
+        "created_at": "2025-12-29T12:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005622330001908157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2005609065498784250",
+              "start": 6,
+              "url": "https://t.co/BxSZsxwD2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005622330001908157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005609065498784250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太他妈坏了 https://t.co/BxSZsxwD2R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2005609065498784250",
+        "created_at": "2025-12-29T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005609065498784250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005609065498784250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然想到一个致富方法：向乌克兰俄罗斯出口假阳具和秒潮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 255,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 605
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 197,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 854
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

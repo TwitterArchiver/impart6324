@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005306028318167040",
+        "3_2005306028322369536"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2005306041744179624",
+    "created_at": "2025-12-28T15:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005306041744179624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xta960VF5g",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/2005306041744179624/photo/1",
+          "media_key": "3_2005306028318167040",
+          "start": 19,
+          "url": "https://t.co/xta960VF5g"
+        },
+        {
+          "display_url": "pic.x.com/xta960VF5g",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/2005306041744179624/photo/1",
+          "media_key": "3_2005306028322369536",
+          "start": 19,
+          "url": "https://t.co/xta960VF5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005306041744179624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果是年度歌单是通俗说唱 立马自杀😂 https://t.co/xta960VF5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2005306028318167040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RHNUvakAAlv_d.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2005306028322369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RHNUwasAAvOz7.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005306028318167040",
+            "3_2005306028322369536"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2005306041744179624",
+        "created_at": "2025-12-28T15:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005306041744179624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xta960VF5g",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/2005306041744179624/photo/1",
+              "media_key": "3_2005306028318167040",
+              "start": 19,
+              "url": "https://t.co/xta960VF5g"
+            },
+            {
+              "display_url": "pic.x.com/xta960VF5g",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/2005306041744179624/photo/1",
+              "media_key": "3_2005306028322369536",
+              "start": 19,
+              "url": "https://t.co/xta960VF5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005306041744179624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果是年度歌单是通俗说唱 立马自杀😂 https://t.co/xta960VF5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 249,
+          "like_count": 3868,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 573
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

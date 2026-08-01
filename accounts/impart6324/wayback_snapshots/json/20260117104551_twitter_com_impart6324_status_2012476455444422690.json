@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012450299311730715",
+    "created_at": "2026-01-17T10:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012476455444422690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927283550950137856",
+          "start": 0,
+          "username": "Zzzmzmmmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012476455444422690",
+    "in_reply_to_user_id": "1927283550950137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012450299311730715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzzmzmmmm 爹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2012450274867339264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2o3NGa4AAB1Fm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012450299311730715",
+        "created_at": "2026-01-17T10:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012476455444422690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927283550950137856",
+              "start": 0,
+              "username": "Zzzmzmmmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012476455444422690",
+        "in_reply_to_user_id": "1927283550950137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012450299311730715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzzmzmmmm 爹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012450274867339264"
+          ]
+        },
+        "author_id": "1927283550950137856",
+        "conversation_id": "2012450299311730715",
+        "created_at": "2026-01-17T09:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012450299311730715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSYGRkJMEI",
+              "end": 26,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2012450299311730715/photo/1",
+              "media_key": "3_2012450274867339264",
+              "start": 3,
+              "url": "https://t.co/LSYGRkJMEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012450299311730715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 451,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "え？ https://t.co/LSYGRkJMEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 324,
+          "like_count": 6021,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 920
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2002606151561851365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927283732207005696/sHjMRO7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 33,
+          "like_count": 1153,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 647
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

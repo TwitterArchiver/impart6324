@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010729395976393207",
+    "created_at": "2026-01-12T16:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010752456179773750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010752456179773750",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010750680987025541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 我非常羡慕社交能力强的人 我感觉我对朋友或者有好感的人占有欲非常的强 经常做一些不理智的事情😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T16:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010752456179773750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010752456179773750",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010750680987025541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 我非常羡慕社交能力强的人 我感觉我对朋友或者有好感的人占有欲非常的强 经常做一些不理智的事情😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958896241158299650",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T16:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010750680987025541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010750680987025541",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010729395976393207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 301,
+          "like_count": 5474,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 751
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2010588685348335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 318,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2509
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

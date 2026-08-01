@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022754588823294419",
+    "created_at": "2026-02-15T12:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023009836313747570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1382719150242484227",
+          "start": 0,
+          "username": "0w0_mewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023009836313747570",
+    "in_reply_to_user_id": "1382719150242484227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022936275456786659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0w0_mewo 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022754588823294419",
+        "created_at": "2026-02-15T12:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023009836313747570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1382719150242484227",
+              "start": 0,
+              "username": "0w0_mewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023009836313747570",
+        "in_reply_to_user_id": "1382719150242484227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022936275456786659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0w0_mewo 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382719150242484227",
+        "conversation_id": "2022754588823294419",
+        "created_at": "2026-02-15T07:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022936275456786659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022936275456786659",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022754588823294419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 吹头顺着头发方向吹，发质也会看起来好一点，还有护发精油，头发还有点湿湿的快干的时候抹一泵再吹干"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 394,
+          "like_count": 8570,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-15T15:35:24.000Z",
+        "description": "直到眼泪没有味道",
+        "id": "1382719150242484227",
+        "location": "有🚪",
+        "name": "漂う夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820870321513132032/0Vd-bHO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 716,
+          "like_count": 10672,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1558
+        },
+        "username": "0w0_mewo",
+        "verified": false
+      }
+    ]
+  }
+}

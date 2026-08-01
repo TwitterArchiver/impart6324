@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1814863291321311232"
+      ],
+      "media_source_tweet_id": [
+        "1814863360313446508"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015974457152811414",
+    "created_at": "2026-01-27T02:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T03:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015974457152811414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "856422650104561664",
+          "start": 3,
+          "username": "ena_taiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a55bcz5RNR",
+          "end": 71,
+          "expanded_url": "https://x.com/haruka20315/status/1814863360313446508/video/1",
+          "media_key": "7_1814863291321311232",
+          "start": 48,
+          "url": "https://t.co/a55bcz5RNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015974457152811414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014993828831453535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ena_taiko: 駅から見えた下校中のカップル\n純度100%じゃん。眩しいよ。\n\n https://t.co/a55bcz5RNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9735,
+        "height": 1262,
+        "media_key": "7_1814863291321311232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1814863291321311232/pu/img/77mM-41frXJAlvj9.jpg",
+        "public_metrics": {
+          "view_count": 4360726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814863291321311232/pu/vid/avc1/320x560/o6B_KLLWQdrqQX-U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814863291321311232/pu/vid/avc1/480x840/CA01jRM_oGgXvQ3w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1814863291321311232/pu/vid/avc1/720x1262/cuuqKINnI9t7RVRT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1814863291321311232/pu/pl/6DrksYv_sFfchY4Q.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1814863291321311232"
+          ],
+          "media_source_tweet_id": [
+            "1814863360313446508"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015974457152811414",
+        "created_at": "2026-01-27T02:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015974457152811414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "856422650104561664",
+              "start": 3,
+              "username": "ena_taiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a55bcz5RNR",
+              "end": 71,
+              "expanded_url": "https://x.com/haruka20315/status/1814863360313446508/video/1",
+              "media_key": "7_1814863291321311232",
+              "start": 48,
+              "url": "https://t.co/a55bcz5RNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015974457152811414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014993828831453535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ena_taiko: 駅から見えた下校中のカップル\n純度100%じゃん。眩しいよ。\n\n https://t.co/a55bcz5RNR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1814863291321311232"
+          ],
+          "media_source_tweet_id": [
+            "1814863360313446508"
+          ]
+        },
+        "author_id": "856422650104561664",
+        "conversation_id": "2014993828831453535",
+        "created_at": "2026-01-24T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014993828831453535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a55bcz5RNR",
+              "end": 56,
+              "expanded_url": "https://x.com/haruka20315/status/1814863360313446508/video/1",
+              "media_key": "7_1814863291321311232",
+              "start": 33,
+              "url": "https://t.co/a55bcz5RNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014993828831453535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1921,
+          "impression_count": 989028,
+          "like_count": 25392,
+          "quote_count": 463,
+          "reply_count": 360,
+          "retweet_count": 1307
+        },
+        "reply_settings": "everyone",
+        "text": "駅から見えた下校中のカップル\n純度100%じゃん。眩しいよ。\n\n https://t.co/a55bcz5RNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 346,
+          "like_count": 6774,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1170
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-24T08:20:46.000Z",
+        "description": "世の中の\"今\"を伝えます！エンタメから政治まで世界のあらゆる出来事を取り上げ、あなたをX沼に引き込みます。タレコミや情報はDMまで。",
+        "id": "856422650104561664",
+        "name": "えな太后",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926895378877591552/AwMN2n1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194543,
+          "following_count": 20864,
+          "like_count": 13943,
+          "listed_count": 310,
+          "media_count": 1084,
+          "tweet_count": 24531
+        },
+        "username": "ena_taiko",
+        "verified": false
+      }
+    ]
+  }
+}

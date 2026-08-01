@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1979246429173616951",
+    "created_at": "2025-10-18T02:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T03:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979369710878888262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699421377520951296",
+          "start": 0,
+          "username": "Maorou_K8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979369710878888262",
+    "in_reply_to_user_id": "1699421377520951296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979246429173616951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maorou_K8M 往往有这种思想都交不到朋友🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1979246429173616951",
+        "created_at": "2025-10-18T02:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979369710878888262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699421377520951296",
+              "start": 0,
+              "username": "Maorou_K8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979369710878888262",
+        "in_reply_to_user_id": "1699421377520951296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979246429173616951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maorou_K8M 往往有这种思想都交不到朋友🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699421377520951296",
+        "conversation_id": "1979246429173616951",
+        "created_at": "2025-10-17T18:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T19:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979246429173616951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979246429173616951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14555,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在真心问大家一个问题就是：\n没有现实线下需要接触人的工作，然后也没有在上学的情况下 怎么样才能跟现实的人交朋友？ 就是我很需要一个朋友，但是我现在实在是找没招了，我现在都在想要不要存钱，然后出去学画画，这样可能就会交到朋友。（其实我一直在想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 203,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 101
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪520/998/5200zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins/b站 （推特所有账号请看背景图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1850225196147597323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234282,
+          "following_count": 43,
+          "like_count": 444,
+          "listed_count": 612,
+          "media_count": 346,
+          "tweet_count": 2334
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

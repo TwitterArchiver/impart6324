@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022754588823294419",
+    "created_at": "2026-02-15T12:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T13:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023009876998537466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023009876998537466",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022931185572417977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022754588823294419",
+        "created_at": "2026-02-15T12:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023009876998537466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023009876998537466",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022931185572417977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814968084538826753",
+        "conversation_id": "2022754588823294419",
+        "created_at": "2026-02-15T07:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T08:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022931185572417977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022931185572417977",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022754588823294419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 公狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 394,
+          "like_count": 8570,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "前身邪恶/善良立希希 立希漂亮漂亮！\n大阪傻福傻福😡",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "吃内捧大阪",
+        "pinned_tweet_id": "2011639544190550373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011499782754504704/f7C5LRkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 451,
+          "like_count": 2436,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 3799
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

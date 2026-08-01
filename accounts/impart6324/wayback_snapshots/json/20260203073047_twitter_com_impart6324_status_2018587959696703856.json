@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018587959696703856",
+    "created_at": "2026-02-03T07:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018587959696703856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018587959696703856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那个...很抱歉打扰您，我想问问...,请问可以当您的小狗吗!如果不可以话那我万分抱歉打扰您...，大概的话是主人多了一只小狗，让干嘛就干嘛，小狗绝不顶嘴，虽然我没有试过，不过我会努力让主人满意，不高兴的时候可以把我当情绪垃圾桶，难过的时候小狗也会陪你，总之应是随\n喊随到..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018587959696703856",
+        "created_at": "2026-02-03T07:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018587959696703856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018587959696703856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个...很抱歉打扰您，我想问问...,请问可以当您的小狗吗!如果不可以话那我万分抱歉打扰您...，大概的话是主人多了一只小狗，让干嘛就干嘛，小狗绝不顶嘴，虽然我没有试过，不过我会努力让主人满意，不高兴的时候可以把我当情绪垃圾桶，难过的时候小狗也会陪你，总之应是随\n喊随到..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 379,
+          "like_count": 7455,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1254
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

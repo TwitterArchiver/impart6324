@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005336805902836175",
+    "created_at": "2025-12-29T13:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005636976826024236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809146797572685824",
+          "start": 0,
+          "username": "ohyeahcoffee4"
+        },
+        {
+          "end": 27,
+          "id": "1958896241158299650",
+          "start": 15,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005636976826024236",
+    "in_reply_to_user_id": "1809146797572685824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005636536591843477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohyeahcoffee4 @Cyb4rEnt1ty 别这样 我跟朋友开玩笑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005336805902836175",
+        "created_at": "2025-12-29T13:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005636976826024236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809146797572685824",
+              "start": 0,
+              "username": "ohyeahcoffee4"
+            },
+            {
+              "end": 27,
+              "id": "1958896241158299650",
+              "start": 15,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005636976826024236",
+        "in_reply_to_user_id": "1809146797572685824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005636536591843477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohyeahcoffee4 @Cyb4rEnt1ty 别这样 我跟朋友开玩笑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809146797572685824",
+        "conversation_id": "2005336805902836175",
+        "created_at": "2025-12-29T13:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005636536591843477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 24,
+              "id": "1958896241158299650",
+              "start": 12,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005636536591843477",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005541296874926562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @Cyb4rEnt1ty 剛剛才看到你說人家有梅毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 256,
+          "like_count": 4131,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 610
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T08:46:38.000Z",
+        "description": "豆漿續命 啤酒過活",
+        "id": "1809146797572685824",
+        "name": "taco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005486620385083393/GDQrrRun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 70
+        },
+        "username": "ohyeahcoffee4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2001973449053659270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005076873387409409/hhNoTSVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 214,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1029
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

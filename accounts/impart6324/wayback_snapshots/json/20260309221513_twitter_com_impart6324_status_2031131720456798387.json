@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2031131720456798387",
+    "created_at": "2026-03-09T22:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031131720456798387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031131720456798387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我看过最多的动漫电影就是很多人讨厌的新海诚三部曲里的天气之子 第一次大概二年级看的 没看懂 第二次是24年7月北京下暴雨导致我和当时同行的三个朋友回不去家在酒店看的 第三次是25年6月上海梅雨季自己看的 最后一次是25年10月要回趟家的当晚 我曾经的挚友一直认为他是电影里的男主凡高 天天嘴上说着讨厌大人类似的 并且每次都会在日记里写凡高的经历 比如说从东京回县城上高中后面又回到东京 我和他第一次旅行是24年7月来上海 可能他一直在对照这个吧 不过我25年6月是真的在梅雨季节离家出走从一个偏僻的地方来到了繁华的都市 只不过我没有想的那么勇敢 还能像男主一样刻苦当三年的做题蛆 也可能是国家背景不一样 不过我真的感觉除了没有遇到一个在即将饿死前给我巨无霸的阳菜外 别的还真是差不多💤"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看过最多的动漫电影就是很多人讨厌的新海诚三部曲里的天气之子 第一次大概二年级看的 没看懂 第二次是24年7月北京下暴雨导致我和当时同行的三个朋友回不去家在酒店看的 第三次是25年6月上海梅雨季自己看的 最后一次是25年10月要回趟家的当晚 我曾经的挚友一直认为他是电影里的男主凡高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2031131720456798387",
+        "created_at": "2026-03-09T22:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031131720456798387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031131720456798387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我看过最多的动漫电影就是很多人讨厌的新海诚三部曲里的天气之子 第一次大概二年级看的 没看懂 第二次是24年7月北京下暴雨导致我和当时同行的三个朋友回不去家在酒店看的 第三次是25年6月上海梅雨季自己看的 最后一次是25年10月要回趟家的当晚 我曾经的挚友一直认为他是电影里的男主凡高 天天嘴上说着讨厌大人类似的 并且每次都会在日记里写凡高的经历 比如说从东京回县城上高中后面又回到东京 我和他第一次旅行是24年7月来上海 可能他一直在对照这个吧 不过我25年6月是真的在梅雨季节离家出走从一个偏僻的地方来到了繁华的都市 只不过我没有想的那么勇敢 还能像男主一样刻苦当三年的做题蛆 也可能是国家背景不一样 不过我真的感觉除了没有遇到一个在即将饿死前给我巨无霸的阳菜外 别的还真是差不多💤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看过最多的动漫电影就是很多人讨厌的新海诚三部曲里的天气之子 第一次大概二年级看的 没看懂 第二次是24年7月北京下暴雨导致我和当时同行的三个朋友回不去家在酒店看的 第三次是25年6月上海梅雨季自己看的 最后一次是25年10月要回趟家的当晚 我曾经的挚友一直认为他是电影里的男主凡高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 454,
+          "like_count": 10774,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

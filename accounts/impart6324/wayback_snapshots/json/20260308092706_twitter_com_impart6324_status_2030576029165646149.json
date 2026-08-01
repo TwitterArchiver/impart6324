@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030563789515685985",
+    "created_at": "2026-03-08T09:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030576029165646149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910758063453462528",
+          "start": 0,
+          "username": "brichhhhhh8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030576029165646149",
+    "in_reply_to_user_id": "1910758063453462528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030563789515685985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brichhhhhh8964 我知道你不爱我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030563789515685985",
+        "created_at": "2026-03-08T09:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030576029165646149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910758063453462528",
+              "start": 0,
+              "username": "brichhhhhh8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030576029165646149",
+        "in_reply_to_user_id": "1910758063453462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030563789515685985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brichhhhhh8964 我知道你不爱我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910758063453462528",
+        "conversation_id": "2030563789515685985",
+        "created_at": "2026-03-08T08:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030563789515685985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030563789515685985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说再见那个男孩学会抽烟，那张笑脸仿佛早已消失不见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 454,
+          "like_count": 10696,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-11T18:13:29.000Z",
+        "description": "switch 爱人TV观看者 喜欢乱讲话 不太关注人如果关注你了说明我很崇拜你么么哒 欢迎互fo 和赵露思一起懵逼的活着 别在我这里贴脸骂她 她帮我老家的老人卖出去了很多东西",
+        "id": "1910758063453462528",
+        "location": "距离你2.713km",
+        "name": "8操9纵6欲4",
+        "pinned_tweet_id": "2021879986605678752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010658746867896320/OTJHP34H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 120,
+          "like_count": 1344,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1203
+        },
+        "username": "brichhhhhh8964",
+        "verified": false
+      }
+    ]
+  }
+}

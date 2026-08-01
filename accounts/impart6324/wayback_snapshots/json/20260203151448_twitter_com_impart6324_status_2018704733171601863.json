@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018704733171601863",
+    "created_at": "2026-02-03T15:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018704733171601863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzzmzmmmm/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/zzzmzmmmm/status/2018704102658572508",
+          "start": 141,
+          "url": "https://t.co/prrA3YYkGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018704733171601863",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018704102658572508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁妈妈妈妈 https://t.co/prrA3YYkGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2018704079627993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPgqjTbwAAlOnr.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1064,
+        "media_key": "3_2018704082584903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPgquUaoAAGUfp.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018704733171601863",
+        "created_at": "2026-02-03T15:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018704733171601863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzzmzmmmm/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/zzzmzmmmm/status/2018704102658572508",
+              "start": 141,
+              "url": "https://t.co/prrA3YYkGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018704733171601863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018704102658572508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁妈妈妈妈 https://t.co/prrA3YYkGd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018704079627993088",
+            "3_2018704082584903680"
+          ]
+        },
+        "author_id": "1927283550950137856",
+        "conversation_id": "2018704102658572508",
+        "created_at": "2026-02-03T15:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018704102658572508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9NnYXjmdb",
+              "end": 164,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2018704102658572508/photo/1",
+              "media_key": "3_2018704079627993088",
+              "start": 141,
+              "url": "https://t.co/p9NnYXjmdb"
+            },
+            {
+              "display_url": "pic.x.com/p9NnYXjmdb",
+              "end": 164,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2018704102658572508/photo/1",
+              "media_key": "3_2018704082584903680",
+              "start": 141,
+              "url": "https://t.co/p9NnYXjmdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018704102658572508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "哦齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁齁妈妈妈妈 https://t.co/p9NnYXjmdb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 381,
+          "like_count": 7503,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2002606151561851365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927283732207005696/sHjMRO7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 37,
+          "like_count": 1367,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 837
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

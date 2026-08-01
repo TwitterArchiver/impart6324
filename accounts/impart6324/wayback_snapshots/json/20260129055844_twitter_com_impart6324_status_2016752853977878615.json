@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016752781923930113"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016752853977878615",
+    "created_at": "2026-01-29T05:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016752853977878615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXEqPtesFo",
+          "end": 41,
+          "expanded_url": "https://x.com/impart6324/status/2016752853977878615/video/1",
+          "media_key": "13_2016752781923930113",
+          "start": 18,
+          "url": "https://t.co/hXEqPtesFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016752853977878615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是你们喜欢的年上肌肉金融历史男吗 https://t.co/hXEqPtesFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16006,
+        "height": 1280,
+        "media_key": "13_2016752781923930113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016752781923930113/img/Z2p-eMPP_DsDb3VY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016752781923930113/vid/avc1/320x690/KGMCJQa0m_gtcqtt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016752781923930113/vid/avc1/480x1036/z336z-9WRXTtr7G5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016752781923930113/vid/avc1/592x1280/3cJA2uyzBjldGEG5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016752781923930113/pl/A0XSXdQv9KQabOPm.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016752781923930113"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016752853977878615",
+        "created_at": "2026-01-29T05:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016752853977878615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXEqPtesFo",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2016752853977878615/video/1",
+              "media_key": "13_2016752781923930113",
+              "start": 18,
+              "url": "https://t.co/hXEqPtesFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016752853977878615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是你们喜欢的年上肌肉金融历史男吗 https://t.co/hXEqPtesFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 7053,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1242
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

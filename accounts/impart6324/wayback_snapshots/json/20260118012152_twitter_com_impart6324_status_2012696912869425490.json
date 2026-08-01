@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012556671466217829",
+    "created_at": "2026-01-18T01:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T02:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012696912869425490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961642384158306304",
+          "start": 0,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012696912869425490",
+    "in_reply_to_user_id": "1961642384158306304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012556671466217829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinxinovo118 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012556671466217829",
+        "created_at": "2026-01-18T01:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012696912869425490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961642384158306304",
+              "start": 0,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012696912869425490",
+        "in_reply_to_user_id": "1961642384158306304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012556671466217829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinxinovo118 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961642384158306304",
+        "conversation_id": "2012556671466217829",
+        "created_at": "2026-01-17T16:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012556671466217829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012556671466217829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1119,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我十七了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2012548406443495796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 325,
+          "like_count": 6043,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 949
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "我再也不要成为任何人生命中的一点点",
+        "id": "1961642384158306304",
+        "name": "被子外的世界太复杂",
+        "pinned_tweet_id": "1992831060238024942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003278912361840640/sGCyiIWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 113,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 785
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

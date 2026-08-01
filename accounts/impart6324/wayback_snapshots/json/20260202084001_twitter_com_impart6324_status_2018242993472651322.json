@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017833690345443436",
+    "created_at": "2026-02-02T08:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018242993472651322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        },
+        {
+          "end": 28,
+          "id": "1795809659237879808",
+          "start": 17,
+          "username": "x1aoyu_TvT"
+        },
+        {
+          "end": 45,
+          "id": "1842059109702807552",
+          "start": 29,
+          "username": "gMgFyHMzDF67763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018242993472651322",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018237369913311718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 @x1aoyu_TvT @gMgFyHMzDF67763 😂😂😂😂😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017833690345443436",
+        "created_at": "2026-02-02T08:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018242993472651322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            },
+            {
+              "end": 28,
+              "id": "1795809659237879808",
+              "start": 17,
+              "username": "x1aoyu_TvT"
+            },
+            {
+              "end": 45,
+              "id": "1842059109702807552",
+              "start": 29,
+              "username": "gMgFyHMzDF67763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018242993472651322",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018237369913311718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 @x1aoyu_TvT @gMgFyHMzDF67763 😂😂😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814968084538826753",
+        "conversation_id": "2017833690345443436",
+        "created_at": "2026-02-02T08:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018237369913311718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            },
+            {
+              "end": 28,
+              "id": "1842059109702807552",
+              "start": 12,
+              "username": "gMgFyHMzDF67763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018237369913311718",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018053815379927093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT @gMgFyHMzDF67763 骚货吃我吊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "屏幕里的世界",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2018049537932406853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 382,
+          "like_count": 7448,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1325
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "前身邪恶/善良立希希 立希漂亮漂亮！\n大阪傻福傻福😡",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "吃内捧大阪",
+        "pinned_tweet_id": "2011639544190550373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011499782754504704/f7C5LRkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 444,
+          "like_count": 2382,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 3673
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜台獨精日支黑 | 和@AceTaffy812 @AzumaSeren 絕贊戀愛中｜歡迎互fo^^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "AceTaffy812"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 98,
+          "like_count": 321,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 350
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T04:28:19.000Z",
+        "description": "“当世界沸腾起来时，才发现自己孤独安静的存在。”(本号只搞表，，，，不喜太严肃)  永远拥护党和国家的领导  对人物的喜爱仅仅是个人魅力上的喜爱【来聊天/互fo请私我！】",
+        "id": "1842059109702807552",
+        "location": "爱人在上海",
+        "name": "哈吉行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015034165822169088/AsXx6NqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 139,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 265
+        },
+        "username": "gMgFyHMzDF67763",
+        "verified": false
+      }
+    ]
+  }
+}

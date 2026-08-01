@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984346123688165378"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1984346139542630600",
+    "created_at": "2025-10-31T19:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T20:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984346139542630600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaREorHxEx",
+          "end": 31,
+          "expanded_url": "https://x.com/impart6324/status/1984346139542630600/photo/1",
+          "media_key": "3_1984346123688165378",
+          "start": 8,
+          "url": "https://t.co/DaREorHxEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984346139542630600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛不牛逼兄弟们 https://t.co/DaREorHxEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984346123688165378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nQSTXbQAIeUjr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984346123688165378"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1984346139542630600",
+        "created_at": "2025-10-31T19:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984346139542630600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaREorHxEx",
+              "end": 31,
+              "expanded_url": "https://x.com/impart6324/status/1984346139542630600/photo/1",
+              "media_key": "3_1984346123688165378",
+              "start": 8,
+              "url": "https://t.co/DaREorHxEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984346139542630600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛不牛逼兄弟们 https://t.co/DaREorHxEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 274,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 171
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

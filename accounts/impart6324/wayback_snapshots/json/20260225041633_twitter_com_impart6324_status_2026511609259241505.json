@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026511609259241505",
+    "created_at": "2026-02-25T04:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026511609259241505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mianmianmian0/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mianmianmian0/status/2026476629023953342",
+          "start": 15,
+          "url": "https://t.co/fVSIhLzyL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026511609259241505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026476629023953342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好巧 这公狗跟我微信头像一样 https://t.co/fVSIhLzyL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026476619783892992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB99v7vacAA-6Yf.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026476619788070916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB99v7waMAQ-jZ4.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026511609259241505",
+        "created_at": "2026-02-25T04:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026511609259241505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mianmianmian0/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mianmianmian0/status/2026476629023953342",
+              "start": 15,
+              "url": "https://t.co/fVSIhLzyL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026511609259241505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026476629023953342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好巧 这公狗跟我微信头像一样 https://t.co/fVSIhLzyL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026476619783892992",
+            "3_2026476619788070916"
+          ]
+        },
+        "author_id": "1823428965773795329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026476629023953342",
+        "created_at": "2026-02-25T01:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026476629023953342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vLEyfUbLb",
+              "end": 33,
+              "expanded_url": "https://x.com/mianmianmian0/status/2026476629023953342/photo/1",
+              "media_key": "3_2026476619783892992",
+              "start": 10,
+              "url": "https://t.co/5vLEyfUbLb"
+            },
+            {
+              "display_url": "pic.x.com/5vLEyfUbLb",
+              "end": 33,
+              "expanded_url": "https://x.com/mianmianmian0/status/2026476629023953342/photo/1",
+              "media_key": "3_2026476619788070916",
+              "start": 10,
+              "url": "https://t.co/5vLEyfUbLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026476629023953342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "以防有人没见过公狗 https://t.co/5vLEyfUbLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 418,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "日月掷人去",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 169,
+          "like_count": 14628,
+          "listed_count": 1,
+          "media_count": 588,
+          "tweet_count": 8577
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

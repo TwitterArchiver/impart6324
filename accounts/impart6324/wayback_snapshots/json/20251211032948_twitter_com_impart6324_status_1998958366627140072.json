@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998958366627140072",
+    "created_at": "2025-12-11T03:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998958366627140072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1456243266186211332",
+          "start": 3,
+          "username": "CuplRusttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998958366627140072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998630966412325251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuplRusttt: 体制内就是一群猴爬树，往上看都是屁股，往下看都是笑脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998958366627140072",
+        "created_at": "2025-12-11T03:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998958366627140072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1456243266186211332",
+              "start": 3,
+              "username": "CuplRusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998958366627140072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998630966412325251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuplRusttt: 体制内就是一群猴爬树，往上看都是屁股，往下看都是笑脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456243266186211332",
+        "conversation_id": "1998630966412325251",
+        "created_at": "2025-12-10T05:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998630966412325251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998630966412325251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 64009,
+          "like_count": 705,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "体制内就是一群猴爬树，往上看都是屁股，往下看都是笑脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 228,
+          "like_count": 2842,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 489
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "北京/云南工作ing/⚖律师/赛博Bistro/2025年和猫住",
+        "id": "1456243266186211332",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1972167085515329772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6228,
+          "following_count": 397,
+          "like_count": 27807,
+          "listed_count": 20,
+          "media_count": 222,
+          "tweet_count": 2313
+        },
+        "username": "CuplRusttt",
+        "verified": false
+      }
+    ]
+  }
+}

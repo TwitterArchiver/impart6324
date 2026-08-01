@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024732968317833218"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024732974747730232",
+    "created_at": "2026-02-20T06:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024732974747730232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PJPtawbu7B",
+          "end": 39,
+          "expanded_url": "https://x.com/impart6324/status/2024732974747730232/photo/1",
+          "media_key": "3_2024732968317833218",
+          "start": 16,
+          "url": "https://t.co/PJPtawbu7B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024732974747730232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你女儿不穿衣服跳舞赚钱你知道不 https://t.co/PJPtawbu7B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2024732968317833218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlL6D2bUAIoMyZ.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024732968317833218"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024732974747730232",
+        "created_at": "2026-02-20T06:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024732974747730232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJPtawbu7B",
+              "end": 39,
+              "expanded_url": "https://x.com/impart6324/status/2024732974747730232/photo/1",
+              "media_key": "3_2024732968317833218",
+              "start": 16,
+              "url": "https://t.co/PJPtawbu7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024732974747730232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你女儿不穿衣服跳舞赚钱你知道不 https://t.co/PJPtawbu7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 417,
+          "like_count": 8770,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

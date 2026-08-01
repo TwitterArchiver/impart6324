@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013050563207020790",
+    "created_at": "2026-01-20T16:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013648706810401104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013648706810401104",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013595710394970459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka 男的死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013050563207020790",
+        "created_at": "2026-01-20T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013648706810401104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013648706810401104",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013595710394970459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 男的死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947564512984567808",
+        "conversation_id": "2013050563207020790",
+        "created_at": "2026-01-20T12:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013595710394970459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013595710394970459",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013050563207020790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 天呐这简直就是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 334,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1002
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "VTuber预备中｜废萌诗人｜笨蛋｜overdose｜ADHD｜渴望社交｜同类互fo｜渴望成为小天使👼🏻",
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "Linking阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 837,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 525
+        },
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

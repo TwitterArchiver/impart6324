@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011209617565757734",
+    "created_at": "2026-01-13T23:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T00:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011221511483637931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011221511483637931",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011221361767956582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 你是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011209617565757734",
+        "created_at": "2026-01-13T23:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T00:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011221511483637931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011221511483637931",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011221361767956582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 你是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937988852779536384",
+        "conversation_id": "2011209617565757734",
+        "created_at": "2026-01-13T23:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T00:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011221361767956582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011221361767956582",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011209617565757734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 那啥系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "躁狂很喜欢嘴臭骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 305,
+          "like_count": 5555,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 796
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "",
+        "id": "1937988852779536384",
+        "name": "小七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002831699542257664/yvJOJ1FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 20,
+          "like_count": 1780,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 351
+        },
+        "username": "Evienne0929",
+        "verified": false
+      }
+    ]
+  }
+}

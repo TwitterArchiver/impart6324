@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026971755043320212",
+    "created_at": "2026-02-26T10:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026972204290699515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012530530320003073",
+          "start": 0,
+          "username": "lio0_s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026972204290699515",
+    "in_reply_to_user_id": "2012530530320003073",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026971755043320212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lio0_s2 kawai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2026292515121586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7WToba4AA1MmI.jpg",
+        "width": 670
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2026292515146731520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7WTohakAAWlWj.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026971755043320212",
+        "created_at": "2026-02-26T10:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026972204290699515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012530530320003073",
+              "start": 0,
+              "username": "lio0_s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026972204290699515",
+        "in_reply_to_user_id": "2012530530320003073",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026971755043320212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lio0_s2 kawai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026292515121586176",
+            "3_2026292515146731520"
+          ]
+        },
+        "author_id": "2012530530320003073",
+        "conversation_id": "2026971755043320212",
+        "created_at": "2026-02-26T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026971755043320212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YmSQldAyC",
+              "end": 27,
+              "expanded_url": "https://x.com/lio0_s2/status/2026971755043320212/photo/1",
+              "media_key": "3_2026292515121586176",
+              "start": 4,
+              "url": "https://t.co/2YmSQldAyC"
+            },
+            {
+              "display_url": "pic.x.com/2YmSQldAyC",
+              "end": 27,
+              "expanded_url": "https://x.com/lio0_s2/status/2026971755043320212/photo/1",
+              "media_key": "3_2026292515146731520",
+              "start": 4,
+              "url": "https://t.co/2YmSQldAyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026971755043320212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "どう？ https://t.co/2YmSQldAyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 415,
+          "like_count": 9286,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T14:21:54.000Z",
+        "description": "みつけてくれてありがと♡/色々興味あります♡/教えてください!!/16🚺155cm/DMフォロワーさんだけ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/lio0_s2",
+                "end": 23,
+                "expanded_url": "https://note.com/lio0_s2",
+                "start": 0,
+                "url": "https://t.co/eB2fgmkDH3"
+              }
+            ]
+          }
+        },
+        "id": "2012530530320003073",
+        "name": "りお",
+        "pinned_tweet_id": "2026242448893284722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023683560482484225/mFIsCBnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 21,
+          "like_count": 2825,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/eB2fgmkDH3",
+        "username": "lio0_s2",
+        "verified": true
+      }
+    ]
+  }
+}

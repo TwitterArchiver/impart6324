@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037177384399433728"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037148963858464920",
+    "created_at": "2026-03-26T14:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037177396554580461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787455020318994432",
+          "start": 0,
+          "username": "L1Callum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BLtm6W1gTc",
+          "end": 33,
+          "expanded_url": "https://x.com/impart6324/status/2037177396554580461/photo/1",
+          "media_key": "3_2037177384399433728",
+          "start": 10,
+          "url": "https://t.co/BLtm6W1gTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037177396554580461",
+    "in_reply_to_user_id": "1787455020318994432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037173566978867559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L1Callum https://t.co/BLtm6W1gTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037177384399433728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWCCaWWcAA41Bf.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037177384399433728"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-26T14:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037177396554580461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787455020318994432",
+              "start": 0,
+              "username": "L1Callum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLtm6W1gTc",
+              "end": 33,
+              "expanded_url": "https://x.com/impart6324/status/2037177396554580461/photo/1",
+              "media_key": "3_2037177384399433728",
+              "start": 10,
+              "url": "https://t.co/BLtm6W1gTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037177396554580461",
+        "in_reply_to_user_id": "1787455020318994432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037173566978867559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L1Callum https://t.co/BLtm6W1gTc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787455020318994432",
+        "conversation_id": "2037148963858464920",
+        "created_at": "2026-03-26T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037173566978867559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037173566978867559",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037148963858464920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 黄毛屁眼怪可不算黄毛流浪汉哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 1283,
+          "like_count": 11382,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-06T12:11:19.000Z",
+        "description": "正义之路被暴虐之恶人包围，以慈悲与善人为名引导弱者，那些胆敢残害荼毒我同伴之人我将向他们大施报复，到时，他们就知道我就是耶格尔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/licallum",
+                "end": 23,
+                "expanded_url": "https://ngl.link/licallum",
+                "start": 0,
+                "url": "https://t.co/KZ7mwC2ouU"
+              }
+            ]
+          }
+        },
+        "id": "1787455020318994432",
+        "name": "L1Callum",
+        "pinned_tweet_id": "2036074134422073706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034212646648496128/swOic8Ig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 26,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/KZ7mwC2ouU",
+        "username": "L1Callum",
+        "verified": false
+      }
+    ]
+  }
+}

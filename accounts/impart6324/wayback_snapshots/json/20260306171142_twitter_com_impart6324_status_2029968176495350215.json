@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029643072125182110",
+    "created_at": "2026-03-06T17:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029968176495350215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029968176495350215",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029963702594850985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 真情流露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029643072125182110",
+        "created_at": "2026-03-06T17:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029968176495350215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029968176495350215",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029963702594850985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 真情流露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2029643072125182110",
+        "created_at": "2026-03-06T16:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029963702594850985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029963702594850985",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029643072125182110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 复制粘贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 449,
+          "like_count": 10621,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜只会过信任的人的账号@whxsa11 ｜不要在我作品下谈论政治滚｜🚪300/520无区别纯绿谢谢！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6287,
+          "following_count": 737,
+          "like_count": 20864,
+          "listed_count": 19,
+          "media_count": 1024,
+          "tweet_count": 15107
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

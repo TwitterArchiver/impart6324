@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014899232118054971",
+    "created_at": "2026-01-25T12:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015407507636969729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360772570769813505",
+          "start": 0,
+          "username": "BraveQuestEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015407507636969729",
+    "in_reply_to_user_id": "1360772570769813505",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014899232118054971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BraveQuestEX wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014899232118054971",
+        "created_at": "2026-01-25T12:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015407507636969729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360772570769813505",
+              "start": 0,
+              "username": "BraveQuestEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015407507636969729",
+        "in_reply_to_user_id": "1360772570769813505",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014899232118054971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BraveQuestEX wtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360772570769813505",
+        "conversation_id": "2014899232118054971",
+        "created_at": "2026-01-24T03:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014899232118054971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014899232118054971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15447,
+          "like_count": 94,
+          "quote_count": 8,
+          "reply_count": 100,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“谢谢”这个词我觉得太他妈恶心了，帮你是情分，不帮你是本分。但事实上大部分情况下你好意帮别人一个忙，别人道声谢谢，这句话大概没掺杂他半毛钱的感谢之情，只是用来突出他自己有教养而下意识脱口而出。如果你不帮他这个忙，可能心里就要暗骂草泥马了，我寻思嬉皮笑脸光天化日之下玩你妈的道德绑架呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 341,
+          "like_count": 6649,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1112
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T02:07:24.000Z",
+        "description": "笑ってくれてアリガトウ。\n网瘾期，转屎多，屁话少。\n无情的打游戏工具人一枚。\n边上学边打工的社畜一条。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/seiuex",
+                "end": 23,
+                "expanded_url": "https://bangumi.tv/user/seiuex",
+                "start": 0,
+                "url": "https://t.co/sY3WqMyceB"
+              }
+            ]
+          }
+        },
+        "id": "1360772570769813505",
+        "location": "大阪",
+        "name": "セイヤ",
+        "pinned_tweet_id": "1984643565541363990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999425775150501888/aDG2Kzxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 401,
+          "like_count": 27635,
+          "listed_count": 3,
+          "media_count": 1051,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/sY3WqMyceB",
+        "username": "BraveQuestEX",
+        "verified": false
+      }
+    ]
+  }
+}

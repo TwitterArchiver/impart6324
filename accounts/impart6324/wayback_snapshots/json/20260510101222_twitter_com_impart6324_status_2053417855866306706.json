@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053116962746585094",
+        "3_2053116962763354115",
+        "3_2053116962755006465",
+        "3_2053116962738163718"
+      ],
+      "media_source_tweet_id": [
+        "2053116966399803766",
+        "2053116966399803766",
+        "2053116966399803766",
+        "2053116966399803766"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2053417855866306706",
+    "created_at": "2026-05-10T10:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053417855866306706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1403120401199341571",
+          "start": 3,
+          "username": "horrorsthetics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7AoxB4sWW",
+          "end": 61,
+          "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+          "media_key": "3_2053116962746585094",
+          "start": 38,
+          "url": "https://t.co/i7AoxB4sWW"
+        },
+        {
+          "display_url": "pic.x.com/i7AoxB4sWW",
+          "end": 61,
+          "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+          "media_key": "3_2053116962763354115",
+          "start": 38,
+          "url": "https://t.co/i7AoxB4sWW"
+        },
+        {
+          "display_url": "pic.x.com/i7AoxB4sWW",
+          "end": 61,
+          "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+          "media_key": "3_2053116962755006465",
+          "start": 38,
+          "url": "https://t.co/i7AoxB4sWW"
+        },
+        {
+          "display_url": "pic.x.com/i7AoxB4sWW",
+          "end": 61,
+          "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+          "media_key": "3_2053116962738163718",
+          "start": 38,
+          "url": "https://t.co/i7AoxB4sWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053417855866306706",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 923
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053116966399803766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horrorsthetics: POSSESSION (1981) https://t.co/i7AoxB4sWW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053417855866306706].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053417855866306706",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053417855866306706"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2053116962746585094",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4i_-7W0AYrGLz.jpg",
+        "width": 1932
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2053116962763354115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4i_-_WsAM6NCs.jpg",
+        "width": 1927
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2053116962755006465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4i_-9XUAEGw51.jpg",
+        "width": 1934
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2053116962738163718",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4i_-5WUAYnI0I.jpg",
+        "width": 1941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053116962746585094",
+            "3_2053116962763354115",
+            "3_2053116962755006465",
+            "3_2053116962738163718"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "conversation_id": "2053116966399803766",
+        "created_at": "2026-05-09T14:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053116966399803766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7AoxB4sWW",
+              "end": 41,
+              "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+              "media_key": "3_2053116962746585094",
+              "start": 18,
+              "url": "https://t.co/i7AoxB4sWW"
+            },
+            {
+              "display_url": "pic.x.com/i7AoxB4sWW",
+              "end": 41,
+              "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+              "media_key": "3_2053116962763354115",
+              "start": 18,
+              "url": "https://t.co/i7AoxB4sWW"
+            },
+            {
+              "display_url": "pic.x.com/i7AoxB4sWW",
+              "end": 41,
+              "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+              "media_key": "3_2053116962755006465",
+              "start": 18,
+              "url": "https://t.co/i7AoxB4sWW"
+            },
+            {
+              "display_url": "pic.x.com/i7AoxB4sWW",
+              "end": 41,
+              "expanded_url": "https://x.com/horrorsthetics/status/2053116966399803766/photo/1",
+              "media_key": "3_2053116962738163718",
+              "start": 18,
+              "url": "https://t.co/i7AoxB4sWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053116966399803766",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 696,
+          "impression_count": 94438,
+          "like_count": 5699,
+          "quote_count": 53,
+          "reply_count": 3,
+          "retweet_count": 923
+        },
+        "reply_settings": "everyone",
+        "text": "POSSESSION (1981) https://t.co/i7AoxB4sWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 521,
+          "like_count": 11496,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "𝒔𝒉𝒆 𝒘𝒉𝒐 𝒉𝒂𝒏𝒈𝒔 𝒐𝒖𝒕 𝒂 𝒍𝒐𝒕 𝒊𝒏 𝒄𝒆𝒎𝒆𝒕𝒆𝒓𝒊𝒆𝒔 ⚰️ • 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! 🕸️ • follow if you 🖤 daily 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "location": "hellmouth  | 18+",
+        "name": "🦇 𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 | nsfw",
+        "pinned_tweet_id": "2053117733772902787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991990580881043456/c6ptQ8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255444,
+          "following_count": 2900,
+          "like_count": 49691,
+          "listed_count": 447,
+          "media_count": 17936,
+          "tweet_count": 29180
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": true
+      }
+    ]
+  }
+}

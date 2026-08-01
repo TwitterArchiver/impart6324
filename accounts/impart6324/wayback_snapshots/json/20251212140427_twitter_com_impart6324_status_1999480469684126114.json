@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999480469684126114",
+    "created_at": "2025-12-12T14:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T15:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999480469684126114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iuu_0_o/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/iuu_0_o/status/1999479043885006931",
+          "start": 10,
+          "url": "https://t.co/JpwHd4eGez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999480469684126114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999479043885006931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已建立革命互助关系 https://t.co/JpwHd4eGez"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999479036683386883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-TlxVagAMFY6k.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999480469684126114",
+        "created_at": "2025-12-12T14:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T15:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999480469684126114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iuu_0_o/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/iuu_0_o/status/1999479043885006931",
+              "start": 10,
+              "url": "https://t.co/JpwHd4eGez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999480469684126114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999479043885006931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已建立革命互助关系 https://t.co/JpwHd4eGez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999479036683386883"
+          ]
+        },
+        "author_id": "1667385380692439040",
+        "conversation_id": "1999479043885006931",
+        "created_at": "2025-12-12T13:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999479043885006931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYMfr2raYf",
+              "end": 41,
+              "expanded_url": "https://x.com/iuu_0_o/status/1999479043885006931/photo/1",
+              "media_key": "3_1999479036683386883",
+              "start": 18,
+              "url": "https://t.co/xYMfr2raYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999479043885006931",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@impart6324 在装啥逼？ https://t.co/xYMfr2raYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 224,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 459
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "纯绿🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "U",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 176,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1019
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

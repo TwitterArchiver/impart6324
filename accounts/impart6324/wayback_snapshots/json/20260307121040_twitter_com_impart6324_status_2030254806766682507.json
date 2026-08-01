@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030254806766682507",
+    "created_at": "2026-03-07T12:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030254806766682507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "2015014031514554368",
+          "start": 49,
+          "username": "naclandkim"
+        },
+        {
+          "end": 76,
+          "id": "1958896241158299650",
+          "start": 64,
+          "username": "Cyb4rEnt1ty"
+        },
+        {
+          "end": 95,
+          "id": "1823428965773795329",
+          "start": 81,
+          "username": "mianmianmian0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/impart6324/sta…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/impart6324/status/2030254169110860243",
+          "start": 111,
+          "url": "https://t.co/icod4rB8Fb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030254806766682507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030254169110860243",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "pt.2发了 谢谢大家支持喵\n\n欢迎投稿\n\n边缘生命拯救者\npluviophile本人\nnacl @naclandkim \n实体@Cyb4rEnt1ty \n极地春@mianmianmian0 （再次标注这个逼本期啥都没干 https://t.co/icod4rB8Fb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2030254095597191168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzpV9vaQAAJqQM.jpg",
+        "width": 1266
+      },
+      {
+        "height": 942,
+        "media_key": "3_2030254095794401282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzpV-ebcAIv87Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 400,
+        "media_key": "3_2030254095773429761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzpV-ZbcAEkUzn.jpg",
+        "width": 400
+      },
+      {
+        "height": 428,
+        "media_key": "3_2030254095840563200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzpV-pb0AA3IQg.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030254806766682507",
+        "created_at": "2026-03-07T12:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030254806766682507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "2015014031514554368",
+              "start": 49,
+              "username": "naclandkim"
+            },
+            {
+              "end": 76,
+              "id": "1958896241158299650",
+              "start": 64,
+              "username": "Cyb4rEnt1ty"
+            },
+            {
+              "end": 95,
+              "id": "1823428965773795329",
+              "start": 81,
+              "username": "mianmianmian0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/impart6324/status/2030254169110860243",
+              "start": 111,
+              "url": "https://t.co/icod4rB8Fb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030254806766682507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030254169110860243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pt.2发了 谢谢大家支持喵\n\n欢迎投稿\n\n边缘生命拯救者\npluviophile本人\nnacl @naclandkim \n实体@Cyb4rEnt1ty \n极地春@mianmianmian0 （再次标注这个逼本期啥都没干 https://t.co/icod4rB8Fb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030254095597191168",
+            "3_2030254095794401282",
+            "3_2030254095773429761",
+            "3_2030254095840563200"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030254169110860243",
+        "created_at": "2026-03-07T12:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030254169110860243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WKdjKMjH5",
+              "end": 156,
+              "expanded_url": "https://x.com/impart6324/status/2030254169110860243/photo/1",
+              "media_key": "3_2030254095597191168",
+              "start": 133,
+              "url": "https://t.co/8WKdjKMjH5"
+            },
+            {
+              "display_url": "pic.x.com/8WKdjKMjH5",
+              "end": 156,
+              "expanded_url": "https://x.com/impart6324/status/2030254169110860243/photo/1",
+              "media_key": "3_2030254095794401282",
+              "start": 133,
+              "url": "https://t.co/8WKdjKMjH5"
+            },
+            {
+              "display_url": "pic.x.com/8WKdjKMjH5",
+              "end": 156,
+              "expanded_url": "https://x.com/impart6324/status/2030254169110860243/photo/1",
+              "media_key": "3_2030254095773429761",
+              "start": 133,
+              "url": "https://t.co/8WKdjKMjH5"
+            },
+            {
+              "display_url": "pic.x.com/8WKdjKMjH5",
+              "end": 156,
+              "expanded_url": "https://x.com/impart6324/status/2030254169110860243/photo/1",
+              "media_key": "3_2030254095840563200",
+              "start": 133,
+              "url": "https://t.co/8WKdjKMjH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030254169110860243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唐毓文：极端行为、跨圈矛盾与自我解释\n\npt.2极端行为、跨圈矛盾与自我解释\n\nQ：关于假死这件事背后的原因是什么？\nA：想退圈，但是退了一半发现好像有的一些人只有在圈子里的时候才能跟他们聊天，就不想退了。\n\nQ：那如果真的有一天你说什么都没人理你了，你会退圈吗？\nA：不可能吧，除非我故意想这么干。\n\nQ：你似乎经常通过挑衅和戏剧事件获得关注和热度，这是营销策略还是情绪失控？\nA：这不是情绪失控，我这个人就是这样的。坏的。\n\nQ：你觉得自己是在制造混乱，还是在表达一些别人不敢说的话？\nA：我没有觉得我这个话会制造混乱，或者是我这个话别人敢不敢说。我只是想说什么我就说什么。\n\nQ：你曾经自行切除了生殖器官，当时你的心理状态是什么？这个决定是长期积累还是一瞬间的冲动？\nA：是非常正常的心理状态，早有倾向了。因为原先是打算找xx去切，就是找xx去切。但是xx跟我说等你18岁，我就寻思好，我等。\n结果到了去年11月份左右的时候，xx因为切这玩意儿，进去了。出来以后，不大敢给别人切了。\n所以我只能自己切，自己做了点时间攻略。因为一开始一直在跟xx谈恋爱，然后跟他住在一起，切的话会麻烦他，所以就没切。\n后面跟xx分了以后，就没什么顾虑了，然后就切掉了。\n\nQ：你的家庭条件在很多人看来其实并不差。那在这样的环境下，你后来走到现在的一条路上，你觉得家庭、留学经历和成长环境哪一个对你产生的影响更大？方便说一下你原生家庭的情况吗？\nA：我觉得留学经历对我影响巨大。在我之前的生活里，我最大的影响，我估计就是，就是最大的情绪波动，估计就是玩游戏了。玩游戏的时候被队友坑了就会生气，类似这样。留学以后才就是变得比较精彩吧，准确来说是入药娘圈以后才变得比较精彩，有着可以说的点了。我原生家庭还不错呀。我家除了不是很给我零花钱，再加上有时候我妈妈老说我以外，都挺不错的。\n这个故事告诉我们，定力不足不要留学，小孩不要去留学。\n\nQ：目前15岁做对于现在做的极端事情是否经过深思熟虑？有没有害怕之后某一天会后悔？\nA：没有深思熟虑。你追求你想要的东西，需要深思熟虑吗？后悔的话，难道要像来澳大利亚以前、进入药娘圈以前这样的生活，唯一最大的情绪波动就是玩个游戏，那人生太没趣了。万丈红尘缤纷彩，天涯云水路遥长。此刻风流归天地，不胜水中明月光啊。人生就是精彩嘛。\n\nQ：你一方面公开表达反跨立场，但自己又深度参与跨性别圈子，这种矛盾是刻意的吗，还是你本身就处在一种摇摆的状态？反跨的原因是什么？作为一个非跨，为什么你会混跨圈？\nA：一开始真的是非常纯粹的反跨。就是我最开始看到的是FT老师，还有HDT老师这两位老师，非常羡慕嫉妒，又觉得他们两个非常抽象恶心，类似于这样吧。因为他们是那种很容易让人羡慕嫉妒的生活化调教，就是有一个小狗，有一个主人，非常听话，非常稳定，类似于这样的。我羡慕这种稳定的这种亲密关系。但是我又觉得他们这种调教啊，跨性别这种东西难以接受，因为当时思想非常老鸨。后面是反抗了好久以后，思想变得不怎么老鸨了。因为你反跨是要了解这个东西的嘛，然后发现跨性别好像对自己成为一个有趣的人，或者是更温柔的人有帮助，所以就跨性别了。这不单是我讨厌跨性别。一开始混跨圈就是因为我没下载推特，因为我从来到国外以后，我一年多没下推特。我觉得我应该下一个，应该注册一个。我注册以后，第一眼我就看到了HDT老师。对了，HDT老师现在应该改名叫potato了，就是土豆，然后他那个对象没改名，一直是FT老师。\n\nQ：如何评价现在mtf圈的不良风气？你觉得为什么有这么多mtf想自杀呢？\nA：MTF圈本身是一个高压锅环境，外部的压力、内部的攀比，会让这些人的心理精神逐渐地被高压锅压得越来越紧绷，越来越劣化。并且觉得堕落是一种正常的事情，有一部分走向自毁的道路，有一部分走向淫乱的道路。对于走向淫乱道路的那一部分，其实是为了通过这种方式让自己更有女性认同。毕竟被羁绊认可的女性，她也是女性吧，也是得到了女性的认可。当然啊，以我的观点，这样去追随认同，去追随成为所谓的女性的认同，其实本身就是对女性的一种歧视和刻板印象和标签化。\n\nQ：你觉得现在跨性别圈子最大的矛盾是什么？\nA：矛盾的点在于为什么这群傻逼要把跨性别圈子和od挂钩，为什么这群傻逼要把跨性别圈子跟玩前列腺的那群人挂钩。\n\nQ：如果有一个15、16岁的人刚接触这个圈子，你会建议他进入吗？\nA：你进你的，我骂我的，你进来，你就不要怕被我骂。\n\nQ：对本次采访有什么看法？\nA：主持人是傻逼。\nill是傻逼。\nn55是傻子逼。\n来找我买糖的是天才。\n\nQ：最后，给推友们说句话吧。\nA：主持人让我给你们说句话，那我说了：傻逼。\n你们挨骂是他害的，他不让我说谁也不会被骂。\n\n在访谈中唐毓文的逻辑清晰 虽然他的行为与主流背道而驰但他有勇气做自己说出心中所想 小编对大家说 身处社会边缘但你并不是孤身一人 我们的初衷就是让大家听到各种各样的心声 最后留给大家一个问题 这究竟是个体的选择 还是时代情绪的投射"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文：极端行为、跨圈矛盾与自我解释\n\npt.2极端行为、跨圈矛盾与自我解释\n\nQ：关于假死这件事背后的原因是什么？\nA：想退圈，但是退了一半发现好像有的一些人只有在圈子里的时候才能跟他们聊天，就不想退了。\n\nQ：那如果真的有一天你说什么都没人理你了，你会退圈吗？ https://t.co/8WKdjKMjH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 449,
+          "like_count": 10621,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-24T10:49:27.000Z",
+        "description": "",
+        "id": "2015014031514554368",
+        "name": "nacl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021950336144121856/mpwCVFyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 71,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 291
+        },
+        "username": "naclandkim",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2010588685348335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 382,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 3815
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "日月掷人去",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 180,
+          "like_count": 15032,
+          "listed_count": 1,
+          "media_count": 617,
+          "tweet_count": 8834
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

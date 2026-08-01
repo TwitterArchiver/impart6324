@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028908308661154126",
+    "created_at": "2026-03-03T19:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T20:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028909098641850864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1714998419394084864",
+          "start": 0,
+          "username": "MuncamM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028909098641850864",
+    "in_reply_to_user_id": "1714998419394084864",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028908308661154126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuncamM Don’t feel that way.🥲You’re doing great. Things will get better.❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028908308661154126",
+        "created_at": "2026-03-03T19:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028909098641850864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1714998419394084864",
+              "start": 0,
+              "username": "MuncamM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028909098641850864",
+        "in_reply_to_user_id": "1714998419394084864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028908308661154126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuncamM Don’t feel that way.🥲You’re doing great. Things will get better.❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714998419394084864",
+        "conversation_id": "2028908308661154126",
+        "created_at": "2026-03-03T19:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028908308661154126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 206,
+              "normalized_text": "Фa9",
+              "probability": 0.5874,
+              "start": 204,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028908308661154126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I was sober for 17 days and didn't self harm, but again I did it. I disgust myself. I'm disgusting, I hate myself \nI hope in the next life I will be normal, I should like girl or like that.. I hate being Фa9:b \nI hope I will die"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 449,
+          "like_count": 10402,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T13:34:58.000Z",
+        "description": "19 ^ diarytwt ^ shtwt ^ Weirdo \nArts: @Kizri2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "Kizri2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muncamm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muncamm",
+                "start": 0,
+                "url": "https://t.co/RJaJkvNHsN"
+              }
+            ]
+          }
+        },
+        "id": "1714998419394084864",
+        "location": "Prague, Czech Republic",
+        "name": "Debikar",
+        "pinned_tweet_id": "2028045124219936781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028414748883099648/AAW3smRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 56,
+          "like_count": 50585,
+          "listed_count": 2,
+          "media_count": 1957,
+          "tweet_count": 6502
+        },
+        "url": "https://t.co/RJaJkvNHsN",
+        "username": "MuncamM",
+        "verified": false
+      }
+    ]
+  }
+}

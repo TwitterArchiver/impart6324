@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007368919682822255",
+    "created_at": "2026-01-03T09:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007386591661326588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943677617103929344",
+          "start": 0,
+          "username": "Nacluv6114"
+        },
+        {
+          "end": 24,
+          "id": "1958896241158299650",
+          "start": 12,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007386591661326588",
+    "in_reply_to_user_id": "1943677617103929344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007377754917089447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacluv6114 @Cyb4rEnt1ty 想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007368919682822255",
+        "created_at": "2026-01-03T09:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007386591661326588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943677617103929344",
+              "start": 0,
+              "username": "Nacluv6114"
+            },
+            {
+              "end": 24,
+              "id": "1958896241158299650",
+              "start": 12,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007386591661326588",
+        "in_reply_to_user_id": "1943677617103929344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007377754917089447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacluv6114 @Cyb4rEnt1ty 想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943677617103929344",
+        "conversation_id": "2007368919682822255",
+        "created_at": "2026-01-03T09:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007377754917089447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007377754917089447",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007377026752360905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 想我了没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 262,
+          "like_count": 4632,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 699
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "所有结局都不是我想要的",
+        "id": "1943677617103929344",
+        "name": "nacl",
+        "pinned_tweet_id": "1996762616820322308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003874981793746946/YVU62kqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 172,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 473
+        },
+        "username": "Nacluv6114",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006188962332000257/yv1ZFRts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 234,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1394
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

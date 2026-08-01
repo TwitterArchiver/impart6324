@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2002410203019395178",
+    "created_at": "2025-12-20T16:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002410203019395178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuiokawaii/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kuiokawaii/status/2002191887780991244",
+          "start": 4,
+          "url": "https://t.co/hCquNOeuHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002410203019395178",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002191887780991244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "666 https://t.co/hCquNOeuHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8833,
+        "height": 1280,
+        "media_key": "13_2002191786769592327",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002191786769592327/img/Udk8Y-Ba0-g8krQv.jpg",
+        "public_metrics": {
+          "view_count": 314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592327/vid/avc1/320x568/dcgRexoBNXkvDzL_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592327/vid/avc1/480x852/vMxoLewvW9sQ-31z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592327/vid/avc1/720x1280/dfC7_8WMkYMmlCnK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592327/pl/LJiHVWZdeCn2MptJ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 4160,
+        "height": 720,
+        "media_key": "13_2002191786773766144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002191786773766144/img/sFtQeWWFEVHhp9uM.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786773766144/vid/avc1/320x320/7touRO__FaweDQlI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786773766144/vid/avc1/540x540/M5axI3HoOhssaVu_.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786773766144/vid/avc1/720x720/8SdqCnHcnVKRgJVE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002191786773766144/pl/SfmwjzRJP-2eruej.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_2002191786769592320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002191786769592320/img/Cr8LYfwK0rklXOu5.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592320/vid/avc1/320x568/vIfOxnh-2wDPQYiy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592320/vid/avc1/480x852/EANJTg6a621PrYeS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592320/vid/avc1/720x1280/ST-Jw9qi_yXatcVj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002191786769592320/pl/EYn_AZ4rHMnfrQzJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2002410203019395178",
+        "created_at": "2025-12-20T16:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002410203019395178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuiokawaii/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kuiokawaii/status/2002191887780991244",
+              "start": 4,
+              "url": "https://t.co/hCquNOeuHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002410203019395178",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002191887780991244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "666 https://t.co/hCquNOeuHJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002191786769592327",
+            "13_2002191786773766144",
+            "13_2002191786769592320"
+          ]
+        },
+        "author_id": "2002189765458944000",
+        "conversation_id": "2002191887780991244",
+        "created_at": "2025-12-20T01:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T02:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002191887780991244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjzgrt03jX",
+              "end": 53,
+              "expanded_url": "https://x.com/kuiokawaii/status/2002191887780991244/video/1",
+              "media_key": "13_2002191786769592327",
+              "start": 30,
+              "url": "https://t.co/vjzgrt03jX"
+            },
+            {
+              "display_url": "pic.x.com/vjzgrt03jX",
+              "end": 53,
+              "expanded_url": "https://x.com/kuiokawaii/status/2002191887780991244/video/1",
+              "media_key": "13_2002191786773766144",
+              "start": 30,
+              "url": "https://t.co/vjzgrt03jX"
+            },
+            {
+              "display_url": "pic.x.com/vjzgrt03jX",
+              "end": 53,
+              "expanded_url": "https://x.com/kuiokawaii/status/2002191887780991244/video/1",
+              "media_key": "13_2002191786769592320",
+              "start": 30,
+              "url": "https://t.co/vjzgrt03jX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002191887780991244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2947,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是呪儿 今天早上🐜🐲引爆了我的号 互关们回来吧啊啊啊啊啊 https://t.co/vjzgrt03jX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 230,
+          "like_count": 3209,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 480
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T01:31:58.000Z",
+        "description": "重生归来的呪势必拿回属于她的一切儿  还是那个家暴霸凌强奸以后变成精神病被父母放弃 前前世黄推 嗑药割手手的小女孩 我需要💰支持我的生活 爱你们儿🦄💟💟💟",
+        "id": "2002189765458944000",
+        "name": "Kuioo",
+        "pinned_tweet_id": "2002230105809019349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002190345048633344/Qv_4QR5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "kuiokawaii",
+        "verified": false
+      }
+    ]
+  }
+}

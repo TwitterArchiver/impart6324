@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026546616107491495",
+    "created_at": "2026-02-25T06:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026546616107491495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019768460449128448",
+          "start": 3,
+          "username": "Karen_owQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026546616107491495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024855860913262638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Karen_owQ: 我一直都觉得奈子大的男的很恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026546616107491495",
+        "created_at": "2026-02-25T06:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026546616107491495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019768460449128448",
+              "start": 3,
+              "username": "Karen_owQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026546616107491495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024855860913262638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Karen_owQ: 我一直都觉得奈子大的男的很恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019768460449128448",
+        "conversation_id": "2024855860913262638",
+        "created_at": "2026-02-20T14:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024855860913262638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024855860913262638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都觉得奈子大的男的很恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 418,
+          "like_count": 9196,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T13:41:53.000Z",
+        "description": "脾气不好骂死过人✨",
+        "id": "2019768460449128448",
+        "location": "🚪20无福利纯圈米",
+        "name": "这逼世界为什么那么坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024850056122408960/CBZ1w5bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 50
+        },
+        "username": "Karen_owQ",
+        "verified": false
+      }
+    ]
+  }
+}

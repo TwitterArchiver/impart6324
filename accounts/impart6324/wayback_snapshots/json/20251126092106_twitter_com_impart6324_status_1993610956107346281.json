@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993559389765353526",
+    "created_at": "2025-11-26T09:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993610956107346281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993610956107346281",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993559389765353526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 送我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993559383746490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qLsnrbMAAK16g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993559389765353526",
+        "created_at": "2025-11-26T09:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993610956107346281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993610956107346281",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993559389765353526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 送我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993559383746490368"
+          ]
+        },
+        "author_id": "1562858237657231361",
+        "conversation_id": "1993559389765353526",
+        "created_at": "2025-11-26T05:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993559389765353526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kj9I8UE5sd",
+              "end": 57,
+              "expanded_url": "https://x.com/yanyelove/status/1993559389765353526/photo/1",
+              "media_key": "3_1993559383746490368",
+              "start": 34,
+              "url": "https://t.co/Kj9I8UE5sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993559389765353526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有互关想要🌚我一人付邮送两包 我得了流感嗓子疼 看见有烟总想抽 https://t.co/Kj9I8UE5sd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 377,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 300
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 153,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

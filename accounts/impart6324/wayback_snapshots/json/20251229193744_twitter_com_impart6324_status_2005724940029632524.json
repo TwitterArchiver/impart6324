@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005723422165459247",
+    "created_at": "2025-12-29T19:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T20:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005724940029632524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002819291087777792",
+          "start": 0,
+          "username": "Yamikawaiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005724940029632524",
+    "in_reply_to_user_id": "2002819291087777792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005723422165459247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamikawaiiiiii 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005723422165459247",
+        "created_at": "2025-12-29T19:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T20:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005724940029632524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002819291087777792",
+              "start": 0,
+              "username": "Yamikawaiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005724940029632524",
+        "in_reply_to_user_id": "2002819291087777792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005723422165459247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamikawaiiiiii 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002819291087777792",
+        "conversation_id": "2005723422165459247",
+        "created_at": "2025-12-29T19:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T20:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005723422165459247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005723422165459247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 258,
+          "like_count": 4338,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 619
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我很善良不要背刺我求你了 ｜地雷｜餐卷｜AntiChrist｜Satanist｜yamikawaii｜不幸福的中国人｜呪的日常｜谢谢你来看我｜我没有钱｜来找我说话｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003584124922044416/mqDhVGbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 78,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

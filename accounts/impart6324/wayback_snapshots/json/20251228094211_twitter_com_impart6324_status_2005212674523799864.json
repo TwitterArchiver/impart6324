@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004816625686745515",
+    "created_at": "2025-12-28T09:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T10:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005212674523799864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3228252259",
+          "start": 0,
+          "username": "AcE_APH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005212674523799864",
+    "in_reply_to_user_id": "3228252259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005106083409658334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcE_APH 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004816625686745515",
+        "created_at": "2025-12-28T09:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005212674523799864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3228252259",
+              "start": 0,
+              "username": "AcE_APH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005212674523799864",
+        "in_reply_to_user_id": "3228252259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005106083409658334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcE_APH 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3228252259",
+        "conversation_id": "2004816625686745515",
+        "created_at": "2025-12-28T02:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T03:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005106083409658334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005106083409658334",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8916,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004816625686745515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 怎麼看起來像是在玩罵倒Play啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 248,
+          "like_count": 3828,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 549
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-27T12:59:42.000Z",
+        "description": "1989.6.4",
+        "id": "3228252259",
+        "location": "台灣",
+        "name": "Ruffle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740952639452684288/AeePeV68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1661,
+          "like_count": 187,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1504
+        },
+        "username": "AcE_APH",
+        "verified": false
+      }
+    ]
+  }
+}

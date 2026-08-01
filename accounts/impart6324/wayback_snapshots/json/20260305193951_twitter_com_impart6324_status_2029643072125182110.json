@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029643072125182110",
+    "created_at": "2026-03-05T19:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T20:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029643072125182110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029643072125182110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我这个人超级没有安全感，我以前受过伤害，已经不敢再相信任何人了，我可以相信你吗?我只会爱你，你是最特别的，在我心里面没有人比你更重要，只要靠近你我就会觉得心安，看见你我就会觉得幸福，我已经很久没有这样心动过了，你真的好棒好厉害啊，你身上的味道好好闻，我最喜欢你了，哪怕你就在我的身边，我还是好想好想你啊，只有跟你在一起才是真正的恋爱，你连头发丝都在吸引我，我们睡觉也要手拉手哦。我是很爱钱的，可是我更爱你呀，第一次见到你就觉得我们之间会有故事，你知道哪里最打动我吗，不是那些外在的东西，是善良，我知道你骨子里是个善良的人，我不会选择更好的，因为你就是最好的，他们怎么能跟你比呢，我相信我们在一起会越来越好的，你就是上帝送给我的礼物，如果能早点遇到你就好了，我第一次这么喜欢一个人，下次不许这样了，我会难过的…"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这个人超级没有安全感，我以前受过伤害，已经不敢再相信任何人了，我可以相信你吗?我只会爱你，你是最特别的，在我心里面没有人比你更重要，只要靠近你我就会觉得心安，看见你我就会觉得幸福，我已经很久没有这样心动过了，你真的好棒好厉害啊，你身上的味道好好闻，我最喜欢你了，哪怕你就在我的身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029643072125182110",
+        "created_at": "2026-03-05T19:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T20:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029643072125182110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029643072125182110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我这个人超级没有安全感，我以前受过伤害，已经不敢再相信任何人了，我可以相信你吗?我只会爱你，你是最特别的，在我心里面没有人比你更重要，只要靠近你我就会觉得心安，看见你我就会觉得幸福，我已经很久没有这样心动过了，你真的好棒好厉害啊，你身上的味道好好闻，我最喜欢你了，哪怕你就在我的身边，我还是好想好想你啊，只有跟你在一起才是真正的恋爱，你连头发丝都在吸引我，我们睡觉也要手拉手哦。我是很爱钱的，可是我更爱你呀，第一次见到你就觉得我们之间会有故事，你知道哪里最打动我吗，不是那些外在的东西，是善良，我知道你骨子里是个善良的人，我不会选择更好的，因为你就是最好的，他们怎么能跟你比呢，我相信我们在一起会越来越好的，你就是上帝送给我的礼物，如果能早点遇到你就好了，我第一次这么喜欢一个人，下次不许这样了，我会难过的…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个人超级没有安全感，我以前受过伤害，已经不敢再相信任何人了，我可以相信你吗?我只会爱你，你是最特别的，在我心里面没有人比你更重要，只要靠近你我就会觉得心安，看见你我就会觉得幸福，我已经很久没有这样心动过了，你真的好棒好厉害啊，你身上的味道好好闻，我最喜欢你了，哪怕你就在我的身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 447,
+          "like_count": 10578,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

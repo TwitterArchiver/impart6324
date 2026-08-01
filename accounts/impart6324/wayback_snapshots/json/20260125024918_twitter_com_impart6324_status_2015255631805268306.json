@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015255621977935872",
+        "3_2015255622141235200"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015255631805268306",
+    "created_at": "2026-01-25T02:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T03:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015255631805268306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OmT2BxzSpX",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2015255631805268306/photo/1",
+          "media_key": "3_2015255621977935872",
+          "start": 9,
+          "url": "https://t.co/OmT2BxzSpX"
+        },
+        {
+          "display_url": "pic.x.com/OmT2BxzSpX",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2015255631805268306/photo/1",
+          "media_key": "3_2015255622141235200",
+          "start": 9,
+          "url": "https://t.co/OmT2BxzSpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015255631805268306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很难受叫医生来 https://t.co/OmT2BxzSpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_2015255621977935872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_egT5eakAAWlI8.jpg",
+        "width": 1699
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015255622141235200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_egT6FWUAAMLSy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015255621977935872",
+            "3_2015255622141235200"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015255631805268306",
+        "created_at": "2026-01-25T02:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015255631805268306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmT2BxzSpX",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2015255631805268306/photo/1",
+              "media_key": "3_2015255621977935872",
+              "start": 9,
+              "url": "https://t.co/OmT2BxzSpX"
+            },
+            {
+              "display_url": "pic.x.com/OmT2BxzSpX",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2015255631805268306/photo/1",
+              "media_key": "3_2015255622141235200",
+              "start": 9,
+              "url": "https://t.co/OmT2BxzSpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015255631805268306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很难受叫医生来 https://t.co/OmT2BxzSpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 337,
+          "like_count": 6602,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1088
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

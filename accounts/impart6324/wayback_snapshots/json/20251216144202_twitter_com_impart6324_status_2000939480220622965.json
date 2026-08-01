@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000893804828672004"
+      ],
+      "media_source_tweet_id": [
+        "2000893806783135883"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2000939480220622965",
+    "created_at": "2025-12-16T14:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T15:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000939480220622965"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "少爷文学"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Za9uKsrHW",
+          "end": 42,
+          "expanded_url": "https://x.com/GFWfrog/status/2000893806783135883/photo/1",
+          "media_key": "3_2000893804828672004",
+          "start": 19,
+          "url": "https://t.co/0Za9uKsrHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000939480220622965",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000893806783135883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: #少爷文学 https://t.co/0Za9uKsrHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2000893804828672004",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SaUHYXwAQWutI.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000893804828672004"
+          ],
+          "media_source_tweet_id": [
+            "2000893806783135883"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2000939480220622965",
+        "created_at": "2025-12-16T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000939480220622965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "少爷文学"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Za9uKsrHW",
+              "end": 42,
+              "expanded_url": "https://x.com/GFWfrog/status/2000893806783135883/photo/1",
+              "media_key": "3_2000893804828672004",
+              "start": 19,
+              "url": "https://t.co/0Za9uKsrHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000939480220622965",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000893806783135883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: #少爷文学 https://t.co/0Za9uKsrHW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000893804828672004"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2000893806783135883",
+        "created_at": "2025-12-16T11:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000893806783135883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "少爷文学"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Za9uKsrHW",
+              "end": 29,
+              "expanded_url": "https://x.com/GFWfrog/status/2000893806783135883/photo/1",
+              "media_key": "3_2000893804828672004",
+              "start": 6,
+              "url": "https://t.co/0Za9uKsrHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000893806783135883",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47225,
+          "like_count": 484,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#少爷文学 https://t.co/0Za9uKsrHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 222,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 483
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "像中共爱我一样爱中共🐸\n欢迎私信投稿\n\n习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 50,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 27,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（大冲塔🏃‍♂️/大自爆运动💣）",
+        "pinned_tweet_id": "2000907686175760407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998815251760914432/cPpe2c-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255024,
+          "following_count": 2101,
+          "like_count": 108260,
+          "listed_count": 857,
+          "media_count": 6036,
+          "tweet_count": 11033
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

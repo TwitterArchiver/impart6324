@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018248059889856702",
+    "created_at": "2026-02-02T09:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018248059889856702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhi0120_/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/zhi0120_/status/2018221266759790705",
+          "start": 3,
+          "url": "https://t.co/G8nVt0Hvew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018248059889856702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018221266759790705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某人 https://t.co/G8nVt0Hvew"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018248059889856702",
+        "created_at": "2026-02-02T09:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018248059889856702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhi0120_/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/zhi0120_/status/2018221266759790705",
+              "start": 3,
+              "url": "https://t.co/G8nVt0Hvew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018248059889856702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018221266759790705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某人 https://t.co/G8nVt0Hvew"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833947636396929024",
+        "conversation_id": "2018221266759790705",
+        "created_at": "2026-02-02T07:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018221266759790705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018221266759790705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2399,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你长的又丑，人又穷脑子也不太聪明，要身材也没有，情商也没有，二三十岁还是个处，走在大街上也是不会有女孩子多看你一眼，只是机缘巧合下你学会了翻墙，在这里花几十几百块就有个门槛妹妹愿意陪你聊天，给你分享日常，你还要求什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "屏幕里的世界",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2018049537932406853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 382,
+          "like_count": 7448,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1328
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:16:11.000Z",
+        "description": "宇宙這麼大，你消失之後我該去哪裡找你。",
+        "id": "1833947636396929024",
+        "name": "做个梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009971069973868544/pu8_8bVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12827,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 22,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Zhi0120_",
+        "verified": false
+      }
+    ]
+  }
+}

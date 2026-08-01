@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1976607888245494231",
+    "created_at": "2025-10-10T11:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T12:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976607888245494231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961642384158306304",
+          "start": 3,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976607888245494231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976567387173666967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xinxinovo118: 嗯对我平时就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1976607888245494231",
+        "created_at": "2025-10-10T11:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976607888245494231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961642384158306304",
+              "start": 3,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976607888245494231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976567387173666967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xinxinovo118: 嗯对我平时就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961642384158306304",
+        "conversation_id": "1976567387173666967",
+        "created_at": "2025-10-10T08:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976567387173666967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yej80915089517…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yej809150895172/status/1976478184679014596",
+              "start": 9,
+              "url": "https://t.co/WlT5iCkr4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976567387173666967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976478184679014596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对我平时就这样 https://t.co/WlT5iCkr4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不敢再相信任何人了 我可以相信你吗 我是一只小狗",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "09 ISTJ 喜欢碎碎念",
+        "id": "1961642384158306304",
+        "name": "YiiNovo_xx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966819882676482053/q64xL5yS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 55,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 73
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

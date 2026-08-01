@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2064168525133168881",
+    "created_at": "2026-06-09T05:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064222566060069314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1782820752389206021",
+          "start": 0,
+          "username": "wbpi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064222566060069314",
+    "in_reply_to_user_id": "1782820752389206021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064168525133168881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbpi8 宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064168525133168881].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064168525133168881",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064168525133168881"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2064168525133168881",
+        "created_at": "2026-06-09T05:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064222566060069314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1782820752389206021",
+              "start": 0,
+              "username": "wbpi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064222566060069314",
+        "in_reply_to_user_id": "1782820752389206021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064168525133168881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbpi8 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 511,
+          "like_count": 11481,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-23T17:16:13.000Z",
+        "description": "We will fall right through the wall of the place where we were made. Right into the open mouth of the great annihilator.",
+        "id": "1782820752389206021",
+        "name": "银色锡安山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239545119019008/l94LtyOH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 449,
+          "like_count": 2934,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 516
+        },
+        "username": "wbpi8",
+        "verified": false
+      }
+    ]
+  }
+}

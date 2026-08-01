@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998481352346435584"
+      ],
+      "media_source_tweet_id": [
+        "1998481359535485415"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999004164165423499",
+    "created_at": "2025-12-11T06:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999004164165423499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1047053292587638786",
+          "start": 3,
+          "username": "Jerry00107966"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhQW8RokLh",
+          "end": 63,
+          "expanded_url": "https://x.com/Jerry00107966/status/1998481359535485415/photo/1",
+          "media_key": "3_1998481352346435584",
+          "start": 40,
+          "url": "https://t.co/zhQW8RokLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999004164165423499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998481359535485415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jerry00107966: 封号禁言是最无耻的一招\n\n————华春莹 https://t.co/zhQW8RokLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_1998481352346435584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7wIM5jaAAAYxI9.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998481352346435584"
+          ],
+          "media_source_tweet_id": [
+            "1998481359535485415"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999004164165423499",
+        "created_at": "2025-12-11T06:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999004164165423499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1047053292587638786",
+              "start": 3,
+              "username": "Jerry00107966"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhQW8RokLh",
+              "end": 63,
+              "expanded_url": "https://x.com/Jerry00107966/status/1998481359535485415/photo/1",
+              "media_key": "3_1998481352346435584",
+              "start": 40,
+              "url": "https://t.co/zhQW8RokLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999004164165423499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998481359535485415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jerry00107966: 封号禁言是最无耻的一招\n\n————华春莹 https://t.co/zhQW8RokLh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998481352346435584"
+          ]
+        },
+        "author_id": "1047053292587638786",
+        "conversation_id": "1998481359535485415",
+        "created_at": "2025-12-09T19:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T20:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998481359535485415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhQW8RokLh",
+              "end": 44,
+              "expanded_url": "https://x.com/Jerry00107966/status/1998481359535485415/photo/1",
+              "media_key": "3_1998481352346435584",
+              "start": 21,
+              "url": "https://t.co/zhQW8RokLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998481359535485415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 194665,
+          "like_count": 1670,
+          "quote_count": 10,
+          "reply_count": 208,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "封号禁言是最无耻的一招\n\n————华春莹 https://t.co/zhQW8RokLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 224,
+          "like_count": 2861,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 494
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T09:18:53.000Z",
+        "description": "自由、民主、法治。 推荐：请关注推特最大中文群《海外華人交流群》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1670509573885825026",
+                "start": 0,
+                "url": "https://t.co/2WWGKZ3Epy"
+              }
+            ]
+          }
+        },
+        "id": "1047053292587638786",
+        "location": "Australia",
+        "name": "悉尼閑人",
+        "pinned_tweet_id": "1423889270754840579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421761336371924993/ilIAdLkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134220,
+          "following_count": 2765,
+          "like_count": 143322,
+          "listed_count": 515,
+          "media_count": 24425,
+          "tweet_count": 76624
+        },
+        "url": "https://t.co/2WWGKZ3Epy",
+        "username": "Jerry00107966",
+        "verified": true
+      }
+    ]
+  }
+}

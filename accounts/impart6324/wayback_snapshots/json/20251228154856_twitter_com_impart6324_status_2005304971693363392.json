@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005304943645949952",
+        "3_2005304943645974528",
+        "3_2005304943646044161"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005304971693363392",
+    "created_at": "2025-12-28T15:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005304971693363392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GshcgVl1sn",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+          "media_key": "3_2005304943645949952",
+          "start": 13,
+          "url": "https://t.co/GshcgVl1sn"
+        },
+        {
+          "display_url": "pic.x.com/GshcgVl1sn",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+          "media_key": "3_2005304943645974528",
+          "start": 13,
+          "url": "https://t.co/GshcgVl1sn"
+        },
+        {
+          "display_url": "pic.x.com/GshcgVl1sn",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+          "media_key": "3_2005304943646044161",
+          "start": 13,
+          "url": "https://t.co/GshcgVl1sn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005304971693363392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会用一生来铭记这段经历 https://t.co/GshcgVl1sn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005304943645949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RGOMBaAAAcdhT.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005304943645974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RGOMBaYAAcEga.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2005304943646044161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9RGOMBbcAEhO3Y.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005304943645949952",
+            "3_2005304943645974528",
+            "3_2005304943646044161"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005304971693363392",
+        "created_at": "2025-12-28T15:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005304971693363392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GshcgVl1sn",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+              "media_key": "3_2005304943645949952",
+              "start": 13,
+              "url": "https://t.co/GshcgVl1sn"
+            },
+            {
+              "display_url": "pic.x.com/GshcgVl1sn",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+              "media_key": "3_2005304943645974528",
+              "start": 13,
+              "url": "https://t.co/GshcgVl1sn"
+            },
+            {
+              "display_url": "pic.x.com/GshcgVl1sn",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2005304971693363392/photo/1",
+              "media_key": "3_2005304943646044161",
+              "start": 13,
+              "url": "https://t.co/GshcgVl1sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005304971693363392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会用一生来铭记这段经历 https://t.co/GshcgVl1sn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 249,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 567
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

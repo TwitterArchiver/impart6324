@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006957631018250523",
+    "created_at": "2026-01-02T09:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007026069443068021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Chessiaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007026069443068021",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006957631018250523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chessiaya 😂😂😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2006957619173314560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9olUkIW0AAG0b1.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006957631018250523",
+        "created_at": "2026-01-02T09:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007026069443068021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Chessiaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007026069443068021",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006957631018250523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chessiaya 😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006957619173314560"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2006957631018250523",
+        "created_at": "2026-01-02T05:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T06:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006957631018250523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmRcMBaHvN",
+              "end": 32,
+              "expanded_url": "https://x.com/Chessiaya/status/2006957631018250523/photo/1",
+              "media_key": "3_2006957619173314560",
+              "start": 9,
+              "url": "https://t.co/OmRcMBaHvN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006957631018250523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2293,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱逼每天就这样 https://t.co/OmRcMBaHvN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 261,
+          "like_count": 4545,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 682
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "08 我只是想要个答案是不是我自找麻烦/私信只回口令/置顶推广自辨",
+        "id": "1985353024244793345",
+        "location": "请爱我吧",
+        "name": "唉",
+        "pinned_tweet_id": "2002751110327808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004941655280156676/Ygy6PaPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 297,
+          "like_count": 7638,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 971
+        },
+        "username": "Chessiaya",
+        "verified": false
+      }
+    ]
+  }
+}

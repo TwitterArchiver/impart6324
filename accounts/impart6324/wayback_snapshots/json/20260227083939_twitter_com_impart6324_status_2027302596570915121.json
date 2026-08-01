@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027300358540943467",
+    "created_at": "2026-02-27T08:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027302596570915121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758230927325507586",
+          "start": 0,
+          "username": "jnshng339776866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027302596570915121",
+    "in_reply_to_user_id": "1758230927325507586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027300358540943467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnshng339776866 嗯嗯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16635,
+        "height": 1280,
+        "media_key": "13_2027300291079749632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027300291079749632/img/2RacVR_oVlWpoLkX.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027300291079749632/vid/avc1/320x568/BqS6RShfZUMb5PeP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027300291079749632/vid/avc1/480x852/DiKPZC894uopwy5W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027300291079749632/vid/avc1/720x1280/qOdseTDALQo3lXMh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027300291079749632/pl/BxnYZ6_OMMbe18Cb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027300358540943467",
+        "created_at": "2026-02-27T08:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027302596570915121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758230927325507586",
+              "start": 0,
+              "username": "jnshng339776866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027302596570915121",
+        "in_reply_to_user_id": "1758230927325507586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027300358540943467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnshng339776866 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027300291079749632"
+          ]
+        },
+        "author_id": "1758230927325507586",
+        "conversation_id": "2027300358540943467",
+        "created_at": "2026-02-27T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027300358540943467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iv6oNstuSs",
+              "end": 47,
+              "expanded_url": "https://x.com/jnshng339776866/status/2027300358540943467/video/1",
+              "media_key": "13_2027300291079749632",
+              "start": 24,
+              "url": "https://t.co/iv6oNstuSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027300358540943467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好莫名其妙的视频 朋友说我手好看然后录下来了😯 https://t.co/iv6oNstuSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 416,
+          "like_count": 9348,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T20:45:05.000Z",
+        "description": "Hikari/小光🚪88",
+        "id": "1758230927325507586",
+        "name": "Hikari",
+        "pinned_tweet_id": "2023309039644688584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019733390527021056/HaHfdL_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 119
+        },
+        "username": "jnshng339776866",
+        "verified": false
+      }
+    ]
+  }
+}

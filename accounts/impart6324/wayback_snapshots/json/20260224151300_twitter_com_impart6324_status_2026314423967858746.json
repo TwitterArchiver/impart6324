@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026306521861373952"
+      ],
+      "media_source_tweet_id": [
+        "2026306534104547360"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026314423967858746",
+    "created_at": "2026-02-24T15:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026314423967858746"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "门槛"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "日系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621176565752295430",
+          "start": 3,
+          "username": "mkeiio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gmfBQT0XZb",
+          "end": 43,
+          "expanded_url": "https://x.com/mkeiio/status/2026306534104547360/photo/1",
+          "media_key": "3_2026306521861373952",
+          "start": 20,
+          "url": "https://t.co/gmfBQT0XZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026314423967858746",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026306534104547360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mkeiio: #门槛 #日系 https://t.co/gmfBQT0XZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026306521861373952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7jC7mawAABG8_.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026306521861373952"
+          ],
+          "media_source_tweet_id": [
+            "2026306534104547360"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026314423967858746",
+        "created_at": "2026-02-24T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026314423967858746"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "门槛"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "日系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621176565752295430",
+              "start": 3,
+              "username": "mkeiio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmfBQT0XZb",
+              "end": 43,
+              "expanded_url": "https://x.com/mkeiio/status/2026306534104547360/photo/1",
+              "media_key": "3_2026306521861373952",
+              "start": 20,
+              "url": "https://t.co/gmfBQT0XZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026314423967858746",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026306534104547360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mkeiio: #门槛 #日系 https://t.co/gmfBQT0XZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026306521861373952"
+          ]
+        },
+        "author_id": "1621176565752295430",
+        "conversation_id": "2026306534104547360",
+        "created_at": "2026-02-24T14:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026306534104547360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "日系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmfBQT0XZb",
+              "end": 31,
+              "expanded_url": "https://x.com/mkeiio/status/2026306534104547360/photo/1",
+              "media_key": "3_2026306521861373952",
+              "start": 8,
+              "url": "https://t.co/gmfBQT0XZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026306534104547360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 #日系 https://t.co/gmfBQT0XZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9087,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-02T16:00:03.000Z",
+        "description": "",
+        "id": "1621176565752295430",
+        "location": "🚪100/520只回口令",
+        "name": "纯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007232289475047429/aoil-8ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8460,
+          "following_count": 89,
+          "like_count": 4860,
+          "listed_count": 29,
+          "media_count": 101,
+          "tweet_count": 5487
+        },
+        "username": "mkeiio",
+        "verified": false
+      }
+    ]
+  }
+}

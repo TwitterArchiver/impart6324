@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2060089364651356586",
+    "created_at": "2026-05-28T20:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060089364651356586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usono_3ka9_/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/usono_3ka9_/status/2060023585641730331",
+          "start": 7,
+          "url": "https://t.co/sXNuAUxmoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060089364651356586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060023585641730331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全就是我啊 https://t.co/sXNuAUxmoj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2060089364651356586",
+        "created_at": "2026-05-28T20:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060089364651356586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usono_3ka9_/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/usono_3ka9_/status/2060023585641730331",
+              "start": 7,
+              "url": "https://t.co/sXNuAUxmoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060089364651356586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060023585641730331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全就是我啊 https://t.co/sXNuAUxmoj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042551027585761280",
+        "conversation_id": "2060023585641730331",
+        "created_at": "2026-05-28T15:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060023585641730331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060023585641730331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在上海认真包养一个男高中生（16-18岁）不上学的也行 但是不能天天呆在家里我看久了烦 嗯对包吃包住每个月固定包养费 要长得好看的男s谢谢 用嘴或者屌把我哄开心就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 525,
+          "like_count": 11572,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T10:41:37.000Z",
+        "description": "不接非绿…..喜欢我可以过门槛 ｜私信@skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "skk_minii"
+              }
+            ]
+          }
+        },
+        "id": "2042551027585761280",
+        "location": "🚪52/288/588/1388",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "2053424428407751013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043702723732963328/5f0vp76c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 46,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 89
+        },
+        "username": "usono_3ka9_",
+        "verified": false
+      }
+    ]
+  }
+}

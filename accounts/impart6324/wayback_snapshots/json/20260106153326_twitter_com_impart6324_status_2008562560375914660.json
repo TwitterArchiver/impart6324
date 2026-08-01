@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008165959023165623",
+    "created_at": "2026-01-06T15:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008562560375914660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650079340661547008",
+          "start": 0,
+          "username": "xiaowang1581198"
+        },
+        {
+          "end": 29,
+          "id": "1937988852779536384",
+          "start": 17,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008562560375914660",
+    "in_reply_to_user_id": "1650079340661547008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008562368864022929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowang1581198 @Evienne0929 你自己看一下我新发的推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008165959023165623",
+        "created_at": "2026-01-06T15:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008562560375914660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650079340661547008",
+              "start": 0,
+              "username": "xiaowang1581198"
+            },
+            {
+              "end": 29,
+              "id": "1937988852779536384",
+              "start": 17,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008562560375914660",
+        "in_reply_to_user_id": "1650079340661547008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008562368864022929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowang1581198 @Evienne0929 你自己看一下我新发的推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650079340661547008",
+        "conversation_id": "2008165959023165623",
+        "created_at": "2026-01-06T15:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008562368864022929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 24,
+              "id": "1937988852779536384",
+              "start": 12,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008562368864022929",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008442719140454668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @Evienne0929 破防了？😂地雷系代表不是一滴泪吗 咋的人家比你强一百倍还诋毁人家一滴泪嫉妒人家粉丝多吗猪妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 287,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 799
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T10:09:20.000Z",
+        "description": "dk男高",
+        "id": "1650079340661547008",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Jay情书",
+        "pinned_tweet_id": "2008164588580405372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008163211217100801/4asKtDRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 419,
+          "like_count": 999,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 168
+        },
+        "username": "xiaowang1581198",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "",
+        "id": "1937988852779536384",
+        "name": "小七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002831699542257664/yvJOJ1FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 20,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 259
+        },
+        "username": "Evienne0929",
+        "verified": false
+      }
+    ]
+  }
+}

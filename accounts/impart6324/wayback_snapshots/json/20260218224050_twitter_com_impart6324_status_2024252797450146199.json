@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024252797450146199",
+    "created_at": "2026-02-18T22:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024252797450146199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yi_wei94696/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yi_wei94696/status/2023987290725642356",
+          "start": 4,
+          "url": "https://t.co/epOoGuorjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024252797450146199",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023987290725642356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想喝 https://t.co/epOoGuorjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1573,
+        "media_key": "3_2023987287688966144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBaltvCbcAAnVap.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024252797450146199",
+        "created_at": "2026-02-18T22:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024252797450146199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi_wei94696/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yi_wei94696/status/2023987290725642356",
+              "start": 4,
+              "url": "https://t.co/epOoGuorjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024252797450146199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023987290725642356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想喝 https://t.co/epOoGuorjC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023987287688966144"
+          ]
+        },
+        "author_id": "1780702060218101760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023987290725642356",
+        "created_at": "2026-02-18T05:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023987290725642356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWlcg2Kx6V",
+              "end": 166,
+              "expanded_url": "https://x.com/yi_wei94696/status/2023987290725642356/photo/1",
+              "media_key": "3_2023987287688966144",
+              "start": 143,
+              "url": "https://t.co/xWlcg2Kx6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023987290725642356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9209,
+          "like_count": 126,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "咱吃饭大人喝酒了😝 娃娃喝甚呀？😜  🥵热露露🥵   😍服务员那个，😨给我们这桌上  一箱热露露😋 娃娃你喝那个冰可乐😉肚子疼呀，来喝这个🤗🥵热露露🥵就要喝那个可乐了？😛来哈，把那个可乐煮给一哈啊😋  又不是不让你喝饮料了😍刚不是给你要的🥵热露露🥵😜不买可乐不买雪碧😜我只买🥵热露露🥵 https://t.co/xWlcg2Kx6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 403,
+          "like_count": 8875,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T20:57:32.000Z",
+        "description": "分享生活喵\neg：生活日常，xp涩涩，抽象吐槽…\n          注：此入是男的",
+        "id": "1780702060218101760",
+        "name": "51zzzzz",
+        "pinned_tweet_id": "1999904169659146596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998417302371643392/q2XQYJLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 196,
+          "like_count": 9181,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 2338
+        },
+        "username": "yi_wei94696",
+        "verified": false
+      }
+    ]
+  }
+}

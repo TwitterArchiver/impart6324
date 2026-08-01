@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1808635049845346304"
+      ],
+      "media_source_tweet_id": [
+        "1808635081575313774"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2018988372040286288",
+    "created_at": "2026-02-04T10:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018988372040286288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615639552227704832",
+          "start": 3,
+          "username": "snsnokyoufu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VzdFA0n6cy",
+          "end": 110,
+          "expanded_url": "https://x.com/UnkochinchinZ/status/1808635081575313774/video/1",
+          "media_key": "7_1808635049845346304",
+          "start": 87,
+          "url": "https://t.co/VzdFA0n6cy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018988372040286288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018886302306009475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snsnokyoufu: 記録的な暴雨により増水した河辺で\nまどマギの名シーンを再現する武漢のコスプレイヤーさん見て震えた、、\n\nこれは何度目の人生なんだろう、、\n https://t.co/VzdFA0n6cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12469,
+        "height": 1280,
+        "media_key": "7_1808635049845346304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808635049845346304/pu/img/m9DYv4IlHx5iHo3y.jpg",
+        "public_metrics": {
+          "view_count": 21289191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808635049845346304/pu/vid/avc1/320x568/pcyXonNbDJzfv47Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808635049845346304/pu/vid/avc1/480x852/v0scvsyBB93VpxWn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808635049845346304/pu/vid/avc1/720x1280/EMt1j6cWeIVkHxCt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808635049845346304/pu/pl/3XhBvINXPa_XgHUV.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1808635049845346304"
+          ],
+          "media_source_tweet_id": [
+            "1808635081575313774"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2018988372040286288",
+        "created_at": "2026-02-04T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018988372040286288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615639552227704832",
+              "start": 3,
+              "username": "snsnokyoufu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzdFA0n6cy",
+              "end": 110,
+              "expanded_url": "https://x.com/UnkochinchinZ/status/1808635081575313774/video/1",
+              "media_key": "7_1808635049845346304",
+              "start": 87,
+              "url": "https://t.co/VzdFA0n6cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018988372040286288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018886302306009475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snsnokyoufu: 記録的な暴雨により増水した河辺で\nまどマギの名シーンを再現する武漢のコスプレイヤーさん見て震えた、、\n\nこれは何度目の人生なんだろう、、\n https://t.co/VzdFA0n6cy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1808635049845346304"
+          ],
+          "media_source_tweet_id": [
+            "1808635081575313774"
+          ]
+        },
+        "author_id": "1615639552227704832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2018886302306009475",
+        "created_at": "2026-02-04T03:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018886302306009475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzdFA0n6cy",
+              "end": 93,
+              "expanded_url": "https://x.com/UnkochinchinZ/status/1808635081575313774/video/1",
+              "media_key": "7_1808635049845346304",
+              "start": 70,
+              "url": "https://t.co/VzdFA0n6cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018886302306009475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2164,
+          "impression_count": 1187285,
+          "like_count": 12497,
+          "quote_count": 110,
+          "reply_count": 202,
+          "retweet_count": 1021
+        },
+        "reply_settings": "everyone",
+        "text": "記録的な暴雨により増水した河辺で\nまどマギの名シーンを再現する武漢のコスプレイヤーさん見て震えた、、\n\nこれは何度目の人生なんだろう、、\n https://t.co/VzdFA0n6cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 366,
+          "like_count": 7594,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T09:17:51.000Z",
+        "description": "話題のツイートを投稿します。提供はDMまで✉️",
+        "id": "1615639552227704832",
+        "name": "面白ツイート図鑑",
+        "pinned_tweet_id": "2017502726960386279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993541758006050816/p4wOGIhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52225,
+          "following_count": 224,
+          "like_count": 1492,
+          "listed_count": 70,
+          "media_count": 3337,
+          "tweet_count": 5116
+        },
+        "username": "snsnokyoufu",
+        "verified": true
+      }
+    ]
+  }
+}

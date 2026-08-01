@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004569037578314208",
+    "created_at": "2025-12-26T15:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T16:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004569037578314208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamikawaiiiiii…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2003394134737059967",
+          "start": 3,
+          "url": "https://t.co/KjopR9gKwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004569037578314208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003394134737059967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈 https://t.co/KjopR9gKwC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003394060242014208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G818SInaUAASSL3.jpg",
+        "width": 1618
+      },
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_2003394060372119552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003394060372119552/img/axg8cbnvP1k9mw1Q.jpg",
+        "public_metrics": {
+          "view_count": 223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060372119552/vid/avc1/320x568/65jKPae28Iyxx_CC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060372119552/vid/avc1/480x852/OIhY-CJxl-8bj_7R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060372119552/vid/avc1/720x1280/6pfWbRjRpkqY-DYI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003394060372119552/pl/LNy8s0pbV9uroIys.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 5233,
+        "height": 1280,
+        "media_key": "13_2003394060254658560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003394060254658560/img/EZMLTWwuPtP4m2ZT.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060254658560/vid/avc1/320x568/xvdSw6Xi3UBPBmS_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060254658560/vid/avc1/480x852/YUaLxsP6_wcHN5_-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060254658560/vid/avc1/720x1280/kD1H72bHvJ-doN2F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003394060254658560/pl/aVHsHyRPM7xDxtrx.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8833,
+        "height": 1280,
+        "media_key": "13_2003394060267196416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003394060267196416/img/XwcttS7BgO23sI-p.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060267196416/vid/avc1/320x568/1nAii78Ro7K_lbDF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060267196416/vid/avc1/480x852/27zE29TnJnaelK4z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003394060267196416/vid/avc1/720x1280/xa6NKWcsXJyQ0zmT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003394060267196416/pl/VFLQg_WeCaZc110z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004569037578314208",
+        "created_at": "2025-12-26T15:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004569037578314208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamikawaiiiiii…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2003394134737059967",
+              "start": 3,
+              "url": "https://t.co/KjopR9gKwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004569037578314208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003394134737059967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈 https://t.co/KjopR9gKwC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003394060242014208",
+            "13_2003394060372119552",
+            "13_2003394060254658560",
+            "13_2003394060267196416"
+          ]
+        },
+        "author_id": "2002819291087777792",
+        "conversation_id": "2003394134737059967",
+        "created_at": "2025-12-23T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003394134737059967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "我需要钱"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "地雷系"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "一日女友"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3sH0x2yUc",
+              "end": 177,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2003394134737059967/video/1",
+              "media_key": "3_2003394060242014208",
+              "start": 154,
+              "url": "https://t.co/c3sH0x2yUc"
+            },
+            {
+              "display_url": "pic.x.com/c3sH0x2yUc",
+              "end": 177,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2003394134737059967/video/1",
+              "media_key": "13_2003394060372119552",
+              "start": 154,
+              "url": "https://t.co/c3sH0x2yUc"
+            },
+            {
+              "display_url": "pic.x.com/c3sH0x2yUc",
+              "end": 177,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2003394134737059967/video/1",
+              "media_key": "13_2003394060254658560",
+              "start": 154,
+              "url": "https://t.co/c3sH0x2yUc"
+            },
+            {
+              "display_url": "pic.x.com/c3sH0x2yUc",
+              "end": 177,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2003394134737059967/video/1",
+              "media_key": "13_2003394060267196416",
+              "start": 154,
+              "url": "https://t.co/c3sH0x2yUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003394134737059967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 854,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "嗨推友们晚上好！！！🚼🚼🚼\n还是呪儿 互关们对不起我一直玩失踪\n🐜🐲封我很多号了 本呪本来想退网\n但是发现我操 咋没钱买药药我回来乞讨了\n上一世被门哥包养惨遭抛弃 默默割手\n这一世我要活回来 坐标江西↔️上海\n同成分宝贝互fo好吗 我没有朋友\n#门槛妹 #门槛哥 #我需要钱 #地雷系 #一日女友 #爸爸活 https://t.co/c3sH0x2yUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 242,
+          "like_count": 3637,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 528
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我很善良不要背刺我求你了 ｜地雷｜餐卷｜AntiChrist｜Satanist｜yamikawaii｜不幸福的中国人｜呪的日常｜谢谢你来看我｜我没有钱｜来找我说话｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003584124922044416/mqDhVGbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 69,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

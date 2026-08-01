@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1977742539856695478",
+    "created_at": "2025-10-13T14:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977746682419826758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961642384158306304",
+          "start": 0,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977746682419826758",
+    "in_reply_to_user_id": "1961642384158306304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977742539856695478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinxinovo118 我感觉像是成熟性感的那种长相可以这样称呼🤓可能跟衣着风格也有关系？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2025,
+        "media_key": "3_1977742531820703744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JaWqpa0AAx6-d.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1977742539856695478",
+        "created_at": "2025-10-13T14:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977746682419826758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961642384158306304",
+              "start": 0,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977746682419826758",
+        "in_reply_to_user_id": "1961642384158306304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977742539856695478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinxinovo118 我感觉像是成熟性感的那种长相可以这样称呼🤓可能跟衣着风格也有关系？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977742531820703744"
+          ]
+        },
+        "author_id": "1961642384158306304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977742539856695478",
+        "created_at": "2025-10-13T14:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977742539856695478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09bJEn44cZ",
+              "end": 95,
+              "expanded_url": "https://x.com/Xinxinovo118/status/1977742539856695478/photo/1",
+              "media_key": "3_1977742531820703744",
+              "start": 72,
+              "url": "https://t.co/09bJEn44cZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977742539856695478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人妻到底是什么意思啊，是我想的那种很温柔的妈妈那种吗，我朋友自从见到我穿着睡衣，她一直觉得我很人妻，但是另外一个朋友又觉得我很适合韩妆和亚裔😋 https://t.co/09bJEn44cZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 137,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "09 ISTJ 喜欢碎碎念",
+        "id": "1961642384158306304",
+        "name": "YiiNovo_xx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966819882676482053/q64xL5yS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 58,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

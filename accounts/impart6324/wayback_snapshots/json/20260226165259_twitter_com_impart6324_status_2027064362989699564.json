@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027060893977395311",
+    "created_at": "2026-02-26T16:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027064362989699564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1621176565752295430",
+          "start": 0,
+          "username": "mkeiio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027064362989699564",
+    "in_reply_to_user_id": "1621176565752295430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027060893977395311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkeiio 我想这是对我嘞一种诅咒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9233,
+        "height": 1280,
+        "media_key": "7_2027060780940877824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027060780940877824/pu/img/YlL97_cpikhxCsGj.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027060780940877824/pu/vid/avc1/320x568/k6wuvhprzB9TGwVb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027060780940877824/pu/vid/avc1/480x852/MVDxWZYddqjDuspT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027060780940877824/pu/vid/avc1/720x1280/n7ipFVCZYvqv5urF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027060780940877824/pu/pl/3Ovs813UIhUb4Wfr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027060893977395311",
+        "created_at": "2026-02-26T16:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027064362989699564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621176565752295430",
+              "start": 0,
+              "username": "mkeiio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027064362989699564",
+        "in_reply_to_user_id": "1621176565752295430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027060893977395311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkeiio 我想这是对我嘞一种诅咒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027060780940877824"
+          ]
+        },
+        "author_id": "1621176565752295430",
+        "conversation_id": "2027060893977395311",
+        "created_at": "2026-02-26T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027060893977395311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IPfNwKbX0",
+              "end": 23,
+              "expanded_url": "https://x.com/mkeiio/status/2027060893977395311/video/1",
+              "media_key": "7_2027060780940877824",
+              "start": 0,
+              "url": "https://t.co/8IPfNwKbX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027060893977395311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8IPfNwKbX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 415,
+          "like_count": 9319,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-02T16:00:03.000Z",
+        "description": "",
+        "id": "1621176565752295430",
+        "location": "🚪100/520只回口令",
+        "name": "纯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007232289475047429/aoil-8ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8467,
+          "following_count": 92,
+          "like_count": 4900,
+          "listed_count": 29,
+          "media_count": 102,
+          "tweet_count": 5493
+        },
+        "username": "mkeiio",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1991891486791884937",
+    "created_at": "2025-11-21T15:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991891486791884937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "死亡以外的离开都是背叛’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1MYxN…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1MYxNlXPwOZGw",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 不来死妈",
+          "unwound_url": "https://twitter.com/i/spaces/1MYxNlXPwOZGw/peek",
+          "url": "https://t.co/xHqENe3fNX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991891486791884937",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xHqENe3fNX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1991891486791884937",
+        "created_at": "2025-11-21T15:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991891486791884937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "死亡以外的离开都是背叛’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNlXPwOZGw",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 不来死妈",
+              "unwound_url": "https://twitter.com/i/spaces/1MYxNlXPwOZGw/peek",
+              "url": "https://t.co/xHqENe3fNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991891486791884937",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xHqENe3fNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 362,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 257
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

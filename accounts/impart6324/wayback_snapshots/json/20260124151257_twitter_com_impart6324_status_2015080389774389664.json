@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015057798900723972",
+    "created_at": "2026-01-24T15:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015080389774389664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886315972476436480",
+          "start": 0,
+          "username": "pilljvce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015080389774389664",
+    "in_reply_to_user_id": "1886315972476436480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015079099778347496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilljvce 我还挺喜欢这个人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015057798900723972",
+        "created_at": "2026-01-24T15:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015080389774389664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886315972476436480",
+              "start": 0,
+              "username": "pilljvce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015080389774389664",
+        "in_reply_to_user_id": "1886315972476436480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015079099778347496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilljvce 我还挺喜欢这个人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886315972476436480",
+        "conversation_id": "2015057798900723972",
+        "created_at": "2026-01-24T15:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015079099778347496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015079099778347496",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015057798900723972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 337,
+          "like_count": 6591,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1079
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T07:29:14.000Z",
+        "description": "。。。",
+        "id": "1886315972476436480",
+        "location": "世界上最魔怔的人",
+        "name": "lil mukai",
+        "pinned_tweet_id": "2013240807520891169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013241316788817920/c6SnZA79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 449,
+          "like_count": 12539,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2782
+        },
+        "username": "pilljvce",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008758049494962236",
+    "created_at": "2026-01-07T13:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008888071086125551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008888071086125551",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008758049494962236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 你啥时候回关我？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008758041227956225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CKy68aEAEnj0a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008758049494962236",
+        "created_at": "2026-01-07T13:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008888071086125551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008888071086125551",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008758049494962236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 你啥时候回关我？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008758041227956225"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "2008758049494962236",
+        "created_at": "2026-01-07T04:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008758049494962236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DN47IxFuuc",
+              "end": 38,
+              "expanded_url": "https://x.com/AmeKam10623/status/2008758049494962236/photo/1",
+              "media_key": "3_2008758041227956225",
+              "start": 15,
+              "url": "https://t.co/DN47IxFuuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008758049494962236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 875,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "例假结束辽(。•ω•。)ﾉ♡ https://t.co/DN47IxFuuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2008679764173922528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 289,
+          "like_count": 5417,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 684
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "ADHD/边缘性人格障碍/双相/07/泛性戀/isfp/暴力美学 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "あめ",
+        "pinned_tweet_id": "1985976851093995534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986002596801413120/8q4HwBOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7100,
+          "following_count": 131,
+          "like_count": 359,
+          "listed_count": 14,
+          "media_count": 62,
+          "tweet_count": 455
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

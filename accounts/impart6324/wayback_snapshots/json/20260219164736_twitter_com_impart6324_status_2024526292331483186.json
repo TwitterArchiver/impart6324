@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      }
+    ],
+    "conversation_id": "2024526292331483186",
+    "created_at": "2026-02-19T16:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024526292331483186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arashi_0224/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/arashi_0224/status/2018875240131268930",
+          "start": 5,
+          "url": "https://t.co/DUw2Kr9nw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024526292331483186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018875240131268930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注点起 https://t.co/DUw2Kr9nw4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018875221588180992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR8UUyaAAAKf5i.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018875221571481600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR8UUubMAAsPhl.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          }
+        ],
+        "conversation_id": "2024526292331483186",
+        "created_at": "2026-02-19T16:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024526292331483186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arashi_0224/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/arashi_0224/status/2018875240131268930",
+              "start": 5,
+              "url": "https://t.co/DUw2Kr9nw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024526292331483186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018875240131268930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注点起 https://t.co/DUw2Kr9nw4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018875221588180992",
+            "3_2018875221571481600"
+          ]
+        },
+        "author_id": "2018670070613032960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          }
+        ],
+        "conversation_id": "2018875240131268930",
+        "created_at": "2026-02-04T02:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018875240131268930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gnGwdfxGU",
+              "end": 149,
+              "expanded_url": "https://x.com/Arashi_0224/status/2018875240131268930/photo/1",
+              "media_key": "3_2018875221588180992",
+              "start": 126,
+              "url": "https://t.co/8gnGwdfxGU"
+            },
+            {
+              "display_url": "pic.x.com/8gnGwdfxGU",
+              "end": 149,
+              "expanded_url": "https://x.com/Arashi_0224/status/2018875240131268930/photo/1",
+              "media_key": "3_2018875221571481600",
+              "start": 126,
+              "url": "https://t.co/8gnGwdfxGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018875240131268930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4995,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是Arashi 小岚 我重生了 前世600fo被小人所害\n求互关跟我fo回来帮我转发😭\n🚪88好友位 188解锁朋友圈可聊天 288解锁线下消息看到都会回掉落日常照 520有色色视频 1314电子女友你就是我最爱的老公！\n🎁点赞评论转帖抽三个50r https://t.co/8gnGwdfxGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 407,
+          "like_count": 8822,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T12:57:18.000Z",
+        "description": "最低🚪88 私信只回zfb口令 前世@Arashi_100224/双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/互fo欢迎LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Arashi_100224"
+              }
+            ]
+          }
+        },
+        "id": "2018670070613032960",
+        "location": "未來電波基地",
+        "name": "Arashi 2.0",
+        "pinned_tweet_id": "2018875240131268930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018670379435503616/etHTsbV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 75,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "Arashi_0224",
+        "verified": false
+      }
+    ]
+  }
+}

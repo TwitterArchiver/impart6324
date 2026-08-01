@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018049537932406853",
+    "created_at": "2026-02-01T20:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018053127900172613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018053127900172613",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018049537932406853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没钱入门更没钱谈恋爱 不用因为这个找我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2018049532291059712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAGNW4daEAAjT9R.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018049537932406853",
+        "created_at": "2026-02-01T20:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018053127900172613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018053127900172613",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018049537932406853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没钱入门更没钱谈恋爱 不用因为这个找我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018049532291059712"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018049537932406853",
+        "created_at": "2026-02-01T19:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018049537932406853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbUcfiQws7",
+              "end": 110,
+              "expanded_url": "https://x.com/impart6324/status/2018049537932406853/photo/1",
+              "media_key": "3_2018049532291059712",
+              "start": 87,
+              "url": "https://t.co/nbUcfiQws7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018049537932406853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直不想把赞赏码直接放到置顶 不过既然没有选择的权力并且懒得写别的那就随缘了 如果喜欢我想让我过的好或者想让我和你互动的可以给我打钱 请备注推特名 ありがとうございました！ https://t.co/nbUcfiQws7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "屏幕里的世界",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2018049537932406853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 383,
+          "like_count": 7415,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1312
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

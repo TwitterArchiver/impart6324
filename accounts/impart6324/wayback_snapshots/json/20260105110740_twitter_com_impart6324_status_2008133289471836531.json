@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008133218621435904"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008133289471836531",
+    "created_at": "2026-01-05T11:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008133289471836531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mjm5Yv77Mw",
+          "end": 31,
+          "expanded_url": "https://x.com/impart6324/status/2008133289471836531/video/1",
+          "media_key": "13_2008133218621435904",
+          "start": 8,
+          "url": "https://t.co/mjm5Yv77Mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008133289471836531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌上海物价 https://t.co/mjm5Yv77Mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 960,
+        "media_key": "13_2008133218621435904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008133218621435904/img/jETuLKqnQ3M50taZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008133218621435904/vid/avc1/320x564/_oNRAhbi0HL1vWvo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008133218621435904/vid/avc1/480x846/8nA0sDwLEmfjWpX5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008133218621435904/vid/avc1/544x960/9Cp3Opc9r_CvsLZS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008133218621435904/pl/3nBOR9MzzzIdqeyS.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008133218621435904"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008133289471836531",
+        "created_at": "2026-01-05T11:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008133289471836531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjm5Yv77Mw",
+              "end": 31,
+              "expanded_url": "https://x.com/impart6324/status/2008133289471836531/video/1",
+              "media_key": "13_2008133218621435904",
+              "start": 8,
+              "url": "https://t.co/mjm5Yv77Mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008133289471836531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌上海物价 https://t.co/mjm5Yv77Mw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 271,
+          "like_count": 4968,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 741
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

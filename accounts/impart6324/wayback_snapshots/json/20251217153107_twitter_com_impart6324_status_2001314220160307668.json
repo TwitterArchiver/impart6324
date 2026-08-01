@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001177377637064705"
+      ],
+      "media_source_tweet_id": [
+        "2001177384041500874"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001314220160307668",
+    "created_at": "2025-12-17T15:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001314220160307668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhljYxfYZ4",
+          "end": 59,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2001177384041500874/photo/1",
+          "media_key": "3_2001177377637064705",
+          "start": 36,
+          "url": "https://t.co/NhljYxfYZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001314220160307668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001177384041500874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 我承认真的不懂这类视频的目的。 https://t.co/NhljYxfYZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2004,
+        "media_key": "3_2001177377637064705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WcOOaa4AELBXw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001177377637064705"
+          ],
+          "media_source_tweet_id": [
+            "2001177384041500874"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001314220160307668",
+        "created_at": "2025-12-17T15:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001314220160307668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhljYxfYZ4",
+              "end": 59,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2001177384041500874/photo/1",
+              "media_key": "3_2001177377637064705",
+              "start": 36,
+              "url": "https://t.co/NhljYxfYZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001314220160307668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001177384041500874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 我承认真的不懂这类视频的目的。 https://t.co/NhljYxfYZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001177377637064705"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2001177384041500874",
+        "created_at": "2025-12-17T06:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001177384041500874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhljYxfYZ4",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2001177384041500874/photo/1",
+              "media_key": "3_2001177377637064705",
+              "start": 16,
+              "url": "https://t.co/NhljYxfYZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001177384041500874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 55273,
+          "like_count": 515,
+          "quote_count": 8,
+          "reply_count": 108,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我承认真的不懂这类视频的目的。 https://t.co/NhljYxfYZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 227,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 492
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235104,
+          "following_count": 1841,
+          "like_count": 192,
+          "listed_count": 1232,
+          "media_count": 27262,
+          "tweet_count": 34833
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

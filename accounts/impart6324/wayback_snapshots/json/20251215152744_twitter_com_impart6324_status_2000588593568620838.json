@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2000588593568620838",
+    "created_at": "2025-12-15T15:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000588593568620838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c111011101110/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/c111011101110/status/2000588426513719698",
+          "start": 2,
+          "url": "https://t.co/SPS8j6usgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000588593568620838",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000588426513719698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👍 https://t.co/SPS8j6usgJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2000588416917143552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OEkMwbgAAPdzT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2000588593568620838",
+        "created_at": "2025-12-15T15:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000588593568620838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c111011101110/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/c111011101110/status/2000588426513719698",
+              "start": 2,
+              "url": "https://t.co/SPS8j6usgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000588593568620838",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000588426513719698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍 https://t.co/SPS8j6usgJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000588416917143552"
+          ]
+        },
+        "author_id": "770634862478827520",
+        "conversation_id": "2000588426513719698",
+        "created_at": "2025-12-15T15:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000588426513719698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DARZxaeQry",
+              "end": 29,
+              "expanded_url": "https://x.com/c111011101110/status/2000588426513719698/photo/1",
+              "media_key": "3_2000588416917143552",
+              "start": 6,
+              "url": "https://t.co/DARZxaeQry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000588426513719698",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FFK18 https://t.co/DARZxaeQry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 223,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 485
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-30T14:50:43.000Z",
+        "description": "咪痾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/c1110111011101…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/c1110111011101110111011101110?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/lgtXXHnIRC"
+              }
+            ]
+          }
+        },
+        "id": "770634862478827520",
+        "location": "台灣",
+        "name": "01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977710573791166465/kzLeHYGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 2764,
+          "like_count": 8193,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/lgtXXHnIRC",
+        "username": "c111011101110",
+        "verified": false
+      }
+    ]
+  }
+}

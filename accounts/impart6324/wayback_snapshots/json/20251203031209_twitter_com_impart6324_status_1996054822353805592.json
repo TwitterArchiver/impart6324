@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996053589459173600",
+    "created_at": "2025-12-03T03:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996054822353805592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996054822353805592",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996053589459173600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii 我是光明会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996053589459173600",
+        "created_at": "2025-12-03T03:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996054822353805592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996054822353805592",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996053589459173600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii 我是光明会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989441591262810116",
+        "conversation_id": "1996053589459173600",
+        "created_at": "2025-12-03T03:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996053589459173600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996053589459173600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有美国人关注我 有光明会的关注我 我不知道他们每次看我写的无脑推文都要去翻译然后做什么研究 要脑控我吗 我值得他们浪费时间吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 222,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 378
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 某人的转生…随缘发点被删的🫘92709991258 📖27404027104",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "1992829521104687200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989449712152526848/I2PdXHnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 231,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      }
+    ]
+  }
+}

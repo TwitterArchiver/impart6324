@@ -1,0 +1,285 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1606055260140998656"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1647100408391774210",
+    "created_at": "2023-04-15T04:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-15T05:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1647100408391774210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1249404844168736769",
+          "start": 3,
+          "username": "zoetta20"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/z1r6xBfykI",
+          "end": 123,
+          "expanded_url": "https://twitter.com/zoetta20/status/1606055290834542592/video/1",
+          "media_key": "7_1606055260140998656",
+          "start": 100,
+          "url": "https://t.co/z1r6xBfykI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1647100408391774210",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1606055290834542592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zoetta20: @whyyoutouzhele 11～26～2022 今晚上海在乌鲁木齐中路为死者守夜抗议～～“白纸运动”在中国崛起\n11～27～2022 清华大学发起的“白纸抗议”活动 https://t.co/z1r6xBfykI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29900,
+        "height": 360,
+        "media_key": "7_1606055260140998656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1606055260140998656/pu/img/ZAC3CKG7K4IZoHmC.jpg",
+        "public_metrics": {
+          "view_count": 2929
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1606055260140998656/pu/pl/jObTQY2KBxukKX1Z.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1606055260140998656/pu/vid/480x270/XtonKeyYSgnISS_y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1606055260140998656/pu/vid/640x360/WnqMEXTKV2jCguQx.mp4?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1606055260140998656"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1647100408391774210",
+        "created_at": "2023-04-15T04:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-15T05:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647100408391774210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1249404844168736769",
+              "start": 3,
+              "username": "zoetta20"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z1r6xBfykI",
+              "end": 123,
+              "expanded_url": "https://twitter.com/zoetta20/status/1606055290834542592/video/1",
+              "media_key": "7_1606055260140998656",
+              "start": 100,
+              "url": "https://t.co/z1r6xBfykI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647100408391774210",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1606055290834542592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zoetta20: @whyyoutouzhele 11～26～2022 今晚上海在乌鲁木齐中路为死者守夜抗议～～“白纸运动”在中国崛起\n11～27～2022 清华大学发起的“白纸抗议”活动 https://t.co/z1r6xBfykI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1606055260140998656"
+          ]
+        },
+        "author_id": "1249404844168736769",
+        "conversation_id": "1606016393136050178",
+        "created_at": "2022-12-22T22:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2022-12-22T23:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1606055290834542592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z1r6xBfykI",
+              "end": 109,
+              "expanded_url": "https://twitter.com/zoetta20/status/1606055290834542592/video/1",
+              "media_key": "7_1606055260140998656",
+              "start": 86,
+              "url": "https://t.co/z1r6xBfykI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1606055290834542592",
+        "in_reply_to_user_id": "1249404844168736769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 7705,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1606051906853355520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 11～26～2022 今晚上海在乌鲁木齐中路为死者守夜抗议～～“白纸运动”在中国崛起\n11～27～2022 清华大学发起的“白纸抗议”活动 https://t.co/z1r6xBfykI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我用的华为手机，你们发的什么我看不见，还有，境外势力你别嚣张！！！！！！！",
+        "id": "1597065444136919040",
+        "name": "又携书剑路茫茫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597065546498834432/CE0MAO6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "listed_count": 1,
+          "tweet_count": 46
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T18:32:59.000Z",
+        "description": "“历史是场噩梦、而我们正试图从中醒来”～詹姆斯. 乔伊斯 推特的评论、转推是证明和记载我们正在经历着的这个时代",
+        "id": "1249404844168736769",
+        "name": "Angel 💫",
+        "pinned_tweet_id": "1505281164134653952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423106595114807299/WHFSQCMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 170,
+          "listed_count": 3,
+          "tweet_count": 5479
+        },
+        "username": "zoetta20",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "群众信箱\n投稿前请先确保事件真实，经过详尽，图文清晰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 23,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 0,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045343,
+          "following_count": 906,
+          "listed_count": 3017,
+          "tweet_count": 9563
+        },
+        "url": "https://t.co/Xo5MOTwp38",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

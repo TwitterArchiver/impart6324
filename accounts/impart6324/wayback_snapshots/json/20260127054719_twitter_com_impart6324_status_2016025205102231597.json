@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015895622780592568",
+    "created_at": "2026-01-27T05:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016025205102231597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016025205102231597",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016025096797008192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 关键之前还是互关 何意味了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015895622780592568",
+        "created_at": "2026-01-27T05:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016025205102231597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016025205102231597",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016025096797008192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 关键之前还是互关 何意味了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2015895622780592568",
+        "created_at": "2026-01-27T05:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016025096797008192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016025096797008192",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016022389696671953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 神秘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 346,
+          "like_count": 6868,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1188
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神\n@wwwjssns 这是我的契约者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "wwwjssns"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "pinned_tweet_id": "2012573152740507906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009353414531272708/t0GiNRNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1234,
+          "like_count": 22009,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2283
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

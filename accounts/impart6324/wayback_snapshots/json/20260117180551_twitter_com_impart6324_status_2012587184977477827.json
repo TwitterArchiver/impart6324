@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012563031041937769",
+    "created_at": "2026-01-17T18:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T19:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012587184977477827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004498413543645185",
+          "start": 0,
+          "username": "8137177Lamp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012587184977477827",
+    "in_reply_to_user_id": "2004498413543645185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012563031041937769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8137177Lamp 搞男同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012563031041937769",
+        "created_at": "2026-01-17T18:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012587184977477827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004498413543645185",
+              "start": 0,
+              "username": "8137177Lamp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012587184977477827",
+        "in_reply_to_user_id": "2004498413543645185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012563031041937769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8137177Lamp 搞男同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004498413543645185",
+        "conversation_id": "2012563031041937769",
+        "created_at": "2026-01-17T16:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012563031041937769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012563031041937769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你不要跟我扯，我告诉你，我有公主病有小仙女人格，我体内住着一个顺直男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2012548406443495796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 325,
+          "like_count": 6033,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 938
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T10:24:06.000Z",
+        "description": "无恶意",
+        "id": "2004498413543645185",
+        "location": "Hong Kong",
+        "name": "lamp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499966006550528/yW5c6OC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "8137177Lamp",
+        "verified": false
+      }
+    ]
+  }
+}

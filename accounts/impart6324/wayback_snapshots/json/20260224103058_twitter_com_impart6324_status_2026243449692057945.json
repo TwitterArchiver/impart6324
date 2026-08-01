@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026242448893284722",
+    "created_at": "2026-02-24T10:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026243449692057945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012530530320003073",
+          "start": 0,
+          "username": "lio0_s2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026243449692057945",
+    "in_reply_to_user_id": "2012530530320003073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026242448893284722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lio0_s2 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2025835579393671168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB02ueMbgAAqq1E.jpg",
+        "width": 768
+      },
+      {
+        "height": 1146,
+        "media_key": "3_2025835579393671169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB02ueMbgAEVffA.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026242448893284722",
+        "created_at": "2026-02-24T10:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026243449692057945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012530530320003073",
+              "start": 0,
+              "username": "lio0_s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026243449692057945",
+        "in_reply_to_user_id": "2012530530320003073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026242448893284722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lio0_s2 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025835579393671168",
+            "3_2025835579393671169"
+          ]
+        },
+        "author_id": "2012530530320003073",
+        "conversation_id": "2026242448893284722",
+        "created_at": "2026-02-24T10:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026242448893284722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "裏アカ女子ᅠ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7Kv6KmQVk",
+              "end": 46,
+              "expanded_url": "https://x.com/lio0_s2/status/2026242448893284722/photo/1",
+              "media_key": "3_2025835579393671168",
+              "start": 23,
+              "url": "https://t.co/d7Kv6KmQVk"
+            },
+            {
+              "display_url": "pic.x.com/d7Kv6KmQVk",
+              "end": 46,
+              "expanded_url": "https://x.com/lio0_s2/status/2026242448893284722/photo/1",
+              "media_key": "3_2025835579393671169",
+              "start": 23,
+              "url": "https://t.co/d7Kv6KmQVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026242448893284722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "みんなよくみて\n#自撮り界隈 #裏アカ女子ᅠ https://t.co/d7Kv6KmQVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 417,
+          "like_count": 9039,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T14:21:54.000Z",
+        "description": "みつけてくれてありがと♡/色々興味あります♡/16.155/DMフォロワーさんだけ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/lio0_s2",
+                "end": 23,
+                "expanded_url": "https://note.com/lio0_s2",
+                "start": 0,
+                "url": "https://t.co/eB2fgmk5Rv"
+              }
+            ]
+          }
+        },
+        "id": "2012530530320003073",
+        "name": "りお",
+        "pinned_tweet_id": "2019745077896122605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023683560482484225/mFIsCBnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 6,
+          "like_count": 2392,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/eB2fgmk5Rv",
+        "username": "lio0_s2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028909785308147712",
+        "7_2028909805306560513"
+      ],
+      "media_source_tweet_id": [
+        "2028909838798078137",
+        "2028909838798078137"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028910085641294332",
+    "created_at": "2026-03-03T19:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T20:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028910085641294332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811690667720212480",
+          "start": 3,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 31,
+          "id": "1597065444136919040",
+          "start": 20,
+          "username": "impart6324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qkl55iNfqi",
+          "end": 55,
+          "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+          "media_key": "7_2028909785308147712",
+          "start": 32,
+          "url": "https://t.co/Qkl55iNfqi"
+        },
+        {
+          "display_url": "pic.x.com/Qkl55iNfqi",
+          "end": 55,
+          "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+          "media_key": "7_2028909805306560513",
+          "start": 32,
+          "url": "https://t.co/Qkl55iNfqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028910085641294332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028909838798078137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y0zarashi: 吴思嫣  @impart6324 https://t.co/Qkl55iNfqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16579,
+        "height": 1258,
+        "media_key": "7_2028909785308147712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028909785308147712/pu/img/sChunxajtn_AwxdD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909785308147712/pu/vid/avc1/480x558/UdohBboJPxS6gA2z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909785308147712/pu/vid/avc1/720x838/HwnvC_hlxG0MZDjM.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909785308147712/pu/vid/avc1/320x372/mgG7L6Q2zlpCItVC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028909785308147712/pu/pl/zKe_bSuKgJVohALf.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909785308147712/pu/vid/avc1/1080x1258/ixm5TRVoR-JVzBOX.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 30831,
+        "height": 1258,
+        "media_key": "7_2028909805306560513",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028909805306560513/pu/img/7zctAB9KdOdCEvEt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909805306560513/pu/vid/avc1/320x372/nPwgiqpIgCjG_rM1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028909805306560513/pu/pl/ZnwGzO2-0dEXM5lc.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909805306560513/pu/vid/avc1/480x558/noAocdTWEX_e-Zbd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909805306560513/pu/vid/avc1/720x838/B7tBrpAbKMwuxNE8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028909805306560513/pu/vid/avc1/1080x1258/UJmm1Prs3pwsuERp.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028909785308147712",
+            "7_2028909805306560513"
+          ],
+          "media_source_tweet_id": [
+            "2028909838798078137",
+            "2028909838798078137"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028910085641294332",
+        "created_at": "2026-03-03T19:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028910085641294332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811690667720212480",
+              "start": 3,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 31,
+              "id": "1597065444136919040",
+              "start": 20,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qkl55iNfqi",
+              "end": 55,
+              "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+              "media_key": "7_2028909785308147712",
+              "start": 32,
+              "url": "https://t.co/Qkl55iNfqi"
+            },
+            {
+              "display_url": "pic.x.com/Qkl55iNfqi",
+              "end": 55,
+              "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+              "media_key": "7_2028909805306560513",
+              "start": 32,
+              "url": "https://t.co/Qkl55iNfqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028910085641294332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028909838798078137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y0zarashi: 吴思嫣  @impart6324 https://t.co/Qkl55iNfqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028909785308147712",
+            "7_2028909805306560513"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2028909838798078137",
+        "created_at": "2026-03-03T19:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028909838798078137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597065444136919040",
+              "start": 5,
+              "username": "impart6324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qkl55iNfqi",
+              "end": 40,
+              "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+              "media_key": "7_2028909785308147712",
+              "start": 17,
+              "url": "https://t.co/Qkl55iNfqi"
+            },
+            {
+              "display_url": "pic.x.com/Qkl55iNfqi",
+              "end": 40,
+              "expanded_url": "https://x.com/y0zarashi/status/2028909838798078137/video/1",
+              "media_key": "7_2028909805306560513",
+              "start": 17,
+              "url": "https://t.co/Qkl55iNfqi"
+            },
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/impart6324/status/2028890020724252702",
+              "start": 41,
+              "url": "https://t.co/nXs2tRPZlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028909838798078137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028890020724252702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吴思嫣  @impart6324 https://t.co/Qkl55iNfqi https://t.co/nXs2tRPZlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 449,
+          "like_count": 10407,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "olivia rodrigo",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2028881629507403805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026825430725177344/_x7vFJo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 199,
+          "like_count": 83,
+          "listed_count": 5,
+          "media_count": 446,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

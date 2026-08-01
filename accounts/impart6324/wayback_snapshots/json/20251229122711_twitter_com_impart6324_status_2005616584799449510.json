@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005616523352719360"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005616584799449510",
+    "created_at": "2025-12-29T12:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005616584799449510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgWazBX6jv",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2005616584799449510/video/1",
+          "media_key": "13_2005616523352719360",
+          "start": 0,
+          "url": "https://t.co/pgWazBX6jv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005616584799449510",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pgWazBX6jv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5333,
+        "height": 1280,
+        "media_key": "13_2005616523352719360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005616523352719360/img/5AaGc7gs9wmUFg_V.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005616523352719360/vid/avc1/320x568/eD5RtuXw30nHcLlb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005616523352719360/vid/avc1/480x852/-4BXS8xswBk8ZlSK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005616523352719360/vid/avc1/720x1280/9JBgcV4WqcmzX02U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005616523352719360/pl/ZZ66sqlyz_4S1dBy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005616523352719360"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005616584799449510",
+        "created_at": "2025-12-29T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005616584799449510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgWazBX6jv",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2005616584799449510/video/1",
+              "media_key": "13_2005616523352719360",
+              "start": 0,
+              "url": "https://t.co/pgWazBX6jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005616584799449510",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pgWazBX6jv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 255,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 600
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

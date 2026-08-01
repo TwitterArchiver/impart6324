@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015280783586652512",
+    "created_at": "2026-01-25T04:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015281608874713334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1746313934154649600",
+          "start": 0,
+          "username": "4kiloey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015281608874713334",
+    "in_reply_to_user_id": "1746313934154649600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015280783586652512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4kiloey 死去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015280775051059200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e3L_-XoAAYkVm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015280783586652512",
+        "created_at": "2026-01-25T04:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015281608874713334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1746313934154649600",
+              "start": 0,
+              "username": "4kiloey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015281608874713334",
+        "in_reply_to_user_id": "1746313934154649600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015280783586652512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4kiloey 死去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015280775051059200"
+          ]
+        },
+        "author_id": "1746313934154649600",
+        "conversation_id": "2015280783586652512",
+        "created_at": "2026-01-25T04:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015280783586652512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6IvXDnX3C",
+              "end": 28,
+              "expanded_url": "https://x.com/4kiloey/status/2015280783586652512/photo/1",
+              "media_key": "3_2015280775051059200",
+              "start": 5,
+              "url": "https://t.co/Q6IvXDnX3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015280783586652512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#爸爸活 https://t.co/Q6IvXDnX3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 336,
+          "like_count": 6609,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1094
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T23:31:12.000Z",
+        "description": "🚪88 只回口令不过门槛免谈",
+        "id": "1746313934154649600",
+        "name": "无敌莫莫咖大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010017598868729865/AKbFW1wY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 70,
+          "like_count": 1426,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 119
+        },
+        "username": "4kiloey",
+        "verified": false
+      }
+    ]
+  }
+}

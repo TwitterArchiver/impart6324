@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004615122279694780",
+    "created_at": "2025-12-27T19:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005001705398960312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005001705398960312",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004615122279694780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 居然不是抽象段子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004615122279694780",
+        "created_at": "2025-12-27T19:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005001705398960312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005001705398960312",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004615122279694780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 居然不是抽象段子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966173444414095360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2004615122279694780",
+        "created_at": "2025-12-26T18:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004615122279694780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004615122279694780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电锯人也看完了还挺爽的，接下来看什么还在考虑中，想看家教或者胆大党但不太吃这两个画风，我对选动漫的原则总是画风优先，视觉展现漂亮的话剧情烂我也会忍受，话说到这其实大部分漫画原著会更漂亮些吧不过我真的有漫画阅读障碍，读竖着的字和画框好难，早知道小时候开小差就该多看阿衰而不是斗罗大陆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 245,
+          "like_count": 3732,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 534
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜4i3i @JiaYuuuu444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "JiaYuuuu444"
+              }
+            ]
+          }
+        },
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989200653277941760/Icpvq4OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 94,
+          "like_count": 12515,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 4266
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

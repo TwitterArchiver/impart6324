@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030197481850745022",
+    "created_at": "2026-03-07T08:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030197481850745022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/michiko__001/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/michiko__001/status/2029978398312022171",
+          "start": 3,
+          "url": "https://t.co/DOPB6LsM5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030197481850745022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029978398312022171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼 https://t.co/DOPB6LsM5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10033,
+        "height": 1280,
+        "media_key": "7_2029978311049482240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029978311049482240/pu/img/26o_OTni87hygGxe.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029978311049482240/pu/vid/avc1/320x568/xoIIX2LCm9ZzSuGa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029978311049482240/pu/vid/avc1/480x852/8mvFQ1vmYnZtMP93.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029978311049482240/pu/vid/avc1/720x1280/RKhbEyxErXmZTtGS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029978311049482240/pu/pl/v0qOGXEDM9931FQS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030197481850745022",
+        "created_at": "2026-03-07T08:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030197481850745022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/michiko__001/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/michiko__001/status/2029978398312022171",
+              "start": 3,
+              "url": "https://t.co/DOPB6LsM5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030197481850745022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029978398312022171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/DOPB6LsM5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029978311049482240"
+          ]
+        },
+        "author_id": "837272570923659265",
+        "conversation_id": "2029978398312022171",
+        "created_at": "2026-03-06T17:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029978398312022171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b1.达蒙.com/#/register?cod…",
+              "end": 55,
+              "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=6TDtxVIQ",
+              "start": 32,
+              "status": 200,
+              "title": "达蒙",
+              "unwound_url": "https://b1.xn--hv1a41u.com/#/register?code=6TDtxVIQ",
+              "url": "https://t.co/Dj72E5MIai"
+            },
+            {
+              "display_url": "pic.x.com/DkUzLbFJdh",
+              "end": 79,
+              "expanded_url": "https://x.com/Michiko__001/status/2029978398312022171/video/1",
+              "media_key": "7_2029978311049482240",
+              "start": 56,
+              "url": "https://t.co/DkUzLbFJdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029978398312022171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 431,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给家人们分享我爱用vpn🪜 特别快且稳定呀我每次回国都用这个！！https://t.co/Dj72E5MIai https://t.co/DkUzLbFJdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 449,
+          "like_count": 10622,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-02T12:05:11.000Z",
+        "description": "自用🪜vpn：https://t.co/Csh55xFLPK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 30,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=6TDtxVIQ",
+                "start": 7,
+                "url": "https://t.co/Csh55xFLPK"
+              }
+            ]
+          }
+        },
+        "id": "837272570923659265",
+        "name": "衮",
+        "pinned_tweet_id": "2008197453842157665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813168760964165632/rAGyhvM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19463,
+          "following_count": 315,
+          "like_count": 1281,
+          "listed_count": 29,
+          "media_count": 175,
+          "tweet_count": 456
+        },
+        "username": "Michiko__001",
+        "verified": false
+      }
+    ]
+  }
+}

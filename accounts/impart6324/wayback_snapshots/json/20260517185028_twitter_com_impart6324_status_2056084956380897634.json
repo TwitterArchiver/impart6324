@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2056083775306788884",
+    "created_at": "2026-05-17T18:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056084956380897634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056084956380897634",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056083775306788884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 为啥不开sps"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2056083775306788884",
+        "created_at": "2026-05-17T18:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056084956380897634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056084956380897634",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056083775306788884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 为啥不开sps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2056083775306788884",
+        "created_at": "2026-05-17T18:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056083775306788884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "镇静药物全是梦 is live",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/broadcasts/1RJjpzPkwoRKw",
+              "images": [
+                {
+                  "height": 568,
+                  "url": "https://pbs.twimg.com/news_img/2056083817652490240/oy5lwiBn?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056083817652490240/oy5lwiBn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "镇静药物全是梦",
+              "unwound_url": "https://twitter.com/i/broadcasts/1RJjpzPkwoRKw",
+              "url": "https://t.co/rR280B95Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056083775306788884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rR280B95Er"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 515,
+          "like_count": 11577,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 401,
+          "like_count": 5364,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 3014
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

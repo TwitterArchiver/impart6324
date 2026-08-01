@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982513181529407488"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1982513193940644151",
+    "created_at": "2025-10-26T18:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T19:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982513193940644151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFBZnvHKTo",
+          "end": 45,
+          "expanded_url": "https://x.com/impart6324/status/1982513193940644151/photo/1",
+          "media_key": "3_1982513181529407488",
+          "start": 22,
+          "url": "https://t.co/jFBZnvHKTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982513193940644151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉这我今年过生日的时候好久没这么热闹过了😇 https://t.co/jFBZnvHKTo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1982513181529407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NNPBuXAAAeEvE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982513181529407488"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1982513193940644151",
+        "created_at": "2025-10-26T18:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982513193940644151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFBZnvHKTo",
+              "end": 45,
+              "expanded_url": "https://x.com/impart6324/status/1982513193940644151/photo/1",
+              "media_key": "3_1982513181529407488",
+              "start": 22,
+              "url": "https://t.co/jFBZnvHKTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982513193940644151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉这我今年过生日的时候好久没这么热闹过了😇 https://t.co/jFBZnvHKTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 248,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 123
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

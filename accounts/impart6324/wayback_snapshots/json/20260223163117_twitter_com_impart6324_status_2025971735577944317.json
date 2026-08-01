@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025970955227717958",
+    "created_at": "2026-02-23T16:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025971735577944317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025971735577944317",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025970955227717958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025970955227717958",
+        "created_at": "2026-02-23T16:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025971735577944317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025971735577944317",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025970955227717958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2025970955227717958",
+        "created_at": "2026-02-23T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025970955227717958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025970955227717958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会搭讪男的，我操，😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 411,
+          "like_count": 8909,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B2%B9%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B2%B9%E6%9D%A1%E7%8C%AB",
+                "start": 0,
+                "url": "https://t.co/SFph8bVnDe"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪88/188  提问箱⬇️",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 215,
+          "like_count": 6530,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 3079
+        },
+        "url": "https://t.co/SFph8bVnDe",
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

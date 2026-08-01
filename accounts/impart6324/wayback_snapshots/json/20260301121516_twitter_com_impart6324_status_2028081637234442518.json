@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027857579624567112",
+    "created_at": "2026-03-01T12:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028081637234442518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1939352450714202112",
+          "start": 0,
+          "username": "inwhtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028081637234442518",
+    "in_reply_to_user_id": "1939352450714202112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027857579624567112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inwhtk 同居一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027857579624567112",
+        "created_at": "2026-03-01T12:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028081637234442518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1939352450714202112",
+              "start": 0,
+              "username": "inwhtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028081637234442518",
+        "in_reply_to_user_id": "1939352450714202112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027857579624567112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inwhtk 同居一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939352450714202112",
+        "conversation_id": "2027857579624567112",
+        "created_at": "2026-02-28T21:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027857579624567112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027857579624567112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想独居啊好孤单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 431,
+          "like_count": 9826,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-29T15:57:22.000Z",
+        "description": "🦇",
+        "id": "1939352450714202112",
+        "name": "你是天使惡魔你是我的所有",
+        "pinned_tweet_id": "2023455489686925448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025634592162729984/e7miJ8QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4579,
+          "following_count": 197,
+          "like_count": 11067,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 6133
+        },
+        "username": "inwhtk",
+        "verified": false
+      }
+    ]
+  }
+}

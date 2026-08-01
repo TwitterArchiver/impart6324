@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021902770341917163",
+    "created_at": "2026-02-12T11:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021902770341917163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beilafu_/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/beilafu_/status/2021897738401751160",
+          "start": 39,
+          "url": "https://t.co/7qO6dJvQnD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021902770341917163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021897738401751160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈，你不给我钱，你觉得正值青春年岁，相貌中上，根本没有自尊的我会去干什么呢 https://t.co/7qO6dJvQnD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021902770341917163",
+        "created_at": "2026-02-12T11:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021902770341917163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beilafu_/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/beilafu_/status/2021897738401751160",
+              "start": 39,
+              "url": "https://t.co/7qO6dJvQnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021902770341917163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021897738401751160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈，你不给我钱，你觉得正值青春年岁，相貌中上，根本没有自尊的我会去干什么呢 https://t.co/7qO6dJvQnD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616986447348912128",
+        "conversation_id": "2021897738401751160",
+        "created_at": "2026-02-12T10:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021897738401751160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021897738401751160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈，你不给我钱，你觉得正值青春年岁，相貌中上，根本没有自尊的我会去干什么呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 395,
+          "like_count": 8200,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T02:29:57.000Z",
+        "description": "istp/#shtwt/精神有疾病/性格不健全/常驻上海/搞喷喷搞礁搞sallyface/男孩女孩互fo大欢迎🤍阿尔法赫水烟/bubblemon/水烟电子烟/电子烟/纸烟出售中🚬",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1616986447348912128",
+        "name": "沙丁鱼从地面钻出来",
+        "pinned_tweet_id": "1966358155589476744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876700894957563904/BBfqsmIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 809,
+          "like_count": 684,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1859
+        },
+        "username": "Beilafu_",
+        "verified": false
+      }
+    ]
+  }
+}

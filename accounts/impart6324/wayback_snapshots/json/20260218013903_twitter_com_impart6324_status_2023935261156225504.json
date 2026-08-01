@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2023935261156225504",
+    "created_at": "2026-02-18T01:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T02:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023935261156225504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaozuzhinv/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yaozuzhinv/status/2023935072295154036",
+          "start": 9,
+          "url": "https://t.co/1xJNXpwRI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023935261156225504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023935072295154036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好羡慕 好有文化 https://t.co/1xJNXpwRI5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2023935261156225504",
+        "created_at": "2026-02-18T01:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023935261156225504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaozuzhinv/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yaozuzhinv/status/2023935072295154036",
+              "start": 9,
+              "url": "https://t.co/1xJNXpwRI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023935261156225504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023935072295154036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好羡慕 好有文化 https://t.co/1xJNXpwRI5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904810780467294208",
+        "conversation_id": "2023935072295154036",
+        "created_at": "2026-02-18T01:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023935072295154036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/impart6324/status/2023737958306902171",
+              "start": 86,
+              "url": "https://t.co/I5S2vd0cF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023935072295154036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023737958306902171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有一个爱赌的老爹\n床上还有一个病重的妈  \n早上去送上学的弟弟 \n晚上还要见家暴的他\n破碎的家庭 懂事的你\n努力地卖腐挣钱还被迫养了个娃\n横批：汝父天上飞  令尊我日之 https://t.co/I5S2vd0cF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 398,
+          "like_count": 8777,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T08:21:01.000Z",
+        "description": "14岁苦命畜中生/ASPD/恨我请给我打钱\n好朋友@YesStrayPuppy@hown530150",
+        "id": "1904810780467294208",
+        "name": "九年二班秦鞠（连赞拉黑）",
+        "pinned_tweet_id": "2020510430590894331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023606299217575936/33BgDsiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 2549,
+          "like_count": 4348,
+          "listed_count": 3,
+          "media_count": 1055,
+          "tweet_count": 9714
+        },
+        "username": "yaozuzhinv",
+        "verified": false
+      }
+    ]
+  }
+}

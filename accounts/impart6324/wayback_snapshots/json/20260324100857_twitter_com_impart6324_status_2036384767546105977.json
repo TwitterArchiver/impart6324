@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2036083729874186457",
+    "created_at": "2026-03-24T10:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T11:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036384767546105977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497812175247020032",
+          "start": 0,
+          "username": "jayhud69"
+        },
+        {
+          "end": 24,
+          "id": "1572252869923057664",
+          "start": 10,
+          "username": "mushi1mushi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036384767546105977",
+    "in_reply_to_user_id": "1497812175247020032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036177713925693468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jayhud69 @mushi1mushi11 我来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2036083729874186457",
+        "created_at": "2026-03-24T10:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T11:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036384767546105977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497812175247020032",
+              "start": 0,
+              "username": "jayhud69"
+            },
+            {
+              "end": 24,
+              "id": "1572252869923057664",
+              "start": 10,
+              "username": "mushi1mushi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036384767546105977",
+        "in_reply_to_user_id": "1497812175247020032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036177713925693468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jayhud69 @mushi1mushi11 我来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497812175247020032",
+        "conversation_id": "2036083729874186457",
+        "created_at": "2026-03-23T20:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T21:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036177713925693468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 26,
+              "id": "1572252869923057664",
+              "start": 12,
+              "username": "mushi1mushi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036177713925693468",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036083729874186457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @mushi1mushi11 互關嗎兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 539,
+          "like_count": 11320,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T05:53:59.000Z",
+        "description": "我愛地雷女 混血 @j4a7_ 10k got ban 被鎖了草 #cybermade #重度憂鬱症 #我愛喝血 #我不知道我在供三小 #alt #shtwt #od #tcc #北部 #xinyi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 33,
+                "tag": "cybermade"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "重度憂鬱症"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "我愛喝血"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "tag": "我不知道我在供三小"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "alt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "od"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "tcc"
+              },
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "北部"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "xinyi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "j4a7_"
+              }
+            ]
+          }
+        },
+        "id": "1497812175247020032",
+        "name": "lil vamp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021816888561745920/vo1mVhMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 237,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "jayhud69",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "铃木光小光一个破画画上推看黄喜欢发送神秘电波一女子\n未来電波基地｜蠕动の蛆虫",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "虫",
+        "pinned_tweet_id": "2028896500533932221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028796756742541312/v72goCcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 172,
+          "like_count": 10890,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2517
+        },
+        "username": "mushi1mushi11",
+        "verified": false
+      }
+    ]
+  }
+}

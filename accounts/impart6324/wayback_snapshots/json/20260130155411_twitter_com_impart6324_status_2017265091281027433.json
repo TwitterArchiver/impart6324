@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017265079532900352"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017265091281027433",
+    "created_at": "2026-01-30T15:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017265091281027433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HrNjnW9ODY",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2017265091281027433/photo/1",
+          "media_key": "3_2017265079532900352",
+          "start": 13,
+          "url": "https://t.co/HrNjnW9ODY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017265091281027433",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@freeindx 你好 https://t.co/HrNjnW9ODY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017265079532900352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7D5uNb0AA8S5B.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017265079532900352"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017265091281027433",
+        "created_at": "2026-01-30T15:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017265091281027433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HrNjnW9ODY",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2017265091281027433/photo/1",
+              "media_key": "3_2017265079532900352",
+              "start": 13,
+              "url": "https://t.co/HrNjnW9ODY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017265091281027433",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@freeindx 你好 https://t.co/HrNjnW9ODY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 368,
+          "like_count": 7300,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1274
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005663391076229121/E1MXeSvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 827,
+          "like_count": 6369,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 3066
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

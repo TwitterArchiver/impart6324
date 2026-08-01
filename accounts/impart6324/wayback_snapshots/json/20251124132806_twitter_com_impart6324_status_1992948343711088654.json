@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992947996934488489",
+    "created_at": "2025-11-24T13:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992948343711088654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926634928596234240",
+          "start": 0,
+          "username": "nmsl811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992948343711088654",
+    "in_reply_to_user_id": "1926634928596234240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992947996934488489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmsl811 媳妇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992947996934488489",
+        "created_at": "2025-11-24T13:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992948343711088654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926634928596234240",
+              "start": 0,
+              "username": "nmsl811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992948343711088654",
+        "in_reply_to_user_id": "1926634928596234240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992947996934488489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmsl811 媳妇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926634928596234240",
+        "conversation_id": "1992947996934488489",
+        "created_at": "2025-11-24T13:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992947996934488489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992947996934488489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是废物贱狗，今年25岁，从小学一年级开始撸管，现在喜欢绿帽、绿奴、媚黑、绿母、媚日、gay、露出、特别喜欢被骂被侮辱，小学一年级开始住校，刚接触，睡的大通铺、与同学一起玩鸡巴，互相蹭，还舔过同学的鸡巴，然后同学的鸡巴在我屁股下面蹭，然后2年纪学校的几个厉害的男的晚上喜欢玩我龟头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 377,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 283
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T13:43:04.000Z",
+        "description": "天地一插",
+        "id": "1926634928596234240",
+        "name": "Mitaka Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110283640442881/zoGkaoSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 138,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "nmsl811",
+        "verified": false
+      }
+    ]
+  }
+}

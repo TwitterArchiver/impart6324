@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017587992081399808"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017588008187531735",
+    "created_at": "2026-01-31T13:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017588008187531735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWSvA83AGU",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2017588008187531735/photo/1",
+          "media_key": "3_2017587992081399808",
+          "start": 6,
+          "url": "https://t.co/NWSvA83AGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017588008187531735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦哦哦哦哦 https://t.co/NWSvA83AGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017587992081399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__pltMbAAAiQ7O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017587992081399808"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017588008187531735",
+        "created_at": "2026-01-31T13:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017588008187531735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWSvA83AGU",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2017588008187531735/photo/1",
+              "media_key": "3_2017587992081399808",
+              "start": 6,
+              "url": "https://t.co/NWSvA83AGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017588008187531735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦哦 https://t.co/NWSvA83AGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 369,
+          "like_count": 7346,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1291
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

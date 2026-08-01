@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996017866102149353",
+    "created_at": "2025-12-03T03:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996052635967992083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996052635967992083",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996017866102149353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0919 北方的冬天很冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996017866102149353",
+        "created_at": "2025-12-03T03:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996052635967992083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996052635967992083",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996017866102149353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0919 北方的冬天很冷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1996017866102149353",
+        "created_at": "2025-12-03T00:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996017866102149353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996017866102149353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我因躁狂发作跟同伴吵架离家出走，睡在枯叶上最终被冻醒，回去发现他们都没生气我顺势收拾了一下被我砸的面目全非的房间乘酒劲道歉，好在他们都不生我气。北方的冬天好冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 222,
+          "like_count": 1991,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 376
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本  爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "麦片不想住在精神病院",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994838199890558976/esY22vH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 153,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 479
+        },
+        "username": "maipianaini0919",
+        "verified": false
+      }
+    ]
+  }
+}

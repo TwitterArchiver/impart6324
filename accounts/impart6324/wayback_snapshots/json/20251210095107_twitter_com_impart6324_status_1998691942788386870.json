@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998691942788386870",
+    "created_at": "2025-12-10T09:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998691942788386870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dtxx333/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/dtxx333/status/1998441473860403348",
+          "start": 7,
+          "url": "https://t.co/WCHJl0qpqI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998691942788386870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998441473860403348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是个傻屌 https://t.co/WCHJl0qpqI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998691942788386870",
+        "created_at": "2025-12-10T09:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998691942788386870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dtxx333/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/dtxx333/status/1998441473860403348",
+              "start": 7,
+              "url": "https://t.co/WCHJl0qpqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998691942788386870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998441473860403348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是个傻屌 https://t.co/WCHJl0qpqI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "1998441473860403348",
+        "created_at": "2025-12-09T17:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998441473860403348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998441473860403348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 76877,
+          "like_count": 837,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "抖音看到一个发自残的视频下面有个评论说，再割大点我当逼操了。我真不行了。这句话很贱但是在抖音发自残照片的也是傻屌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 231,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 476
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "纯🟢｜只接转帖｜不出原味不约不线下不给肌肉评价｜私信只回口令 喜欢我就过🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.top/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.top/index.php#/register?code=iqkdDNJc&from=dantaxiong",
+                "start": 0,
+                "url": "https://t.co/uGUlq93udN"
+              }
+            ]
+          }
+        },
+        "id": "1954500072517103617",
+        "location": "自用vpn便宜高速 有需要可以试试呀^_^",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1996949438611468793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607190750396416/OthEAx5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 296,
+          "like_count": 4048,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/uGUlq93udN",
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

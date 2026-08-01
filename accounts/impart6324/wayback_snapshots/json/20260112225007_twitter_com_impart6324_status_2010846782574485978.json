@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010729395976393207",
+    "created_at": "2026-01-12T22:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T23:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010846782574485978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2005290453219033088",
+          "start": 0,
+          "username": "zzzlovezhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010846782574485978",
+    "in_reply_to_user_id": "2005290453219033088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010775250074812437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzlovezhen 我一直在思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T22:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T23:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010846782574485978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2005290453219033088",
+              "start": 0,
+              "username": "zzzlovezhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010846782574485978",
+        "in_reply_to_user_id": "2005290453219033088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010775250074812437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzlovezhen 我一直在思考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005290453219033088",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T18:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T19:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010775250074812437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010775250074812437",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010729395976393207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我有精神病 无聊会看 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 305,
+          "like_count": 5506,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 769
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T14:51:27.000Z",
+        "description": "對我來說妳也只是",
+        "id": "2005290453219033088",
+        "name": "我想我會變成這樣都是你害的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009981046746689543/22Z3tca2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 45,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 397
+        },
+        "username": "zzzlovezhen",
+        "verified": false
+      }
+    ]
+  }
+}

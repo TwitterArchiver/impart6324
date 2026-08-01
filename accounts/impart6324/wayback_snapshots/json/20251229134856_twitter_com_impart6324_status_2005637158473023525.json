@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005624325152633257",
+    "created_at": "2025-12-29T13:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005637158473023525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961642384158306304",
+          "start": 0,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005637158473023525",
+    "in_reply_to_user_id": "1961642384158306304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005626354155573385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinxinovo118 气候很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005624325152633257",
+        "created_at": "2025-12-29T13:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005637158473023525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961642384158306304",
+              "start": 0,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005637158473023525",
+        "in_reply_to_user_id": "1961642384158306304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005626354155573385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinxinovo118 气候很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961642384158306304",
+        "conversation_id": "2005624325152633257",
+        "created_at": "2025-12-29T13:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005626354155573385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005626354155573385",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005624325152633257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 西双版纳好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 256,
+          "like_count": 4131,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 611
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "我再也不要成为任何人生命中的一点点",
+        "id": "1961642384158306304",
+        "name": "被子外的世界太复杂",
+        "pinned_tweet_id": "1992831060238024942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003278912361840640/sGCyiIWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 102,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 553
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016094988439110128",
+    "created_at": "2026-01-27T10:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016094988439110128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newagekami/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/newagekami/status/2015336889923035491",
+          "start": 14,
+          "url": "https://t.co/p8sFiB0cIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016094988439110128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015336889923035491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁来过下他门 我们两个好饿 https://t.co/p8sFiB0cIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015336878657224705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fqNqMbwAEgScO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016094988439110128",
+        "created_at": "2026-01-27T10:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016094988439110128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newagekami/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/newagekami/status/2015336889923035491",
+              "start": 14,
+              "url": "https://t.co/p8sFiB0cIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016094988439110128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015336889923035491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来过下他门 我们两个好饿 https://t.co/p8sFiB0cIw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015336878657224705"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2015336889923035491",
+        "created_at": "2026-01-25T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015336889923035491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkS66BLpkm",
+              "end": 28,
+              "expanded_url": "https://x.com/Newagekami/status/2015336889923035491/photo/1",
+              "media_key": "3_2015336878657224705",
+              "start": 5,
+              "url": "https://t.co/tkS66BLpkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015336889923035491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享穿搭 https://t.co/tkS66BLpkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 345,
+          "like_count": 6896,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1192
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 513,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 19
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

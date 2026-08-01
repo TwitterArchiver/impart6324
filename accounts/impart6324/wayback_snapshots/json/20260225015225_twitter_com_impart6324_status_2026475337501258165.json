@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026475331692146688"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026475337501258165",
+    "created_at": "2026-02-25T01:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026475337501258165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xeZrOEHm01",
+          "end": 30,
+          "expanded_url": "https://x.com/impart6324/status/2026475337501258165/photo/1",
+          "media_key": "3_2026475331692146688",
+          "start": 7,
+          "url": "https://t.co/xeZrOEHm01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026475337501258165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近心理状态 https://t.co/xeZrOEHm01"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 119,
+        "media_key": "3_2026475331692146688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB98k9OaMAAfrMi.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026475331692146688"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026475337501258165",
+        "created_at": "2026-02-25T01:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026475337501258165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xeZrOEHm01",
+              "end": 30,
+              "expanded_url": "https://x.com/impart6324/status/2026475337501258165/photo/1",
+              "media_key": "3_2026475331692146688",
+              "start": 7,
+              "url": "https://t.co/xeZrOEHm01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026475337501258165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近心理状态 https://t.co/xeZrOEHm01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9128,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

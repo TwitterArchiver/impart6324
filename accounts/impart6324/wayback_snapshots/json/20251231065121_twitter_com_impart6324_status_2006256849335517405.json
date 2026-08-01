@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006256849335517405",
+    "created_at": "2025-12-31T06:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T07:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006256849335517405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamikawaiiiiii…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2006256682880622784",
+          "start": 5,
+          "url": "https://t.co/tnwtNI3fnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006256849335517405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006256682880622784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人没妈 https://t.co/tnwtNI3fnM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006256849335517405",
+        "created_at": "2025-12-31T06:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006256849335517405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamikawaiiiiii…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yamikawaiiiiii/status/2006256682880622784",
+              "start": 5,
+              "url": "https://t.co/tnwtNI3fnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006256849335517405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006256682880622784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人没妈 https://t.co/tnwtNI3fnM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002819291087777792",
+        "conversation_id": "2006256682880622784",
+        "created_at": "2025-12-31T06:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006256682880622784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597065444136919040",
+              "start": 5,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006256682880622784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮我买票了@impart6324 谢谢你爱你操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 260,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 666
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我的小星星是💟💟💟@nmslwcnm8964  只想和漂亮的和真心的人玩儿 谁和我真心换真心？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "nmslwcnm8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006123149180776448/t3Xwa79T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 96,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993140735143821573",
+    "created_at": "2026-01-06T04:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008388488580767999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900518576781692928",
+          "start": 0,
+          "username": "7916_38964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008388488580767999",
+    "in_reply_to_user_id": "1900518576781692928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993140735143821573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7916_38964 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993140735143821573",
+        "created_at": "2026-01-06T04:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008388488580767999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900518576781692928",
+              "start": 0,
+              "username": "7916_38964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008388488580767999",
+        "in_reply_to_user_id": "1900518576781692928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993140735143821573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7916_38964 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900518576781692928",
+        "conversation_id": "1993140735143821573",
+        "created_at": "2025-11-25T02:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993140735143821573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993140735143821573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 56783,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长得帅吗就在这说说说 拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 280,
+          "like_count": 5326,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 788
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T12:05:24.000Z",
+        "description": "只是在自说自话。",
+        "id": "1900518576781692928",
+        "location": "東京",
+        "name": "式",
+        "pinned_tweet_id": "1993140735143821573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008377253932179456/kwnSDKSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2518
+        },
+        "username": "7916_38964",
+        "verified": false
+      }
+    ]
+  }
+}

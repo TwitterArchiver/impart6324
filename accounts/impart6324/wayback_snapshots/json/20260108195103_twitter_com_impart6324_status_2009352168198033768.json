@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2009352168198033768",
+    "created_at": "2026-01-08T19:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009352168198033768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009352168198033768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "當不了妳的天使，\n我該怎麼說謊，\n請妳饒過我 拜託，\n試圖讓自己解脫。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2009352168198033768",
+        "created_at": "2026-01-08T19:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009352168198033768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009352168198033768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當不了妳的天使，\n我該怎麼說謊，\n請妳饒過我 拜託，\n試圖讓自己解脫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 290,
+          "like_count": 5425,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 692
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

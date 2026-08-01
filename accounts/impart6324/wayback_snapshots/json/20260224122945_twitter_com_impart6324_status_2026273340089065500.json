@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026268922669088900",
+    "created_at": "2026-02-24T12:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026273340089065500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842096170107338754",
+          "start": 0,
+          "username": "hotjellyfishnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026273340089065500",
+    "in_reply_to_user_id": "1842096170107338754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026268922669088900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotjellyfishnya 跟我差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_2026268913676488705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7A12MakAEMnNr.jpg",
+        "width": 928
+      },
+      {
+        "height": 354,
+        "media_key": "3_2026268913684877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7A12OakAAwotR.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026268922669088900",
+        "created_at": "2026-02-24T12:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026273340089065500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842096170107338754",
+              "start": 0,
+              "username": "hotjellyfishnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026273340089065500",
+        "in_reply_to_user_id": "1842096170107338754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026268922669088900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotjellyfishnya 跟我差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026268913676488705",
+            "3_2026268913684877312"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026268922669088900",
+        "created_at": "2026-02-24T12:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026268922669088900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyurTbqAvU",
+              "end": 23,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2026268922669088900/photo/1",
+              "media_key": "3_2026268913676488705",
+              "start": 0,
+              "url": "https://t.co/fyurTbqAvU"
+            },
+            {
+              "display_url": "pic.x.com/fyurTbqAvU",
+              "end": 23,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2026268922669088900/photo/1",
+              "media_key": "3_2026268913684877312",
+              "start": 0,
+              "url": "https://t.co/fyurTbqAvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026268922669088900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fyurTbqAvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9057,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "珍惜每个喜欢我的人 | 172/47 | 日本留学| 中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "location": "🚪200图包/520聊天 只想攒钱考研 私信废话多拉黑",
+        "name": "火热的小水母",
+        "pinned_tweet_id": "2023305373076390398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5769,
+          "following_count": 319,
+          "like_count": 1000,
+          "listed_count": 23,
+          "media_count": 86,
+          "tweet_count": 259
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

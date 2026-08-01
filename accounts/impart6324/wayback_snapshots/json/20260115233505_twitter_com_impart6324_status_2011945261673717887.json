@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011916639424692240",
+    "created_at": "2026-01-15T23:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T00:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011945261673717887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945764130981576704",
+          "start": 0,
+          "username": "Dwen0012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011945261673717887",
+    "in_reply_to_user_id": "1945764130981576704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011916639424692240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dwen0012 这么早上课"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2011916634144034816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-vDhOfa0AAdqWp.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011916639424692240",
+        "created_at": "2026-01-15T23:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T00:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011945261673717887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945764130981576704",
+              "start": 0,
+              "username": "Dwen0012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011945261673717887",
+        "in_reply_to_user_id": "1945764130981576704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011916639424692240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dwen0012 这么早上课"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011916634144034816"
+          ]
+        },
+        "author_id": "1945764130981576704",
+        "conversation_id": "2011916639424692240",
+        "created_at": "2026-01-15T21:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T22:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011916639424692240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNrZaI7ZKW",
+              "end": 27,
+              "expanded_url": "https://x.com/Dwen0012/status/2011916639424692240/photo/1",
+              "media_key": "3_2011916634144034816",
+              "start": 4,
+              "url": "https://t.co/fNrZaI7ZKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011916639424692240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/fNrZaI7ZKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 309,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 847
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T08:35:04.000Z",
+        "description": "",
+        "id": "1945764130981576704",
+        "location": "🌑",
+        "name": "nywin",
+        "pinned_tweet_id": "1985251653893914881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010245692485509120/SKvLyAMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 38,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 121
+        },
+        "username": "Dwen0012",
+        "verified": false
+      }
+    ]
+  }
+}

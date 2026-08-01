@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2034652784604369270",
+    "created_at": "2026-03-19T15:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034652784604369270"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "跨性别"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "bbc"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "qos"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "贞操锁"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "马斯克"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "拳交"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "白虎"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "反差"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "眼镜婊"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "男娘"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "腹击"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "足交"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "少女乐队"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "火影忍者"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "mtf"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "互看"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "人妖"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "傅首尔"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "母猪"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "东北人"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "绿奴"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "贡奴"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "爱猫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034652784604369270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034620924545343782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: 这种的傅首尔男大爱了吗\n\n#跨性别 #bbc #qos #贞操锁 #马斯克 #拳交 #白虎 #反差 #眼镜婊 #男娘 #腹击 #足交 #少女乐队 #火影忍者 #mtf #互看 #人妖 #傅首尔 #母猪 #东北人 #绿奴 #贡奴 #爱猫 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2034620922309861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxs8u7bYAAJR2e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2034652784604369270",
+        "created_at": "2026-03-19T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034652784604369270"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "跨性别"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "bbc"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "qos"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "马斯克"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "拳交"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "白虎"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "反差"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "眼镜婊"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "男娘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "腹击"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "足交"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "少女乐队"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "火影忍者"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "mtf"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "互看"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "人妖"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "傅首尔"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "母猪"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "东北人"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "绿奴"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "贡奴"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "爱猫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034652784604369270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034620924545343782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: 这种的傅首尔男大爱了吗\n\n#跨性别 #bbc #qos #贞操锁 #马斯克 #拳交 #白虎 #反差 #眼镜婊 #男娘 #腹击 #足交 #少女乐队 #火影忍者 #mtf #互看 #人妖 #傅首尔 #母猪 #东北人 #绿奴 #贡奴 #爱猫 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034620922309861376"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2034620924545343782",
+        "created_at": "2026-03-19T13:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034620924545343782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "跨性别"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "bbc"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "qos"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "马斯克"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "拳交"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "白虎"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "反差"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "眼镜婊"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "男娘"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "腹击"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "足交"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "少女乐队"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "火影忍者"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "mtf"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "互看"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "人妖"
+            },
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "傅首尔"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "母猪"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "东北人"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "绿奴"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "贡奴"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "爱猫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU1rMVjCoj",
+              "end": 141,
+              "expanded_url": "https://x.com/ashasw114514/status/2034620924545343782/photo/1",
+              "media_key": "3_2034620922309861376",
+              "start": 118,
+              "url": "https://t.co/ZU1rMVjCoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034620924545343782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种的傅首尔男大爱了吗\n\n#跨性别 #bbc #qos #贞操锁 #马斯克 #拳交 #白虎 #反差 #眼镜婊 #男娘 #腹击 #足交 #少女乐队 #火影忍者 #mtf #互看 #人妖 #傅首尔 #母猪 #东北人 #绿奴 #贡奴 #爱猫 https://t.co/ZU1rMVjCoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 458,
+          "like_count": 11251,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby  they/him  hrt2025.2.27 性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹😸🤷‍♀️🌻可到付",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030408742429409280/FWGJUak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 626,
+          "like_count": 1736,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1623
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

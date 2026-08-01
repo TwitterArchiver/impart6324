@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008227414242193601",
+    "created_at": "2026-01-06T01:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008348375360397749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967887882384965632",
+          "start": 0,
+          "username": "111q_a54867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008348375360397749",
+    "in_reply_to_user_id": "1967887882384965632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008227414242193601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@111q_a54867 哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008227414242193601",
+        "created_at": "2026-01-06T01:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008348375360397749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008348375360397749",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008227414242193601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2008227414242193601",
+        "created_at": "2026-01-05T17:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008227414242193601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008227414242193601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完这么多o趴的瓜真的闹麻了，不要开o趴，逼事太多了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 276,
+          "like_count": 5189,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 775
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "我想幸福一点",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1079,
+          "like_count": 4500,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/rc5JoenXvj",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

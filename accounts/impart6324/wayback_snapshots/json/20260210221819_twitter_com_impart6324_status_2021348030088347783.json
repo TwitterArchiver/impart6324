@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2020999603903135996",
+    "created_at": "2026-02-10T22:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T23:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021348030088347783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1428712077569392640",
+          "start": 0,
+          "username": "RerYeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021348030088347783",
+    "in_reply_to_user_id": "1428712077569392640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020999603903135996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RerYeah 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2020999603903135996",
+        "created_at": "2026-02-10T22:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T23:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021348030088347783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1428712077569392640",
+              "start": 0,
+              "username": "RerYeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021348030088347783",
+        "in_reply_to_user_id": "1428712077569392640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020999603903135996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RerYeah 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428712077569392640",
+        "conversation_id": "2020999603903135996",
+        "created_at": "2026-02-09T23:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020999603903135996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020999603903135996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 432028,
+          "like_count": 1102,
+          "quote_count": 1,
+          "reply_count": 126,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "两个高中时不善社交的同学\n一个上大学已经谈过并且do过四个了\n另一个现在仍属于跟女生说话会脸红的状态\n啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 385,
+          "like_count": 8006,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T13:34:46.000Z",
+        "description": "07｜INTJ-A｜应统在读｜喜欢看可爱的小男孩｜分享日常｜欢迎任何真诚的交流！",
+        "id": "1428712077569392640",
+        "location": "Zhuhai",
+        "name": "RerYeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990387152241283072/antmsyZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 365,
+          "like_count": 4173,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1056
+        },
+        "username": "RerYeah",
+        "verified": false
+      }
+    ]
+  }
+}

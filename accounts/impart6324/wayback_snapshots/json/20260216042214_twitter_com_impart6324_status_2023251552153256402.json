@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2023251092247814195",
+    "created_at": "2026-02-16T04:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023251552153256402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023251552153256402",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023251092247814195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023251065391722496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQIH9QasAAgeSh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2023251092247814195",
+        "created_at": "2026-02-16T04:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023251552153256402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023251552153256402",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023251092247814195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023251065391722496"
+          ]
+        },
+        "author_id": "2007800360057135104",
+        "conversation_id": "2023251092247814195",
+        "created_at": "2026-02-16T04:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023251092247814195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sq4LfmgeYj",
+              "end": 27,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2023251092247814195/photo/1",
+              "media_key": "3_2023251065391722496",
+              "start": 4,
+              "url": "https://t.co/Sq4LfmgeYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023251092247814195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公式照 https://t.co/Sq4LfmgeYj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 395,
+          "like_count": 8684,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "早悟兰因",
+        "id": "2007800360057135104",
+        "location": "情天情海幻情深",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2022005955198939267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 82,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 702
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

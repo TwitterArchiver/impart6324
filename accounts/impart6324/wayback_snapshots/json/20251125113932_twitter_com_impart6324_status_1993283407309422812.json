@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993283381090717696"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1993254479576326483",
+    "created_at": "2025-11-25T11:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993283407309422812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385979996439814157",
+          "start": 0,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ggshBtayp",
+          "end": 58,
+          "expanded_url": "https://x.com/impart6324/status/1993283407309422812/photo/1",
+          "media_key": "3_1993283381090717696",
+          "start": 35,
+          "url": "https://t.co/7ggshBtayp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993283407309422812",
+    "in_reply_to_user_id": "1385979996439814157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993254479576326483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5OL5OdJlYuZ62Wo 卧槽我好想吃滨寿司啊上次吃都好久了 https://t.co/7ggshBtayp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993283381090717696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mQrJqaEAAT5yC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993283381090717696"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993254479576326483",
+        "created_at": "2025-11-25T11:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993283407309422812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ggshBtayp",
+              "end": 58,
+              "expanded_url": "https://x.com/impart6324/status/1993283407309422812/photo/1",
+              "media_key": "3_1993283381090717696",
+              "start": 35,
+              "url": "https://t.co/7ggshBtayp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993283407309422812",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993254479576326483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo 卧槽我好想吃滨寿司啊上次吃都好久了 https://t.co/7ggshBtayp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385979996439814157",
+        "conversation_id": "1993254479576326483",
+        "created_at": "2025-11-25T09:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993254479576326483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993254479576326483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在看厦门滨寿司啥时候开门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 380,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 292
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "备用号@Owso6y_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Owso6y_"
+              }
+            ]
+          }
+        },
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1963505067027566827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57486,
+          "following_count": 10,
+          "like_count": 13814,
+          "listed_count": 153,
+          "media_count": 1292,
+          "tweet_count": 6159
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

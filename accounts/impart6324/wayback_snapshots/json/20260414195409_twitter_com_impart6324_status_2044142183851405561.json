@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2041908282030444906",
+    "created_at": "2026-04-14T19:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044142183851405561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044142183851405561",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041908282030444906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041908274568785920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZQwdmacAAjfQL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2041908282030444906",
+        "created_at": "2026-04-14T19:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044142183851405561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044142183851405561",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041908282030444906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041908274568785920"
+          ]
+        },
+        "author_id": "1911429624694730753",
+        "conversation_id": "2041908282030444906",
+        "created_at": "2026-04-08T15:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041908282030444906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skTVnaU6xL",
+              "end": 39,
+              "expanded_url": "https://x.com/huixue888/status/2041908282030444906/photo/1",
+              "media_key": "3_2041908274568785920",
+              "start": 16,
+              "url": "https://t.co/skTVnaU6xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041908282030444906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海你是认真的吗！明天30度😋 https://t.co/skTVnaU6xL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2043699847929467070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1261,
+          "like_count": 11304,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "HRT2024.2.18｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！（会查成分\n｜不鉴证 不发黄｜",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪🧸🐖🐽",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 272,
+          "like_count": 4650,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1137
+        },
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

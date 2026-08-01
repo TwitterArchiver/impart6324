@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025091767142580523",
+    "created_at": "2026-02-21T06:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025100623419769169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711412343790538752",
+          "start": 0,
+          "username": "tang259136"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025100623419769169",
+    "in_reply_to_user_id": "1711412343790538752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025091767142580523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang259136 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2025091755281186821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqSONcbgAUPG5j.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025091767142580523",
+        "created_at": "2026-02-21T06:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025100623419769169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711412343790538752",
+              "start": 0,
+              "username": "tang259136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025100623419769169",
+        "in_reply_to_user_id": "1711412343790538752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025091767142580523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang259136 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025091755281186821"
+          ]
+        },
+        "author_id": "1711412343790538752",
+        "conversation_id": "2025091767142580523",
+        "created_at": "2026-02-21T06:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025091767142580523"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 131,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI33WMF0kO",
+              "end": 161,
+              "expanded_url": "https://x.com/tang259136/status/2025091767142580523/photo/1",
+              "media_key": "3_2025091755281186821",
+              "start": 138,
+              "url": "https://t.co/JI33WMF0kO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025091767142580523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于女仆店\n老板以前开mmk的，店被查封后才开了现在的女仆店，荤价素菜吸引所谓高端消费人群。店里剥削厉害，每天工作十二个小时保底工资八十，这是我离开的主要原因\n老板本身没有什么对日系文化的热爱，店里连个正式的女仆装都没有。此外还会动手动脚，还有和员工恋爱的过往。#地雷系女子 https://t.co/JI33WMF0kO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 410,
+          "like_count": 8911,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T16:04:42.000Z",
+        "description": "我想找到意义",
+        "id": "1711412343790538752",
+        "name": "天使兔宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831649043476336640/XhG_XUTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 7,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 38
+        },
+        "username": "tang259136",
+        "verified": false
+      }
+    ]
+  }
+}

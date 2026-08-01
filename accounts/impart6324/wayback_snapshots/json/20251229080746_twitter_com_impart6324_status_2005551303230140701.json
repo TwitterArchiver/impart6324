@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005551114486522101",
+    "created_at": "2025-12-29T08:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T09:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005551303230140701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001742934325235712",
+          "start": 0,
+          "username": "azikawaii29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005551303230140701",
+    "in_reply_to_user_id": "2001742934325235712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005551114486522101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azikawaii29 土包子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2005551096568406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UmGLHa4AAW3yL.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2005551096606142464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UmGLQasAAaQCl.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2005551096559976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9UmGLFaQAAjR0Y.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005551114486522101",
+        "created_at": "2025-12-29T08:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005551303230140701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001742934325235712",
+              "start": 0,
+              "username": "azikawaii29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005551303230140701",
+        "in_reply_to_user_id": "2001742934325235712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005551114486522101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azikawaii29 土包子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005551096568406016",
+            "3_2005551096606142464",
+            "3_2005551096559976448"
+          ]
+        },
+        "author_id": "2001742934325235712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005551114486522101",
+        "created_at": "2025-12-29T08:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005551114486522101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xae0upCqM1",
+              "end": 26,
+              "expanded_url": "https://x.com/azikawaii29/status/2005551114486522101/photo/1",
+              "media_key": "3_2005551096568406016",
+              "start": 3,
+              "url": "https://t.co/xae0upCqM1"
+            },
+            {
+              "display_url": "pic.x.com/xae0upCqM1",
+              "end": 26,
+              "expanded_url": "https://x.com/azikawaii29/status/2005551114486522101/photo/1",
+              "media_key": "3_2005551096606142464",
+              "start": 3,
+              "url": "https://t.co/xae0upCqM1"
+            },
+            {
+              "display_url": "pic.x.com/xae0upCqM1",
+              "end": 26,
+              "expanded_url": "https://x.com/azikawaii29/status/2005551114486522101/photo/1",
+              "media_key": "3_2005551096559976448",
+              "start": 3,
+              "url": "https://t.co/xae0upCqM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005551114486522101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈 https://t.co/xae0upCqM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 251,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 596
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T19:54:48.000Z",
+        "description": "",
+        "id": "2001742934325235712",
+        "name": "许昊龙",
+        "pinned_tweet_id": "2005284069538668979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001744932126773248/kPwROf-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "azikawaii29",
+        "verified": false
+      }
+    ]
+  }
+}

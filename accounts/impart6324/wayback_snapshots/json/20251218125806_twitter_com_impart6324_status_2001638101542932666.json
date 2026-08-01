@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001638078721736704"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001638101542932666",
+    "created_at": "2025-12-18T12:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001638101542932666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9JTn3GX5p",
+          "end": 40,
+          "expanded_url": "https://x.com/impart6324/status/2001638101542932666/photo/1",
+          "media_key": "3_2001638078721736704",
+          "start": 17,
+          "url": "https://t.co/F9JTn3GX5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001638101542932666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听听歌感觉自己的死妈人生又有救了 https://t.co/F9JTn3GX5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001638078721736704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8c_OjsawAAsGgB.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001638078721736704"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001638101542932666",
+        "created_at": "2025-12-18T12:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001638101542932666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9JTn3GX5p",
+              "end": 40,
+              "expanded_url": "https://x.com/impart6324/status/2001638101542932666/photo/1",
+              "media_key": "3_2001638078721736704",
+              "start": 17,
+              "url": "https://t.co/F9JTn3GX5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001638101542932666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听听歌感觉自己的死妈人生又有救了 https://t.co/F9JTn3GX5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 228,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 497
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

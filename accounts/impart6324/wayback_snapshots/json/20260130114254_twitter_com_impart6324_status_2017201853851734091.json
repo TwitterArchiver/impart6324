@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016902703302267174",
+    "created_at": "2026-01-30T11:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017201853851734091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945011204180860929",
+          "start": 0,
+          "username": "cookwen12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017201853851734091",
+    "in_reply_to_user_id": "1945011204180860929",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017201708569686379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookwen12 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-30T11:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017201853851734091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945011204180860929",
+              "start": 0,
+              "username": "cookwen12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017201853851734091",
+        "in_reply_to_user_id": "1945011204180860929",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017201708569686379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookwen12 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945011204180860929",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-30T11:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017201708569686379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017201708569686379",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016902703302267174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 一刷就刷到她我真烦了，不想对这种麦b的说一句话，但是她实在是有点恶心人了，爱男程度比要门槛的厉害多了，评论区支持的清一色男的还觉得挺骄傲这是什么脑子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 359,
+          "like_count": 7207,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1259
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T06:43:18.000Z",
+        "description": "🥯",
+        "id": "1945011204180860929",
+        "name": "丰年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945011367507079168/PBhzTmSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 45,
+          "like_count": 2967,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 804
+        },
+        "username": "cookwen12",
+        "verified": false
+      }
+    ]
+  }
+}

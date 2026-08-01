@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1994775619071349065",
+    "created_at": "2025-11-29T14:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994775619071349065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994775619071349065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994450143228084405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 我上推特是来找互相理解、或者及时不理解但互相包容接纳的朋友的，不是来听劝解安慰帮助三件套的，谁要是再说“别嗑药别自残有事跟我说跟朋友说多运动好好吃药看医生想开点自己努力”这种话我全双取了，我要是爱听这种话的话我还来推特干啥，难道是我墙内的健全亲朋不够多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1994775619071349065",
+        "created_at": "2025-11-29T14:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994775619071349065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994775619071349065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994450143228084405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 我上推特是来找互相理解、或者及时不理解但互相包容接纳的朋友的，不是来听劝解安慰帮助三件套的，谁要是再说“别嗑药别自残有事跟我说跟朋友说多运动好好吃药看医生想开点自己努力”这种话我全双取了，我要是爱听这种话的话我还来推特干啥，难道是我墙内的健全亲朋不够多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1994450143228084405",
+        "created_at": "2025-11-28T16:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994450143228084405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994450143228084405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7183,
+          "like_count": 191,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我上推特是来找互相理解、或者及时不理解但互相包容接纳的朋友的，不是来听劝解安慰帮助三件套的，谁要是再说“别嗑药别自残有事跟我说跟朋友说多运动好好吃药看医生想开点自己努力”这种话我全双取了，我要是爱听这种话的话我还来推特干啥，难道是我墙内的健全亲朋不够多吗\n我还有更难听的我不说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 312,
+          "like_count": 1822,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 344
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛绝赞病b小心染病❤️同类fo必回-漏fo请大力戳俺！-爱互关宝宝❤️点赞评论bot-讨厌闲聊请勿打扰♡喜欢sex与drug♡除推文外不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 1188,
+          "like_count": 3795,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3325
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

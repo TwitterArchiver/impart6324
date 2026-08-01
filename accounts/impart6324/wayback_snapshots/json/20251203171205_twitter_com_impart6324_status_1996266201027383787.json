@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1995989853818020323",
+    "created_at": "2025-12-03T17:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996266201027383787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        },
+        {
+          "end": 25,
+          "id": "1745396254446862336",
+          "start": 12,
+          "username": "Bread_ka0723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996266201027383787",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996265408605954064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii @Bread_ka0723 拉黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1995989853818020323",
+        "created_at": "2025-12-03T17:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996266201027383787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            },
+            {
+              "end": 25,
+              "id": "1745396254446862336",
+              "start": 12,
+              "username": "Bread_ka0723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996266201027383787",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996265408605954064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii @Bread_ka0723 拉黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989441591262810116",
+        "conversation_id": "1995989853818020323",
+        "created_at": "2025-12-03T17:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996265408605954064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745396254446862336",
+              "start": 0,
+              "username": "Bread_ka0723"
+            },
+            {
+              "end": 25,
+              "id": "1597065444136919040",
+              "start": 14,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996265408605954064",
+        "in_reply_to_user_id": "1745396254446862336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996262825023717710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bread_ka0723 @impart6324 我支持你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 223,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 392
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 某人的转生…随缘发点被删的🫘92709991258 📖27404027104",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "1992829521104687200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989449712152526848/I2PdXHnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 231,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T10:45:03.000Z",
+        "description": "我不知道 骚扰我的都赔钱",
+        "id": "1745396254446862336",
+        "location": "纯绿🚪99",
+        "name": "面包小ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993642070964334592/ouo9qLgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 130,
+          "like_count": 3349,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 2013
+        },
+        "username": "Bread_ka0723",
+        "verified": false
+      }
+    ]
+  }
+}

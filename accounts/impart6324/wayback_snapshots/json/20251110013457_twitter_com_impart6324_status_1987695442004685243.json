@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987695347515465728",
+        "3_1987695347528007682"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1987695442004685243",
+    "created_at": "2025-11-10T01:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T02:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987695442004685243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKPUCo1zCd",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1987695442004685243/video/1",
+          "media_key": "13_1987695347515465728",
+          "start": 0,
+          "url": "https://t.co/kKPUCo1zCd"
+        },
+        {
+          "display_url": "pic.x.com/kKPUCo1zCd",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/1987695442004685243/video/1",
+          "media_key": "3_1987695347528007682",
+          "start": 0,
+          "url": "https://t.co/kKPUCo1zCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987695442004685243",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kKPUCo1zCd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4100,
+        "height": 720,
+        "media_key": "13_1987695347515465728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987695347515465728/img/oB7ZTS531o28U9cS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987695347515465728/vid/avc1/480x270/mQSLSoTRpOJIPXwt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987695347515465728/vid/avc1/640x360/mVic0C5eOyC2EU_r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987695347515465728/vid/avc1/1280x720/JvfDKCueETvBKRuc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987695347515465728/pl/IwgjXKM5A8EvaThh.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987695347528007682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5W2YycagAIegdD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987695347515465728",
+            "3_1987695347528007682"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1987695442004685243",
+        "created_at": "2025-11-10T01:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987695442004685243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKPUCo1zCd",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1987695442004685243/video/1",
+              "media_key": "13_1987695347515465728",
+              "start": 0,
+              "url": "https://t.co/kKPUCo1zCd"
+            },
+            {
+              "display_url": "pic.x.com/kKPUCo1zCd",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/1987695442004685243/video/1",
+              "media_key": "3_1987695347528007682",
+              "start": 0,
+              "url": "https://t.co/kKPUCo1zCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987695442004685243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kKPUCo1zCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 321,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 221
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

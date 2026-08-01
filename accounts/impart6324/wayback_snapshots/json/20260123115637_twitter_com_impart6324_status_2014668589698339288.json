@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013793813719064884",
+    "created_at": "2026-01-23T11:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T12:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014668589698339288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672873430352293890",
+          "start": 0,
+          "username": "UnfoundUser07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014668589698339288",
+    "in_reply_to_user_id": "1672873430352293890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013793813719064884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnfoundUser07 你是日本人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013793813719064884",
+        "created_at": "2026-01-23T11:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014668589698339288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672873430352293890",
+              "start": 0,
+              "username": "UnfoundUser07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014668589698339288",
+        "in_reply_to_user_id": "1672873430352293890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013793813719064884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnfoundUser07 你是日本人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672873430352293890",
+        "conversation_id": "2013793813719064884",
+        "created_at": "2026-01-21T02:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013793813719064884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hogochikuwa/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hogochikuwa/status/2013239202474045735",
+              "start": 12,
+              "url": "https://t.co/ofOGjnOtSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013793813719064884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013239202474045735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "がーーーーかわいい😭🩷 https://t.co/ofOGjnOtSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 336,
+          "like_count": 6532,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1057
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T07:44:56.000Z",
+        "description": "下水道ゴミ回収所 ∥ 🚪52",
+        "id": "1672873430352293890",
+        "location": "Yokosuka-shi, Kanagawa",
+        "name": "拒絕反庇",
+        "pinned_tweet_id": "2012228325243248736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014194134609776640/0hX_Ykqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 114,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 102
+        },
+        "username": "UnfoundUser07",
+        "verified": false
+      }
+    ]
+  }
+}

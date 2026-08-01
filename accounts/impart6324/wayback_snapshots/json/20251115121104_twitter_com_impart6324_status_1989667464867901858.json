@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989650122968633629",
+    "created_at": "2025-11-15T12:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989667464867901858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1289504272506392576",
+          "start": 0,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989667464867901858",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989650122968633629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabysnakeViolet 你就是个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989650122968633629",
+        "created_at": "2025-11-15T12:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989667464867901858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989667464867901858",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989650122968633629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 你就是个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989650122968633629",
+        "created_at": "2025-11-15T11:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989650122968633629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989650122968633629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该是一只蝴蝶才对，我怎么会是福利姬？谁能告诉我为什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 352,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥语音验证20，如果裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 278,
+          "like_count": 1307,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1116
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

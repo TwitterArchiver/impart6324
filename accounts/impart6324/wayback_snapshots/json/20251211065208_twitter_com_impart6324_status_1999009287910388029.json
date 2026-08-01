@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999007545319649638",
+    "created_at": "2025-12-11T06:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999009287910388029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1936720722119839744",
+          "start": 0,
+          "username": "is_kina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999009287910388029",
+    "in_reply_to_user_id": "1936720722119839744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999007545319649638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@is_kina 你主页全是这位女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999007532363194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73mwm3WoAA1-Gk.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999007545319649638",
+        "created_at": "2025-12-11T06:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999009287910388029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1936720722119839744",
+              "start": 0,
+              "username": "is_kina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999009287910388029",
+        "in_reply_to_user_id": "1936720722119839744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999007545319649638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_kina 你主页全是这位女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999007532363194368"
+          ]
+        },
+        "author_id": "1936720722119839744",
+        "conversation_id": "1999007545319649638",
+        "created_at": "2025-12-11T06:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999007545319649638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTruiAIMS5",
+              "end": 62,
+              "expanded_url": "https://x.com/is_kina/status/1999007545319649638/photo/1",
+              "media_key": "3_1999007532363194368",
+              "start": 39,
+              "url": "https://t.co/nTruiAIMS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999007545319649638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是现实中赵颖真的长这个博主cos这样我也不至于那么讨厌赵颖了……这太漂亮了 https://t.co/nTruiAIMS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 224,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 502
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T09:39:46.000Z",
+        "description": "",
+        "id": "1936720722119839744",
+        "name": "sull",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992649934282305536/kNfdeJQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 96
+        },
+        "username": "is_kina",
+        "verified": false
+      }
+    ]
+  }
+}

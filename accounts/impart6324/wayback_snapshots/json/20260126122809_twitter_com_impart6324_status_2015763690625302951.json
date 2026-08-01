@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015751514204307805",
+    "created_at": "2026-01-26T12:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015763690625302951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015763690625302951",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015751514204307805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 死妈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015751514204307805",
+        "created_at": "2026-01-26T12:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015763690625302951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015763690625302951",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015751514204307805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590939682568736769",
+        "conversation_id": "2015751514204307805",
+        "created_at": "2026-01-26T11:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015751514204307805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015751514204307805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些跟你互关后偷偷取关你拿你当粉丝的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 345,
+          "like_count": 6701,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1149
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "🚪8964，用来给南方大山里的孩子买姨妈巾/姨父巾用",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "汉命贵0975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1381,
+          "like_count": 26491,
+          "listed_count": 5,
+          "media_count": 897,
+          "tweet_count": 9779
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010391677769503218",
+    "created_at": "2026-01-11T17:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010409979124367528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010409979124367528",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010409781484499141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeindx 杨日日是我闺蜜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010391677769503218",
+        "created_at": "2026-01-11T17:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010409979124367528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010409979124367528",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010409781484499141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx 杨日日是我闺蜜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787149306740510720",
+        "conversation_id": "2010391677769503218",
+        "created_at": "2026-01-11T17:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010409781484499141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010409781484499141",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010391677769503218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 兄弟骚的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不常看 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 291,
+          "like_count": 5424,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 701
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005663391076229121/E1MXeSvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 820,
+          "like_count": 6192,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2963
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

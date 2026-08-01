@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1338345787814682624",
+          "name": "SNH48"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1338345787814682624",
+          "name": "SNH48"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "C-Pop",
+          "id": "1098263006213881856",
+          "name": "C-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1338345787814682624",
+          "name": "SNH48"
+        }
+      }
+    ],
+    "conversation_id": "2001716017379315720",
+    "created_at": "2025-12-18T18:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T19:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001716017379315720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaxinhai1/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/jiaxinhai1/status/2001548169621180538",
+          "start": 6,
+          "url": "https://t.co/8UWveCBF4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001716017379315720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001548169621180538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看笑了给我 https://t.co/8UWveCBF4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2001546615086358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bsCrGboAAx5x1.png",
+        "width": 785
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          }
+        ],
+        "conversation_id": "2001716017379315720",
+        "created_at": "2025-12-18T18:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001716017379315720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaxinhai1/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/jiaxinhai1/status/2001548169621180538",
+              "start": 6,
+              "url": "https://t.co/8UWveCBF4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001716017379315720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001548169621180538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看笑了给我 https://t.co/8UWveCBF4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001546615086358528"
+          ]
+        },
+        "author_id": "1517336247147982848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338345787814682624",
+              "name": "SNH48"
+            }
+          }
+        ],
+        "conversation_id": "2001548169621180538",
+        "created_at": "2025-12-18T07:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001548169621180538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CXc8NmlkC",
+              "end": 62,
+              "expanded_url": "https://x.com/jiaxinhai1/status/2001548169621180538/photo/1",
+              "media_key": "3_2001546615086358528",
+              "start": 39,
+              "url": "https://t.co/6CXc8NmlkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001548169621180538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 63708,
+          "like_count": 267,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "“通过丑化我，丑化snh48，丑化亿万粉丝参加的无产阶级上海大公演！”😅😅😅 https://t.co/6CXc8NmlkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 228,
+          "like_count": 3074,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 499
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T02:55:35.000Z",
+        "description": "好耶，是大冒险！🤗🤗🤗🤗🤗",
+        "id": "1517336247147982848",
+        "location": "⚛",
+        "name": "嘉心海🌊珊瑚宫心海无限永恒永远激推🥰🥰🥰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999345404643778560/hJ-tDNiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500,
+          "following_count": 509,
+          "like_count": 2426,
+          "listed_count": 30,
+          "media_count": 1236,
+          "tweet_count": 4905
+        },
+        "username": "jiaxinhai1",
+        "verified": false
+      }
+    ]
+  }
+}

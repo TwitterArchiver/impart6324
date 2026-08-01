@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014197227150094843",
+    "created_at": "2026-01-22T14:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014346949630230549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956364140714553344",
+          "start": 0,
+          "username": "Mmmaaaiim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014346949630230549",
+    "in_reply_to_user_id": "1956364140714553344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014197227150094843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mmmaaaiim 丑的脸都不敢露游戏打的也菜也还是在想着怎么收门槛 你除了引起对立的文案能有点流量就不能想想别的办法吗 你那b奶我看也是恶心的不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014197227150094843",
+        "created_at": "2026-01-22T14:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014346949630230549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956364140714553344",
+              "start": 0,
+              "username": "Mmmaaaiim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014346949630230549",
+        "in_reply_to_user_id": "1956364140714553344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014197227150094843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mmmaaaiim 丑的脸都不敢露游戏打的也菜也还是在想着怎么收门槛 你除了引起对立的文案能有点流量就不能想想别的办法吗 你那b奶我看也是恶心的不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956364140714553344",
+        "conversation_id": "2014197227150094843",
+        "created_at": "2026-01-22T04:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014197227150094843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014197227150094843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 67728,
+          "like_count": 293,
+          "quote_count": 3,
+          "reply_count": 99,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们男的就一边谈恋爱一边在推特上找固炮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 337,
+          "like_count": 6468,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1027
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T14:35:47.000Z",
+        "description": "= ᗜ ω ᗜ.=",
+        "id": "1956364140714553344",
+        "location": "无🚪 闲聊请打钱",
+        "name": "泥挞喵狗叫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956364555346739200/URzz0wnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 60,
+          "like_count": 2344,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 288
+        },
+        "username": "Mmmaaaiim",
+        "verified": false
+      }
+    ]
+  }
+}

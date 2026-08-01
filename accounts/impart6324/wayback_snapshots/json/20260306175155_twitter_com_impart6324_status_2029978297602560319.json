@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029898618333975008",
+    "created_at": "2026-03-06T17:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029978297602560319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029978297602560319",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029898618333975008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 吗咱俩一样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029898618333975008",
+        "created_at": "2026-03-06T17:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029978297602560319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029978297602560319",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029898618333975008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 吗咱俩一样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2029898618333975008",
+        "created_at": "2026-03-06T12:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029898618333975008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029898618333975008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退学了。初中文凭，指日可待啊😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 449,
+          "like_count": 10631,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券女 被b自己找原因 fo你是暗恋你  爱好圈钱\n唯一的恋人是酷拉皮卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyJSB"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "🚪11451454188",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 718,
+          "like_count": 27598,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/oipIneyJSB",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1975592443182805135",
+    "created_at": "2025-10-07T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975594501088633146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1645742342882865153",
+          "start": 0,
+          "username": "XINMOFASHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975594501088633146",
+    "in_reply_to_user_id": "1645742342882865153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975593968726577482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XINMOFASHI 我来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1975592443182805135",
+        "created_at": "2025-10-07T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975594501088633146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645742342882865153",
+              "start": 0,
+              "username": "XINMOFASHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975594501088633146",
+        "in_reply_to_user_id": "1645742342882865153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975593968726577482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XINMOFASHI 我来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645742342882865153",
+        "conversation_id": "1975592443182805135",
+        "created_at": "2025-10-07T16:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975593968726577482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975593968726577482",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975592443182805135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不敢再相信任何人了 我可以相信你吗 我是一只小狗",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 81,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T10:55:33.000Z",
+        "description": "撸毛项目‖优质空投‖分析加密未来‖福利KOL‖\n币安下载https://t.co/Rh37EX9lJv\n返佣30%！！！\nQQ交流群895218164",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "accounts.maxweb.cc/register?ref=1…",
+                "end": 51,
+                "expanded_url": "https://accounts.maxweb.cc/register?ref=1032908403",
+                "start": 28,
+                "url": "https://t.co/Rh37EX9lJv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "accounts.maxweb.cc/register?ref=1…",
+                "end": 23,
+                "expanded_url": "https://accounts.maxweb.cc/register?ref=1032908403",
+                "start": 0,
+                "url": "https://t.co/Rh37EX9lJv"
+              }
+            ]
+          }
+        },
+        "id": "1645742342882865153",
+        "location": "地球🌐",
+        "name": "魔法师.MOFASHI🎖️（互fo💯）",
+        "pinned_tweet_id": "1975277936149471306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679525821491339265/VeQyqV8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 624,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/Rh37EX9lJv",
+        "username": "XINMOFASHI",
+        "verified": false
+      }
+    ]
+  }
+}

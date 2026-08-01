@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013901887888605609",
+    "created_at": "2026-01-22T02:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014162676734169453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014162676734169453",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013901887888605609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013901887888605609",
+        "created_at": "2026-01-22T02:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014162676734169453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014162676734169453",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013901887888605609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁齁齁齁齁齁~♡哟齁齁齁齁齁齁齁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2013901887888605609",
+        "created_at": "2026-01-21T09:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013901887888605609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013901887888605609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6297,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉那个 哦齁齁 看着很尴尬，跟猪叫一样……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 335,
+          "like_count": 6391,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1003
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜日常碎碎念｜自伤嗑💊｜友跨顺女｜泛性恋  偏好流动｜不建政｜休学｜xp是正太萝莉和神职人员｜fo你是暗恋｜唯一恋人是酷拉皮卡♡｜\n脾气不稳定但是私下很友好 找我玩大欢迎！我道德感很低｜不聊黄 蠢人不准反驳我 全家只有一个活着的可以骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu4201",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu4201",
+                "start": 0,
+                "url": "https://t.co/oipIneyc33"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "name": "回木",
+        "pinned_tweet_id": "2004905422227173846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 531,
+          "like_count": 17127,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/oipIneyc33",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

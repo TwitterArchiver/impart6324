@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2068972770504171533",
+    "created_at": "2026-06-22T18:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T19:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069123877868068879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048564180530446336",
+          "start": 0,
+          "username": "hiyuxxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069123877868068879",
+    "in_reply_to_user_id": "2048564180530446336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068972770504171533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiyuxxx_ 我的饭盒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068972723330801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ3uuAa4AAVwm9.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2068972770504171533",
+        "created_at": "2026-06-22T18:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069123877868068879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048564180530446336",
+              "start": 0,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069123877868068879",
+        "in_reply_to_user_id": "2048564180530446336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068972770504171533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiyuxxx_ 我的饭盒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068972723330801664"
+          ]
+        },
+        "author_id": "2048564180530446336",
+        "conversation_id": "2068972770504171533",
+        "created_at": "2026-06-22T08:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068972770504171533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL2mT01gLk",
+              "end": 25,
+              "expanded_url": "https://x.com/hiyuxxx_/status/2068972770504171533/photo/1",
+              "media_key": "3_2068972723330801664",
+              "start": 2,
+              "url": "https://t.co/rL2mT01gLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068972770504171533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/rL2mT01gLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 509,
+          "like_count": 11468,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T00:45:57.000Z",
+        "description": "vi）汚部屋「女子高生日記」ひなた —— 加好友私聊易相处、dm领取日常生活照片 (͒ ᴖ ·̫ ᴖ⸝⸝ )͒ 音乐是毒品 𖹭\n\nenfp —××××××××  敏感、多层次人格、情感依赖、不稳定 、高连接需求、混合型依恋",
+        "id": "2048564180530446336",
+        "location": "12",
+        "name": "ミザ",
+        "pinned_tweet_id": "2062708266866728973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062770402007638016/_OlQj7JK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 160,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "hiyuxxx_",
+        "verified": false
+      }
+    ]
+  }
+}

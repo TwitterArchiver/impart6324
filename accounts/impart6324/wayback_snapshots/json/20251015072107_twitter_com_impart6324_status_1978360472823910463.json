@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1978357922133418071",
+    "created_at": "2025-10-15T07:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978360472823910463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826551927993499648",
+          "start": 0,
+          "username": "mirusama55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978360472823910463",
+    "in_reply_to_user_id": "1826551927993499648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978360409603076176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirusama55 爸爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1978357922133418071",
+        "created_at": "2025-10-15T07:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978360472823910463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826551927993499648",
+              "start": 0,
+              "username": "mirusama55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978360472823910463",
+        "in_reply_to_user_id": "1826551927993499648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978360409603076176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirusama55 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826551927993499648",
+        "conversation_id": "1978357922133418071",
+        "created_at": "2025-10-15T07:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978360409603076176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978360409603076176",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978360344901726452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "来看点黄",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 176,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T09:28:17.000Z",
+        "description": "",
+        "id": "1826551927993499648",
+        "name": "呃",
+        "pinned_tweet_id": "1831607447947186643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967943299421110272/Lx1IZ_It_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 527,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "mirusama55",
+        "verified": false
+      }
+    ]
+  }
+}

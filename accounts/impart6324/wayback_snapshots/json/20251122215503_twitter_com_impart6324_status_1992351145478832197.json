@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992331299416310086",
+    "created_at": "2025-11-22T21:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T22:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992351145478832197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992351145478832197",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992331299416310086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 你咋不死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992331299416310086",
+        "created_at": "2025-11-22T21:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T22:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992351145478832197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992351145478832197",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992331299416310086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 你咋不死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966173444414095360",
+        "conversation_id": "1992331299416310086",
+        "created_at": "2025-11-22T20:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992331299416310086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992331299416310086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁没睡啊我好无聊陪我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 371,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 284
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989200653277941760/Icpvq4OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 98,
+          "like_count": 10378,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 3251
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

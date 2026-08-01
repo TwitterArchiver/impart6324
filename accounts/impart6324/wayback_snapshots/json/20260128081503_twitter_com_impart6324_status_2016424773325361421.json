@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016272809111203932",
+    "created_at": "2026-01-28T08:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016424773325361421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1382719150242484227",
+          "start": 0,
+          "username": "0w0_mewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016424773325361421",
+    "in_reply_to_user_id": "1382719150242484227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016422016111542383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0w0_mewo 团不是t1以上的直接跑得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016272809111203932",
+        "created_at": "2026-01-28T08:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016424773325361421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1382719150242484227",
+              "start": 0,
+              "username": "0w0_mewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016424773325361421",
+        "in_reply_to_user_id": "1382719150242484227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016422016111542383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0w0_mewo 团不是t1以上的直接跑得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382719150242484227",
+        "conversation_id": "2016272809111203932",
+        "created_at": "2026-01-28T08:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016422016111542383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016422016111542383",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016354636949819626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 我在想到底要不要干啊我操……现在还能跑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 6976,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1221
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-15T15:35:24.000Z",
+        "description": "直到眼泪没有味道",
+        "id": "1382719150242484227",
+        "name": "漂う夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820870321513132032/0Vd-bHO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 708,
+          "like_count": 10392,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1514
+        },
+        "username": "0w0_mewo",
+        "verified": false
+      }
+    ]
+  }
+}

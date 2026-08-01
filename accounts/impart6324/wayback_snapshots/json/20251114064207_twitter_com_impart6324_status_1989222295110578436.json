@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989220425222746242",
+    "created_at": "2025-11-14T06:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989222295110578436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890479972328042497",
+          "start": 0,
+          "username": "Audrey050501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989222295110578436",
+    "in_reply_to_user_id": "1890479972328042497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989220425222746242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Audrey050501 我是西安21岁长发男"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989220413357060167",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5shbTYacEc6Wj6.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989220413306814464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5shbTMbwAA-8ia.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989220425222746242",
+        "created_at": "2025-11-14T06:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989222295110578436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890479972328042497",
+              "start": 0,
+              "username": "Audrey050501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989222295110578436",
+        "in_reply_to_user_id": "1890479972328042497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989220425222746242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Audrey050501 我是西安21岁长发男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989220413357060167",
+            "3_1989220413306814464"
+          ]
+        },
+        "author_id": "1890479972328042497",
+        "conversation_id": "1989220425222746242",
+        "created_at": "2025-11-14T06:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989220425222746242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unr3UBBNIw",
+              "end": 50,
+              "expanded_url": "https://x.com/Audrey050501/status/1989220425222746242/photo/1",
+              "media_key": "3_1989220413357060167",
+              "start": 27,
+              "url": "https://t.co/unr3UBBNIw"
+            },
+            {
+              "display_url": "pic.x.com/unr3UBBNIw",
+              "end": 50,
+              "expanded_url": "https://x.com/Audrey050501/status/1989220425222746242/photo/1",
+              "media_key": "3_1989220413306814464",
+              "start": 27,
+              "url": "https://t.co/unr3UBBNIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989220425222746242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯神经病\n一个露阴癖一个死河童\n不要骚扰我了一群贱人 https://t.co/unr3UBBNIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 340,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 142
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:15:44.000Z",
+        "description": "4i＞1i/05/不接任何形式的推广/私信随缘/不免费提供任何情绪价值/白嫖滚蛋，付费约调/🚪520",
+        "id": "1890479972328042497",
+        "location": "要认识我就打钱。",
+        "name": "帕恰小珊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983746144921653249/EuPq5zQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 361,
+          "like_count": 15888,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 3488
+        },
+        "username": "Audrey050501",
+        "verified": false
+      }
+    ]
+  }
+}

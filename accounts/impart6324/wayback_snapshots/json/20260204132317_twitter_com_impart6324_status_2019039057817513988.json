@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018765086970487019",
+    "created_at": "2026-02-04T13:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019039057817513988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796082949261287424",
+          "start": 0,
+          "username": "Cc_cat5566"
+        },
+        {
+          "end": 28,
+          "id": "1962126472963100672",
+          "start": 12,
+          "username": "zhizhizhizhi288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019039057817513988",
+    "in_reply_to_user_id": "1796082949261287424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018860188921700418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc_cat5566 @zhizhizhizhi288 你妈逼一个拍片的 一帮子傻逼男的傻逼女的羡慕 羡慕你奶奶个头啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018765086970487019",
+        "created_at": "2026-02-04T13:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019039057817513988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796082949261287424",
+              "start": 0,
+              "username": "Cc_cat5566"
+            },
+            {
+              "end": 28,
+              "id": "1962126472963100672",
+              "start": 12,
+              "username": "zhizhizhizhi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019039057817513988",
+        "in_reply_to_user_id": "1796082949261287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018860188921700418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc_cat5566 @zhizhizhizhi288 你妈逼一个拍片的 一帮子傻逼男的傻逼女的羡慕 羡慕你奶奶个头啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796082949261287424",
+        "conversation_id": "2018765086970487019",
+        "created_at": "2026-02-04T01:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T02:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018860188921700418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962126472963100672",
+              "start": 0,
+              "username": "zhizhizhizhi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018860188921700418",
+        "in_reply_to_user_id": "1962126472963100672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1191,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018765086970487019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhizhizhi288 Pupu风评终于要反转了吗。。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 367,
+          "like_count": 7637,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:35:35.000Z",
+        "description": "不卖专注达⭐游荡在互联网的电子猫猫 ，来这里就是发牢骚 ⭐哥哥、主人、daddy、爸爸、对象都是同一人 ⭐和哥哥无血缘关系，只是小情侣之间的情趣⭐提问箱： https://t.co/WpVoVouVf1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cc_cat",
+                "end": 101,
+                "expanded_url": "https://ngl.link/cc_cat",
+                "start": 78,
+                "url": "https://t.co/WpVoVouVf1"
+              }
+            ]
+          }
+        },
+        "id": "1796082949261287424",
+        "location": "0.1km",
+        "name": "W的猫猫猫猫",
+        "pinned_tweet_id": "2001535424288968953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997547555807481857/eUyWsFoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 43,
+          "like_count": 4612,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 4441
+        },
+        "username": "Cc_cat5566",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "提问箱https://t.co/IWjJa4h1EI 有必要会讨坏所有人 慎关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 26,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 3,
+                "url": "https://t.co/IWjJa4h1EI"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "弱者撒泼两件套：现生不好警告和辱追警告",
+        "name": "魅黑吗劳枝逼挺黑的（操穴仙人命格）",
+        "pinned_tweet_id": "2018403923699101719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018754604754677760/mzu0UgPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 27,
+          "like_count": 2033,
+          "listed_count": 1,
+          "media_count": 622,
+          "tweet_count": 9920
+        },
+        "username": "zhizhizhizhi288",
+        "verified": false
+      }
+    ]
+  }
+}

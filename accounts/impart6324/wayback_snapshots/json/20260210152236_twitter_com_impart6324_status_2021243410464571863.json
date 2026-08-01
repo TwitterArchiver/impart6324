@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021233336480387294",
+    "created_at": "2026-02-10T15:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021243410464571863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021243410464571863",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021233336480387294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 天呐哥特女孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021233333418729472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzdAf6aIAAe091.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021233336480387294",
+        "created_at": "2026-02-10T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021243410464571863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021243410464571863",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021233336480387294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 天呐哥特女孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021233333418729472"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "conversation_id": "2021233336480387294",
+        "created_at": "2026-02-10T14:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021233336480387294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0ko27g7mM",
+              "end": 30,
+              "expanded_url": "https://x.com/omo0903/status/2021233336480387294/photo/1",
+              "media_key": "3_2021233333418729472",
+              "start": 7,
+              "url": "https://t.co/f0ko27g7mM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021233336480387294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份的美麗 https://t.co/f0ko27g7mM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 385,
+          "like_count": 7983,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo09031",
+                "end": 23,
+                "expanded_url": "https://ngl.link/omo09031",
+                "start": 0,
+                "url": "https://t.co/XTzLYjFyX8"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1971149103989137451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007741363388121088/9Nm0AvLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 940,
+          "like_count": 59698,
+          "listed_count": 7,
+          "media_count": 650,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/XTzLYjFyX8",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

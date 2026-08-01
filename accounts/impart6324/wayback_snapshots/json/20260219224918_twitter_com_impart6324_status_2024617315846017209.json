@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023309030597459968",
+        "3_2023309030597476352",
+        "3_2023309030605881344",
+        "3_2023309030610051072"
+      ],
+      "media_source_tweet_id": [
+        "2023309039644688584",
+        "2023309039644688584",
+        "2023309039644688584",
+        "2023309039644688584"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024617315846017209",
+    "created_at": "2026-02-19T22:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T23:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024617315846017209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758230927325507586",
+          "start": 3,
+          "username": "jnshng339776866"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FaqHQxQNy2",
+          "end": 105,
+          "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+          "media_key": "3_2023309030597459968",
+          "start": 82,
+          "url": "https://t.co/FaqHQxQNy2"
+        },
+        {
+          "display_url": "pic.x.com/FaqHQxQNy2",
+          "end": 105,
+          "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+          "media_key": "3_2023309030597476352",
+          "start": 82,
+          "url": "https://t.co/FaqHQxQNy2"
+        },
+        {
+          "display_url": "pic.x.com/FaqHQxQNy2",
+          "end": 105,
+          "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+          "media_key": "3_2023309030605881344",
+          "start": 82,
+          "url": "https://t.co/FaqHQxQNy2"
+        },
+        {
+          "display_url": "pic.x.com/FaqHQxQNy2",
+          "end": 105,
+          "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+          "media_key": "3_2023309030610051072",
+          "start": 82,
+          "url": "https://t.co/FaqHQxQNy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024617315846017209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023309039644688584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jnshng339776866: 我是Hikari/小光\n目前在家里蹲\n想要一个金主…\n我话多爱打游戏 fps基本都打可以陪你玩\n🚪爸爸妈妈们来看看看我🥹 https://t.co/FaqHQxQNy2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2023309030597459968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ81-eaAAAxdeV.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023309030597476352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ81-eaQAAh8E-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 553,
+        "media_key": "3_2023309030605881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ81-gagAAFraM.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023309030610051072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQ81-haIAASuig.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023309030597459968",
+            "3_2023309030597476352",
+            "3_2023309030605881344",
+            "3_2023309030610051072"
+          ],
+          "media_source_tweet_id": [
+            "2023309039644688584",
+            "2023309039644688584",
+            "2023309039644688584",
+            "2023309039644688584"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024617315846017209",
+        "created_at": "2026-02-19T22:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T23:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024617315846017209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1758230927325507586",
+              "start": 3,
+              "username": "jnshng339776866"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 105,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030597459968",
+              "start": 82,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 105,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030597476352",
+              "start": 82,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 105,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030605881344",
+              "start": 82,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 105,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030610051072",
+              "start": 82,
+              "url": "https://t.co/FaqHQxQNy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024617315846017209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023309039644688584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jnshng339776866: 我是Hikari/小光\n目前在家里蹲\n想要一个金主…\n我话多爱打游戏 fps基本都打可以陪你玩\n🚪爸爸妈妈们来看看看我🥹 https://t.co/FaqHQxQNy2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023309030597459968",
+            "3_2023309030597476352",
+            "3_2023309030605881344",
+            "3_2023309030610051072"
+          ]
+        },
+        "author_id": "1758230927325507586",
+        "conversation_id": "2023309039644688584",
+        "created_at": "2026-02-16T08:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023309039644688584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 84,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030597459968",
+              "start": 61,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 84,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030597476352",
+              "start": 61,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 84,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030605881344",
+              "start": 61,
+              "url": "https://t.co/FaqHQxQNy2"
+            },
+            {
+              "display_url": "pic.x.com/FaqHQxQNy2",
+              "end": 84,
+              "expanded_url": "https://x.com/jnshng339776866/status/2023309039644688584/photo/1",
+              "media_key": "3_2023309030610051072",
+              "start": 61,
+              "url": "https://t.co/FaqHQxQNy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023309039644688584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 490,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是Hikari/小光\n目前在家里蹲\n想要一个金主…\n我话多爱打游戏 fps基本都打可以陪你玩\n🚪爸爸妈妈们来看看看我🥹 https://t.co/FaqHQxQNy2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 409,
+          "like_count": 8870,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T20:45:05.000Z",
+        "description": "Hikari/小光🚪88",
+        "id": "1758230927325507586",
+        "name": "Hikari",
+        "pinned_tweet_id": "2023309039644688584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019733390527021056/HaHfdL_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 84,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "username": "jnshng339776866",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2003341194261332275",
+    "created_at": "2025-12-23T08:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T09:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003385426737049742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556770191660355585",
+          "start": 0,
+          "username": "webgangst1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003385426737049742",
+    "in_reply_to_user_id": "1556770191660355585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003341194261332275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@webgangst1r 哈哈哈ame"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003341187529478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81MMiaakAAY5vY.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2003341194261332275",
+        "created_at": "2025-12-23T08:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003385426737049742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556770191660355585",
+              "start": 0,
+              "username": "webgangst1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003385426737049742",
+        "in_reply_to_user_id": "1556770191660355585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003341194261332275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@webgangst1r 哈哈哈ame"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003341187529478144"
+          ]
+        },
+        "author_id": "1556770191660355585",
+        "conversation_id": "2003341194261332275",
+        "created_at": "2025-12-23T05:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003341194261332275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jez314gK6i",
+              "end": 165,
+              "expanded_url": "https://x.com/webgangst1r/status/2003341194261332275/photo/1",
+              "media_key": "3_2003341187529478144",
+              "start": 142,
+              "url": "https://t.co/Jez314gK6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003341194261332275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 626,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我就这样被拉黑了我打了无数个电话不接发信息不回然后发抖舞在朋友圈里四五天之后轻飘飘的一句我状态不好 然后后面我就这样被拉黑了 之前你心情不好问我可不可以来我家陪陪你我都没拒绝 我不明白我哪里得罪你了要这样对我？所以可不可以把我的衣服还给我。全部都是我一件一件淘来的孤品，买不到了 https://t.co/Jez314gK6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 233,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 501
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T22:32:04.000Z",
+        "description": "edtwt/shtwt🚪52 188 520私信只回复口令",
+        "id": "1556770191660355585",
+        "name": "瓜",
+        "pinned_tweet_id": "1985419326997016857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893345266662596609/heQFvQiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 65,
+          "like_count": 159,
+          "listed_count": 8,
+          "media_count": 237,
+          "tweet_count": 504
+        },
+        "username": "webgangst1r",
+        "verified": false
+      }
+    ]
+  }
+}

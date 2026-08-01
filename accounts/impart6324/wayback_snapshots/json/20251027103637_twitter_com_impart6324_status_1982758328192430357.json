@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1982684937590571518",
+    "created_at": "2025-10-27T10:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982758328192430357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745396254446862336",
+          "start": 0,
+          "username": "Bread_ka0723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982758328192430357",
+    "in_reply_to_user_id": "1745396254446862336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982684937590571518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bread_ka0723 一坨屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982684924755759104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PpbzGW0AAjwl0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1982684937590571518",
+        "created_at": "2025-10-27T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982758328192430357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745396254446862336",
+              "start": 0,
+              "username": "Bread_ka0723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982758328192430357",
+        "in_reply_to_user_id": "1745396254446862336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982684937590571518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bread_ka0723 一坨屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982684924755759104"
+          ]
+        },
+        "author_id": "1745396254446862336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982684937590571518",
+        "created_at": "2025-10-27T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982684937590571518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLoTi5lvMs",
+              "end": 46,
+              "expanded_url": "https://x.com/Bread_ka0723/status/1982684937590571518/photo/1",
+              "media_key": "3_1982684924755759104",
+              "start": 23,
+              "url": "https://t.co/cLoTi5lvMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982684937590571518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在需要有个人立马给我129让我买离子ak https://t.co/cLoTi5lvMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 255,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 127
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T10:45:03.000Z",
+        "description": "我不知道",
+        "id": "1745396254446862336",
+        "location": "我不知道",
+        "name": "面包小ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976685081868816384/mX3ITlj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 136,
+          "like_count": 3199,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1639
+        },
+        "username": "Bread_ka0723",
+        "verified": false
+      }
+    ]
+  }
+}

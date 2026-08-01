@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024523498337828864"
+      ],
+      "media_source_tweet_id": [
+        "2024523510962671885"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024526350548422808",
+    "created_at": "2026-02-19T16:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024526350548422808"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "門檻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417794719229169665",
+          "start": 3,
+          "username": "Newagekami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ihy3JmXanK",
+          "end": 53,
+          "expanded_url": "https://x.com/Newagekami/status/2024523510962671885/photo/1",
+          "media_key": "3_2024523498337828864",
+          "start": 30,
+          "url": "https://t.co/Ihy3JmXanK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024526350548422808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024523510962671885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Newagekami: 生與死之門 #男娘 #門檻 https://t.co/Ihy3JmXanK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024523498337828864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiNZTXbgAAEXFu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024523498337828864"
+          ],
+          "media_source_tweet_id": [
+            "2024523510962671885"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024526350548422808",
+        "created_at": "2026-02-19T16:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024526350548422808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "門檻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417794719229169665",
+              "start": 3,
+              "username": "Newagekami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ihy3JmXanK",
+              "end": 53,
+              "expanded_url": "https://x.com/Newagekami/status/2024523510962671885/photo/1",
+              "media_key": "3_2024523498337828864",
+              "start": 30,
+              "url": "https://t.co/Ihy3JmXanK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024526350548422808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024523510962671885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Newagekami: 生與死之門 #男娘 #門檻 https://t.co/Ihy3JmXanK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024523498337828864"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2024523510962671885",
+        "created_at": "2026-02-19T16:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024523510962671885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "門檻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ihy3JmXanK",
+              "end": 37,
+              "expanded_url": "https://x.com/Newagekami/status/2024523510962671885/photo/1",
+              "media_key": "3_2024523498337828864",
+              "start": 14,
+              "url": "https://t.co/Ihy3JmXanK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024523510962671885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 69,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生與死之門 #男娘 #門檻 https://t.co/Ihy3JmXanK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 407,
+          "like_count": 8824,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 154,
+          "like_count": 1296,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 118
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

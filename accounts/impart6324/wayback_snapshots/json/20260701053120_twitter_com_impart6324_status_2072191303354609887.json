@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072191195179298816",
+        "3_2072191195179347968",
+        "3_2072191195187732480"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2072191303354609887",
+    "created_at": "2026-07-01T05:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072191303354609887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mpb4ZqBsVi",
+          "end": 41,
+          "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+          "media_key": "13_2072191195179298816",
+          "start": 18,
+          "url": "https://t.co/Mpb4ZqBsVi"
+        },
+        {
+          "display_url": "pic.x.com/Mpb4ZqBsVi",
+          "end": 41,
+          "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+          "media_key": "3_2072191195179347968",
+          "start": 18,
+          "url": "https://t.co/Mpb4ZqBsVi"
+        },
+        {
+          "display_url": "pic.x.com/Mpb4ZqBsVi",
+          "end": 41,
+          "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+          "media_key": "3_2072191195187732480",
+          "start": 18,
+          "url": "https://t.co/Mpb4ZqBsVi"
+        },
+        {
+          "display_url": "x.com/gfwfrog/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/gfwfrog/status/2028788031893725681",
+          "start": 42,
+          "url": "https://t.co/e6uSgQ2N7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072191303354609887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028788031893725681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "得反思一下为什么会认识到这么神的人 https://t.co/Mpb4ZqBsVi https://t.co/e6uSgQ2N7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96100,
+        "height": 480,
+        "media_key": "13_2072191195179298816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072191195179298816/img/-z0Pk6whFT-I9qQr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/480x270/9I9z5mFS4-eG0V42.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/640x360/wI4CXCor3finFit2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/vid/avc1/854x480/ENDqukZUAfUoLVJS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072191195179298816/pl/u6hoouPtpK5vitQN.m3u8"
+          }
+        ],
+        "width": 854
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072191195179347968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHm6b9bcAADo_f.jpg",
+        "width": 946
+      },
+      {
+        "height": 1922,
+        "media_key": "3_2072191195187732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHm6b_bYAAQmw7.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1148,
+        "media_key": "3_2028788027514875905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCez9kiW8AElSUn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2028788028664336384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCez9o0aUAAEG4_.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028788029075402753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCez9qWasAEM8lw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028788027388989440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCez9kEWEAAIM_W.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072191195179298816",
+            "3_2072191195179347968",
+            "3_2072191195187732480"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2072191303354609887",
+        "created_at": "2026-07-01T05:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072191303354609887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "13_2072191195179298816",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "3_2072191195179347968",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "pic.x.com/Mpb4ZqBsVi",
+              "end": 41,
+              "expanded_url": "https://x.com/impart6324/status/2072191303354609887/video/1",
+              "media_key": "3_2072191195187732480",
+              "start": 18,
+              "url": "https://t.co/Mpb4ZqBsVi"
+            },
+            {
+              "display_url": "x.com/gfwfrog/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/gfwfrog/status/2028788031893725681",
+              "start": 42,
+              "url": "https://t.co/e6uSgQ2N7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072191303354609887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028788031893725681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得反思一下为什么会认识到这么神的人 https://t.co/Mpb4ZqBsVi https://t.co/e6uSgQ2N7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028788027514875905",
+            "3_2028788028664336384",
+            "3_2028788029075402753",
+            "3_2028788027388989440"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2028788031893725681",
+        "created_at": "2026-03-03T11:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028788031893725681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1f5CKdGiQs",
+              "end": 97,
+              "expanded_url": "https://x.com/GFWfrog/status/2028788031893725681/photo/1",
+              "media_key": "3_2028788027514875905",
+              "start": 74,
+              "url": "https://t.co/1f5CKdGiQs"
+            },
+            {
+              "display_url": "pic.x.com/1f5CKdGiQs",
+              "end": 97,
+              "expanded_url": "https://x.com/GFWfrog/status/2028788031893725681/photo/1",
+              "media_key": "3_2028788028664336384",
+              "start": 74,
+              "url": "https://t.co/1f5CKdGiQs"
+            },
+            {
+              "display_url": "pic.x.com/1f5CKdGiQs",
+              "end": 97,
+              "expanded_url": "https://x.com/GFWfrog/status/2028788031893725681/photo/1",
+              "media_key": "3_2028788029075402753",
+              "start": 74,
+              "url": "https://t.co/1f5CKdGiQs"
+            },
+            {
+              "display_url": "pic.x.com/1f5CKdGiQs",
+              "end": 97,
+              "expanded_url": "https://x.com/GFWfrog/status/2028788031893725681/photo/1",
+              "media_key": "3_2028788027388989440",
+              "start": 74,
+              "url": "https://t.co/1f5CKdGiQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028788031893725681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 144669,
+          "like_count": 480,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "匿名投稿：\n\n2025年8月19日，“上海人民广场爆炸地铁案”后续嫌疑人李君豪，因“侮辱国家政治人员”，在12月25日遭遇行政拘留，释放后浑身是伤 https://t.co/1f5CKdGiQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 507,
+          "like_count": 11448,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2070472888860160123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265478,
+          "following_count": 2554,
+          "like_count": 129695,
+          "listed_count": 917,
+          "media_count": 7605,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

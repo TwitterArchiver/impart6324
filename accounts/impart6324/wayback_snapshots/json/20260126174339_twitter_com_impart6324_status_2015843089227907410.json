@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013530498899812817",
+    "created_at": "2026-01-26T17:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015843089227907410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795809659237879808",
+          "start": 0,
+          "username": "x1aoyu_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015843089227907410",
+    "in_reply_to_user_id": "1795809659237879808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013530498899812817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1aoyu_TvT 我到现在都没看过这个人的视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013530498899812817",
+        "created_at": "2026-01-26T17:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015843089227907410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015843089227907410",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013530498899812817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT 我到现在都没看过这个人的视频"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795809659237879808",
+        "conversation_id": "2013530498899812817",
+        "created_at": "2026-01-20T08:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013530498899812817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013530498899812817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13945,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个猪头牢a说那个什么留学生三通一达感觉又让国男国女狂欢了 在留学生视频下面疯狂造黄谣 粉蛆是不是有恋猪癖啊 怎么这么喜欢听这种猪头讲一些没有逻辑可言但符合自己认知的故事然后视为真理。其实给个出国的机会自己卖钩子都要去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 347,
+          "like_count": 6751,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1161
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜台獨精日支黑 | 和@AceTaffy812 @AzumaSeren 絕贊戀愛中｜歡迎互fo^^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "AceTaffy812"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 85,
+          "like_count": 205,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 300
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

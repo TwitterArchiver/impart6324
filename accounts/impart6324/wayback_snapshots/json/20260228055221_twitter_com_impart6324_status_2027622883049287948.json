@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026911148415868928"
+      ],
+      "media_source_tweet_id": [
+        "2026911206725079457"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2027622883049287948",
+    "created_at": "2026-02-28T05:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027622883049287948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1162119986661298176",
+          "start": 3,
+          "username": "x_gou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bmCvfKWZ1",
+          "end": 56,
+          "expanded_url": "https://x.com/imccheline/status/2026911206725079457/video/1",
+          "media_key": "13_2026911148415868928",
+          "start": 33,
+          "url": "https://t.co/4bmCvfKWZ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027622883049287948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 942
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027342153115111759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_gou: デンジを待つレゼみたいな雰囲気が良い... https://t.co/4bmCvfKWZ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1280,
+        "media_key": "13_2026911148415868928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026911148415868928/img/TIfJUyKf0kR4oxoR.jpg",
+        "public_metrics": {
+          "view_count": 306200
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026911148415868928/vid/avc1/320x568/bQcPUGAAyJvwL5PF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026911148415868928/vid/avc1/480x852/doZKqcksYPODmWCo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026911148415868928/vid/avc1/720x1280/OiD9rYiMiuPhs92f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026911148415868928/pl/0ahheCEDCEUsk2he.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026911148415868928"
+          ],
+          "media_source_tweet_id": [
+            "2026911206725079457"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2027622883049287948",
+        "created_at": "2026-02-28T05:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027622883049287948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1162119986661298176",
+              "start": 3,
+              "username": "x_gou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bmCvfKWZ1",
+              "end": 56,
+              "expanded_url": "https://x.com/imccheline/status/2026911206725079457/video/1",
+              "media_key": "13_2026911148415868928",
+              "start": 33,
+              "url": "https://t.co/4bmCvfKWZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027622883049287948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 942
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027342153115111759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_gou: デンジを待つレゼみたいな雰囲気が良い... https://t.co/4bmCvfKWZ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026911148415868928"
+          ],
+          "media_source_tweet_id": [
+            "2026911206725079457"
+          ]
+        },
+        "author_id": "1162119986661298176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2027342153115111759",
+        "created_at": "2026-02-27T11:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027342153115111759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bmCvfKWZ1",
+              "end": 45,
+              "expanded_url": "https://x.com/imccheline/status/2026911206725079457/video/1",
+              "media_key": "13_2026911148415868928",
+              "start": 22,
+              "url": "https://t.co/4bmCvfKWZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027342153115111759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1456,
+          "impression_count": 382159,
+          "like_count": 13548,
+          "quote_count": 23,
+          "reply_count": 30,
+          "retweet_count": 942
+        },
+        "reply_settings": "everyone",
+        "text": "デンジを待つレゼみたいな雰囲気が良い... https://t.co/4bmCvfKWZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 421,
+          "like_count": 9536,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-15T21:53:04.000Z",
+        "description": "海外の話題を保管する場所",
+        "id": "1162119986661298176",
+        "name": "カイガイノワダイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016789138469769222/k_oDIRnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 598,
+          "like_count": 3750,
+          "listed_count": 17,
+          "media_count": 132,
+          "tweet_count": 132
+        },
+        "username": "x_gou",
+        "verified": true
+      }
+    ]
+  }
+}

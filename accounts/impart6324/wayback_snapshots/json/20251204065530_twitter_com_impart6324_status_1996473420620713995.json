@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996473420620713995",
+    "created_at": "2025-12-04T06:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996473420620713995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maorou_k8m/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/maorou_k8m/status/1897683746473861160",
+          "start": 5,
+          "url": "https://t.co/In3FS89jEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996473420620713995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897683746473861160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爹妈主人 https://t.co/In3FS89jEX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897683681877295104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXtQRpaAAA7CHX.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996473420620713995",
+        "created_at": "2025-12-04T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996473420620713995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maorou_k8m/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/maorou_k8m/status/1897683746473861160",
+              "start": 5,
+              "url": "https://t.co/In3FS89jEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996473420620713995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897683746473861160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爹妈主人 https://t.co/In3FS89jEX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897683681877295104"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1897683746473861160",
+        "created_at": "2025-03-06T16:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897683746473861160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BimqfrfDPl",
+              "end": 28,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1897683746473861160/photo/1",
+              "media_key": "3_1897683681877295104",
+              "start": 5,
+              "url": "https://t.co/BimqfrfDPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897683746473861160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 649825,
+          "like_count": 4383,
+          "quote_count": 7,
+          "reply_count": 36,
+          "retweet_count": 151
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🧊🍓…… https://t.co/BimqfrfDPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 221,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 425
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248334,
+          "following_count": 43,
+          "like_count": 483,
+          "listed_count": 670,
+          "media_count": 414,
+          "tweet_count": 2800
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

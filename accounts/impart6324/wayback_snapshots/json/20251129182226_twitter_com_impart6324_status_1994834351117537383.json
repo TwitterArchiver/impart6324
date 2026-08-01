@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1994822015426204153",
+    "created_at": "2025-11-29T18:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T19:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994834351117537383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828103801867300866",
+          "start": 0,
+          "username": "mylove0255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994834351117537383",
+    "in_reply_to_user_id": "1828103801867300866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994822015426204153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylove0255 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1994822015426204153",
+        "created_at": "2025-11-29T18:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994834351117537383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828103801867300866",
+              "start": 0,
+              "username": "mylove0255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994834351117537383",
+        "in_reply_to_user_id": "1828103801867300866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994822015426204153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylove0255 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828103801867300866",
+        "conversation_id": "1994822015426204153",
+        "created_at": "2025-11-29T17:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994822015426204153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994822015426204153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的抖音，现在都是，西内哟！杂裤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 311,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 346
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T16:14:54.000Z",
+        "description": "好友位10，聊天30，我很需要钱，我平常没有钱如果你愿意我很感谢谢谢",
+        "id": "1828103801867300866",
+        "location": "如果你觉得我是什么就是什么吧",
+        "name": "米梨子",
+        "pinned_tweet_id": "1992192754894664025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983568883752574980/do000XNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 106,
+          "like_count": 2008,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 939
+        },
+        "username": "mylove0255",
+        "verified": false
+      }
+    ]
+  }
+}

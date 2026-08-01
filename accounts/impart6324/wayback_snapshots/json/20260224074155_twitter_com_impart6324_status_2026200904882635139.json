@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026200904882635139",
+    "created_at": "2026-02-24T07:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026200904882635139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lushq2uc/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lushq2uc/status/2026143282921877537",
+          "start": 5,
+          "url": "https://t.co/gtB878dBsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026200904882635139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026143282921877537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/gtB878dBsZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026200904882635139",
+        "created_at": "2026-02-24T07:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026200904882635139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lushq2uc/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lushq2uc/status/2026143282921877537",
+              "start": 5,
+              "url": "https://t.co/gtB878dBsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026200904882635139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026143282921877537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/gtB878dBsZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985710009041436673",
+        "conversation_id": "2026143282921877537",
+        "created_at": "2026-02-24T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026143282921877537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miuu4u/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/miuu4u/status/2024448784370114859",
+              "start": 17,
+              "url": "https://t.co/aaTckfQkUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026143282921877537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024448784370114859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一头埋你逼里，把你逼水都吸干净。 https://t.co/aaTckfQkUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 414,
+          "like_count": 9008,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 136
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T14:06:18.000Z",
+        "description": "啥也没有",
+        "id": "1985710009041436673",
+        "location": "The UK",
+        "name": "芙宁娜娜",
+        "pinned_tweet_id": "2025957274867621970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025100338584584192/4oLCH34O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 167,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 837
+        },
+        "username": "lushq2uc",
+        "verified": false
+      }
+    ]
+  }
+}

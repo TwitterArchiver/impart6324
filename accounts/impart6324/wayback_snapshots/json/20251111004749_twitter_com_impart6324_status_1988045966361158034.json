@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987875043939110912"
+      ],
+      "media_source_tweet_id": [
+        "1987875052247986680"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988045966361158034",
+    "created_at": "2025-11-11T00:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988045966361158034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yGTzfEL4bS",
+          "end": 51,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1987875052247986680/photo/1",
+          "media_key": "3_1987875043939110912",
+          "start": 28,
+          "url": "https://t.co/yGTzfEL4bS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988045966361158034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987875052247986680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 我就喜欢这种 https://t.co/yGTzfEL4bS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_1987875043939110912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZZ0fva0AAg3cg.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987875043939110912"
+          ],
+          "media_source_tweet_id": [
+            "1987875052247986680"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988045966361158034",
+        "created_at": "2025-11-11T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988045966361158034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGTzfEL4bS",
+              "end": 51,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1987875052247986680/photo/1",
+              "media_key": "3_1987875043939110912",
+              "start": 28,
+              "url": "https://t.co/yGTzfEL4bS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988045966361158034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987875052247986680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 我就喜欢这种 https://t.co/yGTzfEL4bS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987875043939110912"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987875052247986680",
+        "created_at": "2025-11-10T13:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987875052247986680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGTzfEL4bS",
+              "end": 30,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1987875052247986680/photo/1",
+              "media_key": "3_1987875043939110912",
+              "start": 7,
+              "url": "https://t.co/yGTzfEL4bS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987875052247986680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢这种 https://t.co/yGTzfEL4bS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 333,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 232
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "化学极乐/享受化学物质带来的极致快乐/化学极乐不仅能够改变人的感知和意识/还可以让人们具备类似于超能力的能力，如超速反应、快速学习\n官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 94,
+                "expanded_url": "https://overdose.day/",
+                "start": 71,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 123,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 100,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 151,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 128,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1987887060079009801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982252885577453568/G1aVUn34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 484,
+          "like_count": 262,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

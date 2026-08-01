@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008119607941591105",
+    "created_at": "2026-01-06T04:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008389828614774979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        },
+        {
+          "end": 27,
+          "id": "1932220981202087936",
+          "start": 13,
+          "username": "skylermustd1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008389828614774979",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008373124148895746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty @skylermustd1e 法克鱿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008119607941591105",
+        "created_at": "2026-01-06T04:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008389828614774979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            },
+            {
+              "end": 27,
+              "id": "1932220981202087936",
+              "start": 13,
+              "username": "skylermustd1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008389828614774979",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008373124148895746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty @skylermustd1e 法克鱿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958896241158299650",
+        "conversation_id": "2008119607941591105",
+        "created_at": "2026-01-06T03:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008373124148895746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Skyler～",
+              "probability": 0.7116,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932220981202087936",
+              "start": 0,
+              "username": "skylermustd1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008373124148895746",
+        "in_reply_to_user_id": "1932220981202087936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008119607941591105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skylermustd1e love u Skyler～ ᓀ  ̫ ᓂ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 280,
+          "like_count": 5343,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 790
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006188962332000257/yv1ZFRts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 253,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1729
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T23:39:47.000Z",
+        "description": "pro-recovery // alt: @rottenc0rps33 //you’re loved basic dni (includes shotas/lolicon)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "rottenc0rps33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skylermustd1e.straw.page",
+                "end": 23,
+                "expanded_url": "https://skylermustd1e.straw.page",
+                "start": 0,
+                "url": "https://t.co/3D9ocJ4veZ"
+              }
+            ]
+          }
+        },
+        "id": "1932220981202087936",
+        "location": "He/him",
+        "name": "Skyler —",
+        "pinned_tweet_id": "1992332817188180405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464341524328448/tG1ajRmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 1829,
+          "like_count": 21188,
+          "listed_count": 28,
+          "media_count": 1207,
+          "tweet_count": 9366
+        },
+        "url": "https://t.co/3D9ocJ4veZ",
+        "username": "skylermustd1e",
+        "verified": false
+      }
+    ]
+  }
+}

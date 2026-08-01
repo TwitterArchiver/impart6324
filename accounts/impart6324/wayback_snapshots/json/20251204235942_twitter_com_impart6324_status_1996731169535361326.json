@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996731169535361326",
+    "created_at": "2025-12-04T23:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T00:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996731169535361326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943677617103929344",
+          "start": 3,
+          "username": "Nacluv6114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996731169535361326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996728087707545995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacluv6114: 当年扫射丑b的时候 我蹲在地上用美图秀秀躲过一劫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996731169535361326",
+        "created_at": "2025-12-04T23:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996731169535361326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943677617103929344",
+              "start": 3,
+              "username": "Nacluv6114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996731169535361326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996728087707545995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacluv6114: 当年扫射丑b的时候 我蹲在地上用美图秀秀躲过一劫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943677617103929344",
+        "conversation_id": "1996728087707545995",
+        "created_at": "2025-12-04T23:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996728087707545995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996728087707545995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当年扫射丑b的时候 我蹲在地上用美图秀秀躲过一劫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 224,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 437
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "所有结局都不是我想要的",
+        "id": "1943677617103929344",
+        "name": "nacl",
+        "pinned_tweet_id": "1974061436617044247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996181829582512128/BWh64J6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 146,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 341
+        },
+        "username": "Nacluv6114",
+        "verified": false
+      }
+    ]
+  }
+}

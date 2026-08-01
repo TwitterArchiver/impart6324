@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023380451461869568"
+      ],
+      "media_source_tweet_id": [
+        "2023380524006539358"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2023403448855855374",
+    "created_at": "2026-02-16T14:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023403448855855374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795809659237879808",
+          "start": 3,
+          "username": "x1aoyu_TvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4ATX6T8V5",
+          "end": 48,
+          "expanded_url": "https://x.com/x1aoyu_TvT/status/2023380524006539358/video/1",
+          "media_key": "13_2023380451461869568",
+          "start": 25,
+          "url": "https://t.co/t4ATX6T8V5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023403448855855374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023380524006539358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x1aoyu_TvT: 冰雪女王来支持啦 https://t.co/t4ATX6T8V5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20025,
+        "height": 720,
+        "media_key": "13_2023380451461869568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023380451461869568/img/bN29Yh0Sgixl3CNa.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023380451461869568/vid/avc1/366x270/__ff8fSjYIfPNCjw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023380451461869568/vid/avc1/490x360/WrOtdUXy4tpFq-X0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023380451461869568/vid/avc1/980x720/EKQ4vc2gwJj2au4p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023380451461869568/pl/dridhE2uIZwM3muj.m3u8"
+          }
+        ],
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023380451461869568"
+          ],
+          "media_source_tweet_id": [
+            "2023380524006539358"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2023403448855855374",
+        "created_at": "2026-02-16T14:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023403448855855374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795809659237879808",
+              "start": 3,
+              "username": "x1aoyu_TvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4ATX6T8V5",
+              "end": 48,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2023380524006539358/video/1",
+              "media_key": "13_2023380451461869568",
+              "start": 25,
+              "url": "https://t.co/t4ATX6T8V5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023403448855855374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023380524006539358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x1aoyu_TvT: 冰雪女王来支持啦 https://t.co/t4ATX6T8V5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023380451461869568"
+          ]
+        },
+        "author_id": "1795809659237879808",
+        "conversation_id": "2023380524006539358",
+        "created_at": "2026-02-16T12:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023380524006539358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4ATX6T8V5",
+              "end": 32,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2023380524006539358/video/1",
+              "media_key": "13_2023380451461869568",
+              "start": 9,
+              "url": "https://t.co/t4ATX6T8V5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023380524006539358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰雪女王来支持啦 https://t.co/t4ATX6T8V5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 395,
+          "like_count": 8706,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1559
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜台獨精日支黑 | 和@AceTaffy812 @AzumaSeren 絕贊戀愛中｜歡迎互fo^^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "AceTaffy812"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "pinned_tweet_id": "2018953967779090444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 106,
+          "like_count": 546,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 458
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

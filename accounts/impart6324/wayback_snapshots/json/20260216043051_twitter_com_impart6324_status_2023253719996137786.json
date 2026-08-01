@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023253710827388928"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022754424360411298",
+    "created_at": "2026-02-16T04:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023253719996137786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1531518021218746369",
+          "start": 0,
+          "username": "cqfdqsjlg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZGM9nnTcZr",
+          "end": 52,
+          "expanded_url": "https://x.com/impart6324/status/2023253719996137786/photo/1",
+          "media_key": "3_2023253710827388928",
+          "start": 29,
+          "url": "https://t.co/ZGM9nnTcZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023253719996137786",
+    "in_reply_to_user_id": "1531518021218746369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022754424360411298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cqfdqsjlg 评价下这种发弱智电影台词截图合集的 https://t.co/ZGM9nnTcZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023253710827388928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQKh8RbgAAKjcU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023253710827388928"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022754424360411298",
+        "created_at": "2026-02-16T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023253719996137786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1531518021218746369",
+              "start": 0,
+              "username": "cqfdqsjlg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGM9nnTcZr",
+              "end": 52,
+              "expanded_url": "https://x.com/impart6324/status/2023253719996137786/photo/1",
+              "media_key": "3_2023253710827388928",
+              "start": 29,
+              "url": "https://t.co/ZGM9nnTcZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023253719996137786",
+        "in_reply_to_user_id": "1531518021218746369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022754424360411298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cqfdqsjlg 评价下这种发弱智电影台词截图合集的 https://t.co/ZGM9nnTcZr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531518021218746369",
+        "conversation_id": "2022754424360411298",
+        "created_at": "2026-02-14T19:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022754424360411298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022754424360411298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17799,
+          "like_count": 104,
+          "quote_count": 13,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我会把在朋友圈发游戏截图的人全部屏蔽掉。你低质量的人生无从分享，只能贴在瑞幸和肯德基的广告海报中间不断更新自己的战绩、段位、充值，聒噪地无能咆哮，然后继续展示自己贫乏的爱好 贫瘠的头脑 无聊的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 395,
+          "like_count": 8684,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T06:08:57.000Z",
+        "description": "导员说因为我有精神病所以没关系",
+        "id": "1531518021218746369",
+        "location": "Singapore",
+        "name": "从前夫的全世界路过",
+        "pinned_tweet_id": "1580496366421565441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531519004455890945/_JXGDCS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22955,
+          "following_count": 66,
+          "like_count": 2425,
+          "listed_count": 30,
+          "media_count": 33,
+          "tweet_count": 4128
+        },
+        "username": "cqfdqsjlg",
+        "verified": false
+      }
+    ]
+  }
+}

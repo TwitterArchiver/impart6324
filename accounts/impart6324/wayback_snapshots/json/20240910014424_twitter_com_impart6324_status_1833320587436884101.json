@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1833152190372061184",
+        "3_1833153276822642688"
+      ],
+      "media_source_tweet_id": [
+        "1833153374038221225",
+        "1833153374038221225"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1833320587436884101",
+    "created_at": "2024-09-10T01:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T02:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833320587436884101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zz10ewesjg",
+          "end": 121,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+          "media_key": "7_1833152190372061184",
+          "start": 98,
+          "url": "https://t.co/zZ10ewESJG"
+        },
+        {
+          "display_url": "pic.x.com/zz10ewesjg",
+          "end": 121,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+          "media_key": "3_1833153276822642688",
+          "start": 98,
+          "url": "https://t.co/zZ10ewESJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833320587436884101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833153374038221225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 9月8日，河北。一名退伍大爷接受采访时称，一堆卖国贼里通外国，把中国搞的乌烟瘴气，老百姓被几座大山压得喘不过气，这不是共产党的作为，共产党是为人民服务的。 https://t.co/zZ10ewESJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97206,
+        "height": 720,
+        "media_key": "7_1833152190372061184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1833152190372061184/pu/img/WJGTvJPRAM9m6gcj.jpg",
+        "public_metrics": {
+          "view_count": 90906
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833152190372061184/pu/vid/avc1/480x270/Iam8oJn8Ks7l7Zzr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833152190372061184/pu/vid/avc1/640x360/fVVJJO6VUo3V_Vd-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1833152190372061184/pu/vid/avc1/1280x720/6qHfuIwYlHncxULi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1833152190372061184/pu/pl/Pon3OtbEnduM-ia-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 837,
+        "media_key": "3_1833153276822642688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXCrMVvbYAAqR6P.jpg",
+        "width": 1637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833152190372061184",
+            "3_1833153276822642688"
+          ],
+          "media_source_tweet_id": [
+            "1833153374038221225",
+            "1833153374038221225"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1833320587436884101",
+        "created_at": "2024-09-10T01:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T02:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833320587436884101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zz10ewesjg",
+              "end": 121,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+              "media_key": "7_1833152190372061184",
+              "start": 98,
+              "url": "https://t.co/zZ10ewESJG"
+            },
+            {
+              "display_url": "pic.x.com/zz10ewesjg",
+              "end": 121,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+              "media_key": "3_1833153276822642688",
+              "start": 98,
+              "url": "https://t.co/zZ10ewESJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833320587436884101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833153374038221225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 9月8日，河北。一名退伍大爷接受采访时称，一堆卖国贼里通外国，把中国搞的乌烟瘴气，老百姓被几座大山压得喘不过气，这不是共产党的作为，共产党是为人民服务的。 https://t.co/zZ10ewESJG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1833152190372061184",
+            "3_1833153276822642688"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1833153374038221225",
+        "created_at": "2024-09-09T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833153374038221225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zz10ewesjg",
+              "end": 101,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+              "media_key": "7_1833152190372061184",
+              "start": 78,
+              "url": "https://t.co/zZ10ewESJG"
+            },
+            {
+              "display_url": "pic.x.com/zz10ewesjg",
+              "end": 101,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1833153374038221225/video/1",
+              "media_key": "3_1833153276822642688",
+              "start": 78,
+              "url": "https://t.co/zZ10ewESJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833153374038221225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 194713,
+          "like_count": 819,
+          "quote_count": 16,
+          "reply_count": 296,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "9月8日，河北。一名退伍大爷接受采访时称，一堆卖国贼里通外国，把中国搞的乌烟瘴气，老百姓被几座大山压得喘不过气，这不是共产党的作为，共产党是为人民服务的。 https://t.co/zZ10ewESJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "我用的华为手机，你们发的什么我看不见，还有，境外势力你别嚣张！！！！！！！",
+        "id": "1597065444136919040",
+        "name": "又携书剑路茫茫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597065546498834432/CE0MAO6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 56,
+          "like_count": 341,
+          "listed_count": 0,
+          "tweet_count": 98
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699468,
+          "following_count": 920,
+          "like_count": 5283,
+          "listed_count": 7697,
+          "tweet_count": 22480
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015358543747289543",
+    "created_at": "2026-01-25T09:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015358543747289543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newagekami/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/newagekami/status/2015336950346252394",
+          "start": 3,
+          "url": "https://t.co/e18gx02Gzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015358543747289543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015336950346252394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赞起 https://t.co/e18gx02Gzj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015336936278519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fqRA2a8AABOJg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015336938358870016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fqRImakAAw58O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015358543747289543",
+        "created_at": "2026-01-25T09:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015358543747289543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newagekami/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/newagekami/status/2015336950346252394",
+              "start": 3,
+              "url": "https://t.co/e18gx02Gzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015358543747289543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015336950346252394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赞起 https://t.co/e18gx02Gzj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015336936278519808",
+            "3_2015336938358870016"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2015336950346252394",
+        "created_at": "2026-01-25T08:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015336950346252394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Id8ElRdXob",
+              "end": 30,
+              "expanded_url": "https://x.com/Newagekami/status/2015336950346252394/photo/1",
+              "media_key": "3_2015336936278519808",
+              "start": 7,
+              "url": "https://t.co/Id8ElRdXob"
+            },
+            {
+              "display_url": "pic.x.com/Id8ElRdXob",
+              "end": 30,
+              "expanded_url": "https://x.com/Newagekami/status/2015336950346252394/photo/1",
+              "media_key": "3_2015336938358870016",
+              "start": 7,
+              "url": "https://t.co/Id8ElRdXob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015336950346252394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上风好大哦 https://t.co/Id8ElRdXob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 341,
+          "like_count": 6642,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1107
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 497,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 16
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

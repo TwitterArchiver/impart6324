@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996762267040543156",
+    "created_at": "2025-12-05T02:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996762599082610695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1659548960938409984",
+          "start": 0,
+          "username": "Lqlnlp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996762599082610695",
+    "in_reply_to_user_id": "1659548960938409984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996762514554847331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lqlnlp7 你是我不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996762267040543156",
+        "created_at": "2025-12-05T02:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996762599082610695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1659548960938409984",
+              "start": 0,
+              "username": "Lqlnlp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996762599082610695",
+        "in_reply_to_user_id": "1659548960938409984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996762514554847331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lqlnlp7 你是我不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659548960938409984",
+        "conversation_id": "1996762267040543156",
+        "created_at": "2025-12-05T02:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996762514554847331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996762514554847331",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996762267040543156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 全世界是艾斯比🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 222,
+          "like_count": 2281,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 449
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "rain｜奇怪｜少女的沼泽泥泞迷茫无助晦涩难言低精力人群 你要往哪儿走 把我灵魂也带走 你也别管我 一个多面性的06 全职在家照顾手机女孩｜边缘性人格障碍｜戒烟ing｜门槛199",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "pinned_tweet_id": "1995777169713446956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943905864500252672/kUIi_98E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 344,
+          "like_count": 5567,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1763
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      }
+    ]
+  }
+}

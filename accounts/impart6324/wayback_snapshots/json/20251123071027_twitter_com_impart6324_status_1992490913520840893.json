@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992488024039661691",
+    "created_at": "2025-11-23T07:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992490913520840893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1267553304310984704",
+          "start": 0,
+          "username": "Lifan9231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992490913520840893",
+    "in_reply_to_user_id": "1267553304310984704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992490184680903144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lifan9231 你妈个逼开始左右脑互博？自己问的有没有女的加我微信现在你妈逼又在这找别的说辞你的语言系统已经紊乱了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992488024039661691",
+        "created_at": "2025-11-23T07:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992490913520840893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1267553304310984704",
+              "start": 0,
+              "username": "Lifan9231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992490913520840893",
+        "in_reply_to_user_id": "1267553304310984704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992490184680903144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lifan9231 你妈个逼开始左右脑互博？自己问的有没有女的加我微信现在你妈逼又在这找别的说辞你的语言系统已经紊乱了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267553304310984704",
+        "conversation_id": "1992488024039661691",
+        "created_at": "2025-11-23T07:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992490184680903144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992490184680903144",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992489818115432799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 离了女的活不了的是谁真不好说，开口婊子闭口逼，还在这女的女的上了，说你丑你老提女的干啥啊，搞笑呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 372,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 263
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T20:27:19.000Z",
+        "description": "要谁爱你，你才不孤独",
+        "id": "1267553304310984704",
+        "location": "木卫六",
+        "name": "槐诗",
+        "pinned_tweet_id": "1916406747331276809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923994649615585280/3kglHM0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 246,
+          "like_count": 394,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 2010
+        },
+        "username": "Lifan9231",
+        "verified": false
+      }
+    ]
+  }
+}

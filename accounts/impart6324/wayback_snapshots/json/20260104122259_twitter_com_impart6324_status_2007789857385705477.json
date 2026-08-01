@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007741049234657319",
+    "created_at": "2026-01-04T12:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T13:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007789857385705477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886315972476436480",
+          "start": 0,
+          "username": "pilljvce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007789857385705477",
+    "in_reply_to_user_id": "1886315972476436480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007741049234657319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilljvce 继续"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007741049234657319].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007741049234657319",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007741049234657319"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007741049234657319",
+        "created_at": "2026-01-04T12:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007789857385705477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886315972476436480",
+              "start": 0,
+              "username": "pilljvce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007789857385705477",
+        "in_reply_to_user_id": "1886315972476436480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007741049234657319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilljvce 继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 268,
+          "like_count": 4806,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 716
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T07:29:14.000Z",
+        "description": "五岁的时候我就知道自己是玩网上的皇帝",
+        "id": "1886315972476436480",
+        "location": "世界上最魔怔的人",
+        "name": "死蟹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994616214753296384/oP4mqsel_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 439,
+          "like_count": 12326,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 2654
+        },
+        "username": "pilljvce",
+        "verified": false
+      }
+    ]
+  }
+}

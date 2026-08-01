@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1991153525842444412",
+    "created_at": "2025-11-19T14:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991153525842444412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morganw7070418…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/morganw70704188/status/1990817205403922479",
+          "start": 50,
+          "url": "https://t.co/q0iNZogpoV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991153525842444412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990817205403922479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你个傻逼公狗卧槽你妈的逼知不知道自己的文案一眼男 天天装你妈逼文艺？老子要是这女的一枪给你全家崩死 https://t.co/q0iNZogpoV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_1990817195551858688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DNsQmboAAV5do.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1991153525842444412",
+        "created_at": "2025-11-19T14:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991153525842444412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morganw7070418…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/morganw70704188/status/1990817205403922479",
+              "start": 50,
+              "url": "https://t.co/q0iNZogpoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991153525842444412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990817205403922479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你个傻逼公狗卧槽你妈的逼知不知道自己的文案一眼男 天天装你妈逼文艺？老子要是这女的一枪给你全家崩死 https://t.co/q0iNZogpoV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990817195551858688"
+          ]
+        },
+        "author_id": "1526705804304388096",
+        "conversation_id": "1990817205403922479",
+        "created_at": "2025-11-18T16:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990817205403922479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MrRCMhDka5",
+              "end": 51,
+              "expanded_url": "https://x.com/MorganW70704188/status/1990817205403922479/photo/1",
+              "media_key": "3_1990817195551858688",
+              "start": 28,
+              "url": "https://t.co/MrRCMhDka5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990817205403922479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4449,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🌊 湖畔白纱，蕾丝袜褪半踝。  \n指尖遮面，赤足踏石。 https://t.co/MrRCMhDka5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1990367013039124665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 361,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 234
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T23:26:54.000Z",
+        "description": "腹黑女主 精神控制 qq 877512698（弹窗是因为最近腾讯风控加不上的点了解详情等10秒即可添加）",
+        "id": "1526705804304388096",
+        "location": "距离679m",
+        "name": "圆一",
+        "pinned_tweet_id": "1975247408192954795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926282272241512448/vkafiBNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10463,
+          "following_count": 3,
+          "like_count": 25,
+          "listed_count": 11,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "MorganW70704188",
+        "verified": false
+      }
+    ]
+  }
+}

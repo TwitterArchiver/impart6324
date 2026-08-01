@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013889805306994691",
+        "3_2013889805273448448"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013889821295669601",
+    "created_at": "2026-01-21T08:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013889821295669601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h7P57X0gqs",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2013889821295669601/photo/1",
+          "media_key": "3_2013889805306994691",
+          "start": 6,
+          "url": "https://t.co/h7P57X0gqs"
+        },
+        {
+          "display_url": "pic.x.com/h7P57X0gqs",
+          "end": 29,
+          "expanded_url": "https://x.com/impart6324/status/2013889821295669601/photo/1",
+          "media_key": "3_2013889805273448448",
+          "start": 6,
+          "url": "https://t.co/h7P57X0gqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013889821295669601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "研究点新奇 https://t.co/h7P57X0gqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_2013889805306994691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LGG54aoAMIQpN.jpg",
+        "width": 921
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2013889805273448448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LGG5wawAAd1I6.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013889805306994691",
+            "3_2013889805273448448"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013889821295669601",
+        "created_at": "2026-01-21T08:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013889821295669601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7P57X0gqs",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2013889821295669601/photo/1",
+              "media_key": "3_2013889805306994691",
+              "start": 6,
+              "url": "https://t.co/h7P57X0gqs"
+            },
+            {
+              "display_url": "pic.x.com/h7P57X0gqs",
+              "end": 29,
+              "expanded_url": "https://x.com/impart6324/status/2013889821295669601/photo/1",
+              "media_key": "3_2013889805273448448",
+              "start": 6,
+              "url": "https://t.co/h7P57X0gqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013889821295669601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "研究点新奇 https://t.co/h7P57X0gqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 334,
+          "like_count": 6386,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1003
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

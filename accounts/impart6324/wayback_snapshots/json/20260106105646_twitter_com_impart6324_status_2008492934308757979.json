@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008470492936892876",
+    "created_at": "2026-01-06T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008492934308757979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975733018028609536",
+          "start": 0,
+          "username": "nmslwcnm8964"
+        },
+        {
+          "end": 29,
+          "id": "2002819291087777792",
+          "start": 14,
+          "username": "Yamikawaiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008492934308757979",
+    "in_reply_to_user_id": "1975733018028609536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008470492936892876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmslwcnm8964 @Yamikawaiiiiii 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008470492936892876",
+        "created_at": "2026-01-06T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008492934308757979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975733018028609536",
+              "start": 0,
+              "username": "nmslwcnm8964"
+            },
+            {
+              "end": 29,
+              "id": "2002819291087777792",
+              "start": 14,
+              "username": "Yamikawaiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008492934308757979",
+        "in_reply_to_user_id": "1975733018028609536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008470492936892876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmslwcnm8964 @Yamikawaiiiiii 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975733018028609536",
+        "conversation_id": "2008470492936892876",
+        "created_at": "2026-01-06T09:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008470492936892876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2002819291087777792",
+              "start": 20,
+              "username": "Yamikawaiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008470492936892876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有女仆店愿意招我和我闺蜜🫂🫂😭😭😭😭@Yamikawaiiiiii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 286,
+          "like_count": 5410,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 797
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T01:20:40.000Z",
+        "description": "251 @Yamikawaiiiiii  私信只回口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "Yamikawaiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1975733018028609536",
+        "name": "哈基芝",
+        "pinned_tweet_id": "2008202209809551490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002088439630700544/NQnV1hE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 26,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 193
+        },
+        "username": "nmslwcnm8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我的小星星是💟💟💟@nmslwcnm8964  只想和漂亮的和真心的人玩儿 谁和我真心换真心？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "nmslwcnm8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006123149180776448/t3Xwa79T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 101,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

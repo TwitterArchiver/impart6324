@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013994244302917831",
+    "created_at": "2026-01-22T14:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014345933627199609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008032184955961344",
+          "start": 0,
+          "username": "yill055"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014345933627199609",
+    "in_reply_to_user_id": "2008032184955961344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013994244302917831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yill055 你妈死了洗洗脚吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013994230730100736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MlFQ5akAAuWgL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013994244302917831",
+        "created_at": "2026-01-22T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014345933627199609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008032184955961344",
+              "start": 0,
+              "username": "yill055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014345933627199609",
+        "in_reply_to_user_id": "2008032184955961344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013994244302917831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yill055 你妈死了洗洗脚吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013994230730100736"
+          ]
+        },
+        "author_id": "2008032184955961344",
+        "conversation_id": "2013994244302917831",
+        "created_at": "2026-01-21T15:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013994244302917831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNJRs3dcjN",
+              "end": 27,
+              "expanded_url": "https://x.com/yill055/status/2013994244302917831/photo/1",
+              "media_key": "3_2013994230730100736",
+              "start": 4,
+              "url": "https://t.co/xNJRs3dcjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013994244302917831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 16304,
+          "like_count": 700,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "舔一口 https://t.co/xNJRs3dcjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 337,
+          "like_count": 6467,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1025
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T04:26:14.000Z",
+        "description": "",
+        "id": "2008032184955961344",
+        "location": "🚪",
+        "name": "麦当当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012559666237100032/Pv9FNX21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 32,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "yill055",
+        "verified": false
+      }
+    ]
+  }
+}

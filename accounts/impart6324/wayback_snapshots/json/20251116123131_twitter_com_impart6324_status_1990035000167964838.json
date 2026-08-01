@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989687249940652159",
+    "created_at": "2025-11-16T12:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990035000167964838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949496806293065728",
+          "start": 0,
+          "username": "qqvqq666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990035000167964838",
+    "in_reply_to_user_id": "1949496806293065728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990034781833465949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqvqq666666 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989687249940652159",
+        "created_at": "2025-11-16T12:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990035000167964838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949496806293065728",
+              "start": 0,
+              "username": "qqvqq666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990035000167964838",
+        "in_reply_to_user_id": "1949496806293065728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990034781833465949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqvqq666666 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949496806293065728",
+        "conversation_id": "1989687249940652159",
+        "created_at": "2025-11-16T12:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990034781833465949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990034781833465949",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989687249940652159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 好萌一只！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1989711690615939511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 357,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 201
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T15:47:31.000Z",
+        "description": "滚",
+        "id": "1949496806293065728",
+        "location": "小窝",
+        "name": "讨厌你。T^T",
+        "pinned_tweet_id": "1988537645375574242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987555570145181696/4d4kFaZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 77,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 156
+        },
+        "username": "qqvqq666666",
+        "verified": false
+      }
+    ]
+  }
+}

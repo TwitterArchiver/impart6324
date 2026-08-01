@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996571629204517137",
+    "created_at": "2025-12-05T01:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996757590769021174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996757590769021174",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996571629204517137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty 这么帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1996571619716943872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U_T1Ha0AA9XGB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996571629204517137",
+        "created_at": "2025-12-05T01:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996757590769021174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996757590769021174",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996571629204517137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 这么帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996571619716943872"
+          ]
+        },
+        "author_id": "1958896241158299650",
+        "conversation_id": "1996571629204517137",
+        "created_at": "2025-12-04T13:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996571629204517137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG7OP5q9Gg",
+              "end": 23,
+              "expanded_url": "https://x.com/Cyb4rEnt1ty/status/1996571629204517137/photo/1",
+              "media_key": "3_1996571619716943872",
+              "start": 0,
+              "url": "https://t.co/uG7OP5q9Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996571629204517137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uG7OP5q9Gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 222,
+          "like_count": 2270,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 439
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "我藏起来的情绪垃圾桶",
+        "id": "1958896241158299650",
+        "name": "實體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996151350724628480/mGdBHirj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

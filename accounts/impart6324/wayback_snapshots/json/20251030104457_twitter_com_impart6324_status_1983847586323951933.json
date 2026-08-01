@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1983750063001366938",
+    "created_at": "2025-10-30T10:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983847586323951933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961642384158306304",
+          "start": 0,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983847586323951933",
+    "in_reply_to_user_id": "1961642384158306304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983847443390459988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinxinovo118 闹麻啊真无奈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1983750063001366938",
+        "created_at": "2025-10-30T10:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983847586323951933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961642384158306304",
+              "start": 0,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983847586323951933",
+        "in_reply_to_user_id": "1961642384158306304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983847443390459988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinxinovo118 闹麻啊真无奈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961642384158306304",
+        "conversation_id": "1983750063001366938",
+        "created_at": "2025-10-30T10:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983847443390459988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983847443390459988",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983847138590400764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 好骂，我也觉得。而且她一点都不内疚在那说自己肯定洗干净了，但是她平时都不好好洗的，怎么可能这次突然好好洗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 272,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 161
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "09 ISTJ 喜欢碎碎念 幸福就淡推",
+        "id": "1961642384158306304",
+        "name": "YiiNovo_xx",
+        "pinned_tweet_id": "1979797264148337039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966819882676482053/q64xL5yS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 90,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 230
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

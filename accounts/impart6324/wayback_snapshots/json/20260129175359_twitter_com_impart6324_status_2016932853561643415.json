@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016931023502864425",
+    "created_at": "2026-01-29T17:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016932853561643415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1337278878021079041",
+          "start": 0,
+          "username": "Q2580248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016932853561643415",
+    "in_reply_to_user_id": "1337278878021079041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016931023502864425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2580248 碧池的浦西臭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016931014900416513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2UEmebgAEyOu-.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016931023502864425",
+        "created_at": "2026-01-29T17:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016932853561643415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1337278878021079041",
+              "start": 0,
+              "username": "Q2580248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016932853561643415",
+        "in_reply_to_user_id": "1337278878021079041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016931023502864425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2580248 碧池的浦西臭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016931014900416513"
+          ]
+        },
+        "author_id": "1337278878021079041",
+        "conversation_id": "2016931023502864425",
+        "created_at": "2026-01-29T17:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016931023502864425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/si3V9AclsE",
+              "end": 83,
+              "expanded_url": "https://x.com/Q2580248/status/2016931023502864425/photo/1",
+              "media_key": "3_2016931014900416513",
+              "start": 60,
+              "url": "https://t.co/si3V9AclsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016931023502864425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝子你继续边男女对立边当小三边心甘情愿挨操吧！我以为八千粉丝呢要当小网红结果才八百粉纯纯死妈纯欲女大一头你继续追着撕咬 https://t.co/si3V9AclsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 349,
+          "like_count": 7154,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1229
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T06:11:52.000Z",
+        "description": "我是小睡重开n世 已过布尔玛认证丨🚪288/520/1314",
+        "id": "1337278878021079041",
+        "location": "这是我门哥之前的号我拿过来用了",
+        "name": "假如给我6个布丁狗2.0",
+        "pinned_tweet_id": "2015104400533143888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015087574633590784/YwPkghgA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 22,
+          "like_count": 108,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 189
+        },
+        "username": "Q2580248",
+        "verified": false
+      }
+    ]
+  }
+}

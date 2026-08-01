@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001731747571208366",
+    "created_at": "2025-12-18T19:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T20:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001731747571208366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foofoo0126/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/foofoo0126/status/2001640052666044768",
+          "start": 8,
+          "url": "https://t.co/kZjjOQtW5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001731747571208366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001640052666044768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "引战的一把好手 https://t.co/kZjjOQtW5a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001731747571208366",
+        "created_at": "2025-12-18T19:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T20:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001731747571208366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foofoo0126/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/foofoo0126/status/2001640052666044768",
+              "start": 8,
+              "url": "https://t.co/kZjjOQtW5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001731747571208366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001640052666044768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "引战的一把好手 https://t.co/kZjjOQtW5a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991583046643183616",
+        "conversation_id": "2001640052666044768",
+        "created_at": "2025-12-18T13:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001640052666044768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001640052666044768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14656,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "绿推小女孩收个🚪你们骂是鸡，装疯卖傻的男的顶着傻逼男头要钱你们说他可爱捧着当神，你们有没有去看过医生？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 229,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 502
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T19:03:45.000Z",
+        "description": "蝴蝶眨几次眼睛",
+        "id": "1991583046643183616",
+        "name": "川麻1换3赢了100块",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998615002060861440/yJok91br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 23,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 196
+        },
+        "username": "foofoo0126",
+        "verified": false
+      }
+    ]
+  }
+}

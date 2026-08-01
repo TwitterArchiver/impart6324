@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028910858672415125",
+    "created_at": "2026-03-03T19:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T20:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028910858672415125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "703415134576705536",
+          "start": 3,
+          "username": "JyaXieng"
+        },
+        {
+          "end": 22,
+          "id": "1889695481938448384",
+          "start": 14,
+          "username": "PnKoZCN"
+        },
+        {
+          "end": 36,
+          "id": "1830775691375218688",
+          "start": 23,
+          "username": "YunoQiu56649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028910858672415125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028859855487095242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JyaXieng: @PnKoZCN @YunoQiu56649 你有啥大病吧，天天发讣告……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028910858672415125",
+        "created_at": "2026-03-03T19:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T20:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028910858672415125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "703415134576705536",
+              "start": 3,
+              "username": "JyaXieng"
+            },
+            {
+              "end": 22,
+              "id": "1889695481938448384",
+              "start": 14,
+              "username": "PnKoZCN"
+            },
+            {
+              "end": 36,
+              "id": "1830775691375218688",
+              "start": 23,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028910858672415125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028859855487095242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JyaXieng: @PnKoZCN @YunoQiu56649 你有啥大病吧，天天发讣告……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "703415134576705536",
+        "conversation_id": "2028845964971348094",
+        "created_at": "2026-03-03T15:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028859855487095242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            },
+            {
+              "end": 22,
+              "id": "1830775691375218688",
+              "start": 9,
+              "username": "YunoQiu56649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028859855487095242",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028845964971348094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN @YunoQiu56649 你有啥大病吧，天天发讣告……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 449,
+          "like_count": 10411,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-27T03:03:31.000Z",
+        "description": "Suicidal",
+        "id": "703415134576705536",
+        "name": "Apolunar/掠掠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839213052157161472/9rR_GKkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1563,
+          "like_count": 5417,
+          "listed_count": 11,
+          "media_count": 684,
+          "tweet_count": 20043
+        },
+        "username": "JyaXieng",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 生产日期2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 私信互fo | 不OD💊 | 不自残🔪 | 不抽烟🚬 | 不喝酒🍻 | 暂无心理以及身体疾病 | ✉️匿名信箱:https://t.co/MQTknnuIgG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pnkozcn",
+                "end": 152,
+                "expanded_url": "https://ngl.link/pnkozcn",
+                "start": 129,
+                "url": "https://t.co/MQTknnuIgG"
+              }
+            ]
+          }
+        },
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2028774606740553931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 387,
+          "like_count": 4,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 568
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T01:13:22.000Z",
+        "description": "互fo求求了喵~🥺｜除了初始头像外无视成分回fo😘｜生产日期07.04.02｜拒绝键政😡搞性别对立的也滚😡｜HRT2026.1.12｜2.25炸柜 家长不管党｜中焦 中抑｜如果感觉我的言论冒犯到了你 请和我说｜给这当QQ空间用了 QQ不能说的在这说 记录日常喵(负能量慎入)💤｜看我的帖不喜勿喷，喷我也要发😋",
+        "id": "1830775691375218688",
+        "location": "天堂",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥",
+        "pinned_tweet_id": "2026635958226211067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1403,
+          "like_count": 6107,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 9340
+        },
+        "username": "YunoQiu56649",
+        "verified": false
+      }
+    ]
+  }
+}

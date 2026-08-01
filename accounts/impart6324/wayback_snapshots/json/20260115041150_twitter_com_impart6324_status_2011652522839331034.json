@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011652522839331034",
+    "created_at": "2026-01-15T04:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T05:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011652522839331034"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011652522839331034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我无法接受我没办法啃老的现实 让我装逼的后台和听话当狗就有安稳日子的未来已经被我作没😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011652522839331034",
+        "created_at": "2026-01-15T04:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T05:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011652522839331034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011652522839331034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我无法接受我没办法啃老的现实 让我装逼的后台和听话当狗就有安稳日子的未来已经被我作没😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 304,
+          "like_count": 5629,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 819
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

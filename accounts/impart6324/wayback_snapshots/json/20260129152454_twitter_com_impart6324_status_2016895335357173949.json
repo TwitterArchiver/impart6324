@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016892718220530058",
+    "created_at": "2026-01-29T15:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016895335357173949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842096170107338754",
+          "start": 0,
+          "username": "hotjellyfishnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016895335357173949",
+    "in_reply_to_user_id": "1842096170107338754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016892718220530058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotjellyfishnya 主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10800,
+        "height": 960,
+        "media_key": "13_2016892660049727492",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016892660049727492/img/9AHZ7dLwnd37SRJz.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016892660049727492/vid/avc1/320x426/EaYAsYWyyzIWVp_-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016892660049727492/vid/avc1/480x640/j0DaqxMfNlHAMK3h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016892660049727492/vid/avc1/720x960/NNfQKOoLJ06pY0Py.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016892660049727492/pl/ZUZEaxhUGIVx8-vY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016892718220530058",
+        "created_at": "2026-01-29T15:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016895335357173949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842096170107338754",
+              "start": 0,
+              "username": "hotjellyfishnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016895335357173949",
+        "in_reply_to_user_id": "1842096170107338754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016892718220530058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotjellyfishnya 主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016892660049727492"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "2016892718220530058",
+        "created_at": "2026-01-29T15:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016892718220530058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "娼年贞德"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "cos"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "池咲ミサ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuhReu9La3",
+              "end": 50,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2016892718220530058/video/1",
+              "media_key": "13_2016892660049727492",
+              "start": 27,
+              "url": "https://t.co/TuhReu9La3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016892718220530058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神父又整新的花活了\n#娼年贞德 #cos #池咲ミサ https://t.co/TuhReu9La3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 348,
+          "like_count": 7144,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1262
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "珍惜每个喜欢我的人 | 172/47 | 日本留学| 中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "name": "火热的小水母",
+        "pinned_tweet_id": "1978386997711343794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 298,
+          "like_count": 903,
+          "listed_count": 16,
+          "media_count": 114,
+          "tweet_count": 271
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

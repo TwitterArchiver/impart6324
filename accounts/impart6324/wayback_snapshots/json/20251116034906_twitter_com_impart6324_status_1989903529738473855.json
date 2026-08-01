@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989282827964416400",
+    "created_at": "2025-11-16T03:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989903529738473855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908697686917996547",
+          "start": 0,
+          "username": "wOcCcaO_"
+        },
+        {
+          "end": 18,
+          "id": "1926634928596234240",
+          "start": 10,
+          "username": "nmsl811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989903529738473855",
+    "in_reply_to_user_id": "1908697686917996547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989844107779584462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wOcCcaO_ @nmsl811 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989282827964416400",
+        "created_at": "2025-11-16T03:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989903529738473855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908697686917996547",
+              "start": 0,
+              "username": "wOcCcaO_"
+            },
+            {
+              "end": 18,
+              "id": "1926634928596234240",
+              "start": 10,
+              "username": "nmsl811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989903529738473855",
+        "in_reply_to_user_id": "1908697686917996547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989844107779584462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wOcCcaO_ @nmsl811 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908697686917996547",
+        "conversation_id": "1989282827964416400",
+        "created_at": "2025-11-15T23:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T00:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989844107779584462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926634928596234240",
+              "start": 0,
+              "username": "nmsl811"
+            },
+            {
+              "end": 20,
+              "id": "1597065444136919040",
+              "start": 9,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989844107779584462",
+        "in_reply_to_user_id": "1926634928596234240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989738355907780622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmsl811 @impart6324 你俩在一起吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1989711690615939511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 357,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 189
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的人类，社畜，我想发什么就发什么，不要骂我，欢迎和我交朋友",
+        "id": "1908697686917996547",
+        "name": "我操，",
+        "pinned_tweet_id": "1965807422003634597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965801618093244416/3CnOe8QP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 246,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2710
+        },
+        "username": "wOcCcaO_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T13:43:04.000Z",
+        "description": "天地一插",
+        "id": "1926634928596234240",
+        "name": "Mitaka Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110283640442881/zoGkaoSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 139,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "nmsl811",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032808746322374662"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2032808755713425461",
+    "created_at": "2026-03-14T13:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T14:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032808755713425461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DLjVyG4yOP",
+          "end": 34,
+          "expanded_url": "https://x.com/impart6324/status/2032808755713425461/photo/1",
+          "media_key": "3_2032808746322374662",
+          "start": 11,
+          "url": "https://t.co/DLjVyG4yOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032808755713425461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一线城市底层边缘人群 https://t.co/DLjVyG4yOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032808746322374662",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDX8yNTaMAYZkPg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032808746322374662"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2032808755713425461",
+        "created_at": "2026-03-14T13:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032808755713425461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DLjVyG4yOP",
+              "end": 34,
+              "expanded_url": "https://x.com/impart6324/status/2032808755713425461/photo/1",
+              "media_key": "3_2032808746322374662",
+              "start": 11,
+              "url": "https://t.co/DLjVyG4yOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032808755713425461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一线城市底层边缘人群 https://t.co/DLjVyG4yOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 445,
+          "like_count": 10961,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

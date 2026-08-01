@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011480824135254022",
+    "created_at": "2026-01-14T18:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T19:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011499726894743865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Chessiaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011499726894743865",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011480824135254022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chessiaya 你选头像还挺厉害的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_2011480814874234882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-o3JNMXkAILK7C.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011480824135254022",
+        "created_at": "2026-01-14T18:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011499726894743865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Chessiaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011499726894743865",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011480824135254022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chessiaya 你选头像还挺厉害的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011480814874234882"
+          ]
+        },
+        "author_id": "1985353024244793345",
+        "conversation_id": "2011480824135254022",
+        "created_at": "2026-01-14T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011480824135254022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2wa519Giw",
+              "end": 29,
+              "expanded_url": "https://x.com/Chessiaya/status/2011480824135254022/photo/1",
+              "media_key": "3_2011480814874234882",
+              "start": 6,
+              "url": "https://t.co/X2wa519Giw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011480824135254022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2140,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选吧^ ^ https://t.co/X2wa519Giw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "低素质人群",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 304,
+          "like_count": 5591,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 810
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "珍珠鸟",
+        "id": "1985353024244793345",
+        "location": "paradise",
+        "name": "我等一会再回家",
+        "pinned_tweet_id": "1998046247324942572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004941655280156676/Ygy6PaPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 309,
+          "like_count": 9123,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1111
+        },
+        "username": "Chessiaya",
+        "verified": false
+      }
+    ]
+  }
+}

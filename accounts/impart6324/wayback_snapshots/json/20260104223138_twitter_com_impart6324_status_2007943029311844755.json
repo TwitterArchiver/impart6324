@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006382577448570880"
+      ],
+      "media_source_tweet_id": [
+        "2006382672789283171"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007943029311844755",
+    "created_at": "2026-01-04T22:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T23:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007943029311844755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002819291087777792",
+          "start": 3,
+          "username": "Yamikawaiiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRePrxor6f",
+          "end": 49,
+          "expanded_url": "https://x.com/Yamikawaiiiiii/status/2006382672789283171/video/1",
+          "media_key": "13_2006382577448570880",
+          "start": 26,
+          "url": "https://t.co/JRePrxor6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007943029311844755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006382672789283171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamikawaiiiiii: 我被脑控了 https://t.co/JRePrxor6f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007943029311844755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007943029311844755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007943029311844755"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6266,
+        "height": 1280,
+        "media_key": "13_2006382577448570880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006382577448570880/img/mNbmBiHyjcoDGxP5.jpg",
+        "public_metrics": {
+          "view_count": 190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006382577448570880/vid/avc1/320x568/709XQj_UGwbjKm58.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006382577448570880/vid/avc1/480x852/a4QBoCYqL0_o95Za.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006382577448570880/vid/avc1/720x1280/1Ucf48gqI4dbdcV3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006382577448570880/pl/a8tym6KHpWOX6T2V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006382577448570880"
+          ]
+        },
+        "author_id": "2002819291087777792",
+        "conversation_id": "2006382672789283171",
+        "created_at": "2025-12-31T15:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006382672789283171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRePrxor6f",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2006382672789283171/video/1",
+              "media_key": "13_2006382577448570880",
+              "start": 6,
+              "url": "https://t.co/JRePrxor6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006382672789283171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被脑控了 https://t.co/JRePrxor6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 269,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 734
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我的小星星是💟💟💟@nmslwcnm8964  只想和漂亮的和真心的人玩儿 谁和我真心换真心？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "nmslwcnm8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006123149180776448/t3Xwa79T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 101,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

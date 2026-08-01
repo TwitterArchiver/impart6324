@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2005016525162643498",
+    "created_at": "2025-12-27T20:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T21:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005016525162643498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azikawaii29/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/azikawaii29/status/2003046270437613868",
+          "start": 3,
+          "url": "https://t.co/QKk9OaLHE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005016525162643498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003046270437613868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去 https://t.co/QKk9OaLHE1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2005016525162643498",
+        "created_at": "2025-12-27T20:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005016525162643498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azikawaii29/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/azikawaii29/status/2003046270437613868",
+              "start": 3,
+              "url": "https://t.co/QKk9OaLHE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005016525162643498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003046270437613868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去 https://t.co/QKk9OaLHE1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001742934325235712",
+        "conversation_id": "2003046270437613868",
+        "created_at": "2025-12-22T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003046270437613868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003046270437613868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我全家死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 246,
+          "like_count": 3755,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 538
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T19:54:48.000Z",
+        "description": "",
+        "id": "2001742934325235712",
+        "name": "许昊龙",
+        "pinned_tweet_id": "2002355478475780496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001744932126773248/kPwROf-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "azikawaii29",
+        "verified": false
+      }
+    ]
+  }
+}

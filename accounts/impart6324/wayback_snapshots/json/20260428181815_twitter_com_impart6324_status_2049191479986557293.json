@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048990885279608832"
+      ],
+      "media_source_tweet_id": [
+        "2048990899267310016"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2049191479986557293",
+    "created_at": "2026-04-28T18:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T19:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049191479986557293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWRDJQMGoq",
+          "end": 54,
+          "expanded_url": "https://x.com/axzamyzed/status/2048990899267310016/photo/1",
+          "media_key": "3_2048990885279608832",
+          "start": 31,
+          "url": "https://t.co/wWRDJQMGoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049191479986557293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048990899267310016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 这啥意思？感觉两边都懂了我没懂 https://t.co/wWRDJQMGoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2048990885279608832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG96WqkasAAg8cO.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048990885279608832"
+          ],
+          "media_source_tweet_id": [
+            "2048990899267310016"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2049191479986557293",
+        "created_at": "2026-04-28T18:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049191479986557293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWRDJQMGoq",
+              "end": 54,
+              "expanded_url": "https://x.com/axzamyzed/status/2048990899267310016/photo/1",
+              "media_key": "3_2048990885279608832",
+              "start": 31,
+              "url": "https://t.co/wWRDJQMGoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049191479986557293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048990899267310016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 这啥意思？感觉两边都懂了我没懂 https://t.co/wWRDJQMGoq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048990885279608832"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2048990899267310016",
+        "created_at": "2026-04-28T05:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048990899267310016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWRDJQMGoq",
+              "end": 39,
+              "expanded_url": "https://x.com/axzamyzed/status/2048990899267310016/photo/1",
+              "media_key": "3_2048990885279608832",
+              "start": 16,
+              "url": "https://t.co/wWRDJQMGoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990899267310016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 1275763,
+          "like_count": 1415,
+          "quote_count": 3,
+          "reply_count": 402,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这啥意思？感觉两边都懂了我没懂 https://t.co/wWRDJQMGoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2046941323585069438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 1285,
+          "like_count": 11504,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信互关｜不关注我的私信一律不回｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 894,
+          "like_count": 10207,
+          "listed_count": 10,
+          "media_count": 1094,
+          "tweet_count": 5970
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

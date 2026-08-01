@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027332063029006835",
+    "created_at": "2026-02-27T10:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027333034463334572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027333034463334572",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027332063029006835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 好可爱吖"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8055,
+        "height": 1280,
+        "media_key": "13_2027331994599010304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027331994599010304/img/kWURZxUIn8OVgbGj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027331994599010304/vid/avc1/320x568/oYJZ9bSVqjUzPhGk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027331994599010304/vid/avc1/480x852/iPNrPNZBEJxeBiYN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027331994599010304/vid/avc1/720x1280/ksfqeHZzv9u4lJqd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027331994599010304/pl/L7GnYrczQTBvpTD-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027332063029006835",
+        "created_at": "2026-02-27T10:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027333034463334572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027333034463334572",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027332063029006835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 好可爱吖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027331994599010304"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2027332063029006835",
+        "created_at": "2026-02-27T10:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027332063029006835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7MpEKk4Sk",
+              "end": 32,
+              "expanded_url": "https://x.com/8964_Y/status/2027332063029006835/video/1",
+              "media_key": "13_2027331994599010304",
+              "start": 9,
+              "url": "https://t.co/q7MpEKk4Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027332063029006835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原本要送人的海豹 https://t.co/q7MpEKk4Sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 416,
+          "like_count": 9375,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2026260109337481668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 732,
+          "like_count": 20514,
+          "listed_count": 19,
+          "media_count": 1022,
+          "tweet_count": 14952
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

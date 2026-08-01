@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2038395107167350886",
+    "created_at": "2026-03-29T23:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038398185039864020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "988731026192023552",
+          "start": 0,
+          "username": "yunsanyugan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038398185039864020",
+    "in_reply_to_user_id": "988731026192023552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038395107167350886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunsanyugan 媳妇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2038395107167350886",
+        "created_at": "2026-03-29T23:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038398185039864020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "988731026192023552",
+              "start": 0,
+              "username": "yunsanyugan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038398185039864020",
+        "in_reply_to_user_id": "988731026192023552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038395107167350886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunsanyugan 媳妇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988731026192023552",
+        "conversation_id": "2038395107167350886",
+        "created_at": "2026-03-29T23:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038395107167350886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038395107167350886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心海荡漾，火烧云和金线钩织出的头发，日光奔走每一扇玻璃窗，人们苏醒而我们终于可以沉睡的春早，解线头一样解缠绕的眉头，花开对我不好，但因为花开所以没关系。就算想死，就算酗酒、吸毒、抢劫作恶，因为世界对罪往往更宽容，所以还ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2037954810453152213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1318,
+          "like_count": 11455,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-24T10:47:01.000Z",
+        "description": "随着运动的惯性到达的就是未来吗？",
+        "id": "988731026192023552",
+        "name": "BLOOM",
+        "pinned_tweet_id": "1621066453138145281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490506798477889539/3ZEkUZI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 191,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1424
+        },
+        "username": "yunsanyugan",
+        "verified": false
+      }
+    ]
+  }
+}

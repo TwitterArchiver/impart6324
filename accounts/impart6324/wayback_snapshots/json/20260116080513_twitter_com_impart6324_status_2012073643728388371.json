@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011761231334641903",
+    "created_at": "2026-01-16T08:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012073643728388371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012073643728388371",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011761231334641903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 傻逼玩意啥都谈不到破防了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011761231334641903",
+        "created_at": "2026-01-16T08:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012073643728388371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012073643728388371",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011761231334641903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 傻逼玩意啥都谈不到破防了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2011761231334641903",
+        "created_at": "2026-01-15T11:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011761231334641903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011761231334641903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 36002,
+          "like_count": 494,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "平等地讨厌和美女谈恋爱的丑男，以及和丑男谈恋爱的美女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 316,
+          "like_count": 5808,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 878
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 186,
+          "like_count": 29854,
+          "listed_count": 17,
+          "media_count": 329,
+          "tweet_count": 7201
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2018020473590931456"
+      ],
+      "media_source_tweet_id": [
+        "2018020524044251567"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018266508871491826",
+    "created_at": "2026-02-02T10:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018266508871491826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1371781187119710209",
+          "start": 3,
+          "username": "Ambar_SIFF_MRA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWNmlwMUkO",
+          "end": 126,
+          "expanded_url": "https://x.com/Ambar_SIFF_MRA/status/2018020524044251567/video/1",
+          "media_key": "7_2018020473590931456",
+          "start": 103,
+          "url": "https://t.co/fWNmlwMUkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018266508871491826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018020524044251567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ambar_SIFF_MRA: A Chinese woman who is known to be a menace in the society got a taste of equality https://t.co/fWNmlwMUkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20317,
+        "height": 1280,
+        "media_key": "7_2018020473590931456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018020473590931456/pu/img/Z2GoszYkbp_OEwR9.jpg",
+        "public_metrics": {
+          "view_count": 308272
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018020473590931456/pu/vid/avc1/320x568/Z_C6iK8P8R0EpY9x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018020473590931456/pu/vid/avc1/480x852/AksMGapC3r-iIftl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018020473590931456/pu/vid/avc1/720x1280/S-M8fYSxUMV2NtQl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018020473590931456/pu/pl/Nn258whfgP_3QLiA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018020473590931456"
+          ],
+          "media_source_tweet_id": [
+            "2018020524044251567"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018266508871491826",
+        "created_at": "2026-02-02T10:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018266508871491826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1371781187119710209",
+              "start": 3,
+              "username": "Ambar_SIFF_MRA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWNmlwMUkO",
+              "end": 126,
+              "expanded_url": "https://x.com/Ambar_SIFF_MRA/status/2018020524044251567/video/1",
+              "media_key": "7_2018020473590931456",
+              "start": 103,
+              "url": "https://t.co/fWNmlwMUkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018266508871491826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018020524044251567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ambar_SIFF_MRA: A Chinese woman who is known to be a menace in the society got a taste of equality https://t.co/fWNmlwMUkO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018020473590931456"
+          ]
+        },
+        "author_id": "1371781187119710209",
+        "conversation_id": "2018020524044251567",
+        "created_at": "2026-02-01T17:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T18:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018020524044251567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWNmlwMUkO",
+              "end": 106,
+              "expanded_url": "https://x.com/Ambar_SIFF_MRA/status/2018020524044251567/video/1",
+              "media_key": "7_2018020473590931456",
+              "start": 83,
+              "url": "https://t.co/fWNmlwMUkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018020524044251567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 729,
+          "impression_count": 490052,
+          "like_count": 4830,
+          "quote_count": 82,
+          "reply_count": 442,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "A Chinese woman who is known to be a menace in the society got a taste of equality https://t.co/fWNmlwMUkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 382,
+          "like_count": 7452,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1245
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T11:11:47.000Z",
+        "description": "#MensRights #MGTOW | RTs are not endorsements | Wives/women filing fake cases will get triggered by my content, so stay away\n\n\n\n\n\nkpoop=instant block",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "MensRights"
+              },
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "MGTOW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "IndianMGTOW.com",
+                "end": 23,
+                "expanded_url": "https://IndianMGTOW.com",
+                "start": 0,
+                "url": "https://t.co/GwHBAICXNr"
+              }
+            ]
+          }
+        },
+        "id": "1371781187119710209",
+        "name": "Ambar",
+        "pinned_tweet_id": "1964729861223932384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524822958807449600/uVPGYPim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61359,
+          "following_count": 763,
+          "like_count": 165877,
+          "listed_count": 107,
+          "media_count": 11614,
+          "tweet_count": 75470
+        },
+        "url": "https://t.co/GwHBAICXNr",
+        "username": "Ambar_SIFF_MRA",
+        "verified": true
+      }
+    ]
+  }
+}

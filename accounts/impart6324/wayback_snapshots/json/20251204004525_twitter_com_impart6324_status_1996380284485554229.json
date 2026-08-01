@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996380284485554229",
+    "created_at": "2025-12-04T00:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T01:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996380284485554229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996380284485554229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "周围的人👫跟我交谈时🗣️轻松一眼👀就能看出他们的水平☝️压制他们👊🏻太轻松了😁❗但也造就了孤独🙂‍↔️同年龄❌根本没有同频🎧共振的人猛虎🐯总是独行🚶我现在也一样👊跟他人👯交谈宛如雄狮🦁降临野狗🐶群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996380284485554229",
+        "created_at": "2025-12-04T00:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T01:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996380284485554229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996380284485554229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周围的人👫跟我交谈时🗣️轻松一眼👀就能看出他们的水平☝️压制他们👊🏻太轻松了😁❗但也造就了孤独🙂‍↔️同年龄❌根本没有同频🎧共振的人猛虎🐯总是独行🚶我现在也一样👊跟他人👯交谈宛如雄狮🦁降临野狗🐶群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 223,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 406
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

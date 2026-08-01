@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000532256532942848"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000532294088744992",
+    "created_at": "2025-12-15T11:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000532294088744992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6dldyoVIrQ",
+          "end": 32,
+          "expanded_url": "https://x.com/impart6324/status/2000532294088744992/photo/1",
+          "media_key": "3_2000532256532942848",
+          "start": 9,
+          "url": "https://t.co/6dldyoVIrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000532294088744992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黄狗请我吃肯德基 https://t.co/6dldyoVIrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2000532256532942848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NRfPBbUAAk_D7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000532256532942848"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000532294088744992",
+        "created_at": "2025-12-15T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000532294088744992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dldyoVIrQ",
+              "end": 32,
+              "expanded_url": "https://x.com/impart6324/status/2000532294088744992/photo/1",
+              "media_key": "3_2000532256532942848",
+              "start": 9,
+              "url": "https://t.co/6dldyoVIrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000532294088744992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄狗请我吃肯德基 https://t.co/6dldyoVIrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 224,
+          "like_count": 3008,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 482
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

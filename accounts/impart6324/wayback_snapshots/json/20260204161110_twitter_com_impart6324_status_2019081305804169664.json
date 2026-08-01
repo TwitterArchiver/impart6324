@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019074829673251125",
+    "created_at": "2026-02-04T16:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019081305804169664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995076111328509952",
+          "start": 0,
+          "username": "o_Ouser123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019081305804169664",
+    "in_reply_to_user_id": "1995076111328509952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019074829673251125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o_Ouser123 你啥区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019074829673251125",
+        "created_at": "2026-02-04T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019081305804169664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995076111328509952",
+              "start": 0,
+              "username": "o_Ouser123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019081305804169664",
+        "in_reply_to_user_id": "1995076111328509952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019074829673251125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o_Ouser123 你啥区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995076111328509952",
+        "conversation_id": "2019074829673251125",
+        "created_at": "2026-02-04T15:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019074829673251125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019074829673251125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你金铲铲打这么牛逼不早说？真是舔你舔轻了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 368,
+          "like_count": 7693,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:23:16.000Z",
+        "description": "只回应好听话和钱  不礼貌性回关有时候不想回评论",
+        "id": "1995076111328509952",
+        "name": "我有被爱妄想症",
+        "pinned_tweet_id": "2018332310651994131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002942137712640/osx2RvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 131,
+          "like_count": 6205,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 1923
+        },
+        "username": "o_Ouser123",
+        "verified": false
+      }
+    ]
+  }
+}

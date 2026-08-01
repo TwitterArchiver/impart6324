@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025451248678580225"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025451391851135469",
+    "created_at": "2026-02-22T06:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025451391851135469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8beYgmX39l",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2025451391851135469/video/1",
+          "media_key": "13_2025451248678580225",
+          "start": 0,
+          "url": "https://t.co/8beYgmX39l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025451391851135469",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8beYgmX39l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18880,
+        "height": 1080,
+        "media_key": "13_2025451248678580225",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025451248678580225/img/c-4oVaEF6yY5su3J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025451248678580225/vid/avc1/640x360/GyAdWKaIWZhZTVBC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025451248678580225/vid/avc1/1280x720/ZMG_xXcXElC2As8n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025451248678580225/pl/A7MbEXh4JlNgRZI5.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025451248678580225/vid/avc1/1920x1080/6I1QhFPzbl1RXgXz.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025451248678580225/vid/avc1/480x270/veCIVIz42d4VBS1i.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025451248678580225"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025451391851135469",
+        "created_at": "2026-02-22T06:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025451391851135469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8beYgmX39l",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2025451391851135469/video/1",
+              "media_key": "13_2025451248678580225",
+              "start": 0,
+              "url": "https://t.co/8beYgmX39l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025451391851135469",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8beYgmX39l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 405,
+          "like_count": 8972,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

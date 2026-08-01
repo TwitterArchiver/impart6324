@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024214296822239376",
+    "created_at": "2026-02-18T20:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T21:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024214296822239376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227801336525156352",
+          "start": 3,
+          "username": "LonelySea0_0"
+        },
+        {
+          "end": 32,
+          "id": "2000826943206555649",
+          "start": 18,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024214296822239376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024165090866659443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LonelySea0_0: @pingapingu002 你光速取消置顶的样子真的很好笑，别一会尿裤子了😁我又不像你朋友爱当网络黑社会，单子都开不完见一个傻逼开一个我不亏死了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024214296822239376",
+        "created_at": "2026-02-18T20:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024214296822239376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227801336525156352",
+              "start": 3,
+              "username": "LonelySea0_0"
+            },
+            {
+              "end": 32,
+              "id": "2000826943206555649",
+              "start": 18,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024214296822239376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024165090866659443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LonelySea0_0: @pingapingu002 你光速取消置顶的样子真的很好笑，别一会尿裤子了😁我又不像你朋友爱当网络黑社会，单子都开不完见一个傻逼开一个我不亏死了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227801336525156352",
+        "conversation_id": "2024150897668784180",
+        "created_at": "2026-02-18T16:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024165090866659443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024165090866659443",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024162870045659490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 你光速取消置顶的样子真的很好笑，别一会尿裤子了😁我又不像你朋友爱当网络黑社会，单子都开不完见一个傻逼开一个我不亏死了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 403,
+          "like_count": 8870,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T03:47:21.000Z",
+        "description": "记者问问党死妈别打扰",
+        "id": "1227801336525156352",
+        "name": "天使查询查档人肉",
+        "pinned_tweet_id": "1839157001592648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635591683751690240/hptjUr_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 215,
+          "like_count": 5026,
+          "listed_count": 3,
+          "media_count": 674,
+          "tweet_count": 3021
+        },
+        "username": "LonelySea0_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "我是异性恋不聊骚不约清水推 叫我壮壮爸或者困困就好，在抖音说我推特的死全家\n上一个号的互关们你们私我一下我回关",
+        "id": "2000826943206555649",
+        "location": "码粒纳帮我注册了新号码粒纳好",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2003843366426234896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 199,
+          "like_count": 2508,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 692
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

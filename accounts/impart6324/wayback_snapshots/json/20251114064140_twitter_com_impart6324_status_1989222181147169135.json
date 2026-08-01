@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989221495764373641",
+    "created_at": "2025-11-14T06:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989222181147169135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1485288103925678082",
+          "start": 0,
+          "username": "Kveotaku7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989222181147169135",
+    "in_reply_to_user_id": "1485288103925678082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989221495764373641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kveotaku7 笑死我了有空一起喝酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989221489628065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5siZ8zasAAzSVr.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989221489644908544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5siZ83bsAAxOsm.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989221489653252096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5siZ85bAAAwJPB.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989221495764373641",
+        "created_at": "2025-11-14T06:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989222181147169135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1485288103925678082",
+              "start": 0,
+              "username": "Kveotaku7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989222181147169135",
+        "in_reply_to_user_id": "1485288103925678082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989221495764373641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kveotaku7 笑死我了有空一起喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989221489628065792",
+            "3_1989221489644908544",
+            "3_1989221489653252096"
+          ]
+        },
+        "author_id": "1485288103925678082",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989221495764373641",
+        "created_at": "2025-11-14T06:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989221495764373641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxLljhfQrC",
+              "end": 109,
+              "expanded_url": "https://x.com/Kveotaku7/status/1989221495764373641/photo/1",
+              "media_key": "3_1989221489628065792",
+              "start": 86,
+              "url": "https://t.co/kxLljhfQrC"
+            },
+            {
+              "display_url": "pic.x.com/kxLljhfQrC",
+              "end": 109,
+              "expanded_url": "https://x.com/Kveotaku7/status/1989221495764373641/photo/1",
+              "media_key": "3_1989221489644908544",
+              "start": 86,
+              "url": "https://t.co/kxLljhfQrC"
+            },
+            {
+              "display_url": "pic.x.com/kxLljhfQrC",
+              "end": 109,
+              "expanded_url": "https://x.com/Kveotaku7/status/1989221495764373641/photo/1",
+              "media_key": "3_1989221489653252096",
+              "start": 86,
+              "url": "https://t.co/kxLljhfQrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989221495764373641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真没招了，盗图的你们到底要干嘛？\n我一栋楼的邻居都刷到了，这下你们满意了？\n说是AI都没用，我现实朋友刷到的都是盗我图的账号……\n等下所有人都知道我私底下偷偷做网黄了😤 https://t.co/kxLljhfQrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 340,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 141
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T16:27:45.000Z",
+        "description": "沪168/100 在校艺术生 反差小狗 是个爱打游戏和看动漫的coser🚪520+v询价线下｜5200视频验证陪🥣电子女友 情绪价值拉满 只回复口令 感谢关注🐾（其他都是盗图哦！",
+        "id": "1485288103925678082",
+        "location": "⩌⩊⩌想线下询价都要先过门哦宝宝们",
+        "name": "香风智乃（仅此一号",
+        "pinned_tweet_id": "1973065565188030503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942283920231239680/2HKGIdru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144137,
+          "following_count": 321,
+          "like_count": 75,
+          "listed_count": 506,
+          "media_count": 110,
+          "tweet_count": 250
+        },
+        "username": "Kveotaku7",
+        "verified": false
+      }
+    ]
+  }
+}

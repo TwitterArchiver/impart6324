@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2004972091624624589",
+    "created_at": "2025-12-27T22:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T23:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005044803722211683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842096170107338754",
+          "start": 0,
+          "username": "hotjellyfishnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005044803722211683",
+    "in_reply_to_user_id": "1842096170107338754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004972091624624589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotjellyfishnya 你真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3166,
+        "height": 1280,
+        "media_key": "13_2004972035299315714",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004972035299315714/img/PlXmpb3CPpg2GLJz.jpg",
+        "public_metrics": {
+          "view_count": 108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004972035299315714/vid/avc1/320x568/kQKEpF1-mpbBRk0T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004972035299315714/vid/avc1/480x852/L9YcKZc6rb1mnpdk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004972035299315714/vid/avc1/720x1280/o_3YhSh7otuAqGwE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004972035299315714/pl/h6JLbsTdqz0feLez.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2004972091624624589",
+        "created_at": "2025-12-27T22:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T23:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005044803722211683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842096170107338754",
+              "start": 0,
+              "username": "hotjellyfishnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005044803722211683",
+        "in_reply_to_user_id": "1842096170107338754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004972091624624589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotjellyfishnya 你真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004972035299315714"
+          ]
+        },
+        "author_id": "1842096170107338754",
+        "conversation_id": "2004972091624624589",
+        "created_at": "2025-12-27T17:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004972091624624589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WI7QaNGvEz",
+              "end": 35,
+              "expanded_url": "https://x.com/hotjellyfishnya/status/2004972091624624589/video/1",
+              "media_key": "13_2004972035299315714",
+              "start": 12,
+              "url": "https://t.co/WI7QaNGvEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004972091624624589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 246,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "qf这个斗篷背后好好看 https://t.co/WI7QaNGvEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004916117643689986/9hYm62GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 246,
+          "like_count": 3768,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 541
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:55:47.000Z",
+        "description": "希望我们都能在这场相遇里感恩彼此的出现 172/47 | 日本留学| 中文 | 日本語 | English",
+        "id": "1842096170107338754",
+        "location": "🚪200/520",
+        "name": "邪恶的小水母",
+        "pinned_tweet_id": "1978386997711343794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995700593068048388/U6hsaGrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 219,
+          "like_count": 838,
+          "listed_count": 15,
+          "media_count": 110,
+          "tweet_count": 257
+        },
+        "username": "hotjellyfishnya",
+        "verified": false
+      }
+    ]
+  }
+}

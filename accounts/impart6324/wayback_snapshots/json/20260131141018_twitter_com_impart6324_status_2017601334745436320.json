@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017596834672480291",
+    "created_at": "2026-01-31T14:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017601334745436320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618206767506137091",
+          "start": 0,
+          "username": "zhoxn14039196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017601334745436320",
+    "in_reply_to_user_id": "1618206767506137091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017601223671869510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoxn14039196 嗓子喊哑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017596834672480291",
+        "created_at": "2026-01-31T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017601334745436320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618206767506137091",
+              "start": 0,
+              "username": "zhoxn14039196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017601334745436320",
+        "in_reply_to_user_id": "1618206767506137091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017601223671869510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoxn14039196 嗓子喊哑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618206767506137091",
+        "conversation_id": "2017596834672480291",
+        "created_at": "2026-01-31T14:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017601223671869510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017601223671869510",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017596834672480291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 辣条音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 369,
+          "like_count": 7351,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1294
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T11:19:32.000Z",
+        "description": "",
+        "id": "1618206767506137091",
+        "name": "辛子",
+        "pinned_tweet_id": "1994839982377406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963195151201042432/Dmxh3J13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 521,
+          "like_count": 3290,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3227
+        },
+        "username": "zhoxn14039196",
+        "verified": false
+      }
+    ]
+  }
+}

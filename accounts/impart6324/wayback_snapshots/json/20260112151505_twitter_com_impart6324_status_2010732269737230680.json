@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010729395976393207",
+    "created_at": "2026-01-12T15:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010732269737230680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1659548960938409984",
+          "start": 0,
+          "username": "Lqlnlp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010732269737230680",
+    "in_reply_to_user_id": "1659548960938409984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010729868477211054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lqlnlp7 我接触网络好像是五年级 认知比普通人都高很多 但是也是因为这个我厌学最后彻底把照常计划搞砸了😵‍💫 我感觉不被理解也挺正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T15:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010732269737230680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1659548960938409984",
+              "start": 0,
+              "username": "Lqlnlp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010732269737230680",
+        "in_reply_to_user_id": "1659548960938409984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010729868477211054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lqlnlp7 我接触网络好像是五年级 认知比普通人都高很多 但是也是因为这个我厌学最后彻底把照常计划搞砸了😵‍💫 我感觉不被理解也挺正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659548960938409984",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T15:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010729868477211054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010729868477211054",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010729395976393207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 299,
+          "like_count": 5469,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 749
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "你好 在的",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "pinned_tweet_id": "2010687043480023433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008629862270189568/E_wbZsVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 371,
+          "like_count": 12832,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 4223
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      }
+    ]
+  }
+}

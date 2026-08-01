@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2057717817601151126",
+    "created_at": "2026-05-22T09:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057749942425563400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1883062625812217856",
+          "start": 0,
+          "username": "BZena31198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057749942425563400",
+    "in_reply_to_user_id": "1883062625812217856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057717817601151126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZena31198 因为你父母死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15116,
+        "height": 720,
+        "media_key": "7_2057717788412940288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057717788412940288/pu/img/ZVZy1LhjNAQDm3Hr.jpg",
+        "public_metrics": {
+          "view_count": 30299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057717788412940288/pu/vid/avc1/480x270/Rr4IzZNKXX0Bmu1e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057717788412940288/pu/vid/avc1/640x360/ZVLzhs3hQiwhiSoo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057717788412940288/pu/vid/avc1/1280x720/ew5S6JTf4F-HjvXM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057717788412940288/pu/pl/FqkXHiF8QG8uHrGY.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2057717817601151126",
+        "created_at": "2026-05-22T09:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057749942425563400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1883062625812217856",
+              "start": 0,
+              "username": "BZena31198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057749942425563400",
+        "in_reply_to_user_id": "1883062625812217856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057717817601151126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZena31198 因为你父母死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057717788412940288"
+          ]
+        },
+        "author_id": "1883062625812217856",
+        "conversation_id": "2057717817601151126",
+        "created_at": "2026-05-22T06:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057717817601151126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "怀孕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGTiv4MhK1",
+              "end": 82,
+              "expanded_url": "https://x.com/BZena31198/status/2057717817601151126/video/1",
+              "media_key": "7_2057717788412940288",
+              "start": 59,
+              "url": "https://t.co/BGTiv4MhK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057717817601151126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 76927,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 179,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "高中就怀孕我真的好难面对，连续焦虑失眠好几天了，根本不敢闭眼，我无法面对这一切，我也不敢告诉我的父母＃高中生 ＃怀孕 https://t.co/BGTiv4MhK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 518,
+          "like_count": 11529,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-25T08:01:42.000Z",
+        "description": "高冷话痨王/只关注帅哥/158的小土豆/\n话搭子我会互fo，我还是学生我不线下望尊重！白天在上课放学会回消息，无聊可以找我唠嗑，其他就不多介绍了，以免喜欢上我～",
+        "id": "1883062625812217856",
+        "name": "小欣怡",
+        "pinned_tweet_id": "2057368468702580803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055067479396040704/PjB3G-Gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 3,
+          "like_count": 33,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 60
+        },
+        "username": "BZena31198",
+        "verified": false
+      }
+    ]
+  }
+}

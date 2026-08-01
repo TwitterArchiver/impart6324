@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018215533573964284",
+    "created_at": "2026-02-02T08:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018235928767303844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904810780467294208",
+          "start": 0,
+          "username": "yaozuzhinv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018235928767303844",
+    "in_reply_to_user_id": "1904810780467294208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018232347255267355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaozuzhinv 那你先打我50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018215533573964284",
+        "created_at": "2026-02-02T08:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018235928767303844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904810780467294208",
+              "start": 0,
+              "username": "yaozuzhinv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018235928767303844",
+        "in_reply_to_user_id": "1904810780467294208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018232347255267355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaozuzhinv 那你先打我50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904810780467294208",
+        "conversation_id": "2018215533573964284",
+        "created_at": "2026-02-02T07:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018232347255267355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018232347255267355",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018226125194002455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 说起来这节约用钱的好习惯还是我娘从小教给我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "屏幕里的世界",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2018049537932406853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 382,
+          "like_count": 7443,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1321
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T08:21:01.000Z",
+        "description": "ASPD/恨我请给我打钱",
+        "id": "1904810780467294208",
+        "name": "白羲玥",
+        "pinned_tweet_id": "1989689458182996061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018231498575597568/f68yWzP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 2555,
+          "like_count": 4172,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 9339
+        },
+        "username": "yaozuzhinv",
+        "verified": false
+      }
+    ]
+  }
+}

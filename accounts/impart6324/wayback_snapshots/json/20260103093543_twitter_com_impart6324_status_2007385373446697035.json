@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007355433284219046",
+    "created_at": "2026-01-03T09:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007385373446697035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007385373446697035",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007355433284219046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 所以流汗是真生病了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2007355423461126149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uPH0lasAUF4v9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007355433284219046",
+        "created_at": "2026-01-03T09:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007385373446697035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007385373446697035",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007355433284219046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 所以流汗是真生病了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007355423461126149"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2007355433284219046",
+        "created_at": "2026-01-03T07:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007355433284219046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2lt8HGuL4",
+              "end": 56,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2007355433284219046/photo/1",
+              "media_key": "3_2007355423461126149",
+              "start": 33,
+              "url": "https://t.co/U2lt8HGuL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007355433284219046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 857,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了一下午了还有两瓶 我不行了 好崩溃 好累 自己一个人 好难过 https://t.co/U2lt8HGuL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 262,
+          "like_count": 4611,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 696
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288   我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              },
+              {
+                "end": 149,
+                "start": 141,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004723067512115201/9m669Wf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14734,
+          "following_count": 97,
+          "like_count": 6628,
+          "listed_count": 22,
+          "media_count": 775,
+          "tweet_count": 4456
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

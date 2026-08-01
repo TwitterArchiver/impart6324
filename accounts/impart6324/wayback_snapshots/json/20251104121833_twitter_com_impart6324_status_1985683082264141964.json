@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1985664215290692006",
+    "created_at": "2025-11-04T12:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985683082264141964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985683082264141964",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985682882808238585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 你谁啊我不p图的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1985664215290692006",
+        "created_at": "2025-11-04T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985683082264141964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985683082264141964",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985682882808238585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 你谁啊我不p图的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966173444414095360",
+        "conversation_id": "1985664215290692006",
+        "created_at": "2025-11-04T12:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985682882808238585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985682882808238585",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985664215290692006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 不行这张礼貌申请重修"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 285,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 189
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976685847413243905/wDVc8xIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 91,
+          "like_count": 8420,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 2416
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030960252703940614",
+    "created_at": "2026-03-09T22:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031128283123954147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943677617103929344",
+          "start": 0,
+          "username": "Nacluv6114"
+        },
+        {
+          "end": 24,
+          "id": "1958896241158299650",
+          "start": 12,
+          "username": "Cyb4rEnt1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031128283123954147",
+    "in_reply_to_user_id": "1943677617103929344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030967839201657209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacluv6114 @Cyb4rEnt1ty 我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030960252703940614",
+        "created_at": "2026-03-09T22:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031128283123954147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943677617103929344",
+              "start": 0,
+              "username": "Nacluv6114"
+            },
+            {
+              "end": 24,
+              "id": "1958896241158299650",
+              "start": 12,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031128283123954147",
+        "in_reply_to_user_id": "1943677617103929344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030967839201657209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacluv6114 @Cyb4rEnt1ty 我呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943677617103929344",
+        "conversation_id": "2030960252703940614",
+        "created_at": "2026-03-09T11:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030967839201657209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030967839201657209",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030960252703940614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty 你是目前为止我见过在我审美中第一梯队帅的男孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 454,
+          "like_count": 10773,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "所有结局都不是我想要的",
+        "id": "1943677617103929344",
+        "name": "nacl",
+        "pinned_tweet_id": "2028778555761742283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030903193723633664/aKk15lVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 201,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 734
+        },
+        "username": "Nacluv6114",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 381,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 3871
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      }
+    ]
+  }
+}

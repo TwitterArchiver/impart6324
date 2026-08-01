@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015156129802916210",
+    "created_at": "2026-01-24T21:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T22:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015172401244614711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877758854156763136",
+          "start": 0,
+          "username": "BaalHaded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015172401244614711",
+    "in_reply_to_user_id": "1877758854156763136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015156129802916210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaalHaded 别似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2015156112157523968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_dFzqgbQAAiJiG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015156129802916210",
+        "created_at": "2026-01-24T21:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015172401244614711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877758854156763136",
+              "start": 0,
+              "username": "BaalHaded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015172401244614711",
+        "in_reply_to_user_id": "1877758854156763136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015156129802916210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaalHaded 别似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015156112157523968"
+          ]
+        },
+        "author_id": "1877758854156763136",
+        "conversation_id": "2015156129802916210",
+        "created_at": "2026-01-24T20:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T21:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015156129802916210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7i3UhY0Poy",
+              "end": 49,
+              "expanded_url": "https://x.com/BaalHaded/status/2015156129802916210/photo/1",
+              "media_key": "3_2015156112157523968",
+              "start": 26,
+              "url": "https://t.co/7i3UhY0Poy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015156129802916210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机太老了，兼容不了X的最新版，只能网页刷推了。😢 https://t.co/7i3UhY0Poy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 337,
+          "like_count": 6598,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1085
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T16:46:18.000Z",
+        "description": "留意甜言蜜语与夜路小径。",
+        "id": "1877758854156763136",
+        "location": "Dreamlands",
+        "name": "臧否",
+        "pinned_tweet_id": "2009933425596391569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877804624071028736/rXsqD2ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 946,
+          "like_count": 19313,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3285
+        },
+        "username": "BaalHaded",
+        "verified": false
+      }
+    ]
+  }
+}

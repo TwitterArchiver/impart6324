@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2038312684504891750",
+    "created_at": "2026-03-29T20:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T21:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038359466643734876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038359466643734876",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038312684504891750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 死妈了你？半夜吓死老子了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2038312536760782848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmKc-baEAA5Lwz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2038312684504891750",
+        "created_at": "2026-03-29T20:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038359466643734876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038359466643734876",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038312684504891750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 死妈了你？半夜吓死老子了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038312536760782848"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2038312684504891750",
+        "created_at": "2026-03-29T17:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038312684504891750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xwRdPXRne",
+              "end": 83,
+              "expanded_url": "https://x.com/satireorcry1/status/2038312684504891750/photo/1",
+              "media_key": "3_2038312536760782848",
+              "start": 60,
+              "url": "https://t.co/8xwRdPXRne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038312684504891750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 61606,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "2016年，中国出现了“幽灵司机”骗局，一些优步司机故意把自己的个人资料弄得不真实，诱使乘客取消订单，从而收取取消费。 https://t.co/8xwRdPXRne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2037954810453152213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1318,
+          "like_count": 11453,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16768,
+          "following_count": 1420,
+          "like_count": 9647,
+          "listed_count": 36,
+          "media_count": 1653,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

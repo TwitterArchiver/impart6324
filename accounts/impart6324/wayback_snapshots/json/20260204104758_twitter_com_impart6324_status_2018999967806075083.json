@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018999960990285824"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018999967806075083",
+    "created_at": "2026-02-04T10:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018999967806075083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417794719229169665",
+          "start": 0,
+          "username": "Newagekami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5NfL0aQVQe",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2018999967806075083/photo/1",
+          "media_key": "3_2018999960990285824",
+          "start": 15,
+          "url": "https://t.co/5NfL0aQVQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018999967806075083",
+    "in_reply_to_user_id": "1417794719229169665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Newagekami 你好 https://t.co/5NfL0aQVQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018999960990285824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATtxHRagAAMwZB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018999960990285824"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018999967806075083",
+        "created_at": "2026-02-04T10:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018999967806075083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417794719229169665",
+              "start": 0,
+              "username": "Newagekami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NfL0aQVQe",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2018999967806075083/photo/1",
+              "media_key": "3_2018999960990285824",
+              "start": 15,
+              "url": "https://t.co/5NfL0aQVQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018999967806075083",
+        "in_reply_to_user_id": "1417794719229169665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Newagekami 你好 https://t.co/5NfL0aQVQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 366,
+          "like_count": 7595,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 105,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 89
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010729395976393207",
+    "created_at": "2026-01-12T16:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010753560330322321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1795090223652818944",
+          "start": 0,
+          "username": "suzukiAki_iii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010753560330322321",
+    "in_reply_to_user_id": "1795090223652818944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010740060845641983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzukiAki_iii 我初中很想当牙医因为我牙齿不好 我觉得当牙医非常赚钱 但是后面发现我理科很差 现在我很想跟做地偶活动主办方 但是没有钱所以被无限期推迟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T16:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010753560330322321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1795090223652818944",
+              "start": 0,
+              "username": "suzukiAki_iii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010753560330322321",
+        "in_reply_to_user_id": "1795090223652818944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010740060845641983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzukiAki_iii 我初中很想当牙医因为我牙齿不好 我觉得当牙医非常赚钱 但是后面发现我理科很差 现在我很想跟做地偶活动主办方 但是没有钱所以被无限期推迟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795090223652818944",
+        "conversation_id": "2010729395976393207",
+        "created_at": "2026-01-12T15:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010740060845641983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010740060845641983",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010729395976393207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 301,
+          "like_count": 5474,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 754
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T13:50:51.000Z",
+        "description": "一个可悲直女，这里当电子日记用/我无话可说",
+        "id": "1795090223652818944",
+        "location": "你家楼下垃圾桶",
+        "name": "鈴木亜吉_akiii",
+        "pinned_tweet_id": "1877057121667182904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839870665660477441/6lkGmZv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 385,
+          "like_count": 68841,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 3103
+        },
+        "username": "suzukiAki_iii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1989183416500359606",
+    "created_at": "2025-11-15T03:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989534930813038851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1289504272506392576",
+          "start": 0,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989534930813038851",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989532354617159842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabysnakeViolet 我还以为你故意不理我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1989183416500359606",
+        "created_at": "2025-11-15T03:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989534930813038851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989534930813038851",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989532354617159842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 我还以为你故意不理我呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989183416500359606",
+        "created_at": "2025-11-15T03:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989532354617159842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989532354617159842",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989531377998729658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 为啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 344,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 149
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 275,
+          "like_count": 1219,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1069
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

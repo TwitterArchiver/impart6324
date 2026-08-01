@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998393282695664033",
+    "created_at": "2025-12-09T14:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T15:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998397583715451049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998397583715451049",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998393282695664033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii 大妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_1998393270859366400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7u4F4cagAA_6d3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998393282695664033",
+        "created_at": "2025-12-09T14:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998397583715451049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998397583715451049",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998393282695664033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii 大妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998393270859366400"
+          ]
+        },
+        "author_id": "1989441591262810116",
+        "conversation_id": "1998393282695664033",
+        "created_at": "2025-12-09T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998393282695664033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9TpDzZjr9",
+              "end": 33,
+              "expanded_url": "https://x.com/eggykawaii/status/1998393282695664033/photo/1",
+              "media_key": "3_1998393270859366400",
+              "start": 10,
+              "url": "https://t.co/C9TpDzZjr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998393282695664033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无言默默流下一滴泪 https://t.co/C9TpDzZjr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 230,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 468
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 不想面对过去的自己开启了转生…没有看屌的义务 可以找我说话 家暴霸凌强奸被逼崩溃割手嗑药的小女孩 喜欢漂亮衣服香味的东西和狗 爱我请给钱🐥🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "1997746725403218375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996770572106452993/n7dUatHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 268,
+          "like_count": 508,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      }
+    ]
+  }
+}

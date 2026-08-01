@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2025451819162644790",
+    "created_at": "2026-02-24T01:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026101790463471771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026101790463471771",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026101718749196566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 我不嗑药的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2025451819162644790",
+        "created_at": "2026-02-24T01:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026101790463471771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026101790463471771",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026101718749196566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 我不嗑药的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2025451819162644790",
+        "created_at": "2026-02-24T01:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026101718749196566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026101718749196566",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025451819162644790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 主包是嗑大了嗎😇（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 411,
+          "like_count": 8930,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "男的請先過門！喜歡我請給我打錢~ \n\n姐姐：@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "OoOooo0518"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "香港",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2026100251741081913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014724390207029251/gp55jTni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 115,
+          "like_count": 2175,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 377
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

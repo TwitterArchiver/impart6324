@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992212442647331204",
+    "created_at": "2025-11-22T13:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992219127747166584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385979996439814157",
+          "start": 0,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992219127747166584",
+    "in_reply_to_user_id": "1385979996439814157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992212442647331204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5OL5OdJlYuZ62Wo 抗日损坏机器中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992212406379143168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XCoN9a4AAmNnS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992212406391767041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XCoOAbgAEwhhW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992212442647331204",
+        "created_at": "2025-11-22T13:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992219127747166584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992219127747166584",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992212442647331204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo 抗日损坏机器中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992212406379143168",
+            "3_1992212406391767041"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992212442647331204",
+        "created_at": "2025-11-22T12:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992212442647331204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyt7dsZmGL",
+              "end": 29,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1992212442647331204/photo/1",
+              "media_key": "3_1992212406379143168",
+              "start": 6,
+              "url": "https://t.co/xyt7dsZmGL"
+            },
+            {
+              "display_url": "pic.x.com/xyt7dsZmGL",
+              "end": 29,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1992212442647331204/photo/1",
+              "media_key": "3_1992212406391767041",
+              "start": 6,
+              "url": "https://t.co/xyt7dsZmGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992212442647331204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好几天没玩 https://t.co/xyt7dsZmGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 369,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 274
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "备用号@Owso6y_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Owso6y_"
+              }
+            ]
+          }
+        },
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1963505067027566827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57714,
+          "following_count": 10,
+          "like_count": 13451,
+          "listed_count": 153,
+          "media_count": 1285,
+          "tweet_count": 6109
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

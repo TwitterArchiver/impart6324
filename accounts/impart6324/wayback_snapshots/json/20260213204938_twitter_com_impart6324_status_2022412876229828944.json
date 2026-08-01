@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022349202383388836",
+    "created_at": "2026-02-13T20:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T21:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022412876229828944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015014031514554368",
+          "start": 0,
+          "username": "naclandkim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022412876229828944",
+    "in_reply_to_user_id": "2015014031514554368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022349202383388836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naclandkim 你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2022349198889472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDT4auaUAAp2Gf.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022349202383388836",
+        "created_at": "2026-02-13T20:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T21:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022412876229828944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015014031514554368",
+              "start": 0,
+              "username": "naclandkim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022412876229828944",
+        "in_reply_to_user_id": "2015014031514554368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022349202383388836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naclandkim 你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022349198889472000"
+          ]
+        },
+        "author_id": "2015014031514554368",
+        "conversation_id": "2022349202383388836",
+        "created_at": "2026-02-13T16:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022349202383388836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSc7T1O1VH",
+              "end": 23,
+              "expanded_url": "https://x.com/naclandkim/status/2022349202383388836/photo/1",
+              "media_key": "3_2022349198889472000",
+              "start": 0,
+              "url": "https://t.co/jSc7T1O1VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022349202383388836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jSc7T1O1VH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 393,
+          "like_count": 8394,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1502
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T10:49:27.000Z",
+        "description": "",
+        "id": "2015014031514554368",
+        "name": "nacl",
+        "pinned_tweet_id": "2019308839091507252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021950336144121856/mpwCVFyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 63,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "username": "naclandkim",
+        "verified": false
+      }
+    ]
+  }
+}

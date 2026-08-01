@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026971784872906752"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026972197315649924",
+    "created_at": "2026-02-26T10:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T11:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026972197315649924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0wSmZC1Ep",
+          "end": 96,
+          "expanded_url": "https://x.com/impart6324/status/2026972197315649924/video/1",
+          "media_key": "13_2026971784872906752",
+          "start": 73,
+          "url": "https://t.co/l0wSmZC1Ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026972197315649924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我村里也有个唐氏儿童，我倒是没见过，就是一直听别人谈话聊天的时候偷听到的，挺出名的，出门的时候都能听到他们一直在聊这个话题，我一过去他们就不聊了 https://t.co/l0wSmZC1Ep"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1920,
+        "media_key": "13_2026971784872906752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026971784872906752/img/PMakUhW0Cm-mW7L2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026971784872906752/vid/avc1/720x1280/GjXLbuvQsJNclcqk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026971784872906752/vid/avc1/1080x1920/7BACeSx_vdlT-35t.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026971784872906752/vid/avc1/320x568/Y-DiN80VQL6DCPZ4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026971784872906752/pl/BXi-50sc_maIumif.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026971784872906752/vid/avc1/480x852/PtBlqqya8z8f9t43.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026971784872906752"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026972197315649924",
+        "created_at": "2026-02-26T10:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026972197315649924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0wSmZC1Ep",
+              "end": 96,
+              "expanded_url": "https://x.com/impart6324/status/2026972197315649924/video/1",
+              "media_key": "13_2026971784872906752",
+              "start": 73,
+              "url": "https://t.co/l0wSmZC1Ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026972197315649924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我村里也有个唐氏儿童，我倒是没见过，就是一直听别人谈话聊天的时候偷听到的，挺出名的，出门的时候都能听到他们一直在聊这个话题，我一过去他们就不聊了 https://t.co/l0wSmZC1Ep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 415,
+          "like_count": 9286,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

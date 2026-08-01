@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030021513118896408",
+    "created_at": "2026-03-06T20:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T21:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030022781027635577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030022781027635577",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030021513118896408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 我曾经和你愛一个地雷女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2030021495192440832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwVy1taUAAp7b0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2030021495662202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwVy3daUAATo4E.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2030021495209218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwVy1xaUAABiQp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1940,
+        "media_key": "3_2030021495209218049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwVy1xaUAEFqRn.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030021513118896408",
+        "created_at": "2026-03-06T20:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030022781027635577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030022781027635577",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030021513118896408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 我曾经和你愛一个地雷女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030021495192440832",
+            "3_2030021495662202880",
+            "3_2030021495209218048",
+            "3_2030021495209218049"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2030021513118896408",
+        "created_at": "2026-03-06T20:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030021513118896408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHUf7cIg3P",
+              "end": 165,
+              "expanded_url": "https://x.com/y0zarashi/status/2030021513118896408/photo/1",
+              "media_key": "3_2030021495192440832",
+              "start": 142,
+              "url": "https://t.co/hHUf7cIg3P"
+            },
+            {
+              "display_url": "pic.x.com/hHUf7cIg3P",
+              "end": 165,
+              "expanded_url": "https://x.com/y0zarashi/status/2030021513118896408/photo/1",
+              "media_key": "3_2030021495662202880",
+              "start": 142,
+              "url": "https://t.co/hHUf7cIg3P"
+            },
+            {
+              "display_url": "pic.x.com/hHUf7cIg3P",
+              "end": 165,
+              "expanded_url": "https://x.com/y0zarashi/status/2030021513118896408/photo/1",
+              "media_key": "3_2030021495209218048",
+              "start": 142,
+              "url": "https://t.co/hHUf7cIg3P"
+            },
+            {
+              "display_url": "pic.x.com/hHUf7cIg3P",
+              "end": 165,
+              "expanded_url": "https://x.com/y0zarashi/status/2030021513118896408/photo/1",
+              "media_key": "3_2030021495209218049",
+              "start": 142,
+              "url": "https://t.co/hHUf7cIg3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030021513118896408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时间啊，能够快一点嘛。我等不及看到吴思嫣的男朋友拉小群。吴思嫣，就是一个工具性非常浓的角色，但是整个地球OL吧，不给你整出什么奇形怪状，确实也难说得过去，你忘记人被杀就会死，其他能出现的角色也不都是神人吗？其他人的内在素质也就那样呀，但吴思嫣，这种用着随时都想操男人的心理，弱智的精神状态，反而成了中推圈让我到现在都叹为观止的一个人物。她虽然是个妓女，而且脑子里真的只有和不同男人做爱这档事，但是主人公精神还挺强的。因为有钱难买她吴思嫣开心，只要让她觉得开心，她完全不觉得杀人和折寿是什么大事？甚至她换这么多男朋友都没有什么让人动人的悲惨故事发生。就好像是一个精神状态非常崩溃的异形，玩腻了自己的现男友，于是在报复自己现男友的路上，发现了让自己感兴趣的下一任现男友。最后，吴思燕在自己的QQ空间内写下了已黑化这三个大字，伴随着系统自动给出的今天是几月几号？我决定追求自己括号承认下一任男朋友,等看到自己的男朋友了，我的天，原来他家里这么有钱的吗？\n然后从中你还能发现 在吴思嫣的观点里卖淫不算卖，炮友算朋友，毒友算好友。从中像什么寄生虫一样，让每一位现男友破防了之后，变成前男友，接着在前男友的鲜血中寄生在下一个男友身上的故事。\n有幸在药派中操过吴思嫣的kuma和陈威，走向的两种截然不同的命运，我们可以看出共产党之伟大。kuma，曾在日留学生后因被开除只能回国，但他由于，留学生的高贵天龙人属性暂时隔绝了跟吴思嫣这种妓女的影响，直到彻底的回归中国大陆之后才大脑降级的替吴出头也仅仅只是因为在派对中操过一次罢了。而这样的女孩，kuma操过很多个，能把自己的真容掀开回魂的，也就这一个吧。\n陈威由福建当局逮捕并取保候审，至今一年都未给他解开，成功认清了 有吴思嫣的圈子就是一坨纯狗屎这核心道理，连笔者本人都无法在长达几个月的提升好感中攻破心房，可谓是在监狱中的各色高人中学到了龟息功了\n总而言之,吴思嫣在上海和笔者为期一个星期的恋爱当中光速不告而别并且送逼给黄狗下一任男朋友 成功寄生之后，为了快刀斩乱麻派遣曾经卖逼好友赵某某（不是保护妓女隐私，而是纯粹我不会念）准备先送我进去几年。吴思嫣大脑降级的智商只能提出，由自己的闺蜜去给远在天边的人送逼，只要送到逼了之后就报警，诬陷他强奸，抓他个正着。\n但这是更重量级，犯罪嫌疑人赵某某因为吴思嫣说送进去再给钱，然后要笔者的联系方式，她觉得男女之间打个炮不需要有感情，就这么明晃晃的勾引我，要求我立即前往四川宜宾在她的出租屋里进行诡异的强奸。我加上了微信，就感觉她言语怪怪的，通过欺骗要来了，他个人的要素成功查询出一张真实的个人信息，我立刻找到她在成都的老父老母的小区，并拍照留念，要求他讲个清楚，后来她哭丧的说：都是吴教唆她她才来的。\n由于吴思嫣身边每一个人仿佛都有降智光环般弱智，当我去向吴思嫣质问这件事情之时，吴思嫣女上势强暴了黄狗并且全程直播。\n\n后来的故事大家也都熟了，不过，在历史隐藏的一角。吴思嫣的亲爹，在开心的一天，突然从女儿的哭声中响起，50多都是实习律师的他连忙询问自己的女儿究竟发生了什么？\n吴思嫣在经历了刚刚想跳楼，因未知的原因打断她的仪式后又想去跳河被警察叔叔带回家装哭的她连忙说出了一句自己的男友。\n吴爹连忙起身冲了出去历经几公里终于到达了目的地一脚把黄狗的大门踹的开线\n谁啊？\n只见听：你为什么要对我女儿做这种事？\n黄狗就差点要了老命\n因为双方一对词发现打错了人。吴爹应该打我于是就这样吴爹放弃了帮自己女儿出头。\n\n终于在黄狗，忍无可忍，这个弱智女朋友之后，新的受害者闪亮登场。\n唉😭😭😭为什么，所有人都在伤害我吴。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间啊，能够快一点嘛。我等不及看到吴思嫣的男朋友拉小群。吴思嫣，就是一个工具性非常浓的角色，但是整个地球OL吧，不给你整出什么奇形怪状，确实也难说得过去，你忘记人被杀就会死，其他能出现的角色也不都是神人吗？其他人的内在素质也就那样呀，但吴思嫣，这种用着随时都想操男人的心理，弱智的精 https://t.co/hHUf7cIg3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 449,
+          "like_count": 10642,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "🚪30正常人形态把你当家人  🚪100以上天天骚扰你",
+        "name": "CallumL1（王烟洛欠我300块钱不还版）",
+        "pinned_tweet_id": "2029846488499593399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029821612485439488/1fYF_omP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 213,
+          "like_count": 98,
+          "listed_count": 6,
+          "media_count": 503,
+          "tweet_count": 1598
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

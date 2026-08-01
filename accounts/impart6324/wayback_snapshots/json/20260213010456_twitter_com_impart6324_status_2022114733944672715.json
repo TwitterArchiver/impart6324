@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021898714332483585"
+      ],
+      "media_source_tweet_id": [
+        "2021898721521471521"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022114733944672715",
+    "created_at": "2026-02-13T01:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T02:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022114733944672715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NL88Gesqwo",
+          "end": 38,
+          "expanded_url": "https://x.com/Retepa555/status/2021898721521471521/photo/1",
+          "media_key": "3_2021898714332483585",
+          "start": 15,
+          "url": "https://t.co/NL88Gesqwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022114733944672715",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021898721521471521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: https://t.co/NL88Gesqwo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022114733944672715].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022114733944672715",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022114733944672715"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2021898714332483585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA86Kw-bUAEp-cy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021898714332483585"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2021898721521471521",
+        "created_at": "2026-02-12T10:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021898721521471521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL88Gesqwo",
+              "end": 23,
+              "expanded_url": "https://x.com/Retepa555/status/2021898721521471521/photo/1",
+              "media_key": "3_2021898714332483585",
+              "start": 0,
+              "url": "https://t.co/NL88Gesqwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021898721521471521",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NL88Gesqwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 384,
+          "like_count": 8304,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女友好一切/民科/后现代/神必学游客/oder/查成分互fo｜济南or河南or陕西\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79800945",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79800945",
+                "start": 0,
+                "url": "https://t.co/wkea8c2PT4"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "互聯網",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 545,
+          "like_count": 13227,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/wkea8c2PT4",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

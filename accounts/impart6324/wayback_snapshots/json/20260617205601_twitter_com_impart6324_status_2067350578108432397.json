@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2067350578108432397",
+    "created_at": "2026-06-17T20:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067350578108432397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cristiano/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cristiano/status/2067340857020133837",
+          "start": 5,
+          "url": "https://t.co/bI3W6C3pkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067350578108432397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067340857020133837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼玩意 https://t.co/bI3W6C3pkD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2067339841902157824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCqogqXIAAPwky.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2067350578108432397",
+        "created_at": "2026-06-17T20:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067350578108432397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cristiano/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cristiano/status/2067340857020133837",
+              "start": 5,
+              "url": "https://t.co/bI3W6C3pkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067350578108432397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067340857020133837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼玩意 https://t.co/bI3W6C3pkD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067339841902157824"
+          ]
+        },
+        "author_id": "155659213",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337573579784193",
+              "name": "Portugal vs Congo DR"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337573579784193",
+              "name": "Portugal vs Congo DR"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337573579784193",
+              "name": "Portugal vs Congo DR"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180674715648",
+              "name": "Portugal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774146434269186",
+              "name": "Cristiano Ronaldo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2067340857020133837",
+        "created_at": "2026-06-17T20:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067340857020133837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoH3RQcz9z",
+              "end": 134,
+              "expanded_url": "https://x.com/Cristiano/status/2067340857020133837/photo/1",
+              "media_key": "3_2067339841902157824",
+              "start": 111,
+              "url": "https://t.co/YoH3RQcz9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067340857020133837",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1908,
+          "impression_count": 2901135,
+          "like_count": 167112,
+          "quote_count": 2081,
+          "reply_count": 9847,
+          "retweet_count": 12251
+        },
+        "reply_settings": "everyone",
+        "text": "Não era o arranque que queríamos, mas isto está longe de ter acabado. Cabeça levantada e foco no próximo jogo. https://t.co/YoH3RQcz9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 507,
+          "like_count": 11464,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-14T19:09:20.000Z",
+        "description": "Welcome to the official account of Cristiano Ronaldo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cristianoronaldo.com",
+                "end": 23,
+                "expanded_url": "https://www.cristianoronaldo.com/",
+                "start": 0,
+                "url": "https://t.co/Pc19xaN1Sp"
+              }
+            ]
+          }
+        },
+        "id": "155659213",
+        "name": "Cristiano Ronaldo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940344470290989057/1OUP8RgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109704725,
+          "following_count": 82,
+          "like_count": 98,
+          "listed_count": 77068,
+          "media_count": 2537,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/Pc19xaN1Sp",
+        "username": "Cristiano",
+        "verified": true
+      }
+    ]
+  }
+}

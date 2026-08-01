@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037002472271524110",
+    "created_at": "2026-03-26T05:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037032858791883058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037032858791883058",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037026881950933412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037002472271524110",
+        "created_at": "2026-03-26T05:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037032858791883058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037032858791883058",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037026881950933412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "conversation_id": "2037002472271524110",
+        "created_at": "2026-03-26T04:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037026881950933412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037026881950933412",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037002472271524110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 接到广告了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 1227,
+          "like_count": 11358,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗",
+        "id": "1724557026867781632",
+        "name": "你坐到我尾巴了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022118727941308416/8EVYn_tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 110,
+          "like_count": 7375,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 512
+        },
+        "username": "Peacock166",
+        "verified": false
+      }
+    ]
+  }
+}

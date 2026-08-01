@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017934188855632148",
+    "created_at": "2026-02-01T12:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T13:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017934188855632148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanaa2222/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yanaa2222/status/2017879754725339607",
+          "start": 15,
+          "url": "https://t.co/eXDisL4FZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017934188855632148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017879754725339607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想救赎反派的可以找我领收款码 https://t.co/eXDisL4FZv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017934188855632148",
+        "created_at": "2026-02-01T12:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017934188855632148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanaa2222/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yanaa2222/status/2017879754725339607",
+              "start": 15,
+              "url": "https://t.co/eXDisL4FZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017934188855632148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017879754725339607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想救赎反派的可以找我领收款码 https://t.co/eXDisL4FZv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899700532106928129",
+        "conversation_id": "2017879754725339607",
+        "created_at": "2026-02-01T08:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017879754725339607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017879754725339607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想救赎反派的可以找我领收款码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 381,
+          "like_count": 7373,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1303
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T05:54:48.000Z",
+        "description": "不知道不知道 啥也不知道",
+        "id": "1899700532106928129",
+        "location": "🚪188/388/520/1314/5200",
+        "name": "Lillian",
+        "pinned_tweet_id": "1999546050147975189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015439652971503616/E16oQ0vC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 129,
+          "like_count": 2215,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 812
+        },
+        "username": "yanaa2222",
+        "verified": false
+      }
+    ]
+  }
+}

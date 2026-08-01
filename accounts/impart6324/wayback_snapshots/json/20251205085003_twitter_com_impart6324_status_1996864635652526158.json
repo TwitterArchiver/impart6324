@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996864626127249409"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996864635652526158",
+    "created_at": "2025-12-05T08:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T09:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996864635652526158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1988913182828818433",
+          "start": 22,
+          "username": "raccoon0918"
+        },
+        {
+          "end": 49,
+          "id": "1947652886273368065",
+          "start": 35,
+          "username": "bucketyishere"
+        },
+        {
+          "end": 64,
+          "id": "1659548960938409984",
+          "start": 56,
+          "username": "Lqlnlp7"
+        },
+        {
+          "end": 83,
+          "id": "1916128320103890944",
+          "start": 71,
+          "username": "Angeldust_g"
+        },
+        {
+          "end": 92,
+          "id": "1667385380692439040",
+          "start": 84,
+          "username": "iuu_0_o"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 120,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1994854117727227904/ir2flYa-?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994854117727227904/ir2flYa-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/2zU27pccIF"
+        },
+        {
+          "display_url": "pic.x.com/zJzO2PpJqK",
+          "end": 144,
+          "expanded_url": "https://x.com/impart6324/status/1996864635652526158/photo/1",
+          "media_key": "3_1996864626127249409",
+          "start": 121,
+          "url": "https://t.co/zJzO2PpJqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996864635652526158",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @raccoon0918 @bucketyishere\n👰 配偶: @Lqlnlp7\n👶 孩子: @Angeldust_g @iuu_0_o\n\n➡️ https://t.co/2zU27pccIF https://t.co/zJzO2PpJqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1996864626127249409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZJzDDboAE9YOR.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996864626127249409"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996864635652526158",
+        "created_at": "2025-12-05T08:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996864635652526158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1988913182828818433",
+              "start": 22,
+              "username": "raccoon0918"
+            },
+            {
+              "end": 49,
+              "id": "1947652886273368065",
+              "start": 35,
+              "username": "bucketyishere"
+            },
+            {
+              "end": 64,
+              "id": "1659548960938409984",
+              "start": 56,
+              "username": "Lqlnlp7"
+            },
+            {
+              "end": 83,
+              "id": "1916128320103890944",
+              "start": 71,
+              "username": "Angeldust_g"
+            },
+            {
+              "end": 92,
+              "id": "1667385380692439040",
+              "start": 84,
+              "username": "iuu_0_o"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 120,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1994854117727227904/ir2flYa-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994854117727227904/ir2flYa-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/2zU27pccIF"
+            },
+            {
+              "display_url": "pic.x.com/zJzO2PpJqK",
+              "end": 144,
+              "expanded_url": "https://x.com/impart6324/status/1996864635652526158/photo/1",
+              "media_key": "3_1996864626127249409",
+              "start": 121,
+              "url": "https://t.co/zJzO2PpJqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996864635652526158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @raccoon0918 @bucketyishere\n👰 配偶: @Lqlnlp7\n👶 孩子: @Angeldust_g @iuu_0_o\n\n➡️ https://t.co/2zU27pccIF https://t.co/zJzO2PpJqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 227,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 461
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T10:13:56.000Z",
+        "description": "病み垢 08 フォロバ100% 🚺 jp/en/cn 出会い厨／エロ垢NG 砂糖/251→@dakongmao1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "dakongmao1"
+              }
+            ]
+          }
+        },
+        "id": "1988913182828818433",
+        "location": "無言フォロー失礼します",
+        "name": "ゆめ_rain",
+        "pinned_tweet_id": "1990511082969166023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988914160093069312/yjzpCM7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 252,
+          "like_count": 1499,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 166
+        },
+        "username": "raccoon0918",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "Bard 6 / Warlock 5/ Paranoid PD 9 multiclass",
+        "id": "1947652886273368065",
+        "location": "鼩鼱的巢穴",
+        "name": "情报弱智追逐事件",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995464498493132800/GH9TqFf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 474,
+          "like_count": 11394,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2295
+        },
+        "username": "bucketyishere",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "rain｜奇怪｜少女的沼泽泥泞迷茫无助晦涩难言低精力人群 你要往哪儿走 把我灵魂也带走 你也别管我 一个多面性的06 全职在家照顾手机女孩｜边缘性人格障碍｜门槛199",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "pinned_tweet_id": "1995777169713446956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943905864500252672/kUIi_98E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 351,
+          "like_count": 5672,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1827
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵｜#odtwt｜#shtwt 丨提问箱https://t.co/0uipWc5v1I",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "odtwt"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "tag": "shtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/angeldust_g",
+                "end": 54,
+                "expanded_url": "https://ngl.link/angeldust_g",
+                "start": 31,
+                "url": "https://t.co/0uipWc5v1I"
+              }
+            ]
+          }
+        },
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "pinned_tweet_id": "1980996131749572618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984254924574908416/c-FzOLn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 451,
+          "like_count": 3655,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2160
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "纯绿🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "U",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 176,
+          "like_count": 2481,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 960
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

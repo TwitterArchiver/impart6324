@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016772846144671772",
+    "created_at": "2026-01-29T08:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016787993403806093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1961642384158306304",
+          "start": 0,
+          "username": "Xinxinovo118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016787993403806093",
+    "in_reply_to_user_id": "1961642384158306304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016772846144671772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinxinovo118 我爸就这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2016772835117862912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0ENU3bkAAt0UQ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016772846144671772",
+        "created_at": "2026-01-29T08:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016787993403806093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1961642384158306304",
+              "start": 0,
+              "username": "Xinxinovo118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016787993403806093",
+        "in_reply_to_user_id": "1961642384158306304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016772846144671772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinxinovo118 我爸就这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016772835117862912"
+          ]
+        },
+        "author_id": "1961642384158306304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016772846144671772",
+        "created_at": "2026-01-29T07:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016772846144671772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eoiy3z5HAE",
+              "end": 30,
+              "expanded_url": "https://x.com/Xinxinovo118/status/2016772846144671772/photo/1",
+              "media_key": "3_2016772835117862912",
+              "start": 7,
+              "url": "https://t.co/Eoiy3z5HAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016772846144671772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃这素何意味 https://t.co/Eoiy3z5HAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 7072,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1245
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T04:09:41.000Z",
+        "description": "我再也不要成为任何人生命中的一点点",
+        "id": "1961642384158306304",
+        "name": "被子外的世界太复杂",
+        "pinned_tweet_id": "1992831060238024942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003278912361840640/sGCyiIWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 114,
+          "like_count": 2240,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 836
+        },
+        "username": "Xinxinovo118",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015761946294055094",
+    "created_at": "2026-01-26T13:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015774947650740699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464255548912721923",
+          "start": 0,
+          "username": "Reimu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015774947650740699",
+    "in_reply_to_user_id": "1464255548912721923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015774509018791958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reimu8964 删了🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015761946294055094",
+        "created_at": "2026-01-26T13:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015774947650740699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464255548912721923",
+              "start": 0,
+              "username": "Reimu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015774947650740699",
+        "in_reply_to_user_id": "1464255548912721923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015774509018791958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reimu8964 删了🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464255548912721923",
+        "conversation_id": "2015761946294055094",
+        "created_at": "2026-01-26T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015774509018791958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015774509018791958",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015761946294055094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 我纯看心情关注取关的...不过你介意的话就sry啦\n而且这种小事还要把我挂出来吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 345,
+          "like_count": 6709,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1154
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T15:31:55.000Z",
+        "description": "所有标签仅供参考 我即是我。\n泛性别/非二元/智性恋/爱美也爱钱/清水自留地/Liberalism/Feminism/自介在亮点/BDSM/Sub/Bottom/Maso/4i/纯受 不搞纳入式/transles/梦想成为美少女/叫我灵梦就好了/上海\n更多的我  @DJGunReimu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "DJGunReimu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onlyreimu/",
+                "end": 23,
+                "expanded_url": "https://ngl.link/onlyreimu/",
+                "start": 0,
+                "url": "https://t.co/BuycyNlVTK"
+              }
+            ]
+          }
+        },
+        "id": "1464255548912721923",
+        "location": "幻想乡",
+        "name": "灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230694648872960/hva2538p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1768,
+          "like_count": 11453,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 7857
+        },
+        "url": "https://t.co/BuycyNlVTK",
+        "username": "Reimu8964",
+        "verified": true
+      }
+    ]
+  }
+}

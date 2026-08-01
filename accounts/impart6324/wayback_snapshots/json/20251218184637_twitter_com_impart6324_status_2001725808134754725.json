@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001253416631459842",
+        "3_2001253416602071040",
+        "3_2001253416589557760"
+      ],
+      "media_source_tweet_id": [
+        "2001253492548362467",
+        "2001253492548362467",
+        "2001253492548362467"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2001725808134754725",
+    "created_at": "2025-12-18T18:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T19:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001725808134754725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1330801255673827328",
+          "start": 3,
+          "username": "peace86774949"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GRCRKjFH5t",
+          "end": 67,
+          "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+          "media_key": "13_2001253416631459842",
+          "start": 44,
+          "url": "https://t.co/GRCRKjFH5t"
+        },
+        {
+          "display_url": "pic.x.com/GRCRKjFH5t",
+          "end": 67,
+          "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+          "media_key": "3_2001253416602071040",
+          "start": 44,
+          "url": "https://t.co/GRCRKjFH5t"
+        },
+        {
+          "display_url": "pic.x.com/GRCRKjFH5t",
+          "end": 67,
+          "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+          "media_key": "3_2001253416589557760",
+          "start": 44,
+          "url": "https://t.co/GRCRKjFH5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001725808134754725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001459310870528198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peace86774949: 辱华视频来了，🤣🤣🔥🔥一群美国孩子在模仿中国学生 https://t.co/GRCRKjFH5t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55285,
+        "height": 1280,
+        "media_key": "13_2001253416631459842",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001253416631459842/img/y6PhVxUWTUy86Ao_.jpg",
+        "public_metrics": {
+          "view_count": 186649
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001253416631459842/vid/avc1/320x568/eiDC7vVBd0gxAhhb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001253416631459842/vid/avc1/480x852/l5VFX4qBwKyM2CbF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001253416631459842/vid/avc1/720x1280/cbT93QyyxoOMSfD0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001253416631459842/pl/DFDqiRdyaHHU4P0J.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2001253416602071040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XhYRoacAAUyIM.jpg",
+        "width": 796
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2001253416589557760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XhYRlbgAA25h-.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001253416631459842",
+            "3_2001253416602071040",
+            "3_2001253416589557760"
+          ],
+          "media_source_tweet_id": [
+            "2001253492548362467",
+            "2001253492548362467",
+            "2001253492548362467"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2001725808134754725",
+        "created_at": "2025-12-18T18:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001725808134754725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1330801255673827328",
+              "start": 3,
+              "username": "peace86774949"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 67,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "13_2001253416631459842",
+              "start": 44,
+              "url": "https://t.co/GRCRKjFH5t"
+            },
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 67,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "3_2001253416602071040",
+              "start": 44,
+              "url": "https://t.co/GRCRKjFH5t"
+            },
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 67,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "3_2001253416589557760",
+              "start": 44,
+              "url": "https://t.co/GRCRKjFH5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001725808134754725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001459310870528198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peace86774949: 辱华视频来了，🤣🤣🔥🔥一群美国孩子在模仿中国学生 https://t.co/GRCRKjFH5t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001253416631459842",
+            "3_2001253416602071040",
+            "3_2001253416589557760"
+          ],
+          "media_source_tweet_id": [
+            "2001253492548362467",
+            "2001253492548362467",
+            "2001253492548362467"
+          ]
+        },
+        "author_id": "1330801255673827328",
+        "conversation_id": "2001459310870528198",
+        "created_at": "2025-12-18T01:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T02:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001459310870528198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 48,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "13_2001253416631459842",
+              "start": 25,
+              "url": "https://t.co/GRCRKjFH5t"
+            },
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 48,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "3_2001253416602071040",
+              "start": 25,
+              "url": "https://t.co/GRCRKjFH5t"
+            },
+            {
+              "display_url": "pic.x.com/GRCRKjFH5t",
+              "end": 48,
+              "expanded_url": "https://x.com/wangjupaian/status/2001253492548362467/video/1",
+              "media_key": "3_2001253416589557760",
+              "start": 25,
+              "url": "https://t.co/GRCRKjFH5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001459310870528198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 165382,
+          "like_count": 1991,
+          "quote_count": 22,
+          "reply_count": 164,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "辱华视频来了，🤣🤣🔥🔥一群美国孩子在模仿中国学生 https://t.co/GRCRKjFH5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 228,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 500
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T09:12:13.000Z",
+        "description": "我热爱日本！世界和我们曾经认知的不一样，要拯救自己的只有奋起反抗，生命的价值不是别人付与，而是自我肯定。日本银河系农場！https://t.co/zkR2Di43nJ本人另号为：魔女peace@gggpeace7777. Take down CCP.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/B43G5yRg",
+                "end": 83,
+                "expanded_url": "https://discord.gg/B43G5yRg",
+                "start": 60,
+                "url": "https://t.co/zkR2Di43nJ"
+              }
+            ]
+          }
+        },
+        "id": "1330801255673827328",
+        "name": "摩女peace🌟🌟🌟银河系。新号，小心假号，这个是真的",
+        "pinned_tweet_id": "1825090174768021788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643115083600642055/DK1X9_SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42827,
+          "following_count": 390,
+          "like_count": 127447,
+          "listed_count": 90,
+          "media_count": 12306,
+          "tweet_count": 59701
+        },
+        "username": "peace86774949",
+        "verified": true
+      }
+    ]
+  }
+}

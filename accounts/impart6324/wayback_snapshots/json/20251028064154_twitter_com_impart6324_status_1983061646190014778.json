@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1983059151489261834",
+    "created_at": "2025-10-28T06:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983061646190014778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926634928596234240",
+          "start": 0,
+          "username": "nmsl811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983061646190014778",
+    "in_reply_to_user_id": "1926634928596234240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983059729632137414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmsl811 媳妇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1983059151489261834",
+        "created_at": "2025-10-28T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983061646190014778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926634928596234240",
+              "start": 0,
+              "username": "nmsl811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983061646190014778",
+        "in_reply_to_user_id": "1926634928596234240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983059729632137414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmsl811 媳妇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926634928596234240",
+        "conversation_id": "1983059151489261834",
+        "created_at": "2025-10-28T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983059729632137414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983059729632137414",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983059151489261834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 偷我图？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 258,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 137
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T13:43:04.000Z",
+        "description": "天地一插",
+        "id": "1926634928596234240",
+        "name": "Mitaka Asa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110283640442881/zoGkaoSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 118,
+          "like_count": 728,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "nmsl811",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2044272863457489113",
+    "created_at": "2026-04-15T04:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044277310560579656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041886093046640641",
+          "start": 0,
+          "username": "yanaa4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044277310560579656",
+    "in_reply_to_user_id": "2041886093046640641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044272863457489113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanaa4444 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044272845262618624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF63Ul3bAAA4pGu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2044272863457489113",
+        "created_at": "2026-04-15T04:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044277310560579656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041886093046640641",
+              "start": 0,
+              "username": "yanaa4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044277310560579656",
+        "in_reply_to_user_id": "2041886093046640641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044272863457489113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanaa4444 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044272845262618624"
+          ]
+        },
+        "author_id": "2041886093046640641",
+        "conversation_id": "2044272863457489113",
+        "created_at": "2026-04-15T04:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044272863457489113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "自撮い界隈"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0rEfSSTEO",
+              "end": 45,
+              "expanded_url": "https://x.com/yanaa4444/status/2044272863457489113/photo/1",
+              "media_key": "3_2044272845262618624",
+              "start": 22,
+              "url": "https://t.co/K0rEfSSTEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044272863457489113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "*新发布了一则推文 #自撮い界隈　#地雷系 https://t.co/K0rEfSSTEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2044185898900963423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038595911774076928/NwnmPvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 1262,
+          "like_count": 11358,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T14:30:15.000Z",
+        "description": "前世@yanaa2222 @yanaa3333 互fo互转可以私信我直fo可能看不到 互转三天一清防炸号 只回口令 没回评论置顶戳戳我 门槛无上限 喜欢我就给我钱让我幸福吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "yanaa2222"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "yanaa3333"
+              }
+            ]
+          }
+        },
+        "id": "2041886093046640641",
+        "location": "问题/验证/坐标20r",
+        "name": "あ！！小島！！！",
+        "pinned_tweet_id": "2041894206323748883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042923651750858759/vabWXbPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 21,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "username": "yanaa4444",
+        "verified": false
+      }
+    ]
+  }
+}

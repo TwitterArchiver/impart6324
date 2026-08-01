@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007708237244837893"
+      ],
+      "media_source_tweet_id": [
+        "2007708294954267099"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007727859734094273",
+    "created_at": "2026-01-04T08:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007727859734094273"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965926177987821568",
+          "start": 3,
+          "username": "moeu__u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDzqbTCoI2",
+          "end": 43,
+          "expanded_url": "https://x.com/moeu__u/status/2007708294954267099/video/1",
+          "media_key": "13_2007708237244837893",
+          "start": 20,
+          "url": "https://t.co/JDzqbTCoI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007727859734094273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007708294954267099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @moeu__u: #自撮り界隈 https://t.co/JDzqbTCoI2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10733,
+        "height": 960,
+        "media_key": "13_2007708237244837893",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007708237244837893/img/rajn-QHFOASbhsgc.jpg",
+        "public_metrics": {
+          "view_count": 128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007708237244837893/vid/avc1/320x568/eORbOoURvMe3PmDM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007708237244837893/vid/avc1/480x852/5SK5NWaBRshvElht.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007708237244837893/vid/avc1/540x960/YyQMqdRvb4-nlILM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007708237244837893/pl/vtBDlGQAgb5Jg8-c.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007708237244837893"
+          ],
+          "media_source_tweet_id": [
+            "2007708294954267099"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007727859734094273",
+        "created_at": "2026-01-04T08:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007727859734094273"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965926177987821568",
+              "start": 3,
+              "username": "moeu__u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDzqbTCoI2",
+              "end": 43,
+              "expanded_url": "https://x.com/moeu__u/status/2007708294954267099/video/1",
+              "media_key": "13_2007708237244837893",
+              "start": 20,
+              "url": "https://t.co/JDzqbTCoI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007727859734094273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007708294954267099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @moeu__u: #自撮り界隈 https://t.co/JDzqbTCoI2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007708237244837893"
+          ]
+        },
+        "author_id": "1965926177987821568",
+        "conversation_id": "2007708294954267099",
+        "created_at": "2026-01-04T06:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007708294954267099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDzqbTCoI2",
+              "end": 30,
+              "expanded_url": "https://x.com/moeu__u/status/2007708294954267099/video/1",
+              "media_key": "13_2007708237244837893",
+              "start": 7,
+              "url": "https://t.co/JDzqbTCoI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007708294954267099",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 712,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "#自撮り界隈 https://t.co/JDzqbTCoI2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 264,
+          "like_count": 4762,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 714
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T23:51:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@moeuoxou?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@moeuoxou?_r=1&_t=ZT-924im65FUUw",
+                "start": 0,
+                "url": "https://t.co/KLQZo807Bp"
+              }
+            ]
+          }
+        },
+        "id": "1965926177987821568",
+        "name": "もね",
+        "pinned_tweet_id": "1998999286286266876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998335027114110976/3LdR75Ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 13,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/KLQZo807Bp",
+        "username": "moeu__u",
+        "verified": false
+      }
+    ]
+  }
+}

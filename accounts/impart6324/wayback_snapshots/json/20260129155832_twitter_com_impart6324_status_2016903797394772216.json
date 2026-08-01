@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016902703302267174",
+    "created_at": "2026-01-29T15:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016903797394772216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016903797394772216",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016902703302267174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "合着别人开玩笑说一句没钱买宠物东西就不行 你就可以开玩笑说句自己也要开门槛是吧 你到底是哪里来的脸骂这些人 你骂大家原生家庭差 你妈个逼自己的境遇还真是站着说话不腰疼了 我真不敢想你这种傻逼都能开直播讲这些东西 你们这些人才是真正要滚出推特返回小红书的婊子吧 你尊重别人在哪里"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32888,
+        "height": 1280,
+        "media_key": "13_2016902616727638016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016902616727638016/img/FEg4f706-Gc8vOhY.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016902616727638016/vid/avc1/320x690/Gf-xLeTcaOUViZnU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016902616727638016/vid/avc1/480x1036/9K56H4YNp954idwT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016902616727638016/vid/avc1/592x1280/kSY4VVUsXvtiaZVc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016902616727638016/pl/KQcFwG_6-BXgRwYP.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-29T15:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016903797394772216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016903797394772216",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016902703302267174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合着别人开玩笑说一句没钱买宠物东西就不行 你就可以开玩笑说句自己也要开门槛是吧 你到底是哪里来的脸骂这些人 你骂大家原生家庭差 你妈个逼自己的境遇还真是站着说话不腰疼了 我真不敢想你这种傻逼都能开直播讲这些东西 你们这些人才是真正要滚出推特返回小红书的婊子吧 你尊重别人在哪里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016902616727638016"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016902703302267174",
+        "created_at": "2026-01-29T15:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016902703302267174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Uwib4z17n",
+              "end": 166,
+              "expanded_url": "https://x.com/impart6324/status/2016902703302267174/video/1",
+              "media_key": "13_2016902616727638016",
+              "start": 143,
+              "url": "https://t.co/3Uwib4z17n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016902703302267174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主页偶然刷到好奇查了半天成分 总结这人就是个从小活在爸妈温室里喜欢左右脑互博的傻逼 合着你就能无理由疯狂啃老 啃不了老的就必须按你心里的正规方式挣钱是吗 别人靠门槛也好卖逼也罢也是在凭借自己可以挣钱的方法在生活着吧 自己之前天天在推特分享自己的发骚日常 最后不让别人说自己的养宠物日常 https://t.co/3Uwib4z17n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 348,
+          "like_count": 7154,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1268
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

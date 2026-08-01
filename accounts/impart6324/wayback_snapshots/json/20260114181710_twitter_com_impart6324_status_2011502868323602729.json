@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011475590101287329",
+    "created_at": "2026-01-14T18:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T19:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011502868323602729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988874388972924930",
+          "start": 0,
+          "username": "kumokokono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011502868323602729",
+    "in_reply_to_user_id": "1988874388972924930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011475590101287329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumokokono 傻逼游戏 上了赋能之后再也没玩过"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32447,
+        "height": 720,
+        "media_key": "7_2011474967859449856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2011474967859449856/pu/img/rxJH13CTxEc4RxuL.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011474967859449856/pu/vid/avc1/480x270/csgjMAhOCfWD59bO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011474967859449856/pu/vid/avc1/640x360/DpQtblaBOj9Ni8j-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011474967859449856/pu/vid/avc1/1280x720/QqFjdqULrdFBIzOX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2011474967859449856/pu/pl/BN657gSyjKloURLD.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011475590101287329",
+        "created_at": "2026-01-14T18:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011502868323602729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988874388972924930",
+              "start": 0,
+              "username": "kumokokono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011502868323602729",
+        "in_reply_to_user_id": "1988874388972924930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011475590101287329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumokokono 傻逼游戏 上了赋能之后再也没玩过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2011474967859449856"
+          ]
+        },
+        "author_id": "1988874388972924930",
+        "conversation_id": "2011475590101287329",
+        "created_at": "2026-01-14T16:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011475590101287329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVE9vxNRgs",
+              "end": 37,
+              "expanded_url": "https://x.com/kumokokono/status/2011475590101287329/video/1",
+              "media_key": "7_2011474967859449856",
+              "start": 14,
+              "url": "https://t.co/MVE9vxNRgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011475590101287329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好怀念那个无所不能的自己 https://t.co/MVE9vxNRgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "低素质人群",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 304,
+          "like_count": 5607,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 812
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T07:39:53.000Z",
+        "description": "关于一些记录和监测\n\n我是水，实在需要一些刻板印象的话→精神疾病｜无立场｜intp｜acgn｜农学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumokokono",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumokokono",
+                "start": 0,
+                "url": "https://t.co/uQkz24mryS"
+              }
+            ]
+          }
+        },
+        "id": "1988874388972924930",
+        "location": "死亦如歌",
+        "name": "x@!nilj_tv",
+        "pinned_tweet_id": "2011145366998302779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988875885970354176/zvRIn1FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 119,
+          "like_count": 973,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/uQkz24mryS",
+        "username": "kumokokono",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1988064013595660311",
+    "created_at": "2025-11-11T02:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988077998818635785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1289504272506392576",
+          "start": 0,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988077998818635785",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988064013595660311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabysnakeViolet 我也要住大房子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1988064013595660311",
+        "created_at": "2025-11-11T02:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988077998818635785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988077998818635785",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988064013595660311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 我也要住大房子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988064013595660311",
+        "created_at": "2025-11-11T01:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988064013595660311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988064013595660311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上班的时候非常孤独，哪怕我每天要见很多很多人，要和很多人产生交集，要维护回头客，要寻找新客源，但我很孤独，那段时间我很痛苦，非常非常痛苦，我一个人住很大的房子，我每个凌晨骑车回家就开始尖叫，妈妈来看我锅里留的饭菜我没有吃，很久以后我打开锅盖，里面是密密麻麻蠕动的蛆虫，像我的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 341,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 246
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，原推名一刀脂肪层，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 244,
+          "like_count": 579,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 891
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

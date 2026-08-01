@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998692578951311832",
+    "created_at": "2025-12-10T09:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998692578951311832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jianlvup/status/1998539027415445537",
+          "start": 3,
+          "url": "https://t.co/ZTLmNa9Edw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998692578951311832",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998539027415445537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "55 https://t.co/ZTLmNa9Edw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_1998539024185831425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w8p15aMAEDPz1.jpg",
+        "width": 1211
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998692578951311832",
+        "created_at": "2025-12-10T09:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998692578951311832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jianlvup/status/1998539027415445537",
+              "start": 3,
+              "url": "https://t.co/ZTLmNa9Edw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998692578951311832",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998539027415445537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "55 https://t.co/ZTLmNa9Edw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998539024185831425"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998539027415445537",
+        "created_at": "2025-12-09T23:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998539027415445537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB6BsPTWQr",
+              "end": 32,
+              "expanded_url": "https://x.com/jianlvup/status/1998539027415445537/photo/1",
+              "media_key": "3_1998539024185831425",
+              "start": 9,
+              "url": "https://t.co/gB6BsPTWQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998539027415445537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 39369,
+          "like_count": 327,
+          "quote_count": 11,
+          "reply_count": 75,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "选择你的简中属性 https://t.co/gB6BsPTWQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 231,
+          "like_count": 2794,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 478
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎交流 爱评论点赞 \n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "jianlvya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997805636038570382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13692,
+          "following_count": 1137,
+          "like_count": 62592,
+          "listed_count": 46,
+          "media_count": 2203,
+          "tweet_count": 4953
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

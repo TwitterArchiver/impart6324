@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013971224796201422",
+    "created_at": "2026-01-22T11:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014297832648532474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014297832648532474",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013971224796201422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 都偷图了还找这么丑的图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013971224796201422",
+        "created_at": "2026-01-22T11:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014297832648532474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014297832648532474",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013971224796201422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 都偷图了还找这么丑的图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "2013971224796201422",
+        "created_at": "2026-01-21T13:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013971224796201422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgeq11nkr81469…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hgeq11nkr81469/status/2008084001735532919",
+              "start": 31,
+              "url": "https://t.co/lzIQK6DIh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013971224796201422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2488,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008084001735532919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小哥哥你右下角水印没截全，这边建议先别爆金币了，你妈刚刚爆了 https://t.co/lzIQK6DIh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 338,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1014
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用，不安会双取，匿名提问： https://t.co/qXcDn5CuS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 47,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 24,
+                "url": "https://t.co/qXcDn5CuS4"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪52",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 188,
+          "like_count": 31932,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3411
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

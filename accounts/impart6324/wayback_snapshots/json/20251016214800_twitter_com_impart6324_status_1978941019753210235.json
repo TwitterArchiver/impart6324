@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1978800893563978008",
+    "created_at": "2025-10-16T21:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T22:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978941019753210235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975036337616289792",
+          "start": 0,
+          "username": "Ashes_seto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978941019753210235",
+    "in_reply_to_user_id": "1975036337616289792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978800893563978008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ashes_seto 真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1978800893563978008",
+        "created_at": "2025-10-16T21:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T22:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978941019753210235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975036337616289792",
+              "start": 0,
+              "username": "Ashes_seto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978941019753210235",
+        "in_reply_to_user_id": "1975036337616289792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978800893563978008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ashes_seto 真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975036337616289792",
+        "conversation_id": "1978800893563978008",
+        "created_at": "2025-10-16T12:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978800893563978008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978800893563978008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听了一遍日本女生聊天，日本女生说话真的好萌啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "来看点黄",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 194,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T03:12:29.000Z",
+        "description": "🌈生活碎碎念｜社恐人｜人見知りする人｜百合アニメや漫画が好き｜#百合好きさんと繋がりたい｜DM歓迎｜無言フォロー失礼します",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 31,
+                "tag": "百合好きさんと繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "1975036337616289792",
+        "location": "Japan",
+        "name": "Seto.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976223469709950978/tveua7w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 91,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 145
+        },
+        "username": "Ashes_seto",
+        "verified": true
+      }
+    ]
+  }
+}

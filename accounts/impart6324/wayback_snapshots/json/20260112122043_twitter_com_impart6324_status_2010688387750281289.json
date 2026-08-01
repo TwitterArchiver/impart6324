@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2009259754858717562",
+    "created_at": "2026-01-12T12:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010688387750281289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1407321382766071811",
+          "start": 0,
+          "username": "abubupp"
+        },
+        {
+          "end": 19,
+          "id": "1485288103925678082",
+          "start": 9,
+          "username": "Kveotaku7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010688387750281289",
+    "in_reply_to_user_id": "1407321382766071811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009259754858717562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abubupp @Kveotaku7 母猪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22917,
+        "height": 592,
+        "media_key": "7_2009259713217912832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009259713217912832/pu/img/M0yOpzxalaPOlXD6.jpg",
+        "public_metrics": {
+          "view_count": 54174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009259713217912832/pu/vid/avc1/582x270/XqRD5jswQFgjIoQl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009259713217912832/pu/vid/avc1/778x360/sM4YVEC6zT1bW3AR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009259713217912832/pu/vid/avc1/1280x592/XEkBo0f9b-FiiUMO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009259713217912832/pu/pl/Jc2-oZMhlM9JD4Gf.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2009259754858717562",
+        "created_at": "2026-01-12T12:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010688387750281289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1407321382766071811",
+              "start": 0,
+              "username": "abubupp"
+            },
+            {
+              "end": 19,
+              "id": "1485288103925678082",
+              "start": 9,
+              "username": "Kveotaku7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010688387750281289",
+        "in_reply_to_user_id": "1407321382766071811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009259754858717562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abubupp @Kveotaku7 母猪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009259713217912832"
+          ]
+        },
+        "author_id": "1407321382766071811",
+        "conversation_id": "2009259754858717562",
+        "created_at": "2026-01-08T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009259754858717562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ygz6Fj1EP",
+              "end": 40,
+              "expanded_url": "https://x.com/abubupp/status/2009259754858717562/video/1",
+              "media_key": "7_2009259713217912832",
+              "start": 17,
+              "url": "https://t.co/5Ygz6Fj1EP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009259754858717562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 703,
+          "impression_count": 196652,
+          "like_count": 4092,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "逛超市了\n喜欢喝奶吗🙈\n这有鸭🐷 https://t.co/5Ygz6Fj1EP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 喜欢发自拍骂人清主页 看眼缘回关 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010439001862558193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 299,
+          "like_count": 5457,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 744
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T12:55:47.000Z",
+        "description": "🍟纯享版在媒体💋不定期清理推文🐷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/danaizhuzhu",
+                "end": 23,
+                "expanded_url": "http://fansone.co/danaizhuzhu",
+                "start": 0,
+                "url": "https://t.co/H1KiFRoM8x"
+              }
+            ]
+          }
+        },
+        "id": "1407321382766071811",
+        "location": "👇支持zfb订阅哦",
+        "name": "阿bubu",
+        "pinned_tweet_id": "2010606500222546233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764462017665171456/W1mB7kN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349828,
+          "following_count": 105,
+          "like_count": 9,
+          "listed_count": 1047,
+          "media_count": 45,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/H1KiFRoM8x",
+        "username": "abubupp",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T16:27:45.000Z",
+        "description": "在校艺术生 反差小狗 是个爱打游戏和看动漫的coser🚪520+v询价线下｜5200视频验证陪🥣电子女友绿色伴游 情绪价值拉满💕只回复口令 感谢关注🐾（其他都是盗图哦！",
+        "id": "1485288103925678082",
+        "location": "⩌⩊⩌想线下询价都要先过门哦宝宝们",
+        "name": "香风智乃（仅此一号",
+        "pinned_tweet_id": "2008885656228143461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942283920231239680/2HKGIdru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216713,
+          "following_count": 294,
+          "like_count": 148,
+          "listed_count": 631,
+          "media_count": 139,
+          "tweet_count": 398
+        },
+        "username": "Kveotaku7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2003055463433384079",
+    "created_at": "2025-12-22T10:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003055463433384079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0voki33me/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/0voki33me/status/2003046165898723767",
+          "start": 43,
+          "url": "https://t.co/BI13bl11bt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003055463433384079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003046165898723767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/BI13bl11bt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2003055463433384079",
+        "created_at": "2025-12-22T10:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003055463433384079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0voki33me/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/0voki33me/status/2003046165898723767",
+              "start": 43,
+              "url": "https://t.co/BI13bl11bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003055463433384079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003046165898723767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/BI13bl11bt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002727839322513829",
+        "created_at": "2025-12-22T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003046165898723767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003046165898723767",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002727839322513829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 228,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 480
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 544,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

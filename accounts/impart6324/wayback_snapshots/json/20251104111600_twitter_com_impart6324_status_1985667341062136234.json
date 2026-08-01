@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1985626549933281361",
+    "created_at": "2025-11-04T11:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T12:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985667341062136234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "bucketyishere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985667341062136234",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985626549933281361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketyishere 你是个人？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 258,
+        "media_key": "16_1985626537421615104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G45c0MOasAA2S0-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G45c0MOasAA2S0-.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1985626549933281361",
+        "created_at": "2025-11-04T11:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985667341062136234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "bucketyishere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985667341062136234",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985626549933281361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketyishere 你是个人？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1985626537421615104"
+          ]
+        },
+        "author_id": "1947652886273368065",
+        "conversation_id": "1985626549933281361",
+        "created_at": "2025-11-04T08:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985626549933281361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCpvKjbHRy",
+              "end": 48,
+              "expanded_url": "https://x.com/bucketyishere/status/1985626549933281361/photo/1",
+              "media_key": "16_1985626537421615104",
+              "start": 25,
+              "url": "https://t.co/rCpvKjbHRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985626549933281361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱运势差到玩每个galgame一周目都是坏结局 https://t.co/rCpvKjbHRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 285,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 188
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "Bard 6 / Warlock 5/ Paranoid PD 9 multiclass",
+        "id": "1947652886273368065",
+        "location": "夺命十头桶",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983893056337354752/32etKydU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 343,
+          "like_count": 6685,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1646
+        },
+        "username": "bucketyishere",
+        "verified": false
+      }
+    ]
+  }
+}

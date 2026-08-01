@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2056117616620826645",
+    "created_at": "2026-05-18T17:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056428962805612594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056428962805612594",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056191303336317019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 你也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2056117616620826645",
+        "created_at": "2026-05-18T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056428962805612594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056428962805612594",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056191303336317019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 你也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035873731441307648",
+        "conversation_id": "2056117616620826645",
+        "created_at": "2026-05-18T01:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056191303336317019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056191303336317019",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056117616620826645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 疤痕已经淡淡的了，希望你越来越好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 517,
+          "like_count": 11563,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035876296455311361/GEemVONV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 151
+        },
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

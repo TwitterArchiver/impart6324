@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2015057798900723972",
+    "created_at": "2026-01-24T13:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015057798900723972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingnai668/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lingnai668/status/2011495170962047234",
+          "start": 16,
+          "url": "https://t.co/TJ7hN33bpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015057798900723972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011495170962047234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国南正在转发 请耶稣保佑我谢谢 https://t.co/TJ7hN33bpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15050,
+        "height": 1280,
+        "media_key": "13_2011495093522612224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011495093522612224/img/B8Nuu9g6o0W0WhZE.jpg",
+        "public_metrics": {
+          "view_count": 3767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011495093522612224/vid/avc1/320x568/lvmAVfxEdcGfV26O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011495093522612224/vid/avc1/480x852/dCi3XW_7wuI_w5Pf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011495093522612224/vid/avc1/720x1280/8NJenkBlAyIAhxWy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011495093522612224/pl/yGg66TWkh6stJdo7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2015057798900723972",
+        "created_at": "2026-01-24T13:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015057798900723972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingnai668/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lingnai668/status/2011495170962047234",
+              "start": 16,
+              "url": "https://t.co/TJ7hN33bpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015057798900723972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011495170962047234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国南正在转发 请耶稣保佑我谢谢 https://t.co/TJ7hN33bpq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011495093522612224"
+          ]
+        },
+        "author_id": "2008874019593019393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2011495170962047234",
+        "created_at": "2026-01-14T17:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011495170962047234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98KSlZbZMu",
+              "end": 213,
+              "expanded_url": "https://x.com/lingnai668/status/2011495170962047234/video/1",
+              "media_key": "13_2011495093522612224",
+              "start": 190,
+              "url": "https://t.co/98KSlZbZMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011495170962047234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 20478,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "前世6kfo加 已过big叔万姬验证\nip杭州 全国🉑飞 已成年！！\n163cm/105斤/ē罩杯！！门槛：8️⃣8️⃣/1️⃣5️⃣0️⃣/2️⃣8️⃣8️⃣/5️⃣2️⃣0️⃣/1️⃣3️⃣1️⃣4️⃣….上不封顶\n转发本条抽一个宝宝免费入门 \n抽一个kfc 抽一个原味套装（内衣➕内裤➕丝袜\n🉑视频验证！！验证费20（可以抵扣门槛\n求小女孩互转互fo 妈妈活也接价格很低！ https://t.co/98KSlZbZMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 335,
+          "like_count": 6570,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1073
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T12:11:20.000Z",
+        "description": "ip杭州 已成年 163/105斤 e罩杯 已过big叔万姬验证 前世6k➕fo 🚪：88/150/288/388/520/1314/5200（上不封顶 验证20 具体坐标20 问问题20 入门请私信或者➕qq 3929869956",
+        "id": "2008874019593019393",
+        "name": "绫奈（可以视频验证",
+        "pinned_tweet_id": "2011495170962047234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008884235155935232/ZsxrNXlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 30,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "username": "lingnai668",
+        "verified": false
+      }
+    ]
+  }
+}

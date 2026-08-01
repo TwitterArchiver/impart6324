@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026889512820056408",
+    "created_at": "2026-02-26T05:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026892634644689305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2012530530320003073",
+          "start": 0,
+          "username": "lio0_s2"
+        },
+        {
+          "end": 22,
+          "id": "1523836008889946113",
+          "start": 9,
+          "username": "ive281031___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026892634644689305",
+    "in_reply_to_user_id": "2012530530320003073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026889512820056408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lio0_s2 @ive281031___ じゃあ、私は？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026889512820056408",
+        "created_at": "2026-02-26T05:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026892634644689305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2012530530320003073",
+              "start": 0,
+              "username": "lio0_s2"
+            },
+            {
+              "end": 22,
+              "id": "1523836008889946113",
+              "start": 9,
+              "username": "ive281031___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026892634644689305",
+        "in_reply_to_user_id": "2012530530320003073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026889512820056408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lio0_s2 @ive281031___ じゃあ、私は？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012530530320003073",
+        "conversation_id": "2026889512820056408",
+        "created_at": "2026-02-26T05:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026889512820056408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1523836008889946113",
+              "start": 0,
+              "username": "ive281031___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026889512820056408",
+        "in_reply_to_user_id": "1523836008889946113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ive281031___ \nフォローありがとねー、仲良くしよーね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 415,
+          "like_count": 9233,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T14:21:54.000Z",
+        "description": "みつけてくれてありがと♡/色々興味あります♡/教えてください!!/16🚺155cm/DMフォロワーさんだけ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/lio0_s2",
+                "end": 23,
+                "expanded_url": "https://note.com/lio0_s2",
+                "start": 0,
+                "url": "https://t.co/eB2fgmkDH3"
+              }
+            ]
+          }
+        },
+        "id": "2012530530320003073",
+        "name": "りお",
+        "pinned_tweet_id": "2026242448893284722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023683560482484225/mFIsCBnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 19,
+          "like_count": 2806,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/eB2fgmkDH3",
+        "username": "lio0_s2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-10T01:23:21.000Z",
+        "description": "カフェ巡りが趣味のジャニヲタ👑🍮",
+        "id": "1523836008889946113",
+        "location": "ふくお か",
+        "name": "いゔ",
+        "pinned_tweet_id": "1676198558327005184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526195712223891463/5hRyDoBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 766,
+          "like_count": 160381,
+          "listed_count": 63,
+          "media_count": 159,
+          "tweet_count": 19079
+        },
+        "username": "ive281031___",
+        "verified": true
+      }
+    ]
+  }
+}

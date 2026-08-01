@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2020814242862059630",
+    "created_at": "2026-02-09T13:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020849747683090741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001720933388800000",
+          "start": 0,
+          "username": "pmshn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020849747683090741",
+    "in_reply_to_user_id": "2001720933388800000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020814242862059630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pmshn9 我恨东北女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2020814242862059630",
+        "created_at": "2026-02-09T13:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020849747683090741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001720933388800000",
+              "start": 0,
+              "username": "pmshn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020849747683090741",
+        "in_reply_to_user_id": "2001720933388800000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020814242862059630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pmshn9 我恨东北女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001720933388800000",
+        "conversation_id": "2020814242862059630",
+        "created_at": "2026-02-09T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020814242862059630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020814242862059630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨苏州 我讨厌苏州人 就这样互关有苏州的也可以双取我😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 381,
+          "like_count": 7896,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:27:42.000Z",
+        "description": "可以叫我小洵  自残｜垃圾话｜碎碎念｜女孩子互fo大欢迎˃ 𖥦 ˂    @Gshyovo  @FuyuAsuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "Gshyovo"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "FuyuAsuku"
+              }
+            ]
+          }
+        },
+        "id": "2001720933388800000",
+        "location": "床上",
+        "name": "LIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001730224007057410/1nCgxPE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 159,
+          "like_count": 3394,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 344
+        },
+        "username": "pmshn9",
+        "verified": false
+      }
+    ]
+  }
+}

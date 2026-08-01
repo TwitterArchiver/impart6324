@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2016794208179540105",
+    "created_at": "2026-01-29T08:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016794208179540105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/abskoop/status/2016511129757856139",
+          "start": 8,
+          "url": "https://t.co/VBB2umdWhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016794208179540105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016511129757856139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收门槛接爸爸活 https://t.co/VBB2umdWhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2016511112863252480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wWLFfXgAAsSto.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2016794208179540105",
+        "created_at": "2026-01-29T08:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016794208179540105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/abskoop/status/2016511129757856139",
+              "start": 8,
+              "url": "https://t.co/VBB2umdWhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016794208179540105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016511129757856139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收门槛接爸爸活 https://t.co/VBB2umdWhb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016511112863252480"
+          ]
+        },
+        "author_id": "2262723812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016511129757856139",
+        "created_at": "2026-01-28T13:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016511129757856139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bklXh1ym8l",
+              "end": 38,
+              "expanded_url": "https://x.com/abskoop/status/2016511129757856139/photo/1",
+              "media_key": "3_2016511112863252480",
+              "start": 15,
+              "url": "https://t.co/bklXh1ym8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016511129757856139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 712588,
+          "like_count": 1443,
+          "quote_count": 5,
+          "reply_count": 177,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "今年的风口是啥\n\n你踩中了吗 https://t.co/bklXh1ym8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 349,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1246
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742863,
+          "following_count": 1203,
+          "like_count": 26093,
+          "listed_count": 2673,
+          "media_count": 23469,
+          "tweet_count": 60251
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

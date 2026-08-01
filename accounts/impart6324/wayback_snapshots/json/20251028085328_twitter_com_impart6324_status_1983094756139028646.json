@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1983094756139028646",
+    "created_at": "2025-10-28T08:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983094756139028646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shenxiao123971…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/shenxiao123971/status/1982755210075451575",
+          "start": 3,
+          "url": "https://t.co/PfD8V4qp2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983094756139028646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982755210075451575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "秋葵 https://t.co/PfD8V4qp2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_1982755196749877248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QpWKrWEAA2gA7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1983094756139028646",
+        "created_at": "2025-10-28T08:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983094756139028646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shenxiao123971…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/shenxiao123971/status/1982755210075451575",
+              "start": 3,
+              "url": "https://t.co/PfD8V4qp2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983094756139028646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982755210075451575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "秋葵 https://t.co/PfD8V4qp2J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982755196749877248"
+          ]
+        },
+        "author_id": "1939242814547914752",
+        "conversation_id": "1982755210075451575",
+        "created_at": "2025-10-27T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982755210075451575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMkOl0Ieru",
+              "end": 32,
+              "expanded_url": "https://x.com/Shenxiao123971/status/1982755210075451575/photo/1",
+              "media_key": "3_1982755196749877248",
+              "start": 9,
+              "url": "https://t.co/KMkOl0Ieru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982755210075451575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 151679,
+          "like_count": 333,
+          "quote_count": 21,
+          "reply_count": 633,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "最难吃的蔬菜投票 https://t.co/KMkOl0Ieru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 260,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "欢迎互关互赞 有漏关的请私信我（黄赌毒请不要打扰）",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11113,
+          "following_count": 4986,
+          "like_count": 65998,
+          "listed_count": 27,
+          "media_count": 251,
+          "tweet_count": 14032
+        },
+        "username": "Shenxiao123971",
+        "verified": true
+      }
+    ]
+  }
+}

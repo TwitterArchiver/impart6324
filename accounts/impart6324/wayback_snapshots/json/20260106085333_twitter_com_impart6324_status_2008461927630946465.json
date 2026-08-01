@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008431799089983560",
+    "created_at": "2026-01-06T08:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T09:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008461927630946465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002819291087777792",
+          "start": 0,
+          "username": "Yamikawaiiiiii"
+        },
+        {
+          "end": 29,
+          "id": "1975733018028609536",
+          "start": 16,
+          "username": "nmslwcnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008461927630946465",
+    "in_reply_to_user_id": "2002819291087777792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008431799089983560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamikawaiiiiii @nmslwcnm8964 两个傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8466,
+        "height": 1280,
+        "media_key": "13_2008431722409660417",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008431722409660417/img/fN7ToqsEUXkisnnW.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008431722409660417/vid/avc1/320x568/a-0GddpO4k7dBjKC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008431722409660417/vid/avc1/480x852/RN1tkPmFaIqmsUKK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008431722409660417/vid/avc1/720x1280/-eMsh1lffUALK3lr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008431722409660417/pl/FeJ5GKj76A1eBD0Q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008431799089983560",
+        "created_at": "2026-01-06T08:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008461927630946465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002819291087777792",
+              "start": 0,
+              "username": "Yamikawaiiiiii"
+            },
+            {
+              "end": 29,
+              "id": "1975733018028609536",
+              "start": 16,
+              "username": "nmslwcnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008461927630946465",
+        "in_reply_to_user_id": "2002819291087777792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008431799089983560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamikawaiiiiii @nmslwcnm8964 两个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008431722409660417"
+          ]
+        },
+        "author_id": "2002819291087777792",
+        "conversation_id": "2008431799089983560",
+        "created_at": "2026-01-06T06:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T07:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008431799089983560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975733018028609536",
+              "start": 0,
+              "username": "nmslwcnm8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ExCNtCvb0",
+              "end": 37,
+              "expanded_url": "https://x.com/Yamikawaiiiiii/status/2008431799089983560/video/1",
+              "media_key": "13_2008431722409660417",
+              "start": 14,
+              "url": "https://t.co/6ExCNtCvb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008431799089983560",
+        "in_reply_to_user_id": "1975733018028609536",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@nmslwcnm8964 https://t.co/6ExCNtCvb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 286,
+          "like_count": 5413,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 801
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T19:13:21.000Z",
+        "description": "₍՞ . ̫ . ՞₎我是呪 我的小星星是💟💟💟@nmslwcnm8964  只想和漂亮的和真心的人玩儿 谁和我真心换真心？？？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "nmslwcnm8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/rcW1W79y5l"
+              }
+            ]
+          }
+        },
+        "id": "2002819291087777792",
+        "location": "AntiChrist",
+        "name": "Kuuaiii",
+        "pinned_tweet_id": "2003394134737059967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006123149180776448/t3Xwa79T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 101,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/rcW1W79y5l",
+        "username": "Yamikawaiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T01:20:40.000Z",
+        "description": "251 @Yamikawaiiiiii  私信只回口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "Yamikawaiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1975733018028609536",
+        "name": "哈基芝",
+        "pinned_tweet_id": "2008202209809551490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002088439630700544/NQnV1hE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 26,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 190
+        },
+        "username": "nmslwcnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

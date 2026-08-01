@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999317047403250161",
+    "created_at": "2025-12-12T03:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999317047403250161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/WTWON3m",
+          "end": 110,
+          "expanded_url": "https://163cn.tv/WTWON3m",
+          "start": 87,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/g/vip-invite-cashier/radsjl989?token=B2761EB40127E2ACD4120A23B433EFA9D6C8807FF7584CB4ABE0485C8A90ED84",
+          "url": "https://t.co/x1M9ywYvYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999317047403250161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1http:/$BziAr221e5f5a9$【復淛整段文案并咑閞「网易云音乐」，领免费会员】 黑胶邀请官 R***a 送你网易云音乐12月黑胶会员卡，领取享20+会员权益。https://t.co/x1M9ywYvYM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999317047403250161",
+        "created_at": "2025-12-12T03:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999317047403250161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/WTWON3m",
+              "end": 110,
+              "expanded_url": "https://163cn.tv/WTWON3m",
+              "start": 87,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/g/vip-invite-cashier/radsjl989?token=B2761EB40127E2ACD4120A23B433EFA9D6C8807FF7584CB4ABE0485C8A90ED84",
+              "url": "https://t.co/x1M9ywYvYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999317047403250161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1http:/$BziAr221e5f5a9$【復淛整段文案并咑閞「网易云音乐」，领免费会员】 黑胶邀请官 R***a 送你网易云音乐12月黑胶会员卡，领取享20+会员权益。https://t.co/x1M9ywYvYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 224,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 524
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

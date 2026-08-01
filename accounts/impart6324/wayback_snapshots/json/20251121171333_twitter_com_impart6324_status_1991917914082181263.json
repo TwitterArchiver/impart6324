@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1991916358616101120",
+    "created_at": "2025-11-21T17:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991917914082181263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385979996439814157",
+          "start": 0,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991917914082181263",
+    "in_reply_to_user_id": "1385979996439814157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991916358616101120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5OL5OdJlYuZ62Wo 追番"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991916342572883968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6S1XCVaIAA5y9Q.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1991916358616101120",
+        "created_at": "2025-11-21T17:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991917914082181263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991917914082181263",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991916358616101120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo 追番"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991916342572883968"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991916358616101120",
+        "created_at": "2025-11-21T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991916358616101120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Spsr9vHcDC",
+              "end": 30,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1991916358616101120/photo/1",
+              "media_key": "3_1991916342572883968",
+              "start": 7,
+              "url": "https://t.co/Spsr9vHcDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991916358616101120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个我要追更 https://t.co/Spsr9vHcDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 375,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 259
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "备用号@Owso6y_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "Owso6y_"
+              }
+            ]
+          }
+        },
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1963505067027566827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57823,
+          "following_count": 10,
+          "like_count": 13408,
+          "listed_count": 153,
+          "media_count": 1283,
+          "tweet_count": 6113
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

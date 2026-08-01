@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028393601458434198",
+    "created_at": "2026-03-02T10:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028414353138156002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417794719229169665",
+          "start": 0,
+          "username": "Newagekami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028414353138156002",
+    "in_reply_to_user_id": "1417794719229169665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028393601458434198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Newagekami 尸鬼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3000,
+        "height": 720,
+        "media_key": "13_2028393546378772480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028393546378772480/img/ZL12IllGvFfr4jCz.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028393546378772480/vid/avc1/480x270/rtbiVz9GNvKJJULa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028393546378772480/vid/avc1/640x360/CxML6CurZuyVNcGM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028393546378772480/vid/avc1/1280x720/tmbBuH0BB4IxbH6t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028393546378772480/pl/hJKr1nshCnjEKzd7.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028393601458434198",
+        "created_at": "2026-03-02T10:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028414353138156002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417794719229169665",
+              "start": 0,
+              "username": "Newagekami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028414353138156002",
+        "in_reply_to_user_id": "1417794719229169665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028393601458434198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Newagekami 尸鬼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028393546378772480"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2028393601458434198",
+        "created_at": "2026-03-02T08:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028393601458434198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlPag1qRDB",
+              "end": 56,
+              "expanded_url": "https://x.com/Newagekami/status/2028393601458434198/video/1",
+              "media_key": "13_2028393546378772480",
+              "start": 33,
+              "url": "https://t.co/jlPag1qRDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028393601458434198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什麼你居然說你昨天見過uka 他不是一年前就去世了嗎？！#男の娘 https://t.co/jlPag1qRDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 428,
+          "like_count": 9971,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 187,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 165
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

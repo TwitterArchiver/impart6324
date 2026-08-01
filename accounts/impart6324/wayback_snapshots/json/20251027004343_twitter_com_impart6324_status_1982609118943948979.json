@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982381991296167936"
+      ],
+      "media_source_tweet_id": [
+        "1982382012255359225"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1982609118943948979",
+    "created_at": "2025-10-27T00:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982609118943948979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883157644711796736",
+          "start": 3,
+          "username": "TvTbreak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZg0XzwWl6",
+          "end": 42,
+          "expanded_url": "https://x.com/TvTbreak/status/1982382012255359225/photo/1",
+          "media_key": "3_1982381991296167936",
+          "start": 19,
+          "url": "https://t.co/nZg0XzwWl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982609118943948979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982382012255359225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvTbreak: 我就这样 https://t.co/nZg0XzwWl6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_1982381991296167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LV6wBW8AA-pip.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982381991296167936"
+          ],
+          "media_source_tweet_id": [
+            "1982382012255359225"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1982609118943948979",
+        "created_at": "2025-10-27T00:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982609118943948979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883157644711796736",
+              "start": 3,
+              "username": "TvTbreak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZg0XzwWl6",
+              "end": 42,
+              "expanded_url": "https://x.com/TvTbreak/status/1982382012255359225/photo/1",
+              "media_key": "3_1982381991296167936",
+              "start": 19,
+              "url": "https://t.co/nZg0XzwWl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982609118943948979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982382012255359225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvTbreak: 我就这样 https://t.co/nZg0XzwWl6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982381991296167936"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1982382012255359225",
+        "created_at": "2025-10-26T09:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982382012255359225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZg0XzwWl6",
+              "end": 28,
+              "expanded_url": "https://x.com/TvTbreak/status/1982382012255359225/photo/1",
+              "media_key": "3_1982381991296167936",
+              "start": 5,
+              "url": "https://t.co/nZg0XzwWl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982382012255359225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2651,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/nZg0XzwWl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 254,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 127
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "我的碎碎念小窝｜ 自用蜂鸟VPN https://t.co/5o1eC7Yudo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 40,
+                "expanded_url": "https://www.sachlife.com/#/register?code=IHEpF9v1",
+                "start": 17,
+                "url": "https://t.co/5o1eC7Yudo"
+              }
+            ]
+          }
+        },
+        "id": "1883157644711796736",
+        "location": "看黄男远离我｜不加联系方式 除了喜欢的互关",
+        "name": "對我好疏遠是怎麼啦",
+        "pinned_tweet_id": "1978994245416407259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979783097110470656/tSXNV5VB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 127,
+          "like_count": 6943,
+          "listed_count": 16,
+          "media_count": 86,
+          "tweet_count": 2934
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

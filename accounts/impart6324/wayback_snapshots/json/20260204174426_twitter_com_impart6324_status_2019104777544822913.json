@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2019104777544822913",
+    "created_at": "2026-02-04T17:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019104777544822913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzzmzmmmm/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/zzzmzmmmm/status/2019102886173770125",
+          "start": 32,
+          "url": "https://t.co/NxpOHX0gYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019104777544822913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019102886173770125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有试过蚝油加香油加生抽 选择性加醋 最后拌面 好吃的不得了 https://t.co/NxpOHX0gYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019102879127334914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVLXvNacAI0GMH.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2019104777544822913",
+        "created_at": "2026-02-04T17:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019104777544822913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzzmzmmmm/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/zzzmzmmmm/status/2019102886173770125",
+              "start": 32,
+              "url": "https://t.co/NxpOHX0gYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019104777544822913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019102886173770125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有试过蚝油加香油加生抽 选择性加醋 最后拌面 好吃的不得了 https://t.co/NxpOHX0gYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019102879127334914"
+          ]
+        },
+        "author_id": "1927283550950137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019102886173770125",
+        "created_at": "2026-02-04T17:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019102886173770125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkAilk9mCL",
+              "end": 69,
+              "expanded_url": "https://x.com/Zzzmzmmmm/status/2019102886173770125/photo/1",
+              "media_key": "3_2019102879127334914",
+              "start": 46,
+              "url": "https://t.co/HkAilk9mCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019102886173770125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "UFO飞碟面的鱼香肉丝味。我没有吃出来鱼肉 或者说是肉的味道🥲。它尝起来像是酱油加醋、.. https://t.co/HkAilk9mCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 368,
+          "like_count": 7708,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2002606151561851365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927283732207005696/sHjMRO7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 37,
+          "like_count": 1372,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 846
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

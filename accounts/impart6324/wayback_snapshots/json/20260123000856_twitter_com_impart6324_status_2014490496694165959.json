@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014291957737230339",
+    "created_at": "2026-01-23T00:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T01:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014490496694165959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992102496794468352",
+          "start": 0,
+          "username": "Zerox6677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014490496694165959",
+    "in_reply_to_user_id": "1992102496794468352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014291957737230339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerox6677 卸载了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2014291939429097472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Qz2MOaoAAhpSo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014291957737230339",
+        "created_at": "2026-01-23T00:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T01:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014490496694165959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992102496794468352",
+              "start": 0,
+              "username": "Zerox6677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014490496694165959",
+        "in_reply_to_user_id": "1992102496794468352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014291957737230339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerox6677 卸载了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014291939429097472"
+          ]
+        },
+        "author_id": "1992102496794468352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014291957737230339",
+        "created_at": "2026-01-22T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014291957737230339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOQ6Qzq87h",
+              "end": 34,
+              "expanded_url": "https://x.com/Zerox6677/status/2014291957737230339/photo/1",
+              "media_key": "3_2014291939429097472",
+              "start": 11,
+              "url": "https://t.co/qOQ6Qzq87h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014291957737230339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3636,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0枪爆头。我受不了了 https://t.co/qOQ6Qzq87h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 333,
+          "like_count": 6490,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1043
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T05:27:13.000Z",
+        "description": "🚪88纯绿 不过不要问我私生(^ ^)",
+        "id": "1992102496794468352",
+        "name": "meow meow",
+        "pinned_tweet_id": "2014231129189159322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999729952426786816/HCy5cuue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 18,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 55
+        },
+        "username": "Zerox6677",
+        "verified": false
+      }
+    ]
+  }
+}

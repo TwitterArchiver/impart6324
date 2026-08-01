@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992325372059525121",
+        "3_1992325372072136704"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992325382901829867",
+    "created_at": "2025-11-22T20:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992325382901829867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9mnvtP4Kj",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/1992325382901829867/photo/1",
+          "media_key": "3_1992325372059525121",
+          "start": 19,
+          "url": "https://t.co/t9mnvtP4Kj"
+        },
+        {
+          "display_url": "pic.x.com/t9mnvtP4Kj",
+          "end": 42,
+          "expanded_url": "https://x.com/impart6324/status/1992325382901829867/photo/1",
+          "media_key": "3_1992325372072136704",
+          "start": 19,
+          "url": "https://t.co/t9mnvtP4Kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992325382901829867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "评价一下社交平台全是游戏数据不露脸的 https://t.co/t9mnvtP4Kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992325372059525121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YpXr6bIAEAW3c.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992325372072136704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YpXr9bkAArlBc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992325372059525121",
+            "3_1992325372072136704"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992325382901829867",
+        "created_at": "2025-11-22T20:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992325382901829867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9mnvtP4Kj",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/1992325382901829867/photo/1",
+              "media_key": "3_1992325372059525121",
+              "start": 19,
+              "url": "https://t.co/t9mnvtP4Kj"
+            },
+            {
+              "display_url": "pic.x.com/t9mnvtP4Kj",
+              "end": 42,
+              "expanded_url": "https://x.com/impart6324/status/1992325382901829867/photo/1",
+              "media_key": "3_1992325372072136704",
+              "start": 19,
+              "url": "https://t.co/t9mnvtP4Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992325382901829867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评价一下社交平台全是游戏数据不露脸的 https://t.co/t9mnvtP4Kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 371,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 281
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

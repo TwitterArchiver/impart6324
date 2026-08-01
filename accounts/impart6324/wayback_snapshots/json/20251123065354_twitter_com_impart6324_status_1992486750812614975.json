@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992486736061202433",
+        "3_1992486736044437504",
+        "3_1992486736103165952",
+        "3_1992486736061247488"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1992486750812614975",
+    "created_at": "2025-11-23T06:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992486750812614975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1267553304310984704",
+          "start": 0,
+          "username": "Lifan9231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1wlIvHUn3",
+          "end": 172,
+          "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+          "media_key": "3_1992486736061202433",
+          "start": 149,
+          "url": "https://t.co/U1wlIvHUn3"
+        },
+        {
+          "display_url": "pic.x.com/U1wlIvHUn3",
+          "end": 172,
+          "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+          "media_key": "3_1992486736044437504",
+          "start": 149,
+          "url": "https://t.co/U1wlIvHUn3"
+        },
+        {
+          "display_url": "pic.x.com/U1wlIvHUn3",
+          "end": 172,
+          "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+          "media_key": "3_1992486736103165952",
+          "start": 149,
+          "url": "https://t.co/U1wlIvHUn3"
+        },
+        {
+          "display_url": "pic.x.com/U1wlIvHUn3",
+          "end": 172,
+          "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+          "media_key": "3_1992486736061247488",
+          "start": 149,
+          "url": "https://t.co/U1wlIvHUn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992486750812614975",
+    "in_reply_to_user_id": "1267553304310984704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Lifan9231 操你妈你个傻逼男婊以为自己很幽默是吗还你麻痹跑去私信别人  老子跟你熟是不是 一个共同关注都没有你蹭你爹干啥啊 你是觉得全世界都是吉他张 吉他张是你野爹是不是 你是索菲亚的奶茶跟你野爹交配出来的杂种吗 你是真鸡吧闹麻 主页一点自己脸也没有说你麻痹？你要现在不服气你来跟我加q https://t.co/U1wlIvHUn3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992486736061202433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a8ITqbAAEgUuL.jpg",
+        "width": 946
+      },
+      {
+        "height": 577,
+        "media_key": "3_1992486736044437504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a8ITmbMAAFVnT.jpg",
+        "width": 581
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992486736103165952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a8IT0bUAAWurK.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992486736061247488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a8ITqbsAAh-mg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992486736061202433",
+            "3_1992486736044437504",
+            "3_1992486736103165952",
+            "3_1992486736061247488"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1992486750812614975",
+        "created_at": "2025-11-23T06:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992486750812614975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1267553304310984704",
+              "start": 0,
+              "username": "Lifan9231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1wlIvHUn3",
+              "end": 172,
+              "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+              "media_key": "3_1992486736061202433",
+              "start": 149,
+              "url": "https://t.co/U1wlIvHUn3"
+            },
+            {
+              "display_url": "pic.x.com/U1wlIvHUn3",
+              "end": 172,
+              "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+              "media_key": "3_1992486736044437504",
+              "start": 149,
+              "url": "https://t.co/U1wlIvHUn3"
+            },
+            {
+              "display_url": "pic.x.com/U1wlIvHUn3",
+              "end": 172,
+              "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+              "media_key": "3_1992486736103165952",
+              "start": 149,
+              "url": "https://t.co/U1wlIvHUn3"
+            },
+            {
+              "display_url": "pic.x.com/U1wlIvHUn3",
+              "end": 172,
+              "expanded_url": "https://x.com/impart6324/status/1992486750812614975/photo/1",
+              "media_key": "3_1992486736061247488",
+              "start": 149,
+              "url": "https://t.co/U1wlIvHUn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992486750812614975",
+        "in_reply_to_user_id": "1267553304310984704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Lifan9231 操你妈你个傻逼男婊以为自己很幽默是吗还你麻痹跑去私信别人  老子跟你熟是不是 一个共同关注都没有你蹭你爹干啥啊 你是觉得全世界都是吉他张 吉他张是你野爹是不是 你是索菲亚的奶茶跟你野爹交配出来的杂种吗 你是真鸡吧闹麻 主页一点自己脸也没有说你麻痹？你要现在不服气你来跟我加q https://t.co/U1wlIvHUn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 372,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 283
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T20:27:19.000Z",
+        "description": "要谁爱你，你才不孤独",
+        "id": "1267553304310984704",
+        "location": "木卫六",
+        "name": "槐诗",
+        "pinned_tweet_id": "1916406747331276809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923994649615585280/3kglHM0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 246,
+          "like_count": 394,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2006
+        },
+        "username": "Lifan9231",
+        "verified": false
+      }
+    ]
+  }
+}

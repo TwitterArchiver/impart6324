@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1993346046278426780",
+    "created_at": "2025-11-26T09:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993611234630045860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "yanyelove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993611234630045860",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993346046278426780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyelove 去朋友家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1993346046278426780",
+        "created_at": "2025-11-26T09:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993611234630045860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "yanyelove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993611234630045860",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993346046278426780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyelove 去朋友家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562858237657231361",
+        "conversation_id": "1993346046278426780",
+        "created_at": "2025-11-25T15:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993346046278426780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993346046278426780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有离家出走过的或者有经验的告诉我 17岁怎么我从天津到了南京怎么避免被警察或者找到😭我他吗好焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 377,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 302
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88純綠陪聊 沒有福利 只有陪聊🚪200纯绿线下🚪300半绿线下 🚪520非绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/IhqVPtqVjL"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "言叶的happy sugar life",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936383796007305216/VDu1XEjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 153,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/IhqVPtqVjL",
+        "username": "yanyelove",
+        "verified": false
+      }
+    ]
+  }
+}

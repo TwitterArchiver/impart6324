@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2032245997225853371",
+    "created_at": "2026-03-13T00:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032252616978415818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032252616978415818",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032247299544662472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 精神病那一科"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2032245997225853371",
+        "created_at": "2026-03-13T00:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032252616978415818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032252616978415818",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032247299544662472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 精神病那一科"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "conversation_id": "2032245997225853371",
+        "created_at": "2026-03-13T00:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032247299544662472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032247299544662472",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032245997225853371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 要去医院挂哪一科?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 445,
+          "like_count": 10912,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗",
+        "id": "1724557026867781632",
+        "name": "你坐到我尾巴了",
+        "pinned_tweet_id": "2027258183639793933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022118727941308416/8EVYn_tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 95,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 347
+        },
+        "username": "Peacock166",
+        "verified": false
+      }
+    ]
+  }
+}

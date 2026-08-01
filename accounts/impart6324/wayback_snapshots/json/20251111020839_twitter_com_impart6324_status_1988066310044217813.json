@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1988064102330364191",
+    "created_at": "2025-11-11T02:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988066310044217813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908697686917996547",
+          "start": 0,
+          "username": "wwwouo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988066310044217813",
+    "in_reply_to_user_id": "1908697686917996547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988064102330364191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwouo_ 我是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1988064102330364191",
+        "created_at": "2025-11-11T02:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988066310044217813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908697686917996547",
+              "start": 0,
+              "username": "wwwouo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988066310044217813",
+        "in_reply_to_user_id": "1908697686917996547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988064102330364191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwouo_ 我是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908697686917996547",
+        "conversation_id": "1988064102330364191",
+        "created_at": "2025-11-11T01:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988064102330364191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988064102330364191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顶级纯良长发男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975584596902420480/PeyxsVLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 341,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 244
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T01:46:20.000Z",
+        "description": "爱说废话的人类，社畜，我想发什么就发什么，不要骂我，欢迎和我交朋友",
+        "id": "1908697686917996547",
+        "name": "我只是个傻逼",
+        "pinned_tweet_id": "1965807422003634597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965801618093244416/3CnOe8QP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 234,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 2524
+        },
+        "username": "wwwouo_",
+        "verified": false
+      }
+    ]
+  }
+}

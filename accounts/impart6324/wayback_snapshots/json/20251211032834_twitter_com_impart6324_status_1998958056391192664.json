@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998957963873226752"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998958056391192664",
+    "created_at": "2025-12-11T03:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998958056391192664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJN3bao63N",
+          "end": 26,
+          "expanded_url": "https://x.com/impart6324/status/1998958056391192664/video/1",
+          "media_key": "13_1998957963873226752",
+          "start": 3,
+          "url": "https://t.co/MJN3bao63N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998958056391192664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑了 https://t.co/MJN3bao63N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16833,
+        "height": 716,
+        "media_key": "13_1998957963873226752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998957963873226752/img/uU0QNOUGSbzFXxHb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998957963873226752/vid/avc1/482x270/6xzBjl-Mb3w21pwq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998957963873226752/vid/avc1/642x360/djFH1gozRea7g7ne.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998957963873226752/vid/avc1/1280x716/CLv4ED4DS5WWvRs3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998957963873226752/pl/hfQuZFef7cvioKhl.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998957963873226752"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998958056391192664",
+        "created_at": "2025-12-11T03:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998958056391192664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJN3bao63N",
+              "end": 26,
+              "expanded_url": "https://x.com/impart6324/status/1998958056391192664/video/1",
+              "media_key": "13_1998957963873226752",
+              "start": 3,
+              "url": "https://t.co/MJN3bao63N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998958056391192664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑了 https://t.co/MJN3bao63N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 228,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 487
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

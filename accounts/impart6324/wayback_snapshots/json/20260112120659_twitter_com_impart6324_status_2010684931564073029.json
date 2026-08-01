@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010684931564073029",
+    "created_at": "2026-01-12T12:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010684931564073029"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010684931564073029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声控网恋卡泡死全家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010684931564073029",
+        "created_at": "2026-01-12T12:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010684931564073029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010684931564073029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声控网恋卡泡死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 喜欢发自拍骂人清主页 看眼缘回关 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010439001862558193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 299,
+          "like_count": 5448,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 736
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

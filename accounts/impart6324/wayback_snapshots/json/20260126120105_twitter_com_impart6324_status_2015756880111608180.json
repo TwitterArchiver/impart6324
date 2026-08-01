@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015756813011197952",
+        "13_2015756812994355200"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015756880111608180",
+    "created_at": "2026-01-26T12:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015756880111608180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oa2G7g0c0O",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2015756880111608180/video/1",
+          "media_key": "13_2015756813011197952",
+          "start": 13,
+          "url": "https://t.co/Oa2G7g0c0O"
+        },
+        {
+          "display_url": "pic.x.com/Oa2G7g0c0O",
+          "end": 36,
+          "expanded_url": "https://x.com/impart6324/status/2015756880111608180/video/1",
+          "media_key": "13_2015756812994355200",
+          "start": 13,
+          "url": "https://t.co/Oa2G7g0c0O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015756880111608180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天呐我兄弟黄狗吃的太好了 https://t.co/Oa2G7g0c0O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4583,
+        "height": 960,
+        "media_key": "13_2015756813011197952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015756813011197952/img/6aTIW_35CrwEUx3t.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756813011197952/vid/avc1/320x568/QtZ4Oxr9hiHArDWf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756813011197952/vid/avc1/480x852/uC7qt9T5krU1Y_YE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756813011197952/vid/avc1/540x960/HLfJhNZF1fsMwhDE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015756813011197952/pl/nWqCFHxWrtl2-XPj.m3u8"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 14266,
+        "height": 960,
+        "media_key": "13_2015756812994355200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015756812994355200/img/paQ97eDspduY9m82.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756812994355200/vid/avc1/320x568/3tSCGDk-dbLZRrIm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756812994355200/vid/avc1/480x852/cK9G8yiJtLE2opt9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015756812994355200/vid/avc1/540x960/pQ5-BXsj0P0tNxc1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015756812994355200/pl/eFdzWzxjWgHGExes.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015756813011197952",
+            "13_2015756812994355200"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015756880111608180",
+        "created_at": "2026-01-26T12:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015756880111608180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oa2G7g0c0O",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2015756880111608180/video/1",
+              "media_key": "13_2015756813011197952",
+              "start": 13,
+              "url": "https://t.co/Oa2G7g0c0O"
+            },
+            {
+              "display_url": "pic.x.com/Oa2G7g0c0O",
+              "end": 36,
+              "expanded_url": "https://x.com/impart6324/status/2015756880111608180/video/1",
+              "media_key": "13_2015756812994355200",
+              "start": 13,
+              "url": "https://t.co/Oa2G7g0c0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015756880111608180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐我兄弟黄狗吃的太好了 https://t.co/Oa2G7g0c0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 346,
+          "like_count": 6684,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1139
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

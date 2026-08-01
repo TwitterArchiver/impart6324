@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006206227705901476",
+    "created_at": "2025-12-31T03:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T04:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006206227705901476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1115809099482980353",
+          "start": 12,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006206227705901476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听说你喜欢药诱强奸小女孩@DKR_World"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006206227705901476",
+        "created_at": "2025-12-31T03:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T04:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006206227705901476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1115809099482980353",
+              "start": 12,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006206227705901476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说你喜欢药诱强奸小女孩@DKR_World"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 259,
+          "like_count": 4439,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 664
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2003135621335019811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004475630587633664/8-pAeCNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 755,
+          "like_count": 40820,
+          "listed_count": 9,
+          "media_count": 475,
+          "tweet_count": 5663
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

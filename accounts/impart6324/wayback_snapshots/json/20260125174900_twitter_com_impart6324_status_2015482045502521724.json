@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015474770901676048",
+    "created_at": "2026-01-25T17:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015482045502521724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618206767506137091",
+          "start": 0,
+          "username": "zhoxn14039196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015482045502521724",
+    "in_reply_to_user_id": "1618206767506137091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015481763485958412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoxn14039196 你说的很好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015474770901676048",
+        "created_at": "2026-01-25T17:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015482045502521724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618206767506137091",
+              "start": 0,
+              "username": "zhoxn14039196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015482045502521724",
+        "in_reply_to_user_id": "1618206767506137091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015481763485958412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoxn14039196 你说的很好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618206767506137091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2015474770901676048",
+        "created_at": "2026-01-25T17:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015481763485958412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015481763485958412",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015474770901676048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 他们认为墙外言论自由没有拘束而且是一个避风的空间吧，像Threads一样，很多文字贴被直接截图到抖音配上bgm流量很高，评论区讨论，他们本能会认为侵犯隐私并且是不礼貌的，网络是这样的，转载和讨论无垠宽阔，我倒认为都一样，不用刻薄的分清楚墙内和墙外，算法数据会过滤的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 343,
+          "like_count": 6679,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1129
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T11:19:32.000Z",
+        "description": "",
+        "id": "1618206767506137091",
+        "name": "辛子",
+        "pinned_tweet_id": "1994839982377406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963195151201042432/Dmxh3J13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 517,
+          "like_count": 3207,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3205
+        },
+        "username": "zhoxn14039196",
+        "verified": false
+      }
+    ]
+  }
+}

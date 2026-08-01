@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013050563207020790",
+    "created_at": "2026-01-19T02:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T03:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013069386551328972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1905852947512410112",
+          "start": 0,
+          "username": "i790q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013069386551328972",
+    "in_reply_to_user_id": "1905852947512410112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013069249422483838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i790q 地雷女害惨了我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013050563207020790",
+        "created_at": "2026-01-19T02:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013069386551328972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1905852947512410112",
+              "start": 0,
+              "username": "i790q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013069386551328972",
+        "in_reply_to_user_id": "1905852947512410112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013069249422483838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i790q 地雷女害惨了我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905852947512410112",
+        "conversation_id": "2013050563207020790",
+        "created_at": "2026-01-19T02:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013069249422483838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013069249422483838",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013050563207020790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 地雷女害惨了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 328,
+          "like_count": 6193,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 959
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:22:18.000Z",
+        "description": "可以叫我芝芝 我不卖逼别烦我 私信只会口令 滚 52仅好友位 会清理死粉不要管我 VPN：快链",
+        "id": "1905852947512410112",
+        "location": "52好友位 120朋友圈 不陪聊除非打钱 纯圈无意义",
+        "name": "小芝芝",
+        "pinned_tweet_id": "2007055533493436919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010012713477607424/EWfHLzYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 38,
+          "like_count": 811,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 540
+        },
+        "username": "i790q",
+        "verified": false
+      }
+    ]
+  }
+}

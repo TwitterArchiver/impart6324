@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020663881551761408"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2020663948417331401",
+    "created_at": "2026-02-09T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020663948417331401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417794719229169665",
+          "start": 0,
+          "username": "Newagekami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCPZeqyYxz",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2020663948417331401/video/1",
+          "media_key": "13_2020663881551761408",
+          "start": 15,
+          "url": "https://t.co/pCPZeqyYxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020663948417331401",
+    "in_reply_to_user_id": "1417794719229169665",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Newagekami sb https://t.co/pCPZeqyYxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10467,
+        "height": 720,
+        "media_key": "13_2020663881551761408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020663881551761408/img/rYWg3pKo_zHPC3Bl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020663881551761408/vid/avc1/480x270/Tf8JI7-Ovf9ErSxK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020663881551761408/vid/avc1/640x360/-o1-Mmk9oNka3bRy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020663881551761408/vid/avc1/1280x720/D3sm-r9UziyA6mel.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020663881551761408/pl/kQ9hYDvLcUTR3ck8.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020663881551761408"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2020663948417331401",
+        "created_at": "2026-02-09T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020663948417331401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417794719229169665",
+              "start": 0,
+              "username": "Newagekami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCPZeqyYxz",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2020663948417331401/video/1",
+              "media_key": "13_2020663881551761408",
+              "start": 15,
+              "url": "https://t.co/pCPZeqyYxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020663948417331401",
+        "in_reply_to_user_id": "1417794719229169665",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Newagekami sb https://t.co/pCPZeqyYxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 381,
+          "like_count": 7877,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 124,
+          "like_count": 1261,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 102
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

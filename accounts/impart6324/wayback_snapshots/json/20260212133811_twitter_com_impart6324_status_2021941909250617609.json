@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2021941909250617609",
+    "created_at": "2026-02-12T13:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021941909250617609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021941909250617609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果您能在今天晚上12点之前和我谈恋爱确认关系的话，那我就给你送一小包挂面、两颗鸡蛋🥚、一包盐🧂还有一小瓶食用油，再给你送两个肥皂!然后一个洗脸盆和一条毛巾。只要你跟我谈我就送，没有任何套路，你只要跟我谈，我确定关系今天晚上我就给你送好吗，就是我不会骗人好吧，没有任何套路谢谢 只限女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2021941909250617609",
+        "created_at": "2026-02-12T13:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021941909250617609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021941909250617609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果您能在今天晚上12点之前和我谈恋爱确认关系的话，那我就给你送一小包挂面、两颗鸡蛋🥚、一包盐🧂还有一小瓶食用油，再给你送两个肥皂!然后一个洗脸盆和一条毛巾。只要你跟我谈我就送，没有任何套路，你只要跟我谈，我确定关系今天晚上我就给你送好吗，就是我不会骗人好吧，没有任何套路谢谢 只限女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 382,
+          "like_count": 8244,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007436383200190560",
+    "created_at": "2026-01-03T12:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T13:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007436383200190560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelkawa11_2/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/angelkawa11_2/status/2007081062044979641",
+          "start": 3,
+          "url": "https://t.co/tJyEBN45vY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007436383200190560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007081062044979641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕 https://t.co/tJyEBN45vY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "1人だけ、未成年のため水だった！来年からは、お酒飲むぞ(/・ω・)/にゃー!お年玉も貰った♥",
+        "height": 2048,
+        "media_key": "3_2007081055405363200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qVlf7aUAALc-0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007436383200190560",
+        "created_at": "2026-01-03T12:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007436383200190560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelkawa11_2/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/angelkawa11_2/status/2007081062044979641",
+              "start": 3,
+              "url": "https://t.co/tJyEBN45vY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007436383200190560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007081062044979641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕 https://t.co/tJyEBN45vY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007081055405363200"
+          ]
+        },
+        "author_id": "1935694749836693504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007081062044979641",
+        "created_at": "2026-01-02T13:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007081062044979641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aet1CA1K4N",
+              "end": 41,
+              "expanded_url": "https://x.com/angelkawa11_2/status/2007081062044979641/photo/1",
+              "media_key": "3_2007081055405363200",
+              "start": 18,
+              "url": "https://t.co/aet1CA1K4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007081062044979641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 181852,
+          "like_count": 6368,
+          "quote_count": 31,
+          "reply_count": 45,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "おばあちゃんのお家いってきた！🏠♥ https://t.co/aet1CA1K4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005647252849561600/0U4XqtKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 262,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 706
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T13:42:59.000Z",
+        "description": "余裕がある時はリプ返ちゃんと頑張る年間(´･ω･`)♩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/angelkawa11_2",
+                "end": 23,
+                "expanded_url": "https://note.com/angelkawa11_2",
+                "start": 0,
+                "url": "https://t.co/WDJUTjygYn"
+              }
+            ]
+          }
+        },
+        "id": "1935694749836693504",
+        "name": "♥",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 56,
+          "like_count": 5561,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/WDJUTjygYn",
+        "username": "angelkawa11_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008136285840703541",
+    "created_at": "2026-01-05T17:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T18:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008231712921186579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1659548960938409984",
+          "start": 0,
+          "username": "Lqlnlp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008231712921186579",
+    "in_reply_to_user_id": "1659548960938409984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008136285840703541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lqlnlp7 不"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1280,
+        "media_key": "13_2008136214604587008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008136214604587008/img/P92Pm0NynRfeITon.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008136214604587008/vid/avc1/320x568/Yxw2zJH_KjBlVwXo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008136214604587008/vid/avc1/480x852/llz_pzynzbSEkn8S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008136214604587008/vid/avc1/720x1280/CprhIjoWS7Sznna7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008136214604587008/pl/4vRUJeA6tmF32Eau.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008136285840703541",
+        "created_at": "2026-01-05T17:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008231712921186579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1659548960938409984",
+              "start": 0,
+              "username": "Lqlnlp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008231712921186579",
+        "in_reply_to_user_id": "1659548960938409984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008136285840703541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lqlnlp7 不"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008136214604587008"
+          ]
+        },
+        "author_id": "1659548960938409984",
+        "conversation_id": "2008136285840703541",
+        "created_at": "2026-01-05T11:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008136285840703541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gW2LxQG4GX",
+              "end": 33,
+              "expanded_url": "https://x.com/Lqlnlp7/status/2008136285840703541/video/1",
+              "media_key": "13_2008136214604587008",
+              "start": 10,
+              "url": "https://t.co/gW2LxQG4GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008136285840703541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受 要不要养 https://t.co/gW2LxQG4GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 272,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 754
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "只是想找一個角落",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943905864500252672/kUIi_98E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 356,
+          "like_count": 12149,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 3938
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      }
+    ]
+  }
+}

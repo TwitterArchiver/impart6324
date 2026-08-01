@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2013677883919565245",
+    "created_at": "2026-01-20T22:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T23:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013737422136259044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899700532106928129",
+          "start": 0,
+          "username": "yanaa2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013737422136259044",
+    "in_reply_to_user_id": "1899700532106928129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013677883919565245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanaa2222 逗比"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32948,
+        "height": 1280,
+        "media_key": "13_2013677798339014656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013677798339014656/img/8uhmUghrouCWMCPu.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013677798339014656/vid/avc1/320x694/MZuhYNvo-tsh98J7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013677798339014656/vid/avc1/480x1040/EMoosDfakLHLaeK_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013677798339014656/vid/avc1/590x1280/O4oYrtdDx_aiICdJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013677798339014656/pl/kcubWpskxkdKSjPV.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2013677883919565245",
+        "created_at": "2026-01-20T22:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T23:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013737422136259044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899700532106928129",
+              "start": 0,
+              "username": "yanaa2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013737422136259044",
+        "in_reply_to_user_id": "1899700532106928129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013677883919565245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanaa2222 逗比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013677798339014656"
+          ]
+        },
+        "author_id": "1899700532106928129",
+        "conversation_id": "2013677883919565245",
+        "created_at": "2026-01-20T18:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013677883919565245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8ygq5d6mZ",
+              "end": 27,
+              "expanded_url": "https://x.com/yanaa2222/status/2013677883919565245/video/1",
+              "media_key": "13_2013677798339014656",
+              "start": 4,
+              "url": "https://t.co/E8ygq5d6mZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013677883919565245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暴露癖 https://t.co/E8ygq5d6mZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 334,
+          "like_count": 6359,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1004
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T05:54:48.000Z",
+        "description": "我是一个住垃圾桶里的穷小孩 求过门吧谢谢",
+        "id": "1899700532106928129",
+        "location": "🚪99/388/520/1314/ 验证or坐标20r",
+        "name": "Lillian",
+        "pinned_tweet_id": "1999546050147975189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009263166484807680/C53aaHvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 232,
+          "like_count": 2107,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 713
+        },
+        "username": "yanaa2222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014031906480726460",
+    "created_at": "2026-01-22T06:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014222428944334988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014222428944334988",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014031906480726460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 抄袭我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2014031897995755520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NHVyZXwAAu8fW.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014031906480726460",
+        "created_at": "2026-01-22T06:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014222428944334988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014222428944334988",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014031906480726460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 抄袭我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014031897995755520"
+          ]
+        },
+        "author_id": "2007800360057135104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014031906480726460",
+        "created_at": "2026-01-21T17:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014031906480726460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBBqqMWG15",
+              "end": 31,
+              "expanded_url": "https://x.com/Bitterpearlbird/status/2014031906480726460/photo/1",
+              "media_key": "3_2014031897995755520",
+              "start": 8,
+              "url": "https://t.co/zBBqqMWG15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014031906480726460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们以后要结婚 https://t.co/zBBqqMWG15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 337,
+          "like_count": 6417,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1008
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "我说什么就是什么。",
+        "id": "2007800360057135104",
+        "location": "6feet under",
+        "name": "bittersweetfeeling",
+        "pinned_tweet_id": "2012556683944284197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013256970916995073/UnL45odf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 323
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

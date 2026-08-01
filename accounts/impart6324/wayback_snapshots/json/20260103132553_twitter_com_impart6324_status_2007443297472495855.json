@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007443297472495855",
+    "created_at": "2026-01-03T13:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T14:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007443297472495855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kou88450/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kou88450/status/2007376397405237266",
+          "start": 5,
+          "url": "https://t.co/QHMZTkpiiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007443297472495855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007376397405237266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的是我 https://t.co/QHMZTkpiiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2007342261240279040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uDJrfbMAAE36r.jpg",
+        "width": 2999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007443297472495855",
+        "created_at": "2026-01-03T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007443297472495855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kou88450/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kou88450/status/2007376397405237266",
+              "start": 5,
+              "url": "https://t.co/QHMZTkpiiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007443297472495855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007376397405237266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的是我 https://t.co/QHMZTkpiiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007342261240279040"
+          ]
+        },
+        "author_id": "1034765174501126144",
+        "conversation_id": "2007376397405237266",
+        "created_at": "2026-01-03T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007376397405237266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xn2KelnUUg",
+              "end": 35,
+              "expanded_url": "https://x.com/kou88450/status/2007376397405237266/photo/1",
+              "media_key": "3_2007342261240279040",
+              "start": 12,
+              "url": "https://t.co/Xn2KelnUUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007376397405237266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2804,
+          "impression_count": 969425,
+          "like_count": 40910,
+          "quote_count": 197,
+          "reply_count": 110,
+          "retweet_count": 3359
+        },
+        "reply_settings": "everyone",
+        "text": "オタク男子と地雷系女子 https://t.co/Xn2KelnUUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 262,
+          "like_count": 4701,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 708
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-29T11:30:17.000Z",
+        "description": "漫画を描いてます。オリジナルやポケモン等の漫画を毎日投稿中。｜【無料の短編漫画のkindle：https://t.co/e9TUbpDBK1】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3WdHcAU",
+                "end": 70,
+                "expanded_url": "https://amzn.to/3WdHcAU",
+                "start": 47,
+                "url": "https://t.co/e9TUbpDBK1"
+              }
+            ]
+          }
+        },
+        "id": "1034765174501126144",
+        "location": "連絡先：kou884500@gmail.com",
+        "name": "早志コウ｜マンガ毎日投稿",
+        "pinned_tweet_id": "1977206293263007937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967149421982101504/mk_fr7TJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206705,
+          "following_count": 720,
+          "like_count": 80979,
+          "listed_count": 811,
+          "media_count": 1494,
+          "tweet_count": 4643
+        },
+        "username": "kou88450",
+        "verified": true
+      }
+    ]
+  }
+}

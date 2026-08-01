@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015747387248246952",
+    "created_at": "2026-01-26T11:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015747387248246952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4hukzj/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/4hukzj/status/2015617201391222997",
+          "start": 11,
+          "url": "https://t.co/f4DSOpZuuE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015747387248246952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015617201391222997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "入下我兄弟的门谢谢喵 https://t.co/f4DSOpZuuE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2015617131061116929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jpGfwXAAE9002.jpg",
+        "width": 974
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2015617131061112832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jpGfwW8AAGuw8.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2015617131069493249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jpGfyW0AEqxuy.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 2433,
+        "height": 720,
+        "media_key": "13_2015617131069476864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015617131069476864/img/hXvJojF4MNsRrvM_.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015617131069476864/vid/avc1/480x270/q-B7bNoZ5ocHW3d8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015617131069476864/vid/avc1/640x360/p5ye8q1NOFK0x-TO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015617131069476864/vid/avc1/1280x720/EymVpadhMaUSIdW5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015617131069476864/pl/59jmS8-w4MgjSt2k.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015747387248246952",
+        "created_at": "2026-01-26T11:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015747387248246952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4hukzj/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/4hukzj/status/2015617201391222997",
+              "start": 11,
+              "url": "https://t.co/f4DSOpZuuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015747387248246952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015617201391222997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "入下我兄弟的门谢谢喵 https://t.co/f4DSOpZuuE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015617131061116929",
+            "3_2015617131061112832",
+            "3_2015617131069493249",
+            "13_2015617131069476864"
+          ]
+        },
+        "author_id": "1887083833616699393",
+        "conversation_id": "2015617201391222997",
+        "created_at": "2026-01-26T02:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015617201391222997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "线下"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "妹妹"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "门槛"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "反差"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "陪玩"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "圆角"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWUfOkTqZb",
+              "end": 174,
+              "expanded_url": "https://x.com/4hukzj/status/2015617201391222997/video/1",
+              "media_key": "3_2015617131061116929",
+              "start": 151,
+              "url": "https://t.co/YWUfOkTqZb"
+            },
+            {
+              "display_url": "pic.x.com/YWUfOkTqZb",
+              "end": 174,
+              "expanded_url": "https://x.com/4hukzj/status/2015617201391222997/video/1",
+              "media_key": "3_2015617131061112832",
+              "start": 151,
+              "url": "https://t.co/YWUfOkTqZb"
+            },
+            {
+              "display_url": "pic.x.com/YWUfOkTqZb",
+              "end": 174,
+              "expanded_url": "https://x.com/4hukzj/status/2015617201391222997/video/1",
+              "media_key": "3_2015617131069493249",
+              "start": 151,
+              "url": "https://t.co/YWUfOkTqZb"
+            },
+            {
+              "display_url": "pic.x.com/YWUfOkTqZb",
+              "end": 174,
+              "expanded_url": "https://x.com/4hukzj/status/2015617201391222997/video/1",
+              "media_key": "13_2015617131069476864",
+              "start": 151,
+              "url": "https://t.co/YWUfOkTqZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015617201391222997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 1,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新置頂🔝\n叫我小粟就好 \n座標10r\n99/199/299/上不封頂\n99好友位+朋友圈+一起玩遊戲\n199同上+圖包 純綠陪聊 解鎖線下\n299同上+更新照片第一時間發你\n520同上+線下九折\n1314/电子宠物\n沒有想法請不要打擾我給得越多我越愛你 #线下 #妹妹 #门槛 #反差 #陪玩 #圆角 https://t.co/YWUfOkTqZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 346,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1132
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T10:20:36.000Z",
+        "description": "🚪99/199/299/520/1314",
+        "id": "1887083833616699393",
+        "name": "唉我有点想哭",
+        "pinned_tweet_id": "2015617201391222997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015746299937636352/Zi6w2A6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "4hukzj",
+        "verified": false
+      }
+    ]
+  }
+}

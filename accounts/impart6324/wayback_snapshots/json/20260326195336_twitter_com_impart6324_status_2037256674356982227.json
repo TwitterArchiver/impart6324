@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2037253391710400703",
+    "created_at": "2026-03-26T19:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T20:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037256674356982227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037256674356982227",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037253391710400703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 爸爸妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037253380998098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXHJ_va8AA30-R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037253381006512128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXHJ_xbUAA6hLt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2037253391710400703",
+        "created_at": "2026-03-26T19:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037256674356982227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037256674356982227",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037253391710400703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 爸爸妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037253380998098944",
+            "3_2037253381006512128"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "2037253391710400703",
+        "created_at": "2026-03-26T19:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037253391710400703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9LkJsRTOC",
+              "end": 30,
+              "expanded_url": "https://x.com/ouoicy77/status/2037253391710400703/photo/1",
+              "media_key": "3_2037253380998098944",
+              "start": 7,
+              "url": "https://t.co/J9LkJsRTOC"
+            },
+            {
+              "display_url": "pic.x.com/J9LkJsRTOC",
+              "end": 30,
+              "expanded_url": "https://x.com/ouoicy77/status/2037253391710400703/photo/1",
+              "media_key": "3_2037253381006512128",
+              "start": 7,
+              "url": "https://t.co/J9LkJsRTOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037253391710400703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我出男和出女 https://t.co/J9LkJsRTOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2036083729874186457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037214408506478592/zmdKmNRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1289,
+          "like_count": 11423,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "🇨🇳 我只有这一个账号 用来存照片和碎碎念 取关随意 别转载或者ai我的照片 我各个平台都有号 不常看粉丝列表",
+        "id": "1543918989390532608",
+        "location": "不扩列 非要扩给我521  无任何福利纯圈",
+        "name": "の",
+        "pinned_tweet_id": "1982968458557157589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28860,
+          "following_count": 88,
+          "like_count": 4132,
+          "listed_count": 111,
+          "media_count": 200,
+          "tweet_count": 966
+        },
+        "username": "ouoicy77",
+        "verified": false
+      }
+    ]
+  }
+}

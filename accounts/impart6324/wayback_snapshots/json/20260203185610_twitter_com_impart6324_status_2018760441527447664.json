@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018760391724245009",
+    "created_at": "2026-02-03T18:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018760441527447664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618206767506137091",
+          "start": 0,
+          "username": "zhoxn14039196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018760441527447664",
+    "in_reply_to_user_id": "1597065444136919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018760391724245009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoxn14039196 我骚不骚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8733,
+        "height": 1280,
+        "media_key": "13_2018760324221161472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018760324221161472/img/iHgmFzlewPcjcYw6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018760324221161472/vid/avc1/320x568/GA4ghXheH5pTtMV5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018760324221161472/vid/avc1/480x852/6OKrF6Nr4JoVob4P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018760324221161472/vid/avc1/720x1280/GAijuKO14MwWa5v2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018760324221161472/pl/emPf70y63WU3HSYY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018760391724245009",
+        "created_at": "2026-02-03T18:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018760441527447664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618206767506137091",
+              "start": 0,
+              "username": "zhoxn14039196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018760441527447664",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018760391724245009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoxn14039196 我骚不骚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018760324221161472"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018760391724245009",
+        "created_at": "2026-02-03T18:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018760391724245009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAYex99mL5",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2018760391724245009/video/1",
+              "media_key": "13_2018760324221161472",
+              "start": 5,
+              "url": "https://t.co/MAYex99mL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018760391724245009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我骚不骚 https://t.co/MAYex99mL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 366,
+          "like_count": 7530,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T11:19:32.000Z",
+        "description": "",
+        "id": "1618206767506137091",
+        "name": "辛子",
+        "pinned_tweet_id": "1994839982377406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963195151201042432/Dmxh3J13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 524,
+          "like_count": 3326,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 3239
+        },
+        "username": "zhoxn14039196",
+        "verified": false
+      }
+    ]
+  }
+}

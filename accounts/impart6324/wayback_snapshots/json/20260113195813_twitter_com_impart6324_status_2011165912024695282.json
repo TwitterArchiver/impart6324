@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010667676314837194",
+    "created_at": "2026-01-13T19:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T20:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011165912024695282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        },
+        {
+          "end": 22,
+          "id": "1589809419822329857",
+          "start": 13,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011165912024695282",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011091352399069679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 @jianlvup 我们学校就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010667676314837194",
+        "created_at": "2026-01-13T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011165912024695282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011165912024695282",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011091352399069679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 @jianlvup 我们学校就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937988852779536384",
+        "conversation_id": "2010667676314837194",
+        "created_at": "2026-01-13T15:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011091352399069679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011091352399069679",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010667676314837194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 这跟监狱探视有啥区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "无聊会看 我有精神病 只骂傻逼 喜欢发自拍清主页 看眼缘回关",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 305,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 790
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "",
+        "id": "1937988852779536384",
+        "name": "小七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002831699542257664/yvJOJ1FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 20,
+          "like_count": 1774,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 346
+        },
+        "username": "Evienne0929",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "逃生：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2010855648310018403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15833,
+          "following_count": 1306,
+          "like_count": 72172,
+          "listed_count": 58,
+          "media_count": 2492,
+          "tweet_count": 5507
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

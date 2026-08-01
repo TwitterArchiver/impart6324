@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012283472908533767",
+    "created_at": "2026-01-17T01:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T02:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012333872642748466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012333872642748466",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012283472908533767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 让他送我俩一部"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012283463592984579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0RJgraQAMV9PX.jpg",
+        "width": 946
+      },
+      {
+        "height": 1527,
+        "media_key": "3_2012283463605567490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0RJguaQAIPMIe.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2012283463605567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0RJguaQAAHco-.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012283472908533767",
+        "created_at": "2026-01-17T01:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T02:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012333872642748466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012333872642748466",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012283472908533767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 让他送我俩一部"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012283463592984579",
+            "3_2012283463605567490",
+            "3_2012283463605567488"
+          ]
+        },
+        "author_id": "1937988852779536384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012283472908533767",
+        "created_at": "2026-01-16T21:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012283472908533767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqqBm5Jqa5",
+              "end": 49,
+              "expanded_url": "https://x.com/Evienne0929/status/2012283472908533767/photo/1",
+              "media_key": "3_2012283463592984579",
+              "start": 26,
+              "url": "https://t.co/AqqBm5Jqa5"
+            },
+            {
+              "display_url": "pic.x.com/AqqBm5Jqa5",
+              "end": 49,
+              "expanded_url": "https://x.com/Evienne0929/status/2012283472908533767/photo/1",
+              "media_key": "3_2012283463605567490",
+              "start": 26,
+              "url": "https://t.co/AqqBm5Jqa5"
+            },
+            {
+              "display_url": "pic.x.com/AqqBm5Jqa5",
+              "end": 49,
+              "expanded_url": "https://x.com/Evienne0929/status/2012283472908533767/photo/1",
+              "media_key": "3_2012283463605567488",
+              "start": 26,
+              "url": "https://t.co/AqqBm5Jqa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012283472908533767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真是杀他全家了碰到这种傻逼 唉 我到底惹谁了 https://t.co/AqqBm5Jqa5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 324,
+          "like_count": 5883,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 888
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "",
+        "id": "1937988852779536384",
+        "name": "小七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002831699542257664/yvJOJ1FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 22,
+          "like_count": 1843,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 388
+        },
+        "username": "Evienne0929",
+        "verified": false
+      }
+    ]
+  }
+}

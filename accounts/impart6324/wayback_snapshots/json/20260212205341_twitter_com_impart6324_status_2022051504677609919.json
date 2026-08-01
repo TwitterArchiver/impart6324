@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022033920989311423",
+    "created_at": "2026-02-12T20:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T21:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022051504677609919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828103801867300866",
+          "start": 0,
+          "username": "mylove0255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022051504677609919",
+    "in_reply_to_user_id": "1828103801867300866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022033920989311423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylove0255 绝了，我的心情，和你第二个表情包一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022033920989311423",
+        "created_at": "2026-02-12T20:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T21:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022051504677609919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828103801867300866",
+              "start": 0,
+              "username": "mylove0255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022051504677609919",
+        "in_reply_to_user_id": "1828103801867300866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022033920989311423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylove0255 绝了，我的心情，和你第二个表情包一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828103801867300866",
+        "conversation_id": "2022033920989311423",
+        "created_at": "2026-02-12T19:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022033920989311423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022033920989311423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝了，我的心情，和你第二个表情包一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 383,
+          "like_count": 8272,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T16:14:54.000Z",
+        "description": "我是女的（想去猫咖版）",
+        "id": "1828103801867300866",
+        "location": "如果你觉得我是什么就是什么吧",
+        "name": "米梨子",
+        "pinned_tweet_id": "2020551016555421772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012568743847616513/WskMn4JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 104,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1130
+        },
+        "username": "mylove0255",
+        "verified": false
+      }
+    ]
+  }
+}

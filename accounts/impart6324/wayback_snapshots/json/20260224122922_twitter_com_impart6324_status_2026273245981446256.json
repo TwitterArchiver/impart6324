@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2026272718489010594",
+    "created_at": "2026-02-24T12:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026273245981446256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758230927325507586",
+          "start": 0,
+          "username": "jnshng339776866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026273245981446256",
+    "in_reply_to_user_id": "1758230927325507586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026272718489010594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnshng339776866 真的假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026272690441756672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7ERrvbIAA2FN2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2026272718489010594",
+        "created_at": "2026-02-24T12:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026273245981446256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758230927325507586",
+              "start": 0,
+              "username": "jnshng339776866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026273245981446256",
+        "in_reply_to_user_id": "1758230927325507586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026272718489010594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnshng339776866 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026272690441756672"
+          ]
+        },
+        "author_id": "1758230927325507586",
+        "conversation_id": "2026272718489010594",
+        "created_at": "2026-02-24T12:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026272718489010594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5944DZJxR",
+              "end": 32,
+              "expanded_url": "https://x.com/jnshng339776866/status/2026272718489010594/photo/1",
+              "media_key": "3_2026272690441756672",
+              "start": 9,
+              "url": "https://t.co/y5944DZJxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026272718489010594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我长这样。。 https://t.co/y5944DZJxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 9056,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T20:45:05.000Z",
+        "description": "Hikari/小光🚪88",
+        "id": "1758230927325507586",
+        "name": "Hikari",
+        "pinned_tweet_id": "2023309039644688584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019733390527021056/HaHfdL_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 106,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 93
+        },
+        "username": "jnshng339776866",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2015310038672490678",
+    "created_at": "2026-01-25T06:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015311237010293045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672873430352293890",
+          "start": 0,
+          "username": "UnfoundUser07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015311237010293045",
+    "in_reply_to_user_id": "1672873430352293890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015310038672490678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnfoundUser07 笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2015310038672490678",
+        "created_at": "2026-01-25T06:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015311237010293045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672873430352293890",
+              "start": 0,
+              "username": "UnfoundUser07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015311237010293045",
+        "in_reply_to_user_id": "1672873430352293890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015310038672490678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnfoundUser07 笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672873430352293890",
+        "conversation_id": "2015310038672490678",
+        "created_at": "2026-01-25T06:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015310038672490678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015310038672490678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个未成年幼女年纪轻轻也有说不完的忧伤唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 337,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1098
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T07:44:56.000Z",
+        "description": "下水道ゴミ回収所 ∥ 🚪52",
+        "id": "1672873430352293890",
+        "location": "Yokosuka-shi, Kanagawa",
+        "name": "拒絕反庇",
+        "pinned_tweet_id": "2012228325243248736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014194134609776640/0hX_Ykqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 117,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 111
+        },
+        "username": "UnfoundUser07",
+        "verified": false
+      }
+    ]
+  }
+}

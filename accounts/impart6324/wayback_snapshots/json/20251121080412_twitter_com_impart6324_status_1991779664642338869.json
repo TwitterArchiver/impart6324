@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1991779664642338869",
+    "created_at": "2025-11-21T08:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T09:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991779664642338869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maorou_k8m/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/maorou_k8m/status/1991450086732361775",
+          "start": 4,
+          "url": "https://t.co/LC9xmdNOzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991779664642338869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991450086732361775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好帅呀 https://t.co/LC9xmdNOzF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12601,
+        "height": 960,
+        "media_key": "13_1991450020844040192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991450020844040192/img/Okf6mvNO2UHHjxDj.jpg",
+        "public_metrics": {
+          "view_count": 2630
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991450020844040192/vid/avc1/320x426/G7VsNhfYlP9RLWDP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991450020844040192/vid/avc1/480x640/RfvLIf7ed_NZd5mQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991450020844040192/vid/avc1/720x960/hTai9KoiO20XJoFH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991450020844040192/pl/WtZh81NAQf513cXt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1991779664642338869",
+        "created_at": "2025-11-21T08:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991779664642338869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maorou_k8m/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/maorou_k8m/status/1991450086732361775",
+              "start": 4,
+              "url": "https://t.co/LC9xmdNOzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991779664642338869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991450086732361775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好帅呀 https://t.co/LC9xmdNOzF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991450020844040192"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1991450086732361775",
+        "created_at": "2025-11-20T10:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T11:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991450086732361775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ur5tLyzFWF",
+              "end": 35,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1991450086732361775/video/1",
+              "media_key": "13_1991450020844040192",
+              "start": 12,
+              "url": "https://t.co/ur5tLyzFWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991450086732361775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12865,
+          "like_count": 343,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我一直在做美甲🤍🌚…… https://t.co/ur5tLyzFWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 360,
+          "like_count": 1284,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 254
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246150,
+          "following_count": 42,
+          "like_count": 476,
+          "listed_count": 661,
+          "media_count": 398,
+          "tweet_count": 2650
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

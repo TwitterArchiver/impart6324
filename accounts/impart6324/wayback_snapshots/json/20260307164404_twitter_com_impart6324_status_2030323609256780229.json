@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030323299880714240"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2030323609256780229",
+    "created_at": "2026-03-07T16:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030323609256780229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyNpr9jjj3",
+          "end": 37,
+          "expanded_url": "https://x.com/impart6324/status/2030323609256780229/video/1",
+          "media_key": "13_2030323299880714240",
+          "start": 14,
+          "url": "https://t.co/qyNpr9jjj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030323609256780229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真心找个有性瘾的好好过日子 https://t.co/qyNpr9jjj3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7266,
+        "height": 1920,
+        "media_key": "13_2030323299880714240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030323299880714240/img/0H5JJlgiWCDkI74s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323299880714240/vid/avc1/720x1280/IE4yu6RafXslp8xf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030323299880714240/pl/NCE5K1bSRDOoxVpU.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323299880714240/vid/avc1/480x852/g3qwcee7Dp8QVoYt.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323299880714240/vid/avc1/320x568/xN2pTtPpLB2hgL7g.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323299880714240/vid/avc1/1080x1920/dvPW_N6wkFsJAdNR.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030323299880714240"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2030323609256780229",
+        "created_at": "2026-03-07T16:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030323609256780229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyNpr9jjj3",
+              "end": 37,
+              "expanded_url": "https://x.com/impart6324/status/2030323609256780229/video/1",
+              "media_key": "13_2030323299880714240",
+              "start": 14,
+              "url": "https://t.co/qyNpr9jjj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030323609256780229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真心找个有性瘾的好好过日子 https://t.co/qyNpr9jjj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 448,
+          "like_count": 10666,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

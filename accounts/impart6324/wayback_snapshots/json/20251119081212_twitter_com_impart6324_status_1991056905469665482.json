@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1991056905469665482",
+    "created_at": "2025-11-19T08:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991056905469665482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maorou_k8m/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/maorou_k8m/status/1990763655844200643",
+          "start": 9,
+          "url": "https://t.co/q5V09lZqUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991056905469665482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990763655844200643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈咋这么可爱呢 https://t.co/q5V09lZqUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5433,
+        "height": 1280,
+        "media_key": "13_1990763597967052800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990763597967052800/img/LJFzOWYqPP3ekNKY.jpg",
+        "public_metrics": {
+          "view_count": 7854
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990763597967052800/vid/avc1/320x568/bDStL2ner2GlAmJ6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990763597967052800/vid/avc1/480x852/xaqMXRRTXRYW_9Ob.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990763597967052800/vid/avc1/720x1280/Ps6_rmiSoFfO9sce.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990763597967052800/pl/WIespBQM2Q_ATP3q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1991056905469665482",
+        "created_at": "2025-11-19T08:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991056905469665482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maorou_k8m/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/maorou_k8m/status/1990763655844200643",
+              "start": 9,
+              "url": "https://t.co/q5V09lZqUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991056905469665482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990763655844200643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈咋这么可爱呢 https://t.co/q5V09lZqUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990763597967052800"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1990763655844200643",
+        "created_at": "2025-11-18T12:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990763655844200643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6374Jdq0Ja",
+              "end": 35,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1990763655844200643/video/1",
+              "media_key": "13_1990763597967052800",
+              "start": 12,
+              "url": "https://t.co/6374Jdq0Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990763655844200643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 25027,
+          "like_count": 1026,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "白发？ 还是..黑发？ https://t.co/6374Jdq0Ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1990367013039124665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 362,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 221
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins 除了此账号 其他账号开通任何需要付费链接都是骗子！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245895,
+          "following_count": 42,
+          "like_count": 474,
+          "listed_count": 661,
+          "media_count": 395,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

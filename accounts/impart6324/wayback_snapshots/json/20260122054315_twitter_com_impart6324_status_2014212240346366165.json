@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014194584314913006",
+    "created_at": "2026-01-22T05:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014212240346366165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672873430352293890",
+          "start": 0,
+          "username": "UnfoundUser07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014212240346366165",
+    "in_reply_to_user_id": "1672873430352293890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014211928437273017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnfoundUser07 那咋子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014194584314913006",
+        "created_at": "2026-01-22T05:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014212240346366165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672873430352293890",
+              "start": 0,
+              "username": "UnfoundUser07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014212240346366165",
+        "in_reply_to_user_id": "1672873430352293890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014211928437273017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnfoundUser07 那咋子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672873430352293890",
+        "conversation_id": "2014194584314913006",
+        "created_at": "2026-01-22T05:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014211928437273017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014211928437273017",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014204842181591311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 骂我跌干嘛😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 337,
+          "like_count": 6412,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1006
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T07:44:56.000Z",
+        "description": "下水道ゴミ回収所 ∥ 🚪52",
+        "id": "1672873430352293890",
+        "location": "Yokosuka-shi, Kanagawa",
+        "name": "拒絕反庇",
+        "pinned_tweet_id": "2012228325243248736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014194134609776640/0hX_Ykqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 112,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "username": "UnfoundUser07",
+        "verified": false
+      }
+    ]
+  }
+}

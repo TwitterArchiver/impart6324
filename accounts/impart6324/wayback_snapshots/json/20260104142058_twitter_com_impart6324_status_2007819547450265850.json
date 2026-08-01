@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2007819547450265850",
+    "created_at": "2026-01-04T14:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007819547450265850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmslwcnm8964/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nmslwcnm8964/status/2007819271477588131",
+          "start": 9,
+          "url": "https://t.co/JLfKFc8x7n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007819547450265850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007819271477588131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把我拍的好丑啊😇 https://t.co/JLfKFc8x7n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2007819265555197952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G900-_CacAAIbe1.jpg",
+        "width": 1805
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2007819547450265850",
+        "created_at": "2026-01-04T14:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007819547450265850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmslwcnm8964/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nmslwcnm8964/status/2007819271477588131",
+              "start": 9,
+              "url": "https://t.co/JLfKFc8x7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007819547450265850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007819271477588131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把我拍的好丑啊😇 https://t.co/JLfKFc8x7n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007819265555197952"
+          ]
+        },
+        "author_id": "1975733018028609536",
+        "conversation_id": "2007819271477588131",
+        "created_at": "2026-01-04T14:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007819271477588131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrH8uX2yd5",
+              "end": 23,
+              "expanded_url": "https://x.com/nmslwcnm8964/status/2007819271477588131/photo/1",
+              "media_key": "3_2007819265555197952",
+              "start": 0,
+              "url": "https://t.co/vrH8uX2yd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007819271477588131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vrH8uX2yd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 269,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 724
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T01:20:40.000Z",
+        "description": "闺蜜@Yamikawaiiiiii 私信只回口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Yamikawaiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1975733018028609536",
+        "name": "哈基芝",
+        "pinned_tweet_id": "2003184779391566178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002088439630700544/NQnV1hE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 21,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 175
+        },
+        "username": "nmslwcnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

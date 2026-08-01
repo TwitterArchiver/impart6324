@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027803854553952395",
+    "created_at": "2026-02-28T17:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027805403900432621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345207",
+          "start": 0,
+          "username": "intanssafitri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027805403900432621",
+    "in_reply_to_user_id": "1657345207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027805354189631946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intanssafitri 好啊好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027803854553952395",
+        "created_at": "2026-02-28T17:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027805403900432621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345207",
+              "start": 0,
+              "username": "intanssafitri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027805403900432621",
+        "in_reply_to_user_id": "1657345207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027805354189631946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intanssafitri 好啊好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657345207",
+        "conversation_id": "2027803854553952395",
+        "created_at": "2026-02-28T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027805354189631946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027805354189631946",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027803854553952395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 加油哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 429,
+          "like_count": 9675,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-09T09:10:23.000Z",
+        "description": "(－＂－怒)",
+        "id": "1657345207",
+        "location": "普鲁士",
+        "name": "Gardenia_33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004401189350526978/pQPklOLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 54,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 643
+        },
+        "username": "intanssafitri",
+        "verified": false
+      }
+    ]
+  }
+}

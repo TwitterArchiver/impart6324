@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995168015453962240"
+      ],
+      "media_source_tweet_id": [
+        "1995168047620083959"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "1995604568336728271",
+    "created_at": "2025-12-01T21:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995604568336728271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e6PDie6eNt",
+          "end": 50,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1995168047620083959/photo/1",
+          "media_key": "3_1995168015453962240",
+          "start": 27,
+          "url": "https://t.co/e6PDie6eNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995604568336728271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995168047620083959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 到底要我咋样 https://t.co/e6PDie6eNt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1995168015453962240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BCvTxawAAbD5_.png",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995168015453962240"
+          ],
+          "media_source_tweet_id": [
+            "1995168047620083959"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "1995604568336728271",
+        "created_at": "2025-12-01T21:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995604568336728271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6PDie6eNt",
+              "end": 50,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1995168047620083959/photo/1",
+              "media_key": "3_1995168015453962240",
+              "start": 27,
+              "url": "https://t.co/e6PDie6eNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995604568336728271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995168047620083959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 到底要我咋样 https://t.co/e6PDie6eNt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995168015453962240"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1995168047620083959",
+        "created_at": "2025-11-30T16:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995168047620083959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e6PDie6eNt",
+              "end": 30,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1995168047620083959/photo/1",
+              "media_key": "3_1995168015453962240",
+              "start": 7,
+              "url": "https://t.co/e6PDie6eNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995168047620083959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 126665,
+          "like_count": 382,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "到底要我咋样 https://t.co/e6PDie6eNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900260928954368/ZEL5bRW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 299,
+          "like_count": 1924,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 367
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9747,
+          "following_count": 7951,
+          "like_count": 27611,
+          "listed_count": 24,
+          "media_count": 6665,
+          "tweet_count": 42016
+        },
+        "username": "DDzhanshou5150",
+        "verified": true
+      }
+    ]
+  }
+}

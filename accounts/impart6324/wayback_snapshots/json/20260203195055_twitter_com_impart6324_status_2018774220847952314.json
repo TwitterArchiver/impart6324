@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2018774220847952314",
+    "created_at": "2026-02-03T19:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T20:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018774220847952314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzzmzmmmm/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/zzzmzmmmm/status/2018772970852974880",
+          "start": 12,
+          "url": "https://t.co/9IxR5JtyuE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018774220847952314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018772970852974880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起疼吗但是有点滑稽 https://t.co/9IxR5JtyuE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2018774220847952314",
+        "created_at": "2026-02-03T19:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018774220847952314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzzmzmmmm/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/zzzmzmmmm/status/2018772970852974880",
+              "start": 12,
+              "url": "https://t.co/9IxR5JtyuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018774220847952314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018772970852974880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起疼吗但是有点滑稽 https://t.co/9IxR5JtyuE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927283550950137856",
+        "conversation_id": "2018772970852974880",
+        "created_at": "2026-02-03T19:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018772970852974880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018772970852974880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "站起来腿太麻后仰摔了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 366,
+          "like_count": 7543,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1294
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:39:58.000Z",
+        "description": "111 大号@luyaoyaoy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "luyaoyaoy"
+              }
+            ]
+          }
+        },
+        "id": "1927283550950137856",
+        "location": "中国",
+        "name": "Zzz",
+        "pinned_tweet_id": "2002606151561851365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927283732207005696/sHjMRO7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 37,
+          "like_count": 1368,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 839
+        },
+        "username": "Zzzmzmmmm",
+        "verified": false
+      }
+    ]
+  }
+}

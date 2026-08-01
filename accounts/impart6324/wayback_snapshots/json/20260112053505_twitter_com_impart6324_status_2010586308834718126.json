@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2010465445820981277",
+    "created_at": "2026-01-12T05:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010586308834718126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010586308834718126",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010465445820981277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeindx 咋去杭州了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2010465445820981277",
+        "created_at": "2026-01-12T05:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010586308834718126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010586308834718126",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010465445820981277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx 咋去杭州了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787149306740510720",
+        "conversation_id": "2010465445820981277",
+        "created_at": "2026-01-11T21:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T22:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010465445820981277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010465445820981277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我杭州闺蜜们呢？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "不常看 互关可以要联系",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009352356190728193/8pkEikz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 292,
+          "like_count": 5409,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 719
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005663391076229121/E1MXeSvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 822,
+          "like_count": 6197,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2968
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

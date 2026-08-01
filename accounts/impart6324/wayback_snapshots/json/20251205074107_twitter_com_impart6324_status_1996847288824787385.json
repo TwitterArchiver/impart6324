@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1996847288824787385",
+    "created_at": "2025-12-05T07:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996847288824787385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manglesuki/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+          "start": 9,
+          "url": "https://t.co/FLcHXMwEbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996847288824787385",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996632430036635741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "C.N.M.🕯️ https://t.co/FLcHXMwEbq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1996847288824787385",
+        "created_at": "2025-12-05T07:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996847288824787385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manglesuki/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/manglesuki/status/1996632430036635741",
+              "start": 9,
+              "url": "https://t.co/FLcHXMwEbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996847288824787385",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "C.N.M.🕯️ https://t.co/FLcHXMwEbq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "1996632430036635741",
+        "created_at": "2025-12-04T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996632430036635741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996632430036635741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 30188,
+          "like_count": 117,
+          "quote_count": 29,
+          "reply_count": 55,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：药物百科wiki主沐雨因严重的肺部感染，于2025.11.25不幸病逝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 223,
+          "like_count": 2484,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 459
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜ENTP｜女生｜药物百科副wiki主｜双相BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X 凯越450RR｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87Q9FT"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "location": "Night city",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "1963364172567339145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 76,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/iv2t87Q9FT",
+        "username": "Manglesuki",
+        "verified": false
+      }
+    ]
+  }
+}

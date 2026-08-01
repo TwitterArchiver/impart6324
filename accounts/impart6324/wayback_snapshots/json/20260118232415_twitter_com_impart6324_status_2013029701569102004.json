@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013029687862194179"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2013029701569102004",
+    "created_at": "2026-01-18T23:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013029701569102004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CprAGymsLd",
+          "end": 67,
+          "expanded_url": "https://x.com/impart6324/status/2013029701569102004/photo/1",
+          "media_key": "3_2013029687862194179",
+          "start": 44,
+          "url": "https://t.co/CprAGymsLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013029701569102004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完饭的时候 有一个新朋友问我为什么性格这么温和 我给她说了之前遇到的事 她说我好惨😇 https://t.co/CprAGymsLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013029687862194179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G--31etXcAMrwjw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013029687862194179"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013029701569102004",
+        "created_at": "2026-01-18T23:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013029701569102004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CprAGymsLd",
+              "end": 67,
+              "expanded_url": "https://x.com/impart6324/status/2013029701569102004/photo/1",
+              "media_key": "3_2013029687862194179",
+              "start": 44,
+              "url": "https://t.co/CprAGymsLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013029701569102004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完饭的时候 有一个新朋友问我为什么性格这么温和 我给她说了之前遇到的事 她说我好惨😇 https://t.co/CprAGymsLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 327,
+          "like_count": 6178,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 954
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

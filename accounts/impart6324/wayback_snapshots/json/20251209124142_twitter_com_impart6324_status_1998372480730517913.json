@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1998368932877799913",
+    "created_at": "2025-12-09T12:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998372480730517913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1562858237657231361",
+          "start": 0,
+          "username": "4444yanye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998372480730517913",
+    "in_reply_to_user_id": "1562858237657231361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998368932877799913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4444yanye 就一个微信号啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1998368932877799913].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1998368932877799913",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1998368932877799913"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1998368932877799913",
+        "created_at": "2025-12-09T12:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998372480730517913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1562858237657231361",
+              "start": 0,
+              "username": "4444yanye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998372480730517913",
+        "in_reply_to_user_id": "1562858237657231361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998368932877799913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4444yanye 就一个微信号啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 231,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 494
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T17:43:41.000Z",
+        "description": "革命家と彼女の恋愛 我是言葉的複製體 前世@yanyedawang 精神狀態不好⚠️注意自避 ｜🚪88🚪200🚪300🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "yanyedawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoye44231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoye44231",
+                "start": 0,
+                "url": "https://t.co/K6MZ4cB7ay"
+              }
+            ]
+          }
+        },
+        "id": "1562858237657231361",
+        "location": "只有我的地方 ",
+        "name": "爱来自言叶",
+        "pinned_tweet_id": "1956069234133622908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994447936550572033/ofyn8wsv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 179,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/K6MZ4cB7ay",
+        "username": "4444yanye",
+        "verified": false
+      }
+    ]
+  }
+}

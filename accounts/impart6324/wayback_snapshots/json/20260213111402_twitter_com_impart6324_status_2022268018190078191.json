@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021954537322385408"
+      ],
+      "media_source_tweet_id": [
+        "2021954607455281602"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022268018190078191",
+    "created_at": "2026-02-13T11:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022268018190078191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820575397051797504",
+          "start": 3,
+          "username": "inreuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsJdfNHyfx",
+          "end": 35,
+          "expanded_url": "https://x.com/inreuo/status/2021954607455281602/video/1",
+          "media_key": "13_2021954537322385408",
+          "start": 12,
+          "url": "https://t.co/NsJdfNHyfx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022268018190078191",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 879
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021954607455281602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @inreuo: https://t.co/NsJdfNHyfx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5933,
+        "height": 1278,
+        "media_key": "13_2021954537322385408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021954537322385408/img/hjBJjsT46cPmsSjO.jpg",
+        "public_metrics": {
+          "view_count": 12434
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021954537322385408/vid/avc1/320x568/Wh6qraeyG5NlNO0h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021954537322385408/vid/avc1/480x852/n3BE1yVSQ7hC5h0d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021954537322385408/vid/avc1/720x1278/VpZUBn_brUVFN5o8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021954537322385408/pl/lBbsis57Jp8xMxGl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021954537322385408"
+          ],
+          "media_source_tweet_id": [
+            "2021954607455281602"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022268018190078191",
+        "created_at": "2026-02-13T11:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022268018190078191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820575397051797504",
+              "start": 3,
+              "username": "inreuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsJdfNHyfx",
+              "end": 35,
+              "expanded_url": "https://x.com/inreuo/status/2021954607455281602/video/1",
+              "media_key": "13_2021954537322385408",
+              "start": 12,
+              "url": "https://t.co/NsJdfNHyfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022268018190078191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 879
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021954607455281602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @inreuo: https://t.co/NsJdfNHyfx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021954537322385408"
+          ]
+        },
+        "author_id": "1820575397051797504",
+        "conversation_id": "2021954607455281602",
+        "created_at": "2026-02-12T14:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021954607455281602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsJdfNHyfx",
+              "end": 23,
+              "expanded_url": "https://x.com/inreuo/status/2021954607455281602/video/1",
+              "media_key": "13_2021954537322385408",
+              "start": 0,
+              "url": "https://t.co/NsJdfNHyfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021954607455281602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 350,
+          "impression_count": 58195,
+          "like_count": 3771,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 879
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/NsJdfNHyfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 390,
+          "like_count": 8337,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T21:41:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/9IiR3",
+                "end": 23,
+                "expanded_url": "https://boxd.it/9IiR3",
+                "start": 0,
+                "url": "https://t.co/I1yVzBDYSj"
+              }
+            ]
+          }
+        },
+        "id": "1820575397051797504",
+        "name": "Lily ✮⋆˙",
+        "pinned_tweet_id": "2020524303687532666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020266764135739392/sEtnKu0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10442,
+          "following_count": 46,
+          "like_count": 28838,
+          "listed_count": 58,
+          "media_count": 1150,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/I1yVzBDYSj",
+        "username": "inreuo",
+        "verified": false
+      }
+    ]
+  }
+}

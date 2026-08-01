@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999328999554875392"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999329034682114378",
+    "created_at": "2025-12-12T04:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999329034682114378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9GgfpU7yr",
+          "end": 27,
+          "expanded_url": "https://x.com/impart6324/status/1999329034682114378/photo/1",
+          "media_key": "3_1999328999554875392",
+          "start": 4,
+          "url": "https://t.co/k9GgfpU7yr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999329034682114378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "气笑了 https://t.co/k9GgfpU7yr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1999328999554875392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78LIdebAAA7kNw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999328999554875392"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999329034682114378",
+        "created_at": "2025-12-12T04:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999329034682114378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9GgfpU7yr",
+              "end": 27,
+              "expanded_url": "https://x.com/impart6324/status/1999329034682114378/photo/1",
+              "media_key": "3_1999328999554875392",
+              "start": 4,
+              "url": "https://t.co/k9GgfpU7yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999329034682114378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气笑了 https://t.co/k9GgfpU7yr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 224,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 525
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

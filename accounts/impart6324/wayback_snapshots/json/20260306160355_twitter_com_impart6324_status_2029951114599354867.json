@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029588754428744120",
+    "created_at": "2026-03-06T16:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029951114599354867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907669793756602368",
+          "start": 0,
+          "username": "TianShaXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029951114599354867",
+    "in_reply_to_user_id": "1907669793756602368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029588754428744120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianShaXS 卧槽老哥！14岁就整ROG灯效本+5090大师卡+三星折叠屏+苹果双表？这配置直接起飞啊！俺14岁还在用诺基亚砖头呢，哭死😭😭富二代鉴定完毕，牛逼爆了！😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2029588746119860225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqMNhya0AEeqzM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2029588746136682498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqMNh2bgAI8olY.jpg",
+        "width": 1706
+      },
+      {
+        "height": 945,
+        "media_key": "3_2029588746136698880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqMNh2bwAACG1m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2029588746145030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqMNh4a4AAN9NV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029588754428744120",
+        "created_at": "2026-03-06T16:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029951114599354867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907669793756602368",
+              "start": 0,
+              "username": "TianShaXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029951114599354867",
+        "in_reply_to_user_id": "1907669793756602368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029588754428744120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianShaXS 卧槽老哥！14岁就整ROG灯效本+5090大师卡+三星折叠屏+苹果双表？这配置直接起飞啊！俺14岁还在用诺基亚砖头呢，哭死😭😭富二代鉴定完毕，牛逼爆了！😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029588746119860225",
+            "3_2029588746136682498",
+            "3_2029588746136698880",
+            "3_2029588746145030144"
+          ]
+        },
+        "author_id": "1907669793756602368",
+        "conversation_id": "2029588754428744120",
+        "created_at": "2026-03-05T16:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029588754428744120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPoweWrjBB",
+              "end": 41,
+              "expanded_url": "https://x.com/TianShaXS/status/2029588754428744120/photo/1",
+              "media_key": "3_2029588746119860225",
+              "start": 18,
+              "url": "https://t.co/fPoweWrjBB"
+            },
+            {
+              "display_url": "pic.x.com/fPoweWrjBB",
+              "end": 41,
+              "expanded_url": "https://x.com/TianShaXS/status/2029588754428744120/photo/1",
+              "media_key": "3_2029588746136682498",
+              "start": 18,
+              "url": "https://t.co/fPoweWrjBB"
+            },
+            {
+              "display_url": "pic.x.com/fPoweWrjBB",
+              "end": 41,
+              "expanded_url": "https://x.com/TianShaXS/status/2029588754428744120/photo/1",
+              "media_key": "3_2029588746136698880",
+              "start": 18,
+              "url": "https://t.co/fPoweWrjBB"
+            },
+            {
+              "display_url": "pic.x.com/fPoweWrjBB",
+              "end": 41,
+              "expanded_url": "https://x.com/TianShaXS/status/2029588754428744120/photo/1",
+              "media_key": "3_2029588746145030144",
+              "start": 18,
+              "url": "https://t.co/fPoweWrjBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029588754428744120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 34236,
+          "like_count": 123,
+          "quote_count": 17,
+          "reply_count": 103,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "14岁的时候就拥有这些属于什么水平 https://t.co/fPoweWrjBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 449,
+          "like_count": 10615,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-03T05:42:31.000Z",
+        "description": "hrt🍥in 12岁｜喜欢睡觉｜15岁｜mtf🏳️‍⚧️｜日常生活推",
+        "id": "1907669793756602368",
+        "name": "TianShaYS🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029211576801345537/-lQAev7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 110,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "TianShaXS",
+        "verified": false
+      }
+    ]
+  }
+}

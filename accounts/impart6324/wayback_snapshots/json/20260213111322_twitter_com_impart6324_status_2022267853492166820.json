@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021908631164502016"
+      ],
+      "media_source_tweet_id": [
+        "2021908699393171659"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2022267853492166820",
+    "created_at": "2026-02-13T11:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022267853492166820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239151814521450498",
+          "start": 3,
+          "username": "naru__sleep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9W7XWDTqa1",
+          "end": 63,
+          "expanded_url": "https://x.com/naru__sleep/status/2021908699393171659/video/1",
+          "media_key": "13_2021908631164502016",
+          "start": 40,
+          "url": "https://t.co/9W7XWDTqa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022267853492166820",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021908699393171659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naru__sleep: Snow halation\n\n🎹🎤cover https://t.co/9W7XWDTqa1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36490,
+        "height": 720,
+        "media_key": "13_2021908631164502016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021908631164502016/img/VR4eq560xomPf99_.jpg",
+        "public_metrics": {
+          "view_count": 33099
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021908631164502016/vid/avc1/364x270/quDJ876qfp1GhL-i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021908631164502016/vid/avc1/486x360/kwhhYR-Q-e82kTk5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021908631164502016/vid/avc1/972x720/SKPfsJxAywaXmRY5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021908631164502016/pl/2huE2YAzKdPkND7x.m3u8?v=cfc"
+          }
+        ],
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021908631164502016"
+          ],
+          "media_source_tweet_id": [
+            "2021908699393171659"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2022267853492166820",
+        "created_at": "2026-02-13T11:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022267853492166820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239151814521450498",
+              "start": 3,
+              "username": "naru__sleep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9W7XWDTqa1",
+              "end": 63,
+              "expanded_url": "https://x.com/naru__sleep/status/2021908699393171659/video/1",
+              "media_key": "13_2021908631164502016",
+              "start": 40,
+              "url": "https://t.co/9W7XWDTqa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022267853492166820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021908699393171659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naru__sleep: Snow halation\n\n🎹🎤cover https://t.co/9W7XWDTqa1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021908631164502016"
+          ]
+        },
+        "author_id": "1239151814521450498",
+        "conversation_id": "2021908699393171659",
+        "created_at": "2026-02-12T11:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021908699393171659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9W7XWDTqa1",
+              "end": 46,
+              "expanded_url": "https://x.com/naru__sleep/status/2021908699393171659/video/1",
+              "media_key": "13_2021908631164502016",
+              "start": 23,
+              "url": "https://t.co/9W7XWDTqa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021908699393171659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 628,
+          "impression_count": 90858,
+          "like_count": 4906,
+          "quote_count": 53,
+          "reply_count": 28,
+          "retweet_count": 752
+        },
+        "reply_settings": "everyone",
+        "text": "Snow halation\n\n🎹🎤cover https://t.co/9W7XWDTqa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 390,
+          "like_count": 8335,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T11:30:01.000Z",
+        "description": "作詞作編曲歌┊︎おねます@naru_sleep2┊︎ #ねむりの城┊︎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "ねむりの城"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "naru_sleep2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/narusleep",
+                "end": 23,
+                "expanded_url": "https://lit.link/narusleep",
+                "start": 0,
+                "url": "https://t.co/C8gB9Vjz1g"
+              }
+            ]
+          }
+        },
+        "id": "1239151814521450498",
+        "name": "なるみや",
+        "pinned_tweet_id": "2004168727009653067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004171027258146817/jJq1mqb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58726,
+          "following_count": 41,
+          "like_count": 2271,
+          "listed_count": 209,
+          "media_count": 165,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/C8gB9Vjz1g",
+        "username": "naru__sleep",
+        "verified": false
+      }
+    ]
+  }
+}

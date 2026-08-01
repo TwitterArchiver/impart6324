@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2012268662502367492",
+    "created_at": "2026-01-16T21:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T22:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012268662502367492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012268662502367492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是真不想跟现实同龄人接触了 天天学点b梗跟风听点歌发个朋友圈去逛个商场 你们这辈子真就这样了 你们就非得在一堆屎之中比谁更臭吗😹 不合群是对的 在现实不合群说明你有不被傻逼理解的点 这群正常人就是不配交流 跟你说个话是想知道同龄人现在多傻逼了 把自己当宝物了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2012268662502367492",
+        "created_at": "2026-01-16T21:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012268662502367492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012268662502367492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真不想跟现实同龄人接触了 天天学点b梗跟风听点歌发个朋友圈去逛个商场 你们这辈子真就这样了 你们就非得在一堆屎之中比谁更臭吗😹 不合群是对的 在现实不合群说明你有不被傻逼理解的点 这群正常人就是不配交流 跟你说个话是想知道同龄人现在多傻逼了 把自己当宝物了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2010607524232544386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010894532460634113/p-lDVvSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 322,
+          "like_count": 5869,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 884
+        },
+        "username": "impart6324",
+        "verified": false
+      }
+    ]
+  }
+}

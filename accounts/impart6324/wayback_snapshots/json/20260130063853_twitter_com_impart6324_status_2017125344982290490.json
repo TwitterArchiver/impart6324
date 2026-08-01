@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017125344982290490",
+    "created_at": "2026-01-30T06:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017125344982290490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yummyprprpr/st…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yummyprprpr/status/2017123374451794332",
+          "start": 23,
+          "url": "https://t.co/zsGuMjbyoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017125344982290490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017123374451794332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为你全家死完了啊😂就会偷词？你的自我思想呢 https://t.co/zsGuMjbyoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017123361462108161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5DApQXQAEseQm.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017125344982290490",
+        "created_at": "2026-01-30T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017125344982290490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yummyprprpr/st…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yummyprprpr/status/2017123374451794332",
+              "start": 23,
+              "url": "https://t.co/zsGuMjbyoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017125344982290490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017123374451794332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你全家死完了啊😂就会偷词？你的自我思想呢 https://t.co/zsGuMjbyoE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017123361462108161"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2017123374451794332",
+        "created_at": "2026-01-30T06:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017123374451794332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdoOZr9VXU",
+              "end": 133,
+              "expanded_url": "https://x.com/yummyprprPR/status/2017123374451794332/photo/1",
+              "media_key": "3_2017123361462108161",
+              "start": 110,
+              "url": "https://t.co/sdoOZr9VXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017123374451794332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀 QQ 企鹅腿毛打来了，你有这个时间自己去带可怜的小狗狗治病会不会，我可以给你点钱\n妹子输出这么多我总结一下哈：这个幸福家庭出生的小馋没资格劝导别人不卖逼。\n那你不让我说别人，你咋又说起我来了！又在左右脑互搏！ https://t.co/sdoOZr9VXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 356,
+          "like_count": 7122,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1242
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "老实人一枚/锐评发骚合集 /m 恋痛/无🚪不加任何联系方式（除了感兴趣的）",
+        "id": "1986136179721240576",
+        "location": "长春",
+        "name": "小馋（狂暴期）",
+        "pinned_tweet_id": "2017065739438469446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015622293985112064/ZY0VpS1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 74,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 304
+        },
+        "username": "yummyprprPR",
+        "verified": false
+      }
+    ]
+  }
+}

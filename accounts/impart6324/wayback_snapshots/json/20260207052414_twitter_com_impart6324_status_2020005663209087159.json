@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2020005663209087159",
+    "created_at": "2026-02-07T05:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T06:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020005663209087159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newagekami/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/newagekami/status/2020000783195111803",
+          "start": 11,
+          "url": "https://t.co/1H1oxMHb8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020005663209087159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020000783195111803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了拍这个我冻的🦅疼 https://t.co/1H1oxMHb8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020000760495501320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh7_T9acAgI5DV.jpg",
+        "width": 1356
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020000760503914496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh7_T_a0AA_QkQ.jpg",
+        "width": 1356
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020000760491343872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh7_T8bAAApnVz.jpg",
+        "width": 1356
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020000760491307009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh7_T8acAE0ImI.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2020005663209087159",
+        "created_at": "2026-02-07T05:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020005663209087159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newagekami/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/newagekami/status/2020000783195111803",
+              "start": 11,
+              "url": "https://t.co/1H1oxMHb8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020005663209087159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020000783195111803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了拍这个我冻的🦅疼 https://t.co/1H1oxMHb8Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020000760495501320",
+            "3_2020000760503914496",
+            "3_2020000760491343872",
+            "3_2020000760491307009"
+          ]
+        },
+        "author_id": "1417794719229169665",
+        "conversation_id": "2020000783195111803",
+        "created_at": "2026-02-07T05:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020000783195111803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fbya0pVPSm",
+              "end": 43,
+              "expanded_url": "https://x.com/Newagekami/status/2020000783195111803/photo/1",
+              "media_key": "3_2020000760495501320",
+              "start": 20,
+              "url": "https://t.co/Fbya0pVPSm"
+            },
+            {
+              "display_url": "pic.x.com/Fbya0pVPSm",
+              "end": 43,
+              "expanded_url": "https://x.com/Newagekami/status/2020000783195111803/photo/1",
+              "media_key": "3_2020000760503914496",
+              "start": 20,
+              "url": "https://t.co/Fbya0pVPSm"
+            },
+            {
+              "display_url": "pic.x.com/Fbya0pVPSm",
+              "end": 43,
+              "expanded_url": "https://x.com/Newagekami/status/2020000783195111803/photo/1",
+              "media_key": "3_2020000760491343872",
+              "start": 20,
+              "url": "https://t.co/Fbya0pVPSm"
+            },
+            {
+              "display_url": "pic.x.com/Fbya0pVPSm",
+              "end": 43,
+              "expanded_url": "https://x.com/Newagekami/status/2020000783195111803/photo/1",
+              "media_key": "3_2020000760491307009",
+              "start": 20,
+              "url": "https://t.co/Fbya0pVPSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020000783195111803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷的劃根火柴能看到太奶 #男娘 #门槛 https://t.co/Fbya0pVPSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "清贫的民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "123木头人",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 380,
+          "like_count": 7810,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 91
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

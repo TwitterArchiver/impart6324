@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2034426145324912985",
+    "created_at": "2026-03-19T00:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T01:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034426145324912985"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034426145324912985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你之前一直给我发一大堆我就很生气了，而且还一直说我，我本来就是那种不怎么喜欢回消息的人，我朋友给我发消息我也不回，你还一直压力我你说你想跟我做朋友我已经很努力的回你消息了，但是我不觉得我们关系好到可以说这种话，而且我很穷我是个穷人没有钱会死掉维持自己的生活就很难了，我不喜欢别人跟我提钱的事情，除非给我花钱，你有点太得寸进尺了吧，你到底想干啥，你要逼死我吗"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你之前一直给我发一大堆我就很生气了，而且还一直说我，我本来就是那种不怎么喜欢回消息的人，我朋友给我发消息我也不回，你还一直压力我你说你想跟我做朋友我已经很努力的回你消息了，但是我不觉得我们关系好到可以说这种话，而且我很穷我是个穷人没有钱会死掉维持自己的生活就很难了，我不喜欢别人跟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2034426145324912985",
+        "created_at": "2026-03-19T00:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034426145324912985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034426145324912985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你之前一直给我发一大堆我就很生气了，而且还一直说我，我本来就是那种不怎么喜欢回消息的人，我朋友给我发消息我也不回，你还一直压力我你说你想跟我做朋友我已经很努力的回你消息了，但是我不觉得我们关系好到可以说这种话，而且我很穷我是个穷人没有钱会死掉维持自己的生活就很难了，我不喜欢别人跟我提钱的事情，除非给我花钱，你有点太得寸进尺了吧，你到底想干啥，你要逼死我吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你之前一直给我发一大堆我就很生气了，而且还一直说我，我本来就是那种不怎么喜欢回消息的人，我朋友给我发消息我也不回，你还一直压力我你说你想跟我做朋友我已经很努力的回你消息了，但是我不觉得我们关系好到可以说这种话，而且我很穷我是个穷人没有钱会死掉维持自己的生活就很难了，我不喜欢别人跟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 458,
+          "like_count": 11219,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": true
+      }
+    ]
+  }
+}

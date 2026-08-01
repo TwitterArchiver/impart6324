@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014298783769837836",
+    "created_at": "2026-01-22T13:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014333924236038244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874791109370798080",
+          "start": 0,
+          "username": "0_0zazao_Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014333924236038244",
+    "in_reply_to_user_id": "1874791109370798080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014298783769837836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0_0zazao_Q 推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014298783769837836",
+        "created_at": "2026-01-22T13:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014333924236038244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874791109370798080",
+              "start": 0,
+              "username": "0_0zazao_Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014333924236038244",
+        "in_reply_to_user_id": "1874791109370798080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014298783769837836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0_0zazao_Q 推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874791109370798080",
+        "conversation_id": "2014298783769837836",
+        "created_at": "2026-01-22T11:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014298783769837836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014298783769837836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找到上海能上吊的loft了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "只骂弱智 眼缘回关 不加联系除非给我钱",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 337,
+          "like_count": 6459,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1020
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T12:13:36.000Z",
+        "description": "➕v52🚪线下188🚪",
+        "id": "1874791109370798080",
+        "location": "垃圾站",
+        "name": "咖喱🍛",
+        "pinned_tweet_id": "2010310471019348272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894809006457430016/1mQZBoSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 203,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 293
+        },
+        "username": "0_0zazao_Q",
+        "verified": false
+      }
+    ]
+  }
+}

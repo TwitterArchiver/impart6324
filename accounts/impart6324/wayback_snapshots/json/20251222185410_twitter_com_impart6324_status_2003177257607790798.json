@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2003175704402493482",
+    "created_at": "2025-12-22T18:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T19:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003177257607790798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922877729353195520",
+          "start": 0,
+          "username": "xiamii43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003177257607790798",
+    "in_reply_to_user_id": "1922877729353195520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003176790995652643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiamii43 咋了集美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2003175704402493482",
+        "created_at": "2025-12-22T18:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T19:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003177257607790798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922877729353195520",
+              "start": 0,
+              "username": "xiamii43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003177257607790798",
+        "in_reply_to_user_id": "1922877729353195520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003176790995652643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiamii43 咋了集美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922877729353195520",
+        "conversation_id": "2003175704402493482",
+        "created_at": "2025-12-22T18:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T19:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003176790995652643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003176790995652643",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003175704402493482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 打语音就是让我看这的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 228,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 485
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T04:52:42.000Z",
+        "description": "iiii/i 持续淡推中 现生认出我了不许贴脸。贴脸你妈炸了。。双取自由 天天开心^ω^",
+        "id": "1922877729353195520",
+        "name": "小虾神",
+        "pinned_tweet_id": "1983526950452044076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989376482133614592/YM4csMI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 100,
+          "like_count": 1899,
+          "listed_count": 12,
+          "media_count": 65,
+          "tweet_count": 1489
+        },
+        "username": "xiamii43",
+        "verified": false
+      }
+    ]
+  }
+}

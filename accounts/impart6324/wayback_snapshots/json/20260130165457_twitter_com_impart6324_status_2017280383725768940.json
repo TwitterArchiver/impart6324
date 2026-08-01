@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2017267810330947729",
+    "created_at": "2026-01-30T16:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017280383725768940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618206767506137091",
+          "start": 0,
+          "username": "zhoxn14039196"
+        },
+        {
+          "end": 24,
+          "id": "1787149306740510720",
+          "start": 15,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017280383725768940",
+    "in_reply_to_user_id": "1618206767506137091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017280299881935230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoxn14039196 @freeindx 闺蜜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2017267810330947729",
+        "created_at": "2026-01-30T16:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017280383725768940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618206767506137091",
+              "start": 0,
+              "username": "zhoxn14039196"
+            },
+            {
+              "end": 24,
+              "id": "1787149306740510720",
+              "start": 15,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017280383725768940",
+        "in_reply_to_user_id": "1618206767506137091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017280299881935230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoxn14039196 @freeindx 闺蜜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618206767506137091",
+        "conversation_id": "2017267810330947729",
+        "created_at": "2026-01-30T16:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017280299881935230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 21,
+              "id": "1787149306740510720",
+              "start": 12,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017280299881935230",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017267810330947729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @freeindx 这谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大臭逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2016902703302267174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 369,
+          "like_count": 7313,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1277
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T11:19:32.000Z",
+        "description": "",
+        "id": "1618206767506137091",
+        "name": "辛子",
+        "pinned_tweet_id": "1994839982377406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963195151201042432/Dmxh3J13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 522,
+          "like_count": 3264,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3219
+        },
+        "username": "zhoxn14039196",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005663391076229121/E1MXeSvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 827,
+          "like_count": 6369,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 3066
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

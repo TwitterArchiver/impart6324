@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2029267649872679088",
+    "created_at": "2026-03-04T18:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029267649872679088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/y0zarashi/status/2029262137181520134",
+          "start": 5,
+          "url": "https://t.co/Cx0AooMdII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029267649872679088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029262137181520134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感慨万千 https://t.co/Cx0AooMdII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029262122681810947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCljJiqawAMfYpk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1148,
+        "media_key": "3_2029262122685956096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCljJiraAAAvawe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2029262122811789312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCljJjJaEAAF48T.jpg",
+        "width": 960
+      },
+      {
+        "height": 1940,
+        "media_key": "3_2029262122681810945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCljJiqawAE2dS8.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2029267649872679088",
+        "created_at": "2026-03-04T18:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029267649872679088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/y0zarashi/status/2029262137181520134",
+              "start": 5,
+              "url": "https://t.co/Cx0AooMdII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029267649872679088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029262137181520134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感慨万千 https://t.co/Cx0AooMdII"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029262122681810947",
+            "3_2029262122685956096",
+            "3_2029262122811789312",
+            "3_2029262122681810945"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2029262137181520134",
+        "created_at": "2026-03-04T18:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029262137181520134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pka9ERvLS9",
+              "end": 74,
+              "expanded_url": "https://x.com/y0zarashi/status/2029262137181520134/photo/1",
+              "media_key": "3_2029262122681810947",
+              "start": 51,
+              "url": "https://t.co/pka9ERvLS9"
+            },
+            {
+              "display_url": "pic.x.com/pka9ERvLS9",
+              "end": 74,
+              "expanded_url": "https://x.com/y0zarashi/status/2029262137181520134/photo/1",
+              "media_key": "3_2029262122685956096",
+              "start": 51,
+              "url": "https://t.co/pka9ERvLS9"
+            },
+            {
+              "display_url": "pic.x.com/pka9ERvLS9",
+              "end": 74,
+              "expanded_url": "https://x.com/y0zarashi/status/2029262137181520134/photo/1",
+              "media_key": "3_2029262122811789312",
+              "start": 51,
+              "url": "https://t.co/pka9ERvLS9"
+            },
+            {
+              "display_url": "pic.x.com/pka9ERvLS9",
+              "end": 74,
+              "expanded_url": "https://x.com/y0zarashi/status/2029262137181520134/photo/1",
+              "media_key": "3_2029262122681810945",
+              "start": 51,
+              "url": "https://t.co/pka9ERvLS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029262137181520134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的人生结束了，只有办不了签证的时候我才意识到原来我的青春早就离开了，我竟然成为了小时候讨厌的大人。\n我从小就不天真，时刻保持质疑。少年时眼中过早沉淀了世事的灰烬；青年时便在清醒中痛苦地审视世界。由于17岁辍学前去东南亚的经历，我既无法融入中国同龄人的喧嚣，又无力改变东南亚现实的荒诞。回国之后被坏人迫害形成了众所周知的牢大经历，我本身就不干净只能接受这些污蔑成为有案底的犯罪人员，在牢里改造完成之后我真的变好了 ，白粥里的鱼油代表着吃不到的普瑞巴林和喝不到的右美沙芬糖浆。回忆着改过自新的画面，让我相信回头是岸，最主要是警方咄咄逼人的交代犯罪事实，一星期一次的传唤代表着案件的进度，也是我唯一能和其他正常的交流的机会。因为牢里关着的罪犯全部自称是冤假错案。犯人们以吹嘘自己坐牢次数为荣，据我了解，当你一次犯罪被抓了之后，绝对还会进行下一次犯罪，因为被捕只有一次还有无数次。\n改过自新逃出生天被官方认证后，现在的我看到白色的墙壁，见到刺眼的阳光就会想到自己曾经剃过光头。（图1）\n在牢里，因为警察并没有通知我的家人,可能是污辱公职人员的罪行加上受伤的面容太过政治正确，还有我的手机因为是证据被扣押在派出所。我竟然在狱中的饭卡显示是的零块钱。当天晚上十点我铺好绿色棉被躺在廉价的蓝色代表牢中罪犯身份的马甲垫的床垫上。在床上的我被冻的瑟瑟发抖，棉被是臭的一点都不保温。\n我躲在被窝里偷偷哭泣，机械声生传出，是守夜的狱警叫我一定要露出头，我只能照做回头看了看周围假装睡觉的几位睡衣男子我很对不起他们，因为是我把他们吵醒了，明明是很多人可是睡在一张床上，我却感到孤独，是因为周边的人都太老了，一看就知道是四五十岁，我一个20岁的黄花小伙，在这里格格不入，我选择深呼吸，稳定情绪欺骗自己让我相信这个牢里是虚幻的。\n早上起来，调戏，新来的是每个监狱的传统，因为这里已经无聊到异常，都能变成一个梗。成为一种异常流行幻象，或者说是群众疯狂。\n“发表情包”这就是我的答案，他说判了几天，我说警察说十天\n问的人和后面听到的人都开怀大笑。然后为了向我确认是不是这个名字，我说是的，所有人笑得更开心了。\n有“赌徒”递给了我一个鸡蛋， 两个吸毒的送给了我两包榨菜。我好像要靠这三样零食在这充满人情味的虚假社会活下去。\n放风时间，跟我同时进来的人知道我的难处。送了一个牙刷给我，我很感激帮助我的所有人，可是都联系不上了，他们并没有给我任何联系方式。\n也许在世人眼里，他们是坏人。可是在我眼里，他们的确用赃款帮助了我。我想提出一个疑问。\n如果一个黑社会的老大用他的赃款10%的现金流做慈善会大于中国扫黑除恶后筛选留下的可爱民众中的好人自觉的捐款嘛。\n相比疫情这场灾难我更讨厌扫黑除恶这项政策。因为黑社会的消失，让我失去了人生意义。我从进击的巨人学到了暴力是一种答案。古惑仔才是我的选择。共产党毁灭了我的梦想，我应该是一个老大的马仔西装革履，相貌堂堂，身高八尺。\n我的人生最大的败笔就是明明是个坏人，但是又坏的不彻底，明明做的事情已经完全和道义背道而驰了，但是偏偏又不肯丢下那所谓的道义直到最后都被我心中所谓的”道义“所束缚。\n因为《古惑仔》原著可是没有一个好下场，浩南算是好一点的，吸过毒，被小混混打到跪地求饶，有什么卑劣的事儿也体验过。\n山鸡是台湾最大的黑帮毒蛇帮的老大，在自己事业个人家庭最巅峰的时候，被泰国拳王和一群高手追杀，在最人生最得意的时候被摔死，死后山鸡双胞胎儿女乱伦。\n大头，以个人实力，头脑，气魄都不输于浩南的，就是没志气，为了还人情跟老大继续混，被堵在街头里活活打死。\n混黑帮十个里九个半都栽了，只有死掉的混混才是传奇。\n\n我崇拜黑社会昙花一现的人生\n\n话说回来，很快到了第三天。\n有二个神人，衬衫里藏了两包烟和打火机，躲过了金属检测仪，大快朵颐了好3天，终于被狱警发现。\n我发现，关键你的人生当中有一个往饭卡里充了1000块，但是他出不去。这里解释一下，监狱里面没有饭卡，你必须通过银行卡转到他们规定银行卡里然后通过辅警手写扣钱。\n\n由于我是政治犯，除了没有同龄人之外，其他人看到我都是笑哈哈的，因为我能因为这个最近了，就说明我是一个敢于直言的人，我是正直友善的。监狱里面的人都对我非常友善，不过我看到了商机。\n\n我通过放风时间，要来了禁闭的人的名字，于是0块钱的，我冒充他买了很多东西，趁警察不在看守。房间的窗户打开，我就立即把我的东西全部给他了，因为这是第一次交易，我没有收税。\n那个人觉得我人可以，于是他把电话给我了，我也记住了。后来加了微信，也没有啥共同话题，他的朋友圈里全是自己孩子的成长。我只希望，这个孩子不要成为我这样的人。（2）\n\n监狱里每天都有离开的人，我就这样子获得了穿过十天的卫衣以及一张散发臭味的毛裤。我不再冷了，食物就靠每天收的税来继续生活。\n在第六天，我收到了警察给我的法律文件，我不知道是什么意思，看了看就还给人家了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生结束了，只有办不了签证的时候我才意识到原来我的青春早就离开了，我竟然成为了小时候讨厌的大人。 https://t.co/pka9ERvLS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 449,
+          "like_count": 10466,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "文学会改变人的心性，轻易的影响一个人使他走火入魔做不了凡人，读完一定程度的世界文学，十几年就过去了，而这条路才刚开始，而且读书之后大部分会忘却需要重新复读，留下来的比例如同鲁迅说的“炼炭”，精神会被前人之精神改造，如果你有诗歌或宗教的天赋，会更加偏离常人，你的友人家人同辈都会跟你谈不到一块，也很难有女人适合你。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "olivia rodrigo",
+        "name": "CallumL1（老婆孩子我的命）",
+        "pinned_tweet_id": "2029262137181520134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026825430725177344/_x7vFJo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 205,
+          "like_count": 85,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

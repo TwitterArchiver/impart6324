@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2027662223649477046",
+    "created_at": "2026-02-28T09:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027676612578480616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746394296188878848",
+          "start": 0,
+          "username": "pauline1391981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027676612578480616",
+    "in_reply_to_user_id": "1746394296188878848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027676395762307546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pauline1391981 mua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2027662223649477046",
+        "created_at": "2026-02-28T09:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027676612578480616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746394296188878848",
+              "start": 0,
+              "username": "pauline1391981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027676612578480616",
+        "in_reply_to_user_id": "1746394296188878848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027676395762307546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pauline1391981 mua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746394296188878848",
+        "conversation_id": "2027662223649477046",
+        "created_at": "2026-02-28T09:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027676395762307546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027676395762307546",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027662550020853954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 感谢有你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 425,
+          "like_count": 9613,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T04:50:30.000Z",
+        "description": "重生 顺女 纯恨 凉席 非单 聊天先轉888 回fo看成分。没逻辑没脑子的傻屌我都懒得鸟 并非你认为的大胜利。已经不割了，。目前很幸福",
+        "id": "1746394296188878848",
+        "name": "me0.4OoW0w",
+        "pinned_tweet_id": "1830951527252664392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775904889207697408/CXGEsMUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 96,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 752
+        },
+        "username": "pauline1391981",
+        "verified": false
+      }
+    ]
+  }
+}

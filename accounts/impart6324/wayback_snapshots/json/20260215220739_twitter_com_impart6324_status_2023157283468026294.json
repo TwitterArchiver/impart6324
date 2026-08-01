@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2023040808639947022",
+    "created_at": "2026-02-15T22:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T23:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023157283468026294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823428965773795329",
+          "start": 0,
+          "username": "mianmianmian0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023157283468026294",
+    "in_reply_to_user_id": "1823428965773795329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023040808639947022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mianmianmian0 我咋不知道呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2023040808639947022",
+        "created_at": "2026-02-15T22:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023157283468026294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823428965773795329",
+              "start": 0,
+              "username": "mianmianmian0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023157283468026294",
+        "in_reply_to_user_id": "1823428965773795329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023040808639947022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mianmianmian0 我咋不知道呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823428965773795329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2023040808639947022",
+        "created_at": "2026-02-15T14:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023040808639947022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ericyang_sh/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ericyang_sh/status/2022901629817872463",
+              "start": 21,
+              "url": "https://t.co/PwwyOcQtUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023040808639947022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022901629817872463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我一辈子没逛过商场的奶奶都知道啥是ysl https://t.co/PwwyOcQtUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2019068109005422696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 395,
+          "like_count": 8662,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1539
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "日月掷人去",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 166,
+          "like_count": 14483,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 8424
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

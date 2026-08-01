@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2008147382974984583",
+    "created_at": "2026-01-06T16:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008581139670462854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962816925022683136",
+          "start": 0,
+          "username": "Gomilan35220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008581139670462854",
+    "in_reply_to_user_id": "1962816925022683136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008579091042365884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gomilan35220 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2008147382974984583",
+        "created_at": "2026-01-06T16:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008581139670462854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962816925022683136",
+              "start": 0,
+              "username": "Gomilan35220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008581139670462854",
+        "in_reply_to_user_id": "1962816925022683136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008579091042365884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gomilan35220 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962816925022683136",
+        "conversation_id": "2008147382974984583",
+        "created_at": "2026-01-06T16:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008579091042365884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008579091042365884",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008147382974984583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 不开eva就滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 287,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 799
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T09:56:47.000Z",
+        "description": "爱碎碎念，爱好塔罗占卜通灵",
+        "id": "1962816925022683136",
+        "name": "追寻候鸟的雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962817172713152512/W5VbmJDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 55,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 87
+        },
+        "username": "Gomilan35220",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2014353678103437425",
+    "created_at": "2026-01-23T13:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014690409184952433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504630614578073600",
+          "start": 0,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014690409184952433",
+    "in_reply_to_user_id": "1504630614578073600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014353678103437425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunxvan1 我也想这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2014353678103437425",
+        "created_at": "2026-01-23T13:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014690409184952433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504630614578073600",
+              "start": 0,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014690409184952433",
+        "in_reply_to_user_id": "1504630614578073600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014353678103437425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunxvan1 我也想这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2014353678103437425",
+        "created_at": "2026-01-22T15:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014353678103437425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunxvan1/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yunxvan1/status/2002250159384899692",
+              "start": 13,
+              "url": "https://t.co/TNDQWzERtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014353678103437425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002250159384899692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁心疼我就给我五块钱吧！ https://t.co/TNDQWzERtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2011983124331422205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013494850050560000/7LRPBewu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 336,
+          "like_count": 6543,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1064
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 喜欢挂人",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "女孩",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 675,
+          "like_count": 6274,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 732
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

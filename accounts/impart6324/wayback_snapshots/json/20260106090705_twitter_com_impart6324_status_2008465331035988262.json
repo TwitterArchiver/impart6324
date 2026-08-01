@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2006658313082253593",
+    "created_at": "2026-01-06T09:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008465331035988262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394890139952943105",
+          "start": 0,
+          "username": "ShekYuiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008465331035988262",
+    "in_reply_to_user_id": "1394890139952943105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008460776785539383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShekYuiii 给你脸了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2006658313082253593",
+        "created_at": "2026-01-06T09:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008465331035988262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394890139952943105",
+              "start": 0,
+              "username": "ShekYuiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008465331035988262",
+        "in_reply_to_user_id": "1394890139952943105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008460776785539383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShekYuiii 给你脸了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394890139952943105",
+        "conversation_id": "2006658313082253593",
+        "created_at": "2026-01-06T08:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008460776785539383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008460776785539383",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006658313082253593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 抖音点赞算亲密行为吗hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "此刻不再望著你背影， 不再压抑自己内心炙热感情。",
+        "id": "1597065444136919040",
+        "location": "你妈大逼里",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "2001915692745183313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007441245644152832/9fL-ctc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 286,
+          "like_count": 5413,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 793
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T05:38:30.000Z",
+        "description": "日本語勉強中w =LOVE 野口衣織神推し 大谷映美里🤎AveMujica大好き 岡田夢以/八幡海鈴推し 外国人なので暖かい目で見てくださいwよろしくお願いします",
+        "id": "1394890139952943105",
+        "location": "Hong Kong",
+        "name": "Chuchu_Yuiii🌱🇭🇰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567679494269579267/VxzN7jtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 403,
+          "like_count": 4334,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 1531
+        },
+        "username": "ShekYuiii",
+        "verified": false
+      }
+    ]
+  }
+}

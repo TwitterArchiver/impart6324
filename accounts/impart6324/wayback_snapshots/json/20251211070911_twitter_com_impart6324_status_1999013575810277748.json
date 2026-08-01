@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "1999007918814015538",
+    "created_at": "2025-12-11T07:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999013575810277748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2148475878",
+          "start": 0,
+          "username": "kimukimu557188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999013575810277748",
+    "in_reply_to_user_id": "2148475878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999007918814015538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimukimu557188 呆着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "1999007918814015538",
+        "created_at": "2025-12-11T07:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999013575810277748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2148475878",
+              "start": 0,
+              "username": "kimukimu557188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999013575810277748",
+        "in_reply_to_user_id": "2148475878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999007918814015538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimukimu557188 呆着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2148475878",
+        "conversation_id": "1999007918814015538",
+        "created_at": "2025-12-11T06:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999007918814015538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999007918814015538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我我欠了二百五十的话费咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "男生超级扣分的行为，快来看看自己中了几条吧 1.男的",
+        "id": "1597065444136919040",
+        "name": "死亡以外的离开都是背叛",
+        "pinned_tweet_id": "1991154179373441030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996408372254625792/oE_vZcCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 224,
+          "like_count": 2884,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 506
+        },
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-22T06:45:45.000Z",
+        "description": ".请和我交朋友除了我没关注的男的我想和小女孩交朋友QAQ，可以叫我圣诞猫，查成分互fo 喜欢我请帮扶我",
+        "id": "2148475878",
+        "name": "圣诞猫",
+        "pinned_tweet_id": "1998777129119388040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967629264758439936/6WnlOcIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 381,
+          "like_count": 5563,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 478
+        },
+        "username": "kimukimu557188",
+        "verified": false
+      }
+    ]
+  }
+}

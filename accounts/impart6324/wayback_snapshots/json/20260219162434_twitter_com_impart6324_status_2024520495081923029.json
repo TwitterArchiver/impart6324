@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024520468905205760",
+        "3_2024520468905213952"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2024520495081923029",
+    "created_at": "2026-02-19T16:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024520495081923029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1417794719229169665",
+          "start": 23,
+          "username": "Newagekami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJ7WjBNKdv",
+          "end": 58,
+          "expanded_url": "https://x.com/impart6324/status/2024520495081923029/photo/1",
+          "media_key": "3_2024520468905205760",
+          "start": 35,
+          "url": "https://t.co/dJ7WjBNKdv"
+        },
+        {
+          "display_url": "pic.x.com/dJ7WjBNKdv",
+          "end": 58,
+          "expanded_url": "https://x.com/impart6324/status/2024520495081923029/photo/1",
+          "media_key": "3_2024520468905213952",
+          "start": 35,
+          "url": "https://t.co/dJ7WjBNKdv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024520495081923029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "图中都是不抽烟不酗酒精神状态良好的家庭乖宝宝啊@Newagekami https://t.co/dJ7WjBNKdv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024520468905205760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiKo92aIAAk9Iy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024520468905213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiKo92aQAAmw_x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024520468905205760",
+            "3_2024520468905213952"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2024520495081923029",
+        "created_at": "2026-02-19T16:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024520495081923029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1417794719229169665",
+              "start": 23,
+              "username": "Newagekami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJ7WjBNKdv",
+              "end": 58,
+              "expanded_url": "https://x.com/impart6324/status/2024520495081923029/photo/1",
+              "media_key": "3_2024520468905205760",
+              "start": 35,
+              "url": "https://t.co/dJ7WjBNKdv"
+            },
+            {
+              "display_url": "pic.x.com/dJ7WjBNKdv",
+              "end": 58,
+              "expanded_url": "https://x.com/impart6324/status/2024520495081923029/photo/1",
+              "media_key": "3_2024520468905213952",
+              "start": 35,
+              "url": "https://t.co/dJ7WjBNKdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520495081923029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图中都是不抽烟不酗酒精神状态良好的家庭乖宝宝啊@Newagekami https://t.co/dJ7WjBNKdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民间自主语言艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "美丽的地方",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024250302963339314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020216870977306624/GDUh2iVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 406,
+          "like_count": 8820,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T10:33:07.000Z",
+        "description": "我是男的 🚪88口令",
+        "id": "1417794719229169665",
+        "name": "✞𝕮𝖀𝕽𝕾𝕰✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423470185529233413/6E8f3ydo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 154,
+          "like_count": 1295,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 116
+        },
+        "username": "Newagekami",
+        "verified": false
+      }
+    ]
+  }
+}

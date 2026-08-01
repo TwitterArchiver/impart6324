@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2028011937607393545",
+    "created_at": "2026-03-01T07:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028012006414987516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1972283729340162048",
+          "start": 0,
+          "username": "xio6267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028012006414987516",
+    "in_reply_to_user_id": "1972283729340162048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028011937607393545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xio6267 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2028011937607393545",
+        "created_at": "2026-03-01T07:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028012006414987516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1972283729340162048",
+              "start": 0,
+              "username": "xio6267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028012006414987516",
+        "in_reply_to_user_id": "1972283729340162048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028011937607393545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xio6267 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972283729340162048",
+        "conversation_id": "2028011937607393545",
+        "created_at": "2026-03-01T07:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028011937607393545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/impart6324/status/2027597598534865238",
+              "start": 11,
+              "url": "https://t.co/JYj1M6whMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028011937607393545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027597598534865238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让它加我😂😂😂👏👏👏 https://t.co/JYj1M6whMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "不為人知的沼澤",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2024666050697294084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027275579553136640/4S0EFs5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 431,
+          "like_count": 9789,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-28T12:54:50.000Z",
+        "description": "",
+        "id": "1972283729340162048",
+        "name": "GALS",
+        "pinned_tweet_id": "2025103003494351256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027674541405966337/JsbVeYDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 10,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "username": "xio6267",
+        "verified": false
+      }
+    ]
+  }
+}
