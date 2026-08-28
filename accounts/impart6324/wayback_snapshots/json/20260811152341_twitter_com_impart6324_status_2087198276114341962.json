@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087198276114341962",
+    "created_at": "2026-08-11T15:23:41.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087198276114341962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inwhtksen/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/inwhtksen/status/2087196004764573741",
+          "start": 3,
+          "url": "https://t.co/ABlpEB7wRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087198276114341962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087196004764573741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感恩 https://t.co/ABlpEB7wRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12933,
+        "height": 1280,
+        "media_key": "13_2087195942789459968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087195942789459968/img/v-KRRsOU8puKBCaG.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087195942789459968/vid/avc1/320x568/cZxYCBsr0Y46eHVb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087195942789459968/vid/avc1/480x852/FO1PinDmClLnjGVc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087195942789459968/vid/avc1/720x1280/AdyndzrEP3aq2HqJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087195942789459968/pl/HlJAaOpxQDpZQSkZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087198276114341962",
+        "created_at": "2026-08-11T15:23:41.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087198276114341962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inwhtksen/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/inwhtksen/status/2087196004764573741",
+              "start": 3,
+              "url": "https://t.co/ABlpEB7wRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087198276114341962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087196004764573741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感恩 https://t.co/ABlpEB7wRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087195942789459968"
+          ]
+        },
+        "author_id": "2029964892783136768",
+        "conversation_id": "2087196004764573741",
+        "created_at": "2026-08-11T15:14:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087196004764573741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4lyDJC4Q3",
+              "end": 23,
+              "expanded_url": "https://x.com/inwhtksen/status/2087196004764573741/video/1",
+              "media_key": "13_2087195942789459968",
+              "start": 0,
+              "url": "https://t.co/l4lyDJC4Q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087196004764573741",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087195942789459968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/l4lyDJC4Q3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087198276114341962",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 516,
+          "like_count": 11685,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T16:58:46.000Z",
+        "description": "前世@inwhkt 已被盗 有半绿🚪不免费陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "inwhkt"
+              }
+            ]
+          }
+        },
+        "id": "2029964892783136768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087196004764573741",
+        "name": "天使用戶1115",
+        "pinned_tweet_id": "2030847589067997615",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029964892783136768/1773025647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078783570194407424/oqZnXTWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 87,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "inwhtksen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

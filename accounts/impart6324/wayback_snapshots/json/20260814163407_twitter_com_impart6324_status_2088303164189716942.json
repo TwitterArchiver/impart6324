@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2088303164189716942",
+    "created_at": "2026-08-14T16:34:07.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088303164189716942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/impart6324/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/impart6324/status/2088292201122214347",
+          "start": 14,
+          "url": "https://t.co/XWlENepzxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088303164189716942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088292201122214347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "进来聆听可爱男孩的原生家庭 https://t.co/XWlENepzxT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2088303164189716942",
+        "created_at": "2026-08-14T16:34:07.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088303164189716942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/impart6324/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/impart6324/status/2088292201122214347",
+              "start": 14,
+              "url": "https://t.co/XWlENepzxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088303164189716942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088292201122214347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进来聆听可爱男孩的原生家庭 https://t.co/XWlENepzxT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "card_uri": "https://t.co/piclDAjEzj",
+        "conversation_id": "2088292201122214347",
+        "created_at": "2026-08-14T15:50:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088292201122214347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pluviophile’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mxPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mxPaZZNeyYKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2088292243484667904/73_ovSf2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088292243484667904/73_ovSf2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 好想打女人",
+              "unwound_url": "https://twitter.com/i/spaces/1mxPaZZNeyYKN/peek",
+              "url": "https://t.co/piclDAjEzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292201122214347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/piclDAjEzj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088303164189716942",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 519,
+          "like_count": 11701,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

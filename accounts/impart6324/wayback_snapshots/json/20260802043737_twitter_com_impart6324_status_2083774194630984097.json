@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083553154826919936"
+      ],
+      "media_source_tweet_id": [
+        "2083553176805081184"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2083774194630984097",
+    "created_at": "2026-08-02T04:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083774194630984097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083383057013510144",
+          "start": 3,
+          "username": "73110bulao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XtqHUAxmkH",
+          "end": 56,
+          "expanded_url": "https://x.com/73110bulao/status/2083553176805081184/photo/1",
+          "media_key": "3_2083553154826919936",
+          "start": 33,
+          "url": "https://t.co/XtqHUAxmkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083774194630984097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083553176805081184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @73110bulao: 希望这个时候的你是发自内心的开心 https://t.co/XtqHUAxmkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2083553154826919936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpEjiAaYAAfkl4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083553154826919936"
+          ]
+        },
+        "author_id": "2083383057013510144",
+        "conversation_id": "2083553176805081184",
+        "created_at": "2026-08-01T13:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553176805081184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtqHUAxmkH",
+              "end": 40,
+              "expanded_url": "https://x.com/73110bulao/status/2083553176805081184/photo/1",
+              "media_key": "3_2083553154826919936",
+              "start": 17,
+              "url": "https://t.co/XtqHUAxmkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553176805081184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "希望这个时候的你是发自内心的开心 https://t.co/XtqHUAxmkH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083553154826919936"
+          ],
+          "media_source_tweet_id": [
+            "2083553176805081184"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2083774194630984097",
+        "created_at": "2026-08-02T04:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083774194630984097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083383057013510144",
+              "start": 3,
+              "username": "73110bulao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtqHUAxmkH",
+              "end": 56,
+              "expanded_url": "https://x.com/73110bulao/status/2083553176805081184/photo/1",
+              "media_key": "3_2083553154826919936",
+              "start": 33,
+              "url": "https://t.co/XtqHUAxmkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083774194630984097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553176805081184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @73110bulao: 希望这个时候的你是发自内心的开心 https://t.co/XtqHUAxmkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 505,
+          "like_count": 11459,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T02:44:25.000Z",
+        "description": "我欲诚心相献 君何踌躇不前",
+        "id": "2083383057013510144",
+        "location": "河南 郑州",
+        "name": "补牢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083383697248821248/fZykidwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "73110bulao",
+        "verified": false
+      }
+    ]
+  }
+}

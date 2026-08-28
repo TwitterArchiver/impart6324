@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087091711797518336"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087091757020479959",
+    "created_at": "2026-08-11T08:20:25.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087091757020479959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OC9rK730EV",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2087091757020479959/video/1",
+          "media_key": "13_2087091711797518336",
+          "start": 15,
+          "url": "https://t.co/OC9rK730EV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087091757020479959",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087091711797518336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眯着眼好舒服啊 长得丑就是爽 https://t.co/OC9rK730EV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7100,
+        "height": 1280,
+        "media_key": "13_2087091711797518336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087091711797518336/img/1s426FxM-tln-lun.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087091711797518336/vid/avc1/320x568/-Mx3Dyxc0-YT511R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087091711797518336/vid/avc1/480x852/eQhAVzHu8v5JqhCL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087091711797518336/vid/avc1/720x1280/2Bxl3n_snldgb7RC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087091711797518336/pl/ZEmYzR1qr-GhqGbf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087091711797518336"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087091757020479959",
+        "created_at": "2026-08-11T08:20:25.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087091757020479959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OC9rK730EV",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2087091757020479959/video/1",
+              "media_key": "13_2087091711797518336",
+              "start": 15,
+              "url": "https://t.co/OC9rK730EV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087091757020479959",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087091711797518336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眯着眼好舒服啊 长得丑就是爽 https://t.co/OC9rK730EV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087091757020479959",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 511,
+          "like_count": 11666,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

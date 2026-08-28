@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089704330412929024"
+      ],
+      "media_source_tweet_id": [
+        "2089704445638848530"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "2090013606272516513",
+    "created_at": "2026-08-19T09:50:48.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090013606272516513"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 29,
+          "tag": "INFERNOTOUR2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1005094282447896577",
+          "start": 3,
+          "username": "MAGMAZ_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fTUHjIZra0",
+          "end": 69,
+          "expanded_url": "https://x.com/MAGMAZ_jp/status/2089704445638848530/video/1",
+          "media_key": "13_2089704330412929024",
+          "start": 46,
+          "url": "https://t.co/fTUHjIZra0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090013606272516513",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "13_2089704330412929024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089704445638848530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MAGMAZ_jp: thx! nagoya!\n\n#INFERNOTOUR2026 https://t.co/fTUHjIZra0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18906,
+        "height": 1080,
+        "media_key": "13_2089704330412929024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089704330412929024/img/Nv3mXKb8yHjpd7CU.jpg",
+        "public_metrics": {
+          "view_count": 11012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089704330412929024/vid/avc1/1920x1080/MubqLtAbKmBS8PDm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089704330412929024/pl/eLGK1kow_8dIJUgn.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089704330412929024/vid/avc1/480x270/oAcRcOZY4fUT0nYI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089704330412929024/vid/avc1/1280x720/2-7-RhPUOpOTSMhr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089704330412929024/vid/avc1/640x360/1vNn0WVY-AcRQ5rd.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089704330412929024"
+          ],
+          "media_source_tweet_id": [
+            "2089704445638848530"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2090013606272516513",
+        "created_at": "2026-08-19T09:50:48.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090013606272516513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 29,
+              "tag": "INFERNOTOUR2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1005094282447896577",
+              "start": 3,
+              "username": "MAGMAZ_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTUHjIZra0",
+              "end": 69,
+              "expanded_url": "https://x.com/MAGMAZ_jp/status/2089704445638848530/video/1",
+              "media_key": "13_2089704330412929024",
+              "start": 46,
+              "url": "https://t.co/fTUHjIZra0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090013606272516513",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "13_2089704330412929024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089704445638848530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MAGMAZ_jp: thx! nagoya!\n\n#INFERNOTOUR2026 https://t.co/fTUHjIZra0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089704330412929024"
+          ]
+        },
+        "author_id": "1005094282447896577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2089704445638848530",
+        "created_at": "2026-08-18T13:22:19.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089704445638848530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 14,
+              "tag": "INFERNOTOUR2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTUHjIZra0",
+              "end": 54,
+              "expanded_url": "https://x.com/MAGMAZ_jp/status/2089704445638848530/video/1",
+              "media_key": "13_2089704330412929024",
+              "start": 31,
+              "url": "https://t.co/fTUHjIZra0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089704445638848530",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "13_2089704330412929024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 46518,
+          "like_count": 253,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "thx! nagoya!\n\n#INFERNOTOUR2026 https://t.co/fTUHjIZra0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2090013606272516513",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 524,
+          "like_count": 11798,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-08T14:28:45.000Z",
+        "description": "読:マグマズ -MIXTURE- \"いつだって救う\" @HALUKA_MAGMAZ / @NAGI_MAGMAZ / @OJO_MAGMAZ / @RENO_MAGMAZ / @NANA_MAGMAZ サブスク⏩https://t.co/5ciW3fUidE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "HALUKA_MAGMAZ"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "NAGI_MAGMAZ"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "OJO_MAGMAZ"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "RENO_MAGMAZ"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "NANA_MAGMAZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tunecore.co.jp/artists/magmaz",
+                "end": 129,
+                "expanded_url": "https://www.tunecore.co.jp/artists/magmaz",
+                "start": 106,
+                "url": "https://t.co/5ciW3fUidE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "magmaz.jp",
+                "end": 23,
+                "expanded_url": "http://magmaz.jp",
+                "start": 0,
+                "url": "https://t.co/XhbPwjJKAr"
+              }
+            ]
+          }
+        },
+        "id": "1005094282447896577",
+        "is_identity_verified": false,
+        "location": "Top Athlete Records",
+        "most_recent_tweet_id": "2090009843176517749",
+        "name": "MAGMAZ / マグマズ",
+        "pinned_tweet_id": "2074780543980360147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005094282447896577/1774640728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871924600088723456/YcXiXvKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 8,
+          "like_count": 6939,
+          "listed_count": 113,
+          "media_count": 3521,
+          "tweet_count": 5785
+        },
+        "url": "https://t.co/XhbPwjJKAr",
+        "username": "MAGMAZ_jp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

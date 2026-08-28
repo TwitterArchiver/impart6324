@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2083495398728200367",
+    "created_at": "2026-08-02T15:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083944653343351009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631871471680372737",
+          "start": 0,
+          "username": "Kik7410_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083944653343351009",
+    "in_reply_to_user_id": "1631871471680372737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083495398728200367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kik7410_ 你有点适合打横穿天使咬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2083495381099491328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoQAqGaMAA4XqR.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2083495398728200367",
+        "created_at": "2026-08-02T15:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083944653343351009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631871471680372737",
+              "start": 0,
+              "username": "Kik7410_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083944653343351009",
+        "in_reply_to_user_id": "1631871471680372737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083495398728200367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kik7410_ 你有点适合打横穿天使咬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083495381099491328"
+          ]
+        },
+        "author_id": "1631871471680372737",
+        "conversation_id": "2083495398728200367",
+        "created_at": "2026-08-01T10:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083495398728200367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOs5HaYU89",
+              "end": 33,
+              "expanded_url": "https://x.com/Kik7410_/status/2083495398728200367/photo/1",
+              "media_key": "3_2083495381099491328",
+              "start": 10,
+              "url": "https://t.co/UOs5HaYU89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083495398728200367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友的游戏本。好重 https://t.co/UOs5HaYU89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 505,
+          "like_count": 11460,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T04:17:45.000Z",
+        "description": "我的语言表达能力很差精神状态很混乱",
+        "id": "1631871471680372737",
+        "location": "爱",
+        "name": "我珍惜你的方式错了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066233994782662656/Q5gfBTkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 7858,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 2705
+        },
+        "url": "",
+        "username": "Kik7410_",
+        "verified": false
+      }
+    ]
+  }
+}

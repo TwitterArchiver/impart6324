@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2083549707016769824",
+    "created_at": "2026-08-15T02:27:25.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088452470108471513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088452470108471513",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083549707016769824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7519,
+        "height": 1280,
+        "media_key": "13_2083549666789277696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083549666789277696/img/oXlSEh4B8tcCkpaG.jpg",
+        "public_metrics": {
+          "view_count": 299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549666789277696/vid/avc1/320x568/m-bTORtuNF73FSlz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549666789277696/vid/avc1/480x852/etrIpCKHc29H10s7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083549666789277696/vid/avc1/720x1280/vOgiGcn-EuudU5IQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083549666789277696/pl/kUDW9zqSUQIW-Ekz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2083549707016769824",
+        "created_at": "2026-08-15T02:27:25.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088452470108471513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088452470108471513",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083549707016769824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083549666789277696"
+          ]
+        },
+        "author_id": "1426441673454850051",
+        "conversation_id": "2083549707016769824",
+        "created_at": "2026-08-01T13:45:35.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083549707016769824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LY2DFrpujR",
+              "end": 32,
+              "expanded_url": "https://x.com/SUI20BIUBIU/status/2083549707016769824/video/1",
+              "media_key": "13_2083549666789277696",
+              "start": 9,
+              "url": "https://t.co/LY2DFrpujR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549707016769824",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2083549666789277696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1939,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理完发了，帅吗？ https://t.co/LY2DFrpujR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088452470108471513",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 523,
+          "like_count": 11751,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号不定时掉落照片和摸鱼 喜欢杀戮尖塔和pjsk˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚",
+        "id": "1426441673454850051",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088447367850897637",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1883480529913430384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426441673454850051/1721699038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3987,
+          "following_count": 658,
+          "like_count": 32886,
+          "listed_count": 14,
+          "media_count": 181,
+          "tweet_count": 4610
+        },
+        "url": "",
+        "username": "SUI20BIUBIU",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

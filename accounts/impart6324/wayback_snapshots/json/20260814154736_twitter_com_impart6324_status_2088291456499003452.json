@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088268753444515840"
+      ],
+      "media_source_tweet_id": [
+        "2088268761753321887"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2088291456499003452",
+    "created_at": "2026-08-14T15:47:36.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088291456499003452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jlCQA3SwTO",
+          "end": 75,
+          "expanded_url": "https://x.com/godspeedyou50/status/2088268761753321887/photo/1",
+          "media_key": "3_2088268753444515840",
+          "start": 52,
+          "url": "https://t.co/jlCQA3SwTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088291456499003452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088268753444515840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088268761753321887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 穷算命运富烧香，颠颠倒倒问阴阳\n若是做好份内事，何须鬼神赐良方？ https://t.co/jlCQA3SwTO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2088268753444515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsFXfybsAAIvS3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088268753444515840"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "2088268761753321887",
+        "created_at": "2026-08-14T14:17:25.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088268761753321887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlCQA3SwTO",
+              "end": 56,
+              "expanded_url": "https://x.com/godspeedyou50/status/2088268761753321887/photo/1",
+              "media_key": "3_2088268753444515840",
+              "start": 33,
+              "url": "https://t.co/jlCQA3SwTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088268761753321887",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088268753444515840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "穷算命运富烧香，颠颠倒倒问阴阳\n若是做好份内事，何须鬼神赐良方？ https://t.co/jlCQA3SwTO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088268753444515840"
+          ],
+          "media_source_tweet_id": [
+            "2088268761753321887"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2088291456499003452",
+        "created_at": "2026-08-14T15:47:36.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088291456499003452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlCQA3SwTO",
+              "end": 75,
+              "expanded_url": "https://x.com/godspeedyou50/status/2088268761753321887/photo/1",
+              "media_key": "3_2088268753444515840",
+              "start": 52,
+              "url": "https://t.co/jlCQA3SwTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088291456499003452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088268753444515840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088268761753321887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 穷算命运富烧香，颠颠倒倒问阴阳\n若是做好份内事，何须鬼神赐良方？ https://t.co/jlCQA3SwTO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088291456499003452",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 518,
+          "like_count": 11698,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088281231666676000",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 662,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

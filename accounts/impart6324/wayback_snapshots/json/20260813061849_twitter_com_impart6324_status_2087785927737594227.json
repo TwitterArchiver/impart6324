@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087581944041328640"
+      ],
+      "media_source_tweet_id": [
+        "2087581949087076725"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087785927737594227",
+    "created_at": "2026-08-13T06:18:49.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087785927737594227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1801067258682478592",
+          "start": 3,
+          "username": "FemboyQueenCat"
+        },
+        {
+          "end": 32,
+          "id": "2071227667354140672",
+          "start": 20,
+          "username": "tkk27bb6967"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBOQwS7UVu",
+          "end": 67,
+          "expanded_url": "https://x.com/FemboyQueenCat/status/2087581949087076725/photo/1",
+          "media_key": "3_2087581944041328640",
+          "start": 44,
+          "url": "https://t.co/QBOQwS7UVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087785927737594227",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087581944041328640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087581949087076725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboyQueenCat: @tkk27bb6967 你不說我還真的不知道 https://t.co/QBOQwS7UVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2087581944041328640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiUt7YaUAAj9a2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087581944041328640"
+          ]
+        },
+        "author_id": "1801067258682478592",
+        "conversation_id": "2087511746525507968",
+        "created_at": "2026-08-12T16:48:16.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087581949087076725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071227667354140672",
+              "start": 0,
+              "username": "tkk27bb6967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBOQwS7UVu",
+              "end": 47,
+              "expanded_url": "https://x.com/FemboyQueenCat/status/2087581949087076725/photo/1",
+              "media_key": "3_2087581944041328640",
+              "start": 24,
+              "url": "https://t.co/QBOQwS7UVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087581949087076725",
+        "in_reply_to_user_id": "2071227667354140672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087581944041328640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087511746525507968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkk27bb6967 你不說我還真的不知道 https://t.co/QBOQwS7UVu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087581944041328640"
+          ],
+          "media_source_tweet_id": [
+            "2087581949087076725"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087785927737594227",
+        "created_at": "2026-08-13T06:18:49.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087785927737594227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1801067258682478592",
+              "start": 3,
+              "username": "FemboyQueenCat"
+            },
+            {
+              "end": 32,
+              "id": "2071227667354140672",
+              "start": 20,
+              "username": "tkk27bb6967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBOQwS7UVu",
+              "end": 67,
+              "expanded_url": "https://x.com/FemboyQueenCat/status/2087581949087076725/photo/1",
+              "media_key": "3_2087581944041328640",
+              "start": 44,
+              "url": "https://t.co/QBOQwS7UVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087785927737594227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087581944041328640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087581949087076725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboyQueenCat: @tkk27bb6967 你不說我還真的不知道 https://t.co/QBOQwS7UVu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087785927737594227",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 520,
+          "like_count": 11705,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T01:41:22.000Z",
+        "description": "想認識的都可以聊聊喔~\n男娘/mtf/🍥/Femboy/sissy/三性\n不定期拍出好看的照片就會發🤭\n偶爾搞抽象",
+        "id": "1801067258682478592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087748686852096299",
+        "name": "男娘xing_yu⭐🐟🏳️‍⚧️",
+        "pinned_tweet_id": "2084672497157607427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801067258682478592/1785325105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072290423398367232/dqdH8ICf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 74,
+          "like_count": 113,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "FemboyQueenCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\ncn淘集集or娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵\n\n有精神病，治疗中，不参与任何对线，因此看到可能引起焦虑的发言会直接拉黑账号",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2087780311337947169",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087146323879555072/ZSV_oUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 136,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1728
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

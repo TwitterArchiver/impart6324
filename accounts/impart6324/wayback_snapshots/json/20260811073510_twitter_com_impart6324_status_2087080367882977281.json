@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087079951636054099",
+    "created_at": "2026-08-11T07:35:10.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087080367882977281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087080367882977281",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087079951636054099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 东北女北京男江西女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087079951636054099",
+        "created_at": "2026-08-11T07:35:10.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087080367882977281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087080367882977281",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087079951636054099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 东北女北京男江西女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937988852779536384",
+        "conversation_id": "2087079951636054099",
+        "created_at": "2026-08-11T07:33:31.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087079951636054099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087079951636054099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在最讨厌东北人跟玩和平精英的 魔怔死了 打啥游戏不管他有错没错就一句受着 我操你妈的扫码了你有问题我骂你你也给我受着老傻逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087080367882977281",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 511,
+          "like_count": 11658,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "当垃圾桶发 眼缘回关 不加微信除非给我送钱 互关除外（）\n匿名消息https://t.co/3Os48v3iPG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evienne38597",
+                "end": 56,
+                "expanded_url": "https://ngl.link/evienne38597",
+                "start": 33,
+                "url": "https://t.co/3Os48v3iPG"
+              }
+            ]
+          }
+        },
+        "id": "1937988852779536384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087079997257429053",
+        "name": "小七",
+        "pinned_tweet_id": "2039802347598250227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937988852779536384/1763930275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080142018878337024/C5v2EHVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 56,
+          "like_count": 3922,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 2377
+        },
+        "url": "",
+        "username": "Evienne0929",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

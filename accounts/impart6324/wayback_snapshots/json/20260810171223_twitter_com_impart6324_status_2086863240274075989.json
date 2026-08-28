@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2086029201854132715",
+    "created_at": "2026-08-10T17:12:23.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086863240274075989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086863240274075989",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086029201854132715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2086029201854132715",
+        "created_at": "2026-08-10T17:12:23.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086863240274075989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086863240274075989",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086029201854132715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "conversation_id": "2086029201854132715",
+        "created_at": "2026-08-08T09:58:12.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086029201854132715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vit201/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Vit201/status/2085800508304871626",
+              "start": 12,
+              "url": "https://t.co/QF351w8GW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086029201854132715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085800508304871626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻译: 抽烟的人都没妈 https://t.co/QF351w8GW8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2086863240274075989",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 509,
+          "like_count": 11623,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗 匿名箱：https://t.co/EiDnXoKo5k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pdzr1cab0r2jen",
+                "end": 32,
+                "expanded_url": "https://marshmallow-qa.com/pdzr1cab0r2jen",
+                "start": 9,
+                "url": "https://t.co/EiDnXoKo5k"
+              }
+            ]
+          }
+        },
+        "id": "1724557026867781632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086838446782570616",
+        "name": "你坐到我尾巴了",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724557026867781632/1770945648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085712068569931777/ASHgrOqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 206,
+          "like_count": 23789,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "Peacock166",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

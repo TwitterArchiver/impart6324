@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090011631757725696",
+        "3_2090011633079005184",
+        "3_2090011631837466624",
+        "3_2090011631736758273"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090011671389671653",
+    "created_at": "2026-08-19T09:43:07.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090011671389671653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wl95rVnNLn",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+          "media_key": "3_2090011631757725696",
+          "start": 15,
+          "url": "https://t.co/Wl95rVnNLn"
+        },
+        {
+          "display_url": "pic.x.com/Wl95rVnNLn",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+          "media_key": "3_2090011633079005184",
+          "start": 15,
+          "url": "https://t.co/Wl95rVnNLn"
+        },
+        {
+          "display_url": "pic.x.com/Wl95rVnNLn",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+          "media_key": "3_2090011631837466624",
+          "start": 15,
+          "url": "https://t.co/Wl95rVnNLn"
+        },
+        {
+          "display_url": "pic.x.com/Wl95rVnNLn",
+          "end": 38,
+          "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+          "media_key": "3_2090011631736758273",
+          "start": 15,
+          "url": "https://t.co/Wl95rVnNLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090011671389671653",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090011631757725696"
+      },
+      {
+        "media_key": "3_2090011633079005184"
+      },
+      {
+        "media_key": "3_2090011631837466624"
+      },
+      {
+        "media_key": "3_2090011631736758273"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现实和梦想 我再次选了第二者 https://t.co/Wl95rVnNLn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2090011631757725696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE2gXdakAAJHpU.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2090011633079005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE2gcYbsAAe512.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2090011631837466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE2gXwbUAAhndh.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2090011631736758273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE2gXYaoAEzrM0.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090011631757725696",
+            "3_2090011633079005184",
+            "3_2090011631837466624",
+            "3_2090011631736758273"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090011671389671653",
+        "created_at": "2026-08-19T09:43:07.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090011671389671653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl95rVnNLn",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+              "media_key": "3_2090011631757725696",
+              "start": 15,
+              "url": "https://t.co/Wl95rVnNLn"
+            },
+            {
+              "display_url": "pic.x.com/Wl95rVnNLn",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+              "media_key": "3_2090011633079005184",
+              "start": 15,
+              "url": "https://t.co/Wl95rVnNLn"
+            },
+            {
+              "display_url": "pic.x.com/Wl95rVnNLn",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+              "media_key": "3_2090011631837466624",
+              "start": 15,
+              "url": "https://t.co/Wl95rVnNLn"
+            },
+            {
+              "display_url": "pic.x.com/Wl95rVnNLn",
+              "end": 38,
+              "expanded_url": "https://x.com/impart6324/status/2090011671389671653/photo/1",
+              "media_key": "3_2090011631736758273",
+              "start": 15,
+              "url": "https://t.co/Wl95rVnNLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090011671389671653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090011631757725696"
+          },
+          {
+            "media_key": "3_2090011633079005184"
+          },
+          {
+            "media_key": "3_2090011631837466624"
+          },
+          {
+            "media_key": "3_2090011631736758273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实和梦想 我再次选了第二者 https://t.co/Wl95rVnNLn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2090011671389671653",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 524,
+          "like_count": 11797,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

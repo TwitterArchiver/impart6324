@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2088502127782236425",
+    "created_at": "2026-08-15T08:14:49.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088539895900024899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780570823063171072",
+          "start": 0,
+          "username": "pulinnaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088539895900024899",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088502127782236425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pulinnaa 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_2088502120647671808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvZnQXawAAPA33.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2088502127782236425",
+        "created_at": "2026-08-15T08:14:49.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088539895900024899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088539895900024899",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088502127782236425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088502120647671808"
+          ]
+        },
+        "author_id": "1780570823063171072",
+        "conversation_id": "2088502127782236425",
+        "created_at": "2026-08-15T05:44:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088502127782236425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFsv3KiVgu",
+              "end": 23,
+              "expanded_url": "https://x.com/pulinnaa/status/2088502127782236425/photo/1",
+              "media_key": "3_2088502120647671808",
+              "start": 0,
+              "url": "https://t.co/oFsv3KiVgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088502127782236425",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088502120647671808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oFsv3KiVgu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088539895900024899",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 524,
+          "like_count": 11772,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "is_identity_verified": false,
+        "location": "さきです",
+        "most_recent_tweet_id": "2088502127782236425",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780570823063171072/1722512724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 206,
+          "like_count": 4085,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 3042
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

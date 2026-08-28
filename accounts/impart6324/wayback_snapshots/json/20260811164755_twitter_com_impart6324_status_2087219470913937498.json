@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087192455322251583",
+    "created_at": "2026-08-11T16:47:55.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087219470913937498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766669368396574720",
+          "start": 0,
+          "username": "kanono167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087219470913937498",
+    "in_reply_to_user_id": "1766669368396574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087192455322251583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanono167 为啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2087192438289076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcydtYaEAAdwZx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087192455322251583",
+        "created_at": "2026-08-11T16:47:55.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087219470913937498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766669368396574720",
+              "start": 0,
+              "username": "kanono167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087219470913937498",
+        "in_reply_to_user_id": "1766669368396574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087192455322251583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanono167 为啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087192438289076224"
+          ]
+        },
+        "author_id": "1766669368396574720",
+        "conversation_id": "2087192455322251583",
+        "created_at": "2026-08-11T15:00:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087192455322251583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfsULO7cDv",
+              "end": 38,
+              "expanded_url": "https://x.com/kanono167/status/2087192455322251583/photo/1",
+              "media_key": "3_2087192438289076224",
+              "start": 15,
+              "url": "https://t.co/wfsULO7cDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087192455322251583",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087192438289076224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这会是我人生中最后一次极乐吗 https://t.co/wfsULO7cDv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087219470913937498",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 516,
+          "like_count": 11687,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "is_identity_verified": false,
+        "location": "外星🛜",
+        "most_recent_tweet_id": "2087192455322251583",
+        "name": "可丽饼",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766669368396574720/1727462956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064091713782849536/5MPSeq0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 559,
+          "like_count": 4678,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

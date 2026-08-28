@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2085264637457780987",
+    "created_at": "2026-08-06T17:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085420562931966453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988704025139965952",
+          "start": 0,
+          "username": "o7luckyh7m4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085420562931966453",
+    "in_reply_to_user_id": "1988704025139965952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085264637457780987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o7luckyh7m4 我草你在追男地偶啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085264637457780987].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085264637457780987",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085264637457780987"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2085264637457780987",
+        "created_at": "2026-08-06T17:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085420562931966453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988704025139965952",
+              "start": 0,
+              "username": "o7luckyh7m4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085420562931966453",
+        "in_reply_to_user_id": "1988704025139965952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085264637457780987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o7luckyh7m4 我草你在追男地偶啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 506,
+          "like_count": 11484,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T20:22:49.000Z",
+        "description": "悲伤异闻录",
+        "id": "1988704025139965952",
+        "name": "o7lucky별",
+        "pinned_tweet_id": "2050707719397798267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081066226273730561/PDCglHXr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 50,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1375
+        },
+        "url": "",
+        "username": "o7luckyh7m4",
+        "verified": false
+      }
+    ]
+  }
+}

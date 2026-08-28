@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087510445825630606",
+    "created_at": "2026-08-12T13:50:38.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087537243607171568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087537243607171568",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087510445825630606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuki_owo 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "3_2087510430688366593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhTrTYaUAEkhgf.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087510445825630606",
+        "created_at": "2026-08-12T13:50:38.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087537243607171568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087537243607171568",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087510445825630606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuki_owo 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087510430688366593"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2087510445825630606",
+        "created_at": "2026-08-12T12:04:09.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087510445825630606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ScWrLzfPk",
+              "end": 30,
+              "expanded_url": "https://x.com/_yuki_owo/status/2087510445825630606/photo/1",
+              "media_key": "3_2087510430688366593",
+              "start": 7,
+              "url": "https://t.co/7ScWrLzfPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087510445825630606",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087510430688366593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打了颧骨钉 https://t.co/7ScWrLzfPk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087537243607171568",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 514,
+          "like_count": 11693,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n两次从第五高原幸存脑子烂掉了的神人一个",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087536157366341890",
+        "name": "下水道",
+        "pinned_tweet_id": "2077868369412595997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082006395453644800/OejGr6YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 704,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2079
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

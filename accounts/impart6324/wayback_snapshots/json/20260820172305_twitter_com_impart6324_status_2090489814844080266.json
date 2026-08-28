@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2090489814844080266",
+    "created_at": "2026-08-20T17:23:05.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090489814844080266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2flsf/status/2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/2flsf/status/2090142138780836012",
+          "start": 5,
+          "url": "https://t.co/XkDKChZEKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090489814844080266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090142138780836012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学习一下 https://t.co/XkDKChZEKO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37243,
+        "height": 1920,
+        "media_key": "13_2090142038025216000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090142038025216000/img/ChGYMea1ySYijaaH.jpg",
+        "public_metrics": {
+          "view_count": 6527
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090142038025216000/vid/avc1/480x852/c1srY5Tz0ncg9UjY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090142038025216000/vid/avc1/720x1280/s634A0LxsJ28E_fP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090142038025216000/pl/5-_FWRww3B0nntXo.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090142038025216000/vid/avc1/1080x1920/RtIVfkouFp_86m4E.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090142038025216000/vid/avc1/320x568/Utm37Z82o5XPJigO.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2090489814844080266",
+        "created_at": "2026-08-20T17:23:05.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090489814844080266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2flsf/status/2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/2flsf/status/2090142138780836012",
+              "start": 5,
+              "url": "https://t.co/XkDKChZEKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090489814844080266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090142138780836012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学习一下 https://t.co/XkDKChZEKO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090142038025216000"
+          ]
+        },
+        "author_id": "1932792647732899844",
+        "conversation_id": "2090142138780836012",
+        "created_at": "2026-08-19T18:21:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090142138780836012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCGABeOl0l",
+              "end": 23,
+              "expanded_url": "https://x.com/2flsf/status/2090142138780836012/video/1",
+              "media_key": "13_2090142038025216000",
+              "start": 0,
+              "url": "https://t.co/BCGABeOl0l"
+            },
+            {
+              "display_url": "x.com/2flsf/status/2…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/2flsf/status/2089710042400657434",
+              "start": 24,
+              "url": "https://t.co/HCai6cFZea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090142138780836012",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2090142038025216000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 41747,
+          "like_count": 149,
+          "quote_count": 19,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089710042400657434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/BCGABeOl0l https://t.co/HCai6cFZea"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2090489814844080266",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 524,
+          "like_count": 11799,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-11T13:31:04.000Z",
+        "description": "02(03)埼玉 バンドとアイドル\n''滅茶苦茶な一度きりしたい''",
+        "id": "1932792647732899844",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090421759229206721",
+        "name": "こへ",
+        "pinned_tweet_id": "2080942158589436141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932792647732899844/1784390859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082684075249455104/68few9BA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 1758,
+          "like_count": 22740,
+          "listed_count": 7,
+          "media_count": 665,
+          "tweet_count": 12854
+        },
+        "url": "",
+        "username": "2flsf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

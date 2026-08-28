@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2088563572989440426",
+    "created_at": "2026-08-16T08:06:28.000Z",
+    "display_text_range": [
+      24,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088900184743010337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967887882384965632",
+          "start": 0,
+          "username": "111q_a54867"
+        },
+        {
+          "end": 23,
+          "id": "1990243522738540544",
+          "start": 13,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088900184743010337",
+    "in_reply_to_user_id": "1967887882384965632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088690960926745056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@111q_a54867 @hana9226Y 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2088563572989440426",
+        "created_at": "2026-08-16T08:06:28.000Z",
+        "display_text_range": [
+          24,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088900184743010337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            },
+            {
+              "end": 23,
+              "id": "1990243522738540544",
+              "start": 13,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088900184743010337",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088690960926745056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 @hana9226Y 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2088563572989440426",
+        "created_at": "2026-08-15T18:15:05.000Z",
+        "display_text_range": [
+          23,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088690960926745056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            },
+            {
+              "end": 22,
+              "id": "1990243522738540544",
+              "start": 12,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088690960926745056",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088563572989440426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 @hana9226Y 😧 🤔 👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088900184743010337",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 529,
+          "like_count": 11800,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "is_identity_verified": false,
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "most_recent_tweet_id": "2088690960926745056",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967887882384965632/1778626097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1255,
+          "like_count": 7538,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "可以叫我花9！",
+        "id": "1990243522738540544",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2045268787402805431",
+        "name": "ゆえか",
+        "pinned_tweet_id": "2036359868182044675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990243522738540544/1774949345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088302961793351680/UYW8T6EC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 433,
+          "like_count": 7086,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "hana9226Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

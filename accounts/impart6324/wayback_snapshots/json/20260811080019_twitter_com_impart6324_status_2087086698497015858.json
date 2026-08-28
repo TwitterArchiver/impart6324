@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2087010497866670301",
+    "created_at": "2026-08-11T08:00:19.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087086698497015858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852135214795100164",
+          "start": 0,
+          "username": "ayameeii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087086698497015858",
+    "in_reply_to_user_id": "1852135214795100164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087010497866670301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayameeii 买好穿上给我看一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2087010497866670301",
+        "created_at": "2026-08-11T08:00:19.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087086698497015858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852135214795100164",
+              "start": 0,
+              "username": "ayameeii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087086698497015858",
+        "in_reply_to_user_id": "1852135214795100164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087010497866670301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayameeii 买好穿上给我看一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852135214795100164",
+        "conversation_id": "2087010497866670301",
+        "created_at": "2026-08-11T02:57:32.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087010497866670301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087010497866670301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想买条地雷系小裙子但是日牌好贵只能选一条 你们可以推荐一条吗🥺不要太土的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2087086698497015858",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 511,
+          "like_count": 11664,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2087078997582582002",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 747,
+          "like_count": 10901,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 4489
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

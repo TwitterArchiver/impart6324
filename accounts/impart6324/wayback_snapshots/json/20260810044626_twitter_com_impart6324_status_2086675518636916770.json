@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2086667614311620862",
+    "created_at": "2026-08-10T04:46:26.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086675518636916770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086675518636916770",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086667614311620862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 可爱啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086667607353303040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVVIhyboAAz4NA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2086667614311620862",
+        "created_at": "2026-08-10T04:46:26.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086675518636916770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086675518636916770",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086667614311620862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086667607353303040"
+          ]
+        },
+        "author_id": "1543918989390532608",
+        "conversation_id": "2086667614311620862",
+        "created_at": "2026-08-10T04:15:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086667614311620862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dB4uobGsC8",
+              "end": 23,
+              "expanded_url": "https://x.com/ouoicy77/status/2086667614311620862/photo/1",
+              "media_key": "3_2086667607353303040",
+              "start": 0,
+              "url": "https://t.co/dB4uobGsC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086667614311620862",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086667607353303040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 158,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dB4uobGsC8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2086675518636916770",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 505,
+          "like_count": 11580,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "堆照片和碎碎念随便发的 不是黄推 不扩列",
+        "id": "1543918989390532608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086667614311620862",
+        "name": "の",
+        "pinned_tweet_id": "2084449765337837899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543918989390532608/1746728706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27886,
+          "following_count": 106,
+          "like_count": 6080,
+          "listed_count": 107,
+          "media_count": 246,
+          "tweet_count": 1339
+        },
+        "url": "",
+        "username": "ouoicy77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

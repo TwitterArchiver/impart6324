@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086645512791564288"
+      ],
+      "media_source_tweet_id": [
+        "2086645665732689954"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2086860172006412509",
+    "created_at": "2026-08-10T17:00:11.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086860172006412509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSgeaN81nj",
+          "end": 23,
+          "expanded_url": "https://x.com/nM___0606___/status/2086645665732689954/video/1",
+          "media_key": "13_2086645512791564288",
+          "start": 0,
+          "url": "https://t.co/PSgeaN81nj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086860172006412509",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086645512791564288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PSgeaN81nj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28853,
+        "height": 720,
+        "media_key": "13_2086645512791564288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086645512791564288/img/sR2naMFfATkrmVQp.jpg",
+        "public_metrics": {
+          "view_count": 4943285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086645512791564288/vid/avc1/480x270/EpAH6eHPD4Br-tCQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086645512791564288/vid/avc1/640x360/JjYghRUbNCnb-H0Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086645512791564288/vid/avc1/1280x720/snkAxr1oV089Emhh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086645512791564288/pl/T617tO_cImTRlWHT.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086645512791564288"
+          ]
+        },
+        "author_id": "1372888613260652546",
+        "conversation_id": "2086645665732689954",
+        "created_at": "2026-08-10T02:47:49.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086645665732689954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbP0zFabec",
+              "end": 45,
+              "expanded_url": "https://x.com/nM___0606___/status/2086645665732689954/video/1",
+              "media_key": "13_2086645512791564288",
+              "start": 22,
+              "url": "https://t.co/XbP0zFabec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086645665732689954",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086645512791564288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13655,
+          "impression_count": 17613217,
+          "like_count": 54889,
+          "quote_count": 3292,
+          "reply_count": 715,
+          "retweet_count": 4996
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links_with_counts": [
+          {
+            "count": "2",
+            "url": "https://x.com/nm___0606___/status/2086645665732689954"
+          }
+        ],
+        "text": "2026年野獣の日 11:45:14の瞬間 https://t.co/XbP0zFabec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086645512791564288"
+          ],
+          "media_source_tweet_id": [
+            "2086645665732689954"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2086860172006412509",
+        "created_at": "2026-08-10T17:00:11.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086860172006412509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSgeaN81nj",
+              "end": 23,
+              "expanded_url": "https://x.com/nM___0606___/status/2086645665732689954/video/1",
+              "media_key": "13_2086645512791564288",
+              "start": 0,
+              "url": "https://t.co/PSgeaN81nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086860172006412509",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086645512791564288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PSgeaN81nj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2086860172006412509",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 509,
+          "like_count": 11621,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

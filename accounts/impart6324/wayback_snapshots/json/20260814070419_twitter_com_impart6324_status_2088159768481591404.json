@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2088159768481591404",
+    "created_at": "2026-08-14T07:04:19.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088159768481591404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 48,
+          "id": "1720665183188922368",
+          "start": 43,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/evienne0929/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/evienne0929/status/2088153076121444780",
+          "start": 49,
+          "url": "https://t.co/XZfsLQY5r3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088159768481591404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088153076121444780",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/XZfsLQY5r3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2088159768481591404",
+        "created_at": "2026-08-14T07:04:19.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088159768481591404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/evienne0929/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/evienne0929/status/2088153076121444780",
+              "start": 49,
+              "url": "https://t.co/XZfsLQY5r3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088159768481591404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088153076121444780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/XZfsLQY5r3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937988852779536384",
+        "conversation_id": "2088153076121444780",
+        "created_at": "2026-08-14T06:37:44.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088153076121444780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0kada_mi0/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/0kada_mi0/status/2088114184030736813",
+              "start": 49,
+              "url": "https://t.co/zvMvYdsrBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088153076121444780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088114184030736813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮我找出这个账号上表现出的一件很明显但号主很可能没意识到的事情，并对此进行详细说明\n@grok https://t.co/zvMvYdsrBj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2088159768481591404",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 518,
+          "like_count": 11700,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088159781282287732",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8964452,
+          "following_count": 6,
+          "like_count": 130,
+          "listed_count": 7341,
+          "media_count": 9255620,
+          "tweet_count": 135804683
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "当垃圾桶发 眼缘回关 不加微信除非给我送钱 互关除外（）\n匿名消息https://t.co/3Os48v3iPG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evienne38597",
+                "end": 56,
+                "expanded_url": "https://ngl.link/evienne38597",
+                "start": 33,
+                "url": "https://t.co/3Os48v3iPG"
+              }
+            ]
+          }
+        },
+        "id": "1937988852779536384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088155326197768575",
+        "name": "小七",
+        "pinned_tweet_id": "2039802347598250227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937988852779536384/1763930275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080142018878337024/C5v2EHVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 54,
+          "like_count": 3955,
+          "listed_count": 4,
+          "media_count": 243,
+          "tweet_count": 2504
+        },
+        "url": "",
+        "username": "Evienne0929",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

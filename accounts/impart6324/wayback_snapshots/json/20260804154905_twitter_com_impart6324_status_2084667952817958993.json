@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2084600974191325681",
+    "created_at": "2026-08-04T15:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084667952817958993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084667952817958993",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084659222600720593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 谢谢你🫠 祝你开心🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2084600974191325681",
+        "created_at": "2026-08-04T15:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084667952817958993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084667952817958993",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659222600720593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 谢谢你🫠 祝你开心🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2084600974191325681",
+        "created_at": "2026-08-04T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084659222600720593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084659222600720593",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084600974191325681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 老大辛苦了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGDm7C"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "location": "有限會社 K&A プランニング",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396352647385088/BhETq8DR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 506,
+          "like_count": 11459,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/39KaDGDm7C",
+        "username": "impart6324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 1216,
+          "like_count": 35401,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 12026
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

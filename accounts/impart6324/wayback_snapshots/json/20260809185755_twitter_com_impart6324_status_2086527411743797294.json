@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2086413118155210763",
+    "created_at": "2026-08-09T18:57:55.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086527411743797294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543918989390532608",
+          "start": 0,
+          "username": "ouoicy77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086527411743797294",
+    "in_reply_to_user_id": "1543918989390532608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086526790978433306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoicy77 🙀🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2086413118155210763",
+        "created_at": "2026-08-09T18:57:55.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086527411743797294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543918989390532608",
+              "start": 0,
+              "username": "ouoicy77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086527411743797294",
+        "in_reply_to_user_id": "1543918989390532608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086526790978433306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoicy77 🙀🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543918989390532608",
+        "conversation_id": "2086413118155210763",
+        "created_at": "2026-08-09T18:55:27.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086526790978433306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086526790978433306",
+        "in_reply_to_user_id": "1597065444136919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086514511918571915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 谢谢你呀你真好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2086527411743797294",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 505,
+          "like_count": 11571,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T11:25:54.000Z",
+        "description": "堆照片和碎碎念随便发的 不是黄推 不扩列",
+        "id": "1543918989390532608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086526790978433306",
+        "name": "の",
+        "pinned_tweet_id": "2084449765337837899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543918989390532608/1746728706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920545101261996032/qHrE2K0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27892,
+          "following_count": 106,
+          "like_count": 6078,
+          "listed_count": 107,
+          "media_count": 245,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "ouoicy77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

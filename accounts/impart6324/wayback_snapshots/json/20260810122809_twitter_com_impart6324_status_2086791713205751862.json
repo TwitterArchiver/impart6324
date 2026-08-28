@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086791655840256000",
+        "3_2086791655827628032"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2086791713205751862",
+    "created_at": "2026-08-10T12:28:09.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086791713205751862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1gjxwvi6Q",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2086791713205751862/video/1",
+          "media_key": "13_2086791655840256000",
+          "start": 5,
+          "url": "https://t.co/Q1gjxwvi6Q"
+        },
+        {
+          "display_url": "pic.x.com/Q1gjxwvi6Q",
+          "end": 28,
+          "expanded_url": "https://x.com/impart6324/status/2086791713205751862/video/1",
+          "media_key": "3_2086791655827628032",
+          "start": 5,
+          "url": "https://t.co/Q1gjxwvi6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086791713205751862",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2086791655840256000"
+      },
+      {
+        "media_key": "3_2086791655827628032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拒绝毒品 https://t.co/Q1gjxwvi6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14487,
+        "height": 1280,
+        "media_key": "13_2086791655840256000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086791655840256000/img/3RMA_UcTCm6agX4W.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086791655840256000/vid/avc1/320x568/0jwHQmwzjXrQx0uk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086791655840256000/vid/avc1/480x852/SjE2Q5fktF_UH5eP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086791655840256000/vid/avc1/720x1280/Ifa_fXXL-S-azTz8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086791655840256000/pl/P3waUcK2rZMaoU3e.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2086791655827628032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXF9GXa4AAQrJ9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086791655840256000",
+            "3_2086791655827628032"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2086791713205751862",
+        "created_at": "2026-08-10T12:28:09.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086791713205751862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1gjxwvi6Q",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2086791713205751862/video/1",
+              "media_key": "13_2086791655840256000",
+              "start": 5,
+              "url": "https://t.co/Q1gjxwvi6Q"
+            },
+            {
+              "display_url": "pic.x.com/Q1gjxwvi6Q",
+              "end": 28,
+              "expanded_url": "https://x.com/impart6324/status/2086791713205751862/video/1",
+              "media_key": "3_2086791655827628032",
+              "start": 5,
+              "url": "https://t.co/Q1gjxwvi6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086791713205751862",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086791655840256000"
+          },
+          {
+            "media_key": "3_2086791655827628032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝毒品 https://t.co/Q1gjxwvi6Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2086791713205751862",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 507,
+          "like_count": 11595,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
