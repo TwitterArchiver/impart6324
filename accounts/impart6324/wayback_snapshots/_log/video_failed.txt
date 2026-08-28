@@ -48,14 +48,8 @@ https://video.twimg.com/amplify_video/2008343744697733120/vid/avc1/544x960/v3AGI
 https://video.twimg.com/amplify_video/2008361635056865280/vid/avc1/720x1280/_7R7oWbWYNVoasNA.mp4
 https://video.twimg.com/amplify_video/2008423967410057216/vid/avc1/720x1280/TVdCq0qi_V9OU4Me.mp4
 https://video.twimg.com/amplify_video/2008431722409660417/vid/avc1/720x1280/-eMsh1lffUALK3lr.mp4
-https://video.twimg.com/amplify_video/2008594888888049664/vid/avc1/540x960/knYB7j3BMKN3swu_.mp4
 https://video.twimg.com/amplify_video/2003394060254658560/vid/avc1/720x1280/kD1H72bHvJ-doN2F.mp4
-https://video.twimg.com/amplify_video/2008992781096669184/vid/avc1/720x1280/CEInLB9x4g9WbnsF.mp4
-https://video.twimg.com/amplify_video/2011268778584367104/vid/avc1/720x1280/IbEsncjceaMHKow_.mp4
-https://video.twimg.com/amplify_video/2010799411945746433/vid/avc1/720x1280/BkKmBotWI_ut3bYh.mp4
 https://video.twimg.com/amplify_video/2000677930591248387/vid/avc1/720x1280/1dNmbHvRat_ASWA1.mp4
-https://video.twimg.com/amplify_video/2011301139820789760/vid/avc1/720x1280/COeb5p6ilVJp9q6u.mp4
-https://video.twimg.com/amplify_video/2011670044670148608/vid/avc1/720x1280/CCvjRrZq-D39sslG.mp4
 https://video.twimg.com/amplify_video/2011810654899015680/vid/avc1/720x1280/5w6_n56fpoukfSUL.mp4
 https://video.twimg.com/amplify_video/2011738673352781824/vid/avc1/720x1280/YJwSAyQJ8yQsG5jR.mp4
 https://video.twimg.com/amplify_video/2002191786769592320/vid/avc1/720x1280/ST-Jw9qi_yXatcVj.mp4
@@ -110,3 +104,7 @@ https://video.twimg.com/amplify_video/2026308243430023168/vid/avc1/576x1024/sRYU
 https://video.twimg.com/ext_tw_video/2028909805306560513/pu/vid/avc1/1080x1258/UJmm1Prs3pwsuERp.mp4
 https://video.twimg.com/amplify_video/2073041952346636288/vid/avc1/720x1280/_INr3tUUX-so6W39.mp4
 https://video.twimg.com/amplify_video/1989687101902983168/vid/avc1/720x1280/qffXMaU92TL8z4Hw.mp4
+https://video.twimg.com/amplify_video/2087195942789459968/vid/avc1/720x1280/AdyndzrEP3aq2HqJ.mp4
+https://video.twimg.com/amplify_video/2087510009613836289/vid/avc1/688x1222/h4EAVe8tuF2IIu2L.mp4
+https://video.twimg.com/amplify_video/2087091711797518336/vid/avc1/720x1280/2Bxl3n_snldgb7RC.mp4
+https://video.twimg.com/amplify_video/2088461266650296320/vid/avc1/720x1280/mXq2-X84SZnZGKIa.mp4
