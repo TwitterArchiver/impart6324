@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099797154739142657"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2099797177879216249",
+    "created_at": "2026-09-15T09:47:14.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099797177879216249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990243522738540544",
+          "start": 0,
+          "username": "hana9226Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsYWG9AvXD",
+          "end": 50,
+          "expanded_url": "https://x.com/impart6324/status/2099797177879216249/photo/1",
+          "media_key": "3_2099797154739142657",
+          "start": 27,
+          "url": "https://t.co/UsYWG9AvXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099797177879216249",
+    "in_reply_to_user_id": "1990243522738540544",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099797154739142657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@hana9226Y 爱你老公 我俩太兴奋忘记合照了 https://t.co/UsYWG9AvXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099797154739142657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP6YxSaQAEc7MO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099797154739142657"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2099797177879216249",
+        "created_at": "2026-09-15T09:47:14.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099797177879216249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990243522738540544",
+              "start": 0,
+              "username": "hana9226Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsYWG9AvXD",
+              "end": 50,
+              "expanded_url": "https://x.com/impart6324/status/2099797177879216249/photo/1",
+              "media_key": "3_2099797154739142657",
+              "start": 27,
+              "url": "https://t.co/UsYWG9AvXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099797177879216249",
+        "in_reply_to_user_id": "1990243522738540544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099797154739142657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hana9226Y 爱你老公 我俩太兴奋忘记合照了 https://t.co/UsYWG9AvXD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2099797177879216249",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2098995909141123515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099002408672403456/or02int4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 577,
+          "like_count": 12271,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "可以叫我花9！",
+        "id": "1990243522738540544",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2092248952825696699",
+        "name": "ゆえか",
+        "pinned_tweet_id": "2036359868182044675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990243522738540544/1774949345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088302961793351680/UYW8T6EC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 444,
+          "like_count": 8888,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1114
+        },
+        "url": "",
+        "username": "hana9226Y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

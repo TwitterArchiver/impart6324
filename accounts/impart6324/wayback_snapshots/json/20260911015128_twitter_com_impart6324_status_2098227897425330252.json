@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097901462831722496"
+      ],
+      "media_source_tweet_id": [
+        "2097901466820464992"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098227897425330252",
+    "created_at": "2026-09-11T01:51:28.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098227897425330252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1055659576987537408",
+          "start": 3,
+          "username": "musuko_to"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmjlVEAHG5",
+          "end": 64,
+          "expanded_url": "https://x.com/musuko_to/status/2097901466820464992/photo/1",
+          "media_key": "3_2097901462831722496",
+          "start": 41,
+          "url": "https://t.co/lmjlVEAHG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098227897425330252",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097901462831722496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097901466820464992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musuko_to: 夫が急に動かないでって言うから何かと思ったらこれ。 https://t.co/lmjlVEAHG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2097901462831722496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0-Q-nbcAAFbxK.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097901462831722496"
+          ],
+          "media_source_tweet_id": [
+            "2097901466820464992"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098227897425330252",
+        "created_at": "2026-09-11T01:51:28.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098227897425330252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1055659576987537408",
+              "start": 3,
+              "username": "musuko_to"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmjlVEAHG5",
+              "end": 64,
+              "expanded_url": "https://x.com/musuko_to/status/2097901466820464992/photo/1",
+              "media_key": "3_2097901462831722496",
+              "start": 41,
+              "url": "https://t.co/lmjlVEAHG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098227897425330252",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097901462831722496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097901466820464992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musuko_to: 夫が急に動かないでって言うから何かと思ったらこれ。 https://t.co/lmjlVEAHG5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097901462831722496"
+          ]
+        },
+        "author_id": "1055659576987537408",
+        "conversation_id": "2097901466820464992",
+        "created_at": "2026-09-10T04:14:21.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097901466820464992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmjlVEAHG5",
+              "end": 49,
+              "expanded_url": "https://x.com/musuko_to/status/2097901466820464992/photo/1",
+              "media_key": "3_2097901462831722496",
+              "start": 26,
+              "url": "https://t.co/lmjlVEAHG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097901466820464992",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097901462831722496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3263,
+          "impression_count": 2872175,
+          "like_count": 186754,
+          "quote_count": 187,
+          "reply_count": 127,
+          "retweet_count": 4281
+        },
+        "reply_settings": "everyone",
+        "text": "夫が急に動かないでって言うから何かと思ったらこれ。 https://t.co/lmjlVEAHG5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098227897425330252",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 560,
+          "like_count": 12025,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-26T03:17:11.000Z",
+        "description": "R7.12 27w0d 1030g 生後2日目にIVH.左側グレード4右側グレード1で軽〜中等度の脳室拡大有 NICU60日→GCU55日 生後116日目に在宅酸素で退院🌱 🥚R8.10",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "room.rakuten.co.jp/room_4c3799f35…",
+                "end": 23,
+                "expanded_url": "https://room.rakuten.co.jp/room_4c3799f359/items",
+                "start": 0,
+                "url": "https://t.co/ECKUfObU64"
+              }
+            ]
+          }
+        },
+        "id": "1055659576987537408",
+        "is_identity_verified": false,
+        "location": "へやのスミス",
+        "most_recent_tweet_id": "2098227294120857882",
+        "name": "☃︎だいふく8m(-3m)+🥚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055659576987537408/1768009178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058485406577176576/5qxK5_sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 742,
+          "like_count": 245780,
+          "listed_count": 9,
+          "media_count": 5093,
+          "tweet_count": 28506
+        },
+        "url": "https://t.co/ECKUfObU64",
+        "username": "musuko_to",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

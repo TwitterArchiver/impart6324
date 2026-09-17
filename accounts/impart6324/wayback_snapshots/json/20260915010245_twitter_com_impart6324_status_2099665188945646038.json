@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2099512465780617340",
+    "created_at": "2026-09-15T01:02:45.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099665188945646038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2074174277918810112",
+          "start": 0,
+          "username": "omanam_esonihci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099665188945646038",
+    "in_reply_to_user_id": "2074174277918810112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099512465780617340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omanam_esonihci 喜欢这种感觉吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2099512465780617340",
+        "created_at": "2026-09-15T01:02:45.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099665188945646038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2074174277918810112",
+              "start": 0,
+              "username": "omanam_esonihci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099665188945646038",
+        "in_reply_to_user_id": "2074174277918810112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099512465780617340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omanam_esonihci 喜欢这种感觉吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074174277918810112",
+        "conversation_id": "2099512465780617340",
+        "created_at": "2026-09-14T14:55:53.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099512465780617340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099512465780617340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恨死你了唉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2099665188945646038",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2098995909141123515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099002408672403456/or02int4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 578,
+          "like_count": 12273,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T16:52:28.000Z",
+        "description": "性癖10割",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/versculpturelo…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/versculpturelovett11",
+                "start": 0,
+                "url": "https://t.co/MYvXugd6i2"
+              }
+            ]
+          }
+        },
+        "id": "2074174277918810112",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2099527833593012252",
+        "name": "Ø",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 94,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/MYvXugd6i2",
+        "username": "omanam_esonihci",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

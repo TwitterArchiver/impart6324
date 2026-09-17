@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098755549945004322",
+    "created_at": "2026-09-12T12:48:10.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098755549945004322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1491380352962547713",
+          "start": 3,
+          "username": "baodandashuaige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098755549945004322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077388897248784754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baodandashuaige: もし本当にお金を稼ぎたいのであればなぜファンに対してきちんと接しないのですか...？\n明らかにファンのお金こそが大きなものです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098755549945004322",
+        "created_at": "2026-09-12T12:48:10.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098755549945004322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1491380352962547713",
+              "start": 3,
+              "username": "baodandashuaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098755549945004322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077388897248784754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baodandashuaige: もし本当にお金を稼ぎたいのであればなぜファンに対してきちんと接しないのですか...？\n明らかにファンのお金こそが大きなものです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491380352962547713",
+        "conversation_id": "2077388897248784754",
+        "created_at": "2026-07-15T13:44:43.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077388897248784754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077388897248784754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "もし本当にお金を稼ぎたいのであればなぜファンに対してきちんと接しないのですか...？\n明らかにファンのお金こそが大きなものです"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098755549945004322",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 571,
+          "like_count": 12179,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-09T11:56:12.000Z",
+        "description": "20⬆️/🔝井出叶💚/松本かれん👼🏻🎀🤍/早瀬ノエル👼🏻💛/奥田彩友🐟💙/中國語🆗/日本語/韓国語勉強中⋯ 無言フォロー失礼します🙇 #松本かれん #早瀬ノエル #奥田彩友 #井出叶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "松本かれん"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "早瀬ノエル"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "奥田彩友"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "井出叶"
+              }
+            ]
+          }
+        },
+        "id": "1491380352962547713",
+        "is_identity_verified": false,
+        "location": "ふわふわ天堂",
+        "most_recent_tweet_id": "2098650400916410792",
+        "name": "バナナ💚👼🏻🎀🤍👼🏻💛🐟💙",
+        "pinned_tweet_id": "1868558052259209586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491380352962547713/1742022483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067935287574188032/-6E1h7iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 444,
+          "like_count": 15947,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 1707
+        },
+        "url": "",
+        "username": "baodandashuaige",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

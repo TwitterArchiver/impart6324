@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098232332528619520"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098232340292231595",
+    "created_at": "2026-09-11T02:09:07.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098232340292231595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfgD00KK8T",
+          "end": 23,
+          "expanded_url": "https://x.com/impart6324/status/2098232340292231595/photo/1",
+          "media_key": "3_2098232332528619520",
+          "start": 0,
+          "url": "https://t.co/PfgD00KK8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098232340292231595",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2098232332528619520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PfgD00KK8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2098232332528619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5rMISbkAAoJ3a.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098232332528619520"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098232340292231595",
+        "created_at": "2026-09-11T02:09:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098232340292231595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfgD00KK8T",
+              "end": 23,
+              "expanded_url": "https://x.com/impart6324/status/2098232340292231595/photo/1",
+              "media_key": "3_2098232332528619520",
+              "start": 0,
+              "url": "https://t.co/PfgD00KK8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098232340292231595",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098232332528619520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PfgD00KK8T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098232340292231595",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 560,
+          "like_count": 12026,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

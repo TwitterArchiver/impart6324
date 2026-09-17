@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098239928589337026",
+    "created_at": "2026-09-11T04:07:31.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098262134434259260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "fxxkXXww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098262134434259260",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098239928589337026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxxkXXww 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098239928589337026",
+        "created_at": "2026-09-11T04:07:31.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098262134434259260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "fxxkXXww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098262134434259260",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098239928589337026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxxkXXww 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921588381844467712",
+        "conversation_id": "2098239928589337026",
+        "created_at": "2026-09-11T02:39:17.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098239928589337026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098239928589337026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚多吃了一颗思诺思然后看主播打游戏，内幻爽死了，闭着眼睛也能看见画面，在脑子里听见直播声音，又看见有人站在我脚下，啊哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098262134434259260",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 562,
+          "like_count": 12025,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "我是个又肥又丑又穷的外星人",
+        "id": "1921588381844467712",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2098240089092755922",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2097673239443161202",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921588381844467712/1765768113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097379062612418560/MuO9b5aD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 154,
+          "like_count": 10500,
+          "listed_count": 8,
+          "media_count": 134,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "fxxkXXww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

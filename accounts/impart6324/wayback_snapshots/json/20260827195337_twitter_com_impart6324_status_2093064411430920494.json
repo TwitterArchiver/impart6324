@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092817428426448896"
+      ],
+      "media_source_tweet_id": [
+        "2092819006470398348"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2093064411430920494",
+    "created_at": "2026-08-27T19:53:37.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093064411430920494"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 35,
+          "tag": "iLife元オタ芸部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982228037717512193",
+          "start": 3,
+          "username": "iLife_konoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1HqIAHoNL",
+          "end": 70,
+          "expanded_url": "https://x.com/iLife_konoka/status/2092819006470398348/video/1",
+          "media_key": "13_2092817428426448896",
+          "start": 47,
+          "url": "https://t.co/g1HqIAHoNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093064411430920494",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2092817428426448896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092819006470398348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iLife_konoka: アイスタといえばナマステスネーク\n#iLife元オタ芸部 https://t.co/g1HqIAHoNL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29491,
+        "height": 2160,
+        "media_key": "13_2092817428426448896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092817428426448896/img/ATwvgZCO7Tj_wAaP.jpg",
+        "public_metrics": {
+          "view_count": 5559
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/vid/avc1/3840x2160/qQlvKmzUK05u5Y28.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/vid/avc1/1920x1080/n8_F33simPlPFfzW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/pl/TEkap0gF0QCKrmqb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/vid/avc1/640x360/SB2s8avQpmDkoLAn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/vid/avc1/1280x720/3bH5kd6D9364KwVP.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092817428426448896/vid/avc1/480x270/dfwyXogpVmL-M7sr.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092817428426448896"
+          ],
+          "media_source_tweet_id": [
+            "2092819006470398348"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2093064411430920494",
+        "created_at": "2026-08-27T19:53:37.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093064411430920494"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "iLife元オタ芸部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982228037717512193",
+              "start": 3,
+              "username": "iLife_konoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1HqIAHoNL",
+              "end": 70,
+              "expanded_url": "https://x.com/iLife_konoka/status/2092819006470398348/video/1",
+              "media_key": "13_2092817428426448896",
+              "start": 47,
+              "url": "https://t.co/g1HqIAHoNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093064411430920494",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092817428426448896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092819006470398348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iLife_konoka: アイスタといえばナマステスネーク\n#iLife元オタ芸部 https://t.co/g1HqIAHoNL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092817428426448896"
+          ]
+        },
+        "author_id": "982228037717512193",
+        "conversation_id": "2092819006470398348",
+        "created_at": "2026-08-27T03:38:28.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:33:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092817686984327218",
+          "2092819006470398348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "iLife元オタ芸部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1HqIAHoNL",
+              "end": 52,
+              "expanded_url": "https://x.com/iLife_konoka/status/2092819006470398348/video/1",
+              "media_key": "13_2092817428426448896",
+              "start": 29,
+              "url": "https://t.co/g1HqIAHoNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092819006470398348",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092817428426448896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 16722,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "アイスタといえばナマステスネーク\n#iLife元オタ芸部 https://t.co/g1HqIAHoNL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2093064411430920494",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 521,
+          "like_count": 11768,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-06T12:06:27.000Z",
+        "description": "",
+        "id": "982228037717512193",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092819006470398348",
+        "name": "ここあくん",
+        "pinned_tweet_id": "1984259345920700841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/982228037717512193/1764337687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969746668854902785/zxyWi5KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 647,
+          "like_count": 4880,
+          "listed_count": 10,
+          "media_count": 322,
+          "tweet_count": 3429
+        },
+        "url": "",
+        "username": "iLife_konoka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

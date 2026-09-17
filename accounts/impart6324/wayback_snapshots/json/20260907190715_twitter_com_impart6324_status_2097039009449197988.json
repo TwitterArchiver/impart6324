@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097038989287157760",
+        "3_2097038989396193281",
+        "3_2097038990809686016",
+        "3_2097038989274542080"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2097039009449197988",
+    "created_at": "2026-09-07T19:07:15.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097039009449197988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/noQrjTOYfK",
+          "end": 174,
+          "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+          "media_key": "3_2097038989287157760",
+          "start": 151,
+          "url": "https://t.co/noQrjTOYfK"
+        },
+        {
+          "display_url": "pic.x.com/noQrjTOYfK",
+          "end": 174,
+          "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+          "media_key": "3_2097038989396193281",
+          "start": 151,
+          "url": "https://t.co/noQrjTOYfK"
+        },
+        {
+          "display_url": "pic.x.com/noQrjTOYfK",
+          "end": 174,
+          "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+          "media_key": "3_2097038990809686016",
+          "start": 151,
+          "url": "https://t.co/noQrjTOYfK"
+        },
+        {
+          "display_url": "pic.x.com/noQrjTOYfK",
+          "end": 174,
+          "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+          "media_key": "3_2097038989274542080",
+          "start": 151,
+          "url": "https://t.co/noQrjTOYfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097039009449197988",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097038989287157760"
+      },
+      {
+        "media_key": "3_2097038989396193281"
+      },
+      {
+        "media_key": "3_2097038990809686016"
+      },
+      {
+        "media_key": "3_2097038989274542080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 死妈杂种你全家死绝了你专门卖你爹和你妈的最后一口气呢3.25老子买一把刀 一刀砍死你这个臭蠢逼弱智你让老子你是哪里的我立马在你家放个炸弹给你这傻逼炸死 像你这种自己傻逼祸害别人的最该死 老子拿十根浓缩黑人鸡吧一插给你操晕 建议你下次去跟医生说自己全家死了让他给你开点水银吃 https://t.co/noQrjTOYfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097038989287157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRot2aSa8AALpil.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097038989396193281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRot2asasAEiRdN.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097038990809686016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRot2f9a4AAIkrD.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097038989274542080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRot2aPacAA2QzH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097038989287157760",
+            "3_2097038989396193281",
+            "3_2097038990809686016",
+            "3_2097038989274542080"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2097039009449197988",
+        "created_at": "2026-09-07T19:07:15.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097039009449197988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noQrjTOYfK",
+              "end": 174,
+              "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+              "media_key": "3_2097038989287157760",
+              "start": 151,
+              "url": "https://t.co/noQrjTOYfK"
+            },
+            {
+              "display_url": "pic.x.com/noQrjTOYfK",
+              "end": 174,
+              "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+              "media_key": "3_2097038989396193281",
+              "start": 151,
+              "url": "https://t.co/noQrjTOYfK"
+            },
+            {
+              "display_url": "pic.x.com/noQrjTOYfK",
+              "end": 174,
+              "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+              "media_key": "3_2097038990809686016",
+              "start": 151,
+              "url": "https://t.co/noQrjTOYfK"
+            },
+            {
+              "display_url": "pic.x.com/noQrjTOYfK",
+              "end": 174,
+              "expanded_url": "https://x.com/impart6324/status/2097039009449197988/photo/1",
+              "media_key": "3_2097038989274542080",
+              "start": 151,
+              "url": "https://t.co/noQrjTOYfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097039009449197988",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097038989287157760"
+          },
+          {
+            "media_key": "3_2097038989396193281"
+          },
+          {
+            "media_key": "3_2097038990809686016"
+          },
+          {
+            "media_key": "3_2097038989274542080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 死妈杂种你全家死绝了你专门卖你爹和你妈的最后一口气呢3.25老子买一把刀 一刀砍死你这个臭蠢逼弱智你让老子你是哪里的我立马在你家放个炸弹给你这傻逼炸死 像你这种自己傻逼祸害别人的最该死 老子拿十根浓缩黑人鸡吧一插给你操晕 建议你下次去跟医生说自己全家死了让他给你开点水银吃 https://t.co/noQrjTOYfK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2097039009449197988",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 533,
+          "like_count": 11905,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097019353573237134",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1229,
+          "like_count": 21352,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12102
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

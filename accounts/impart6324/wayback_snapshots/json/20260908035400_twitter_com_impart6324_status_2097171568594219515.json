@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2011172987928797550",
+    "created_at": "2026-09-08T03:54:00.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097171568594219515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1564927091660824577",
+          "start": 0,
+          "username": "finalrain_24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097171568594219515",
+    "in_reply_to_user_id": "1564927091660824577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011172987928797550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finalrain_24 幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2011172987928797550",
+        "created_at": "2026-09-08T03:54:00.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097171568594219515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1564927091660824577",
+              "start": 0,
+              "username": "finalrain_24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097171568594219515",
+        "in_reply_to_user_id": "1564927091660824577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011172987928797550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finalrain_24 幽默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564927091660824577",
+        "conversation_id": "2011172987928797550",
+        "created_at": "2026-01-13T20:26:20.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-01-13T21:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011172987928797550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011172987928797550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 676,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话 虽然我讨厌东北狗。但是比如说看什么悬疑解说动漫解说，还真得东北狗来，没那口音不亲切😁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2097171568594219515",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2097149858121764891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 536,
+          "like_count": 11941,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-31T10:44:37.000Z",
+        "description": "final",
+        "id": "1564927091660824577",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096654281793536122",
+        "name": "amemiya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1564927091660824577/1714769779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564927131280322560/y-IlM-TH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 1098,
+          "like_count": 9113,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "finalrain_24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

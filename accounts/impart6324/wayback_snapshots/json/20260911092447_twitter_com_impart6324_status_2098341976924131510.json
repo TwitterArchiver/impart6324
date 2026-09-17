@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098051886918340848",
+    "created_at": "2026-09-11T09:24:47.000Z",
+    "display_text_range": [
+      28,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098341976924131510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823428965773795329",
+          "start": 0,
+          "username": "mianmianmian0"
+        },
+        {
+          "end": 27,
+          "id": "1782990236836089856",
+          "start": 15,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098341976924131510",
+    "in_reply_to_user_id": "1823428965773795329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098052117579829354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianmianmian0 @lilllllli1i 恶心死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098051886918340848",
+        "created_at": "2026-09-11T09:24:47.000Z",
+        "display_text_range": [
+          28,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098341976924131510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823428965773795329",
+              "start": 0,
+              "username": "mianmianmian0"
+            },
+            {
+              "end": 27,
+              "id": "1782990236836089856",
+              "start": 15,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098341976924131510",
+        "in_reply_to_user_id": "1823428965773795329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098052117579829354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianmianmian0 @lilllllli1i 恶心死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823428965773795329",
+        "conversation_id": "2098051886918340848",
+        "created_at": "2026-09-10T14:12:59.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098052117579829354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782990236836089856",
+              "start": 0,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098052117579829354",
+        "in_reply_to_user_id": "1782990236836089856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098051886918340848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilllllli1i 我："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098341976924131510",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 566,
+          "like_count": 12060,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "日月掷人去",
+        "id": "1823428965773795329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098296536979648733",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823428965773795329/1731584029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084696967716978688/TXtfZskO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 199,
+          "like_count": 16633,
+          "listed_count": 0,
+          "media_count": 828,
+          "tweet_count": 10816
+        },
+        "url": "",
+        "username": "mianmianmian0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "让你不爽的事我全干了｜精力不足延迟回复真的抱歉｜请不要关注我谢谢",
+        "id": "1782990236836089856",
+        "is_identity_verified": false,
+        "location": "不要回应",
+        "most_recent_tweet_id": "2098321339937640958",
+        "name": "我变猪的那个夏天",
+        "pinned_tweet_id": "2077042237847056507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782990236836089856/1786155071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096630156500836353/3WeyzXtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 385,
+          "like_count": 26074,
+          "listed_count": 27,
+          "media_count": 453,
+          "tweet_count": 5293
+        },
+        "url": "",
+        "username": "lilllllli1i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

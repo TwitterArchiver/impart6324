@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098640098380435859",
+    "created_at": "2026-09-12T05:10:09.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098640284309651807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910758063453462528",
+          "start": 0,
+          "username": "fuckisalone8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098640284309651807",
+    "in_reply_to_user_id": "1910758063453462528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098640098380435859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckisalone8964 好久没看到你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098640098380435859",
+        "created_at": "2026-09-12T05:10:09.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098640284309651807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910758063453462528",
+              "start": 0,
+              "username": "fuckisalone8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098640284309651807",
+        "in_reply_to_user_id": "1910758063453462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098640098380435859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckisalone8964 好久没看到你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910758063453462528",
+        "conversation_id": "2098640098380435859",
+        "created_at": "2026-09-12T05:09:24.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098640098380435859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098640098380435859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么笑死了，在一个帖子下面说不喜欢白人被两个人质问了，其实我就是不喜欢白人，吗的不管男的女的在社交媒体上都特别傲慢，每次有种族主义的事一出来就开始虚伪的献媚，急于摆脱种族主义的身份，其实太虚伪了，从他们说的话就能听出来在他们心里自己还是那个最优等的肤色，真傻逼😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098640284309651807",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 572,
+          "like_count": 12136,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T18:13:29.000Z",
+        "description": "喰爱女，世界上有另一个自己\n一起互fo吧！",
+        "id": "1910758063453462528",
+        "is_identity_verified": false,
+        "location": "𝕻𝖆𝖎𝖓 𝖎𝖘 𝖋𝖔𝖗𝖊𝖛𝖊𝖗 ",
+        "most_recent_tweet_id": "2098640098380435859",
+        "name": "操纵欲",
+        "pinned_tweet_id": "2058055219230162958",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910758063453462528/1769960542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052769101605670912/97NSf03T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 158,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "fuckisalone8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

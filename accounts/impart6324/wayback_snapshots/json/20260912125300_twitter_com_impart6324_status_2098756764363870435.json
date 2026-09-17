@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2098756764363870435",
+    "created_at": "2026-09-12T12:53:00.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098756764363870435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/idolnumaniki/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/idolnumaniki/status/2098300311802986957",
+          "start": 6,
+          "url": "https://t.co/arzEMJlKcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098756764363870435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098300311802986957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日你妈野榜 https://t.co/arzEMJlKcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2098300307822546944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6pAz_bEAAR3zC.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2098756764363870435",
+        "created_at": "2026-09-12T12:53:00.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098756764363870435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/idolnumaniki/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/idolnumaniki/status/2098300311802986957",
+              "start": 6,
+              "url": "https://t.co/arzEMJlKcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098756764363870435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098300311802986957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日你妈野榜 https://t.co/arzEMJlKcU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098300307822546944"
+          ]
+        },
+        "author_id": "1316207312005025792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2098300311802986957",
+        "created_at": "2026-09-11T06:39:13.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098300311802986957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3a9qYjVOh",
+              "end": 99,
+              "expanded_url": "https://x.com/idolnumaniki/status/2098300311802986957/photo/1",
+              "media_key": "3_2098300307822546944",
+              "start": 76,
+              "url": "https://t.co/e3a9qYjVOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098300311802986957",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098300307822546944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 661617,
+          "like_count": 2494,
+          "quote_count": 588,
+          "reply_count": 68,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "100人のアイドルオタクに聞いた\n\n「これから期待できる\n地下アイドルTier表」\n\nあなたの推しは\n入ってますか？👀\n\n異論はめちゃくちゃ認めます😂 https://t.co/e3a9qYjVOh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098756764363870435",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 571,
+          "like_count": 12179,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-14T02:41:11.000Z",
+        "description": "−ライバー事務所イズニート所属−  地下~メジャーアイドルまですべてのアイドルを研究中 全アイドルオタクに寄り添う配信者「✉️アイドル紹介・PRのご依頼はDMまで」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hP4PSAcRq",
+                "end": 23,
+                "expanded_url": "https://discord.gg/hP4PSAcRq",
+                "start": 0,
+                "url": "https://t.co/AYcNVpqAiR"
+              }
+            ]
+          }
+        },
+        "id": "1316207312005025792",
+        "is_identity_verified": false,
+        "location": "　",
+        "most_recent_tweet_id": "2098744093665038491",
+        "name": "アイドル沼ニキ",
+        "pinned_tweet_id": "2067455283811778677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316207312005025792/1784831790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853711205153853440/qWZkfXpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 750,
+          "like_count": 15103,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 5400
+        },
+        "url": "https://t.co/AYcNVpqAiR",
+        "username": "idolnumaniki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

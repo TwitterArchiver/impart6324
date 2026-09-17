@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098679713632006144",
+        "3_2098679713627865089"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2098670044515578325",
+    "created_at": "2026-09-12T07:46:51.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098679720032497822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766669368396574720",
+          "start": 0,
+          "username": "kanono167"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HB3w114DLO",
+          "end": 39,
+          "expanded_url": "https://x.com/impart6324/status/2098679720032497822/photo/1",
+          "media_key": "3_2098679713632006144",
+          "start": 16,
+          "url": "https://t.co/HB3w114DLO"
+        },
+        {
+          "display_url": "pic.x.com/HB3w114DLO",
+          "end": 39,
+          "expanded_url": "https://x.com/impart6324/status/2098679720032497822/photo/1",
+          "media_key": "3_2098679713627865089",
+          "start": 16,
+          "url": "https://t.co/HB3w114DLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098679720032497822",
+    "in_reply_to_user_id": "1766669368396574720",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098679713632006144"
+      },
+      {
+        "media_key": "3_2098679713627865089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098679022150730094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanono167 她好可爱 https://t.co/HB3w114DLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098679713632006144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSACFIxasAA7nVa.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098679713627865089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSACFIwbgAE6rGp.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098679713632006144",
+            "3_2098679713627865089"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2098670044515578325",
+        "created_at": "2026-09-12T07:46:51.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098679720032497822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766669368396574720",
+              "start": 0,
+              "username": "kanono167"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HB3w114DLO",
+              "end": 39,
+              "expanded_url": "https://x.com/impart6324/status/2098679720032497822/photo/1",
+              "media_key": "3_2098679713632006144",
+              "start": 16,
+              "url": "https://t.co/HB3w114DLO"
+            },
+            {
+              "display_url": "pic.x.com/HB3w114DLO",
+              "end": 39,
+              "expanded_url": "https://x.com/impart6324/status/2098679720032497822/photo/1",
+              "media_key": "3_2098679713627865089",
+              "start": 16,
+              "url": "https://t.co/HB3w114DLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098679720032497822",
+        "in_reply_to_user_id": "1766669368396574720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098679713632006144"
+          },
+          {
+            "media_key": "3_2098679713627865089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098679022150730094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanono167 她好可爱 https://t.co/HB3w114DLO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766669368396574720",
+        "conversation_id": "2098670044515578325",
+        "created_at": "2026-09-12T07:44:05.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098679022150730094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597065444136919040",
+              "start": 0,
+              "username": "impart6324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098679022150730094",
+        "in_reply_to_user_id": "1766669368396574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098678955046039809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@impart6324 时光的河入海流"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2098679720032497822",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 572,
+          "like_count": 12150,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ\n好闺蜜@Reiaki114\n只是一个外星人👽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "Reiaki114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "is_identity_verified": false,
+        "location": "外星🛜",
+        "most_recent_tweet_id": "2098679022150730094",
+        "name": "クリップ",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766669368396574720/1788881631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098356986073206784/Oz7Za0fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 569,
+          "like_count": 5080,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

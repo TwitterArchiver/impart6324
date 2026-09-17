@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597065444136919040",
+    "conversation_id": "2097905130532413476",
+    "created_at": "2026-09-10T04:57:19.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097912278326927370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929014356811067398",
+          "start": 0,
+          "username": "nidiemasile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097912278326927370",
+    "in_reply_to_user_id": "1929014356811067398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097905130532413476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nidiemasile 闹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097905120101244928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1Bl3AboAAXDcS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597065444136919040",
+        "conversation_id": "2097905130532413476",
+        "created_at": "2026-09-10T04:57:19.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097912278326927370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929014356811067398",
+              "start": 0,
+              "username": "nidiemasile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097912278326927370",
+        "in_reply_to_user_id": "1929014356811067398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097905130532413476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nidiemasile 闹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097905120101244928"
+          ]
+        },
+        "author_id": "1929014356811067398",
+        "conversation_id": "2097905130532413476",
+        "created_at": "2026-09-10T04:28:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097905130532413476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mdRMxhgZo",
+              "end": 23,
+              "expanded_url": "https://x.com/nidiemasile/status/2097905130532413476/photo/1",
+              "media_key": "3_2097905120101244928",
+              "start": 0,
+              "url": "https://t.co/9mdRMxhgZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097905130532413476",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097905120101244928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9mdRMxhgZo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2097912278326927370",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2084598364579250226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 554,
+          "like_count": 11997,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-01T03:17:25.000Z",
+        "description": "一个可爱女孩子 我有老公了你们懂我意思了没🙄",
+        "id": "1929014356811067398",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097905130532413476",
+        "name": "重生之我是傻逼",
+        "pinned_tweet_id": "1932300985202028790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929014356811067398/1748749051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939150073054568448/TNCN3MIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 56,
+          "like_count": 8324,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "nidiemasile",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

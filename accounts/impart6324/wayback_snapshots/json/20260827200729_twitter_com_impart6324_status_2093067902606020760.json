@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080132474496225280"
+      ],
+      "media_source_tweet_id": [
+        "2080132770165358936"
+      ]
+    },
+    "author_id": "1597065444136919040",
+    "conversation_id": "2093067902606020760",
+    "created_at": "2026-08-27T20:07:29.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093067902606020760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2008575819401359363",
+          "start": 3,
+          "username": "sanochannohige"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZPLgEfH5P",
+          "end": 60,
+          "expanded_url": "https://x.com/2m4a0s8a/status/2080132770165358936/video/1",
+          "media_key": "13_2080132474496225280",
+          "start": 37,
+          "url": "https://t.co/UZPLgEfH5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093067902606020760",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2080132474496225280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090093370995773735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanochannohige: ハッピー世界のサビでこれいれたい https://t.co/UZPLgEfH5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54984,
+        "height": 720,
+        "media_key": "13_2080132474496225280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080132474496225280/img/gx6rAtOCYkaYTiT4.jpg",
+        "public_metrics": {
+          "view_count": 32919
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132474496225280/vid/avc1/480x270/JGpveGAUB_2Sn0H_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132474496225280/vid/avc1/640x360/U-GqvWoVdoRyeGyT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080132474496225280/vid/avc1/1280x720/ykmeXk8OYbI_BVwo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080132474496225280/pl/i9m0qhlXwDjGUmbt.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080132474496225280"
+          ],
+          "media_source_tweet_id": [
+            "2080132770165358936"
+          ]
+        },
+        "author_id": "1597065444136919040",
+        "conversation_id": "2093067902606020760",
+        "created_at": "2026-08-27T20:07:29.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093067902606020760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2008575819401359363",
+              "start": 3,
+              "username": "sanochannohige"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZPLgEfH5P",
+              "end": 60,
+              "expanded_url": "https://x.com/2m4a0s8a/status/2080132770165358936/video/1",
+              "media_key": "13_2080132474496225280",
+              "start": 37,
+              "url": "https://t.co/UZPLgEfH5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093067902606020760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2080132474496225280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090093370995773735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanochannohige: ハッピー世界のサビでこれいれたい https://t.co/UZPLgEfH5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080132474496225280"
+          ],
+          "media_source_tweet_id": [
+            "2080132770165358936"
+          ]
+        },
+        "author_id": "2008575819401359363",
+        "conversation_id": "2090093370995773735",
+        "created_at": "2026-08-19T15:07:46.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090093370995773735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZPLgEfH5P",
+              "end": 40,
+              "expanded_url": "https://x.com/2m4a0s8a/status/2080132770165358936/video/1",
+              "media_key": "13_2080132474496225280",
+              "start": 17,
+              "url": "https://t.co/UZPLgEfH5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090093370995773735",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2080132474496225280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 32440,
+          "like_count": 235,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "ハッピー世界のサビでこれいれたい https://t.co/UZPLgEfH5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080132474496225280"
+          ]
+        },
+        "author_id": "1940667812",
+        "conversation_id": "2080132770165358936",
+        "created_at": "2026-07-23T03:27:54.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080132770165358936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QluakPwqO",
+              "end": 48,
+              "expanded_url": "https://x.com/2m4a0s8a/status/2080132770165358936/video/1",
+              "media_key": "13_2080132474496225280",
+              "start": 25,
+              "url": "https://t.co/7QluakPwqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080132770165358936",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2080132474496225280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 125192,
+          "like_count": 292,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "サークルの広げ方\n※さわげ！うたげーしょん！より https://t.co/7QluakPwqO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T03:10:58.000Z",
+        "description": "民間自主語音藝術家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i56138",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i56138",
+                "start": 0,
+                "url": "https://t.co/39KaDGCOi4"
+              }
+            ]
+          }
+        },
+        "id": "1597065444136919040",
+        "is_identity_verified": false,
+        "location": "有限會社 K&A プランニング",
+        "most_recent_tweet_id": "2093067902606020760",
+        "name": "Pluviophile",
+        "pinned_tweet_id": "2052765141750665707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597065444136919040/1778326844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084690348589355009/JtQ5qfIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 522,
+          "like_count": 11769,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/39KaDGCOi4",
+        "username": "impart6324",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T16:26:21.000Z",
+        "description": "次の現場 10/31.11/1\n佐野愛花一筋@aika_cs1126\nFC年額 男 きゅーてすと相互\nUtaGe!ハマり中\nバイト禁オタク",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "aika_cs1126"
+              }
+            ]
+          }
+        },
+        "id": "2008575819401359363",
+        "is_identity_verified": false,
+        "location": "大阪",
+        "most_recent_tweet_id": "2092902511959220273",
+        "name": "はるちゃん（愛花命名）（09/Osaka）",
+        "pinned_tweet_id": "2052381447126974564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008575819401359363/1778075784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051972517238374401/hkArNwKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 485,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "sanochannohige",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
